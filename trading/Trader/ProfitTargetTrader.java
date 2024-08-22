@@ -40,7 +40,7 @@ class ProfitTargetTrader implements LiveHandler,
         , ApiController.IAccountSummaryHandler {
 
     private static volatile double AVAILABLE_CASH = 0.0;
-    private static final double DELTA_TOTAL_LIMIT = 200000;
+    private static final double DELTA_TOTAL_LIMIT = 127000;
     //    private static final double DELTA_LIMIT_EACH = DELTA_TOTAL_LIMIT / 3.0;
     private static final double CURRENT_REFILL_N = 2.0; //refill times now due to limited delta
     private static final double IDEAL_REFILL_N = 20.0; //ideally how many times to refill
@@ -528,10 +528,11 @@ class ProfitTargetTrader implements LiveHandler,
     @Override
     public void handlePrice(TickType tt, Contract ct, double price, LocalDateTime t) {
         String symb = ibContractToSymbol(ct);
+        pr("handle price:", tt, symb, price, t);
 
         switch (tt) {
             case LAST:
-//                pr(t.format(Hmmss), "last p:", symb, price);
+                pr(t.format(Hmmss), "last p:", symb, price);
                 px.put(symb, price);
                 liveData.get(symb).put(t, price);
                 lastPxTimestamp.put(symb, getESTDateTimeNow());

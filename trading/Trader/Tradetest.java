@@ -56,8 +56,8 @@ public class Tradetest implements LiveHandler {
         }
 
         es.schedule(() -> {
-            pr("Position end: requesting live:", "LTRPA");
-            req1ContractLive(apiController, generateUSStockContract("LTRPA")
+            pr("Position end: requesting live:", "WMT");
+            req1ContractLive(apiController, generateUSStockContract("WMT")
                     , this, false);
         }, 2L, TimeUnit.SECONDS);
     }
