@@ -27,7 +27,7 @@ public class Tradetest implements LiveHandler {
     public static final int PORT_TO_USE = GATEWAY_PORT;
 
     //    static Contract tencent = generateHKStockContract("700");
-    static Contract wmt = generateUSStockContract("WMT");
+    static Contract stockToTry = generateUSStockContract("NVDA");
 
 //
 //    private Tradetest() {
@@ -56,9 +56,8 @@ public class Tradetest implements LiveHandler {
         }
 
         es.schedule(() -> {
-            pr("Position end: requesting live:", "WMT");
-            req1ContractLive(apiController, generateUSStockContract("WMT")
-                    , this, false);
+            pr("Position end: requesting live:");
+            req1ContractLive(apiController, stockToTry, this, false);
         }, 2L, TimeUnit.SECONDS);
     }
 
