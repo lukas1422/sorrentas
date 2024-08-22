@@ -24,10 +24,10 @@ public class Tradetest implements LiveHandler {
 
     public static final int GATEWAY_PORT = 4001;
     public static final int TWS_PORT = 7496;
-    public static final int PORT_TO_USE = GATEWAY_PORT;
+    public static final int PORT_TO_USE = TWS_PORT;
 
     //    static Contract tencent = generateHKStockContract("700");
-    static Contract stockToTry = generateUSStockContract("NVDA");
+    static Contract stockToTry = generateUSStockContract("WMT");
 
 //
 //    private Tradetest() {
@@ -44,7 +44,7 @@ public class Tradetest implements LiveHandler {
         try {
             ap.connect("127.0.0.1", PORT_TO_USE, 6, "");
             l.countDown();
-            pr(" Latch counted down 4001 " + getESTDateTimeNow().format(MdHmm));
+            pr(" Latch counted down " + PORT_TO_USE + " " + getESTDateTimeNow().format(MdHmm));
         } catch (IllegalStateException ex) {
             pr(" illegal state exception caught ", ex);
         }
@@ -56,7 +56,7 @@ public class Tradetest implements LiveHandler {
         }
 
         es.schedule(() -> {
-            pr("Position end: requesting live:");
+            pr("Position end: requesting live:", ibContractToSymbol(stockToTry));
             req1ContractLive(apiController, stockToTry, this, false);
         }, 2L, TimeUnit.SECONDS);
     }

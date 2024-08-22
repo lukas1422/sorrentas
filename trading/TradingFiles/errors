@@ -17819,3 +17819,8 @@ commission report issue tradekey:00013669.66ca7594.01 report:ID:00013669.66ca759
 *openOrder* Error 8-22 9:41 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
 *openOrder* Error 8-22 9:41 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
 *openOrder* Error 8-22 9:48 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 8-22 18:32 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 8-22 18:32 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 8-22 18:33 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 8-22 18:33 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 8-22 18:33 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
