@@ -27,12 +27,8 @@ public class Tradetest implements LiveHandler {
     public static final int PORT_TO_USE = GATEWAY_PORT;
 
     //    static Contract tencent = generateHKStockContract("700");
-    static Contract stockToTry = generateUSStockContract("NVDA");
+    static Contract stockToTry = generateUSStockContract("WMT");
 
-//
-//    private Tradetest() {
-////        registerContractAll(wmt);
-//    }
 
     private void connectAndReqPos() {
         ApiController ap = new ApiController(new DefaultConnectionHandler(),
@@ -56,8 +52,8 @@ public class Tradetest implements LiveHandler {
         }
 
         CompletableFuture.runAsync(() -> reqHistDayData(apiController, 100,
-                stockToTry, (c, date, open, high, low, close, volume) ->
-                        pr("high:" + high), () -> pr(""),
+                stockToTry, (c, date, open, high, low, close, volume) -> pr("close:" + close)
+                , () -> pr(""),
                 2, Types.BarSize._1_min));
 
         es.schedule(() -> {
@@ -117,6 +113,7 @@ public class Tradetest implements LiveHandler {
     public static void main(String[] args) {
         Tradetest test1 = new Tradetest();
         test1.connectAndReqPos();
+
         //pr("trade key exec map", getSessionMasterTradeID());
 //        testTrade(wmt, 50, getESTLocalDateTimeNow(), Decimal.get(1));
 //        es.schedule(() -> testTrade(wmt, 100, getESTLocalDateTimeNow(), Decimal.get(1)), 10L, TimeUnit.SECONDS);
