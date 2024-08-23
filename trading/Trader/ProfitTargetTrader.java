@@ -528,7 +528,7 @@ class ProfitTargetTrader implements LiveHandler,
     @Override
     public void handlePrice(TickType tt, Contract ct, double price, LocalDateTime t) {
         String symb = ibContractToSymbol(ct);
-        pr("handle price:", tt, symb, price, t);
+//        pr("handle price:", tt, symb, price, t);
 
         switch (tt) {
             case LAST:

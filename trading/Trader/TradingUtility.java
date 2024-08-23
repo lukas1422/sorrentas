@@ -462,11 +462,13 @@ public class TradingUtility {
         return ct;
     }
 
-    public static void req1ContractLive(ApiController ap, Contract ct, LiveHandler handler, boolean snapshot) {
+    public static void req1ContractLive(ApiController ap, Contract ct,
+                                        LiveHandler handler, boolean snapshot) {
         int reqId = ControllerCalls.getNextId();
         Allstatic.globalRequestMap.put(reqId, new Request(ct, handler));
         ap.client().reqMktData(reqId, ct, "", snapshot, regulatorySnapshot,
                 Collections.<TagValue>emptyList());
+        pr("req1contract live complete");
     }
 
     public static void getHistoricalCustom(ApiController ap, int reqId, Contract c,

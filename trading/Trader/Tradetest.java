@@ -24,10 +24,10 @@ public class Tradetest implements LiveHandler {
 
     public static final int GATEWAY_PORT = 4001;
     public static final int TWS_PORT = 7496;
-    public static final int PORT_TO_USE = TWS_PORT;
+    public static final int PORT_TO_USE = GATEWAY_PORT;
 
     //    static Contract tencent = generateHKStockContract("700");
-    static Contract stockToTry = generateUSStockContract("WMT");
+    static Contract stockToTry = generateUSStockContract("NVDA");
 
 //
 //    private Tradetest() {
@@ -42,7 +42,7 @@ public class Tradetest implements LiveHandler {
 
 
         try {
-            ap.connect("127.0.0.1", PORT_TO_USE, 6, "");
+            ap.connect("127.0.0.1", PORT_TO_USE, 7, "");
             l.countDown();
             pr(" Latch counted down " + PORT_TO_USE + " " + getESTDateTimeNow().format(MdHmm));
         } catch (IllegalStateException ex) {
@@ -55,8 +55,13 @@ public class Tradetest implements LiveHandler {
             outputToGeneral("error in connection:", e);
         }
 
+        CompletableFuture.runAsync(() -> reqHistDayData(apiController, 100,
+                stockToTry, (c, date, open, high, low, close, volume) ->
+                        pr("high:" + high), () -> pr(""),
+                2, Types.BarSize._1_min));
+
         es.schedule(() -> {
-            pr("Position end: requesting live:", ibContractToSymbol(stockToTry));
+            pr("requesting live:", ibContractToSymbol(stockToTry));
             req1ContractLive(apiController, stockToTry, this, false);
         }, 2L, TimeUnit.SECONDS);
     }
@@ -65,6 +70,8 @@ public class Tradetest implements LiveHandler {
     @Override
     public void handlePrice(TickType tt, Contract ct, double price, LocalDateTime t) {
         String symb = ibContractToSymbol(ct);
+        pr("handle price:", tt, symb, price, t);
+
 
         switch (tt) {
             case LAST:
@@ -72,11 +79,9 @@ public class Tradetest implements LiveHandler {
                 break;
             case BID:
                 pr("bid::", symb, price);
-//                ProfitTargetTrader.bidMap.put(symb, price);
                 break;
             case ASK:
                 pr("ask::", symb, price);
-//                ProfitTargetTrader.askMap.put(symb, price);
                 break;
         }
     }
@@ -88,10 +93,13 @@ public class Tradetest implements LiveHandler {
 
     @Override
     public void handleGeneric(TickType tt, String symbol, double value, LocalDateTime t) {
+        pr("generic", tt, symbol, value, t);
     }
 
     @Override
     public void handleString(TickType tt, String symbol, String str, LocalDateTime t) {
+        pr("handle String", tt, symbol, str, t);
+
     }
 
 //    private static void testTrade(Contract ct, double price, LocalDateTime t, Decimal sizeToBuy) {
