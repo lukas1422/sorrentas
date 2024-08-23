@@ -95,7 +95,7 @@ class ProfitTargetTrader implements LiveHandler,
     private static final int GATEWAY_PORT = 4001;
     private static final int TWS_PORT = 7496;
     //    private static final int PORT_TO_USE = TWS_PORT;
-    private static final int PORT_TO_USE = GATEWAY_PORT;
+    private static final int PORT_TO_USE = TWS_PORT;
 
     private static Map<String, Double> rng = new HashMap<>();
 
@@ -532,7 +532,9 @@ class ProfitTargetTrader implements LiveHandler,
 
         switch (tt) {
             case LAST:
-//                pr(t.format(Hmmss), "last p:", symb, price);
+                if (symb.equalsIgnoreCase("SPY")) {
+                    pr(t.format(Hmmss), "spy last p:", symb, price);
+                }
                 px.put(symb, price);
                 liveData.get(symb).put(t, price);
                 lastPxTimestamp.put(symb, getESTDateTimeNow());

@@ -17850,3 +17850,159 @@ commission report issue tradekey:00013669.66ca7594.01 report:ID:00013669.66ca759
 *openOrder* Error 8-23 7:14 orderId:-1 errorCode:321 msg:Error validating request.-'bt' : cause - The API interface is currently in Read-Only mode.
 *openOrder* Error 8-23 9:40 orderId:240823003 errorCode:321 msg:Error validating request.-'bN' : cause - The API interface is currently in Read-Only mode.
 *openOrder* Error 8-23 9:40 orderId:240823004 errorCode:321 msg:Error validating request.-'bN' : cause - The API interface is currently in Read-Only mode.
+*openOrder* Error 8-23 9:50 orderId:240823005 errorCode:321 msg:Error validating request.-'bN' : cause - The API interface is currently in Read-Only mode.
+*openOrder* Error 8-23 9:50 orderId:240823006 errorCode:321 msg:Error validating request.-'bN' : cause - The API interface is currently in Read-Only mode.
+*openOrder* Error 8-23 10:03 orderId:240823007 errorCode:321 msg:Error validating request.-'bN' : cause - The API interface is currently in Read-Only mode.
+*openOrder* Error 8-23 10:03 orderId:240823008 errorCode:321 msg:Error validating request.-'bN' : cause - The API interface is currently in Read-Only mode.
+*openOrder* Error 8-23 11:45 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:321 msg:Error validating request.-'bt' : cause - The API interface is currently in Read-Only mode.
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.usfarm
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.usfarm
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 8-23 15:09 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+ADM 15:09:52.250 no bid or no ask when trying to trade
+ADM 15:09:52.250 cost/bid/ask: 0.0 0.0 0.0
+GLD 15:09:52.259 no bid or no ask when trying to trade
+GLD 15:09:52.259 cost/bid/ask: 0.0 0.0 0.0
+IWM 15:09:52.266 no bid or no ask when trying to trade
+IWM 15:09:52.266 cost/bid/ask: 0.0 0.0 0.0
+KO 15:09:52.283 no bid or no ask when trying to trade
+KO 15:09:52.283 cost/bid/ask: 0.0 0.0 0.0
+KMB 15:09:52.289 no bid or no ask when trying to trade
+KMB 15:09:52.289 cost/bid/ask: 0.0 0.0 0.0
+HSBC 15:09:52.291 no bid or no ask when trying to trade
+HSBC 15:09:52.291 cost/bid/ask: 0.0 0.0 0.0
+IP 15:09:52.294 no bid or no ask when trying to trade
+IP 15:09:52.294 cost/bid/ask: 0.0 0.0 0.0
+ABT 15:09:52.296 no bid or no ask when trying to trade
+ABT 15:09:52.296 cost/bid/ask: 0.0 0.0 0.0
+AWK 15:09:52.302 no bid or no ask when trying to trade
+AWK 15:09:52.302 cost/bid/ask: 0.0 0.0 0.0
+HON 15:09:52.303 no bid or no ask when trying to trade
+HON 15:09:52.303 cost/bid/ask: 0.0 0.0 0.0
+PG 15:09:52.311 no bid or no ask when trying to trade
+PG 15:09:52.311 cost/bid/ask: 0.0 0.0 0.0
+MRK 15:09:52.313 no bid or no ask when trying to trade
+MRK 15:09:52.313 cost/bid/ask: 0.0 0.0 0.0
+SLV 15:09:52.320 no bid or no ask when trying to trade
+SLV 15:09:52.320 cost/bid/ask: 0.0 0.0 0.0
+WMT 15:09:52.322 no bid or no ask when trying to trade
+WMT 15:09:52.322 cost/bid/ask: 0.0 0.0 0.0
+UL 15:09:52.587 no bid or no ask when trying to trade
+UL 15:09:52.587 cost/bid/ask: 0.0 0.0 0.0
+UNP 15:09:52.588 no bid or no ask when trying to trade
+UNP 15:09:52.588 cost/bid/ask: 0.0 0.0 0.0
+PHO 15:09:52.590 no bid or no ask when trying to trade
+PHO 15:09:52.590 cost/bid/ask: 0.0 0.0 0.0
+*openOrder* Error 8-23 15:15 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.hkhmds
+*openOrder* Error 8-23 15:15 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 8-23 15:15 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 8-23 15:15 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 8-23 15:15 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+AWK 15:15:47.377 no bid or no ask when trying to trade
+AWK 15:15:47.377 cost/bid/ask: 0.0 0.0 0.0
+ABT 15:15:48.237 no bid or no ask when trying to trade
+ABT 15:15:48.237 cost/bid/ask: 0.0 0.0 0.0
+GLD 15:15:48.240 no bid or no ask when trying to trade
+GLD 15:15:48.240 cost/bid/ask: 0.0 0.0 0.0
+KO 15:15:48.242 no bid or no ask when trying to trade
+KO 15:15:48.242 cost/bid/ask: 0.0 0.0 0.0
+CL 15:15:48.243 no bid or no ask when trying to trade
+CL 15:15:48.243 cost/bid/ask: 0.0 0.0 0.0
+ADM 15:15:48.244 no bid or no ask when trying to trade
+ADM 15:15:48.244 cost/bid/ask: 0.0 0.0 0.0
+IP 15:15:48.246 no bid or no ask when trying to trade
+IP 15:15:48.246 cost/bid/ask: 0.0 0.0 0.0
+IWM 15:15:48.247 no bid or no ask when trying to trade
+IWM 15:15:48.247 cost/bid/ask: 0.0 0.0 0.0
+BRK B 15:15:48.248 no bid or no ask when trying to trade
+BRK B 15:15:48.248 cost/bid/ask: 0.0 0.0 0.0
+HON 15:15:48.252 no bid or no ask when trying to trade
+HON 15:15:48.252 cost/bid/ask: 0.0 0.0 0.0
+HSBC 15:15:48.254 no bid or no ask when trying to trade
+HSBC 15:15:48.254 cost/bid/ask: 0.0 0.0 0.0
+PG 15:15:48.257 no bid or no ask when trying to trade
+PG 15:15:48.257 cost/bid/ask: 0.0 0.0 0.0
+MRK 15:15:48.258 no bid or no ask when trying to trade
+MRK 15:15:48.258 cost/bid/ask: 0.0 0.0 0.0
+MMM 15:15:48.259 no bid or no ask when trying to trade
+MMM 15:15:48.259 cost/bid/ask: 0.0 0.0 0.0
+MCD 15:15:48.260 no bid or no ask when trying to trade
+MCD 15:15:48.260 cost/bid/ask: 0.0 0.0 0.0
+KMB 15:15:48.262 no bid or no ask when trying to trade
+KMB 15:15:48.262 cost/bid/ask: 0.0 0.0 0.0
+JNJ 15:15:48.263 no bid or no ask when trying to trade
+JNJ 15:15:48.263 cost/bid/ask: 0.0 0.0 0.0
+SLV 15:15:49.261 no bid or no ask when trying to trade
+SLV 15:15:49.261 cost/bid/ask: 0.0 0.0 0.0
+WMT 15:15:49.262 no bid or no ask when trying to trade
+WMT 15:15:49.262 cost/bid/ask: 0.0 0.0 0.0
+UNP 15:15:49.263 no bid or no ask when trying to trade
+UNP 15:15:49.263 cost/bid/ask: 0.0 0.0 0.0
+UL 15:15:49.265 no bid or no ask when trying to trade
+UL 15:15:49.265 cost/bid/ask: 0.0 0.0 0.0
+PHO 15:15:49.266 no bid or no ask when trying to trade
+PHO 15:15:49.266 cost/bid/ask: 0.0 0.0 0.0
+*openOrder* Error 8-23 15:17 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+ADM 15:31:47.193 no bid or no ask when trying to trade
+ADM 15:31:47.193 cost/bid/ask: 0.0 0.0 0.0
+ABT 15:31:47.755 no bid or no ask when trying to trade
+ABT 15:31:47.755 cost/bid/ask: 0.0 0.0 0.0
+BRK B 15:31:48.025 no bid or no ask when trying to trade
+BRK B 15:31:48.025 cost/bid/ask: 0.0 0.0 0.0
+AWK 15:31:48.031 no bid or no ask when trying to trade
+AWK 15:31:48.031 cost/bid/ask: 0.0 0.0 0.0
+CL 15:31:48.287 no bid or no ask when trying to trade
+CL 15:31:48.287 cost/bid/ask: 0.0 0.0 0.0
+GLD 15:31:48.294 no bid or no ask when trying to trade
+GLD 15:31:48.294 cost/bid/ask: 0.0 0.0 0.0
+HON 15:31:48.298 no bid or no ask when trying to trade
+HON 15:31:48.298 cost/bid/ask: 0.0 0.0 0.0
+PG 15:31:48.553 no bid or no ask when trying to trade
+PG 15:31:48.553 cost/bid/ask: 0.0 0.0 0.0
+MRK 15:31:48.560 no bid or no ask when trying to trade
+MRK 15:31:48.560 cost/bid/ask: 0.0 0.0 0.0
+MMM 15:31:48.563 no bid or no ask when trying to trade
+MMM 15:31:48.563 cost/bid/ask: 0.0 0.0 0.0
+KO 15:31:48.566 no bid or no ask when trying to trade
+KO 15:31:48.566 cost/bid/ask: 0.0 0.0 0.0
+JNJ 15:31:48.569 no bid or no ask when trying to trade
+JNJ 15:31:48.569 cost/bid/ask: 0.0 0.0 0.0
+IWM 15:31:48.574 no bid or no ask when trying to trade
+IWM 15:31:48.574 cost/bid/ask: 0.0 0.0 0.0
+IP 15:31:48.581 no bid or no ask when trying to trade
+IP 15:31:48.581 cost/bid/ask: 0.0 0.0 0.0
+KMB 15:31:48.587 no bid or no ask when trying to trade
+KMB 15:31:48.587 cost/bid/ask: 0.0 0.0 0.0
+SLV 15:31:48.821 no bid or no ask when trying to trade
+SLV 15:31:48.821 cost/bid/ask: 0.0 0.0 0.0
+UL 15:31:48.828 no bid or no ask when trying to trade
+UL 15:31:48.828 cost/bid/ask: 0.0 0.0 0.0
+UNP 15:31:48.831 no bid or no ask when trying to trade
+UNP 15:31:48.831 cost/bid/ask: 0.0 0.0 0.0
+PHO 15:31:48.835 no bid or no ask when trying to trade
+PHO 15:31:48.835 cost/bid/ask: 0.0 0.0 0.0
+*openOrder* Error 8-23 15:32 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.eufarmnj
+*openOrder* Error 8-23 15:32 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.eufarmnj
+*openOrder* Error 8-23 15:32 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.jfarm
+*openOrder* Error 8-23 15:32 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.jfarm
+*openOrder* Error 8-23 16:30 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:hkhmds
+*openOrder* Error 8-23 16:30 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:hkhmds
+*openOrder* Error 8-23 16:31 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:hkhmds
+*openOrder* Error 8-23 16:31 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:hkhmds
+*openOrder* Error 8-23 17:04 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 8-23 17:04 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 8-23 17:04 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 8-23 17:04 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 8-23 17:04 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 8-23 17:05 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 8-23 17:06 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:cashfarm
+*openOrder* Error 8-23 17:38 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfuture
+*openOrder* Error 8-23 17:38 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfuture
+*openOrder* Error 8-23 17:41 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfuture
+*openOrder* Error 8-23 17:41 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfuture
+*openOrder* Error 8-23 17:41 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfuture
+*openOrder* Error 8-23 17:41 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfuture
+*openOrder* Error 8-23 19:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
