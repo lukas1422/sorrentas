@@ -27,7 +27,7 @@ public class Tradetest implements LiveHandler {
     public static final int PORT_TO_USE = GATEWAY_PORT;
 
     //    static Contract tencent = generateHKStockContract("700");
-    static Contract stockToTry = generateUSStockContract("WMT");
+    static Contract stockToTry = generateUSStockContract("SPY");
 
 
     private void connectAndReqPos() {
@@ -51,10 +51,10 @@ public class Tradetest implements LiveHandler {
             outputToGeneral("error in connection:", e);
         }
 
-        CompletableFuture.runAsync(() -> reqHistDayData(apiController, 100,
-                stockToTry, (c, date, open, high, low, close, volume) -> pr("close:" + close)
-                , () -> pr(""),
-                2, Types.BarSize._1_min));
+//        CompletableFuture.runAsync(() -> reqHistDayData(apiController, 100,
+//                stockToTry, (c, date, open, high, low, close, volume) -> pr("close:" + close)
+//                , () -> pr(""),
+//                2, Types.BarSize._1_min));
 
         es.schedule(() -> {
             pr("requesting live:", ibContractToSymbol(stockToTry));
