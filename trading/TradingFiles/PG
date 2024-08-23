@@ -21105,3 +21105,94 @@ ytdReturn:18.31%
 1d$:n:390 max:170.9 [8-22 9:31] min:169.2 [8-22 13:57] rng:1.0% 1Key:[8-22 9:30] last:[8-22 15:59]
 *******************************************
 *STARTS* 8-22 21:35
+*******************************************
+*STARTS* 8-23 7:10
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 8-23 7:10 last live feed time: 8-23 7:10 been:0min p:170.17 
+8-23 7:10 170.17 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 8-23 7:11
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 8-23 7:11 last live feed time: 8-23 7:11 been:0min p:170.17 
+8-23 7:11 170.17 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 8-23 7:11
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 8-23 7:12 last live feed time: 8-23 7:12 been:0min p:170.17 
+8-23 7:12 170.17 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+8-23 7:13 rng:1.3% costTgt:0.98
+8-23 7:13 tgtMargin:1.0102 tgtPrice:0.0
+ytdReturn:18.31%
+*******************************************
+*STARTS* 8-23 7:14
+POS:0 COST:0.0 DELT:0k
+8-23 7:15 rng:1.3% costTgt:0.98
+8-23 7:15 tgtMargin:1.0102 tgtPrice:0.0
+ytdReturn:18.31%
+*Periodic Run* 8-23 7:15 last live feed time: 8-23 7:15 been:0min p:170.17 
+8-23 7:15 170.17 2dP:39.0 1dP:100.0
+2d$:n:781 max:171.7 [8-21 9:59] min:169.2 [8-22 13:57] rng:1.5% 1Key:[8-21 9:30] last:[8-23 7:15]
+1d$:n<5
+*Periodic Run* 8-23 8:15 last live feed time: 8-23 7:15 been:60min p:170.17 
+8-23 8:15 170.17 2dP:39.0 1dP:100.0
+2d$:n:781 max:171.7 [8-21 9:59] min:169.2 [8-22 13:57] rng:1.5% 1Key:[8-21 9:30] last:[8-23 7:15]
+1d$:n<5
+*Periodic Run* 8-23 9:15 last live feed time: 8-23 7:15 been:120min p:170.17 
+8-23 9:15 170.17 2dP:39.0 1dP:100.0
+2d$:n:781 max:171.7 [8-21 9:59] min:169.2 [8-22 13:57] rng:1.5% 1Key:[8-21 9:30] last:[8-23 7:15]
+1d$:n<5
+09:40:36.209988200 no blocking orders,empty
+*1Buy*@169.74 8-23 9:40:36 1dp:0.0 2dp:19.0
+cash remaining: 201207.99
+0:240823003 PG BUY 32 @169.31 9:40 bid is:169.65
+9:40 0: PG orderID:240823003 tradeID:240823003 BUY 32 @169.31 factor:0.998 PG 8-23 9:40 ADDER Created
+1:240823004 PG BUY 32 @167.92 9:40 bid is:169.65
+9:40 1: PG orderID:240823004 tradeID:240823004 BUY 32 @167.92 factor:0.9898251370175465 PG 8-23 9:40 ADDER Created
+1D$:n:12 max:170.1 [8-23 7:15] min:169.7 [8-23 9:31] rng:0.2% 1Key:[8-23 7:15] last:[8-23 9:40]
+2D$:n:792 max:171.7 [8-21 9:59] min:169.2 [8-22 13:57] rng:1.5% 1Key:[8-21 9:30] last:[8-23 9:40]
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:40:38.110 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:40:48.547 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:40:49.183 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:40:51.043 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:45:16.432 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:45:26.464 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:45:27.108 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:45:29.935 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:45:30.577 no blocking orders 
+no blocking buy orders: All submitted orders {240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created}
+no blocking buy orders: Active orders: [240823003=PG 8-23 9:40 ADDER Created, 240823004=PG 8-23 9:40 ADDER Created]
+active orders grouped by buysell: {BUY=[240823003, 240823004]}
+2024-08-23T09:46:30.201 no blocking orders 
