@@ -390,7 +390,7 @@ class ProfitTargetTrader implements LiveHandler,
     //convex function to handle crashes
     private static double buyFactor(String symb, int i) {
         if (i == 0) {
-            return 0.998;
+            return 0.999;
         }
 
         return mins(1 - 0.005 * Math.pow(2, i),
