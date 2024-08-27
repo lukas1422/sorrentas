@@ -31985,3 +31985,1152 @@ ytdReturn:19.02%
 *******************************************
 *STARTS* 8-26 17:17
 POS:0 COST:0.0 DELT:0k
+*******************************************
+*STARTS* 8-27 5:16
+POS:0 COST:0.0 DELT:0k
+8-27 5:16 rng:0.9% costTgt:0.98
+8-27 5:16 tgtMargin:1.008 tgtPrice:0.0
+ytdReturn:18.73%
+*Periodic Run* 8-27 5:16 last live feed time: 8-27 5:16 been:0min p:561.49 
+8-27 5:16 561.49 2dP:62.0 1dP:100.0
+2d$:n:781 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 5:16]
+1d$:n<5
+*Periodic Run* 8-27 6:16 last live feed time: 8-27 6:15 been:1min p:560.43 
+8-27 6:16 560.43 2dP:45.0 1dP:0.0
+2d$:n:796 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 6:15]
+1d$:n:16 max:561.5 [8-27 5:24] min:560.9 [8-27 6:15] rng:0.1% 1Key:[8-27 5:16] last:[8-27 6:15]
+*Periodic Run* 8-27 7:16 last live feed time: 8-27 7:16 been:0min p:560.53 
+8-27 7:16 560.53 2dP:47.0 1dP:38.0
+2d$:n:827 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 7:16]
+1d$:n:47 max:561.5 [8-27 5:24] min:559.9 [8-27 7:02] rng:0.3% 1Key:[8-27 5:16] last:[8-27 7:16]
+*******************************************
+*STARTS* 8-27 7:35
+POS:0 COST:0.0 DELT:0k
+8-27 7:35 rng:0.9% costTgt:0.98
+8-27 7:35 tgtMargin:1.008 tgtPrice:0.0
+ytdReturn:18.73%
+*Periodic Run* 8-27 7:35 7:35:53 no live feed
+8-27 7:35 0.0 2dP:50.0 1dP:100.0
+2d$:n:780 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-26 15:59]
+1d$:n<5
+*Periodic Run* 8-27 8:35 last live feed time: 8-27 8:35 been:0min p:559.87 
+8-27 8:35 559.87 2dP:36.0 1dP:0.0
+2d$:n:828 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 8:35]
+1d$:n:48 max:561.0 [8-27 7:45] min:559.9 [8-27 8:35] rng:0.2% 1Key:[8-27 7:35] last:[8-27 8:35]
+*Periodic Run* 8-27 9:35 last live feed time: 8-27 9:35 been:0min p:559.11 
+8-27 9:35 559.11 2dP:24.0 1dP:23.0
+2d$:n:888 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 9:35]
+1d$:n:108 max:561.0 [8-27 7:45] min:558.6 [8-27 9:04] rng:0.4% 1Key:[8-27 7:35] last:[8-27 9:35]
+09:38:33.616263384 no blocking orders,empty
+*1Buy*@558.59 8-27 9:38:33 1dp:2.0 2dp:16.0
+cash remaining: 234193.82
+0:240827007 SPY BUY 10 @558.02 9:38 bid is:558.58
+9:38 0: SPY orderID:240827007 tradeID:240827007 BUY 10 @558.02 factor:0.999 SPY 8-27 9:38 ADDER Created
+1:240827008 SPY BUY 10 @552.99 9:38 bid is:558.58
+9:38 1: SPY orderID:240827008 tradeID:240827008 BUY 10 @552.99 factor:0.99 SPY 8-27 9:38 ADDER Created
+1D$:n:111 max:561.0 [8-27 7:45] min:558.5 [8-27 9:04] rng:0.4% 1Key:[8-27 7:35] last:[8-27 9:38]
+2D$:n:891 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 9:38]
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Created, 240827008=SPY 8-27 9:38 ADDER Created}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Created, 240827008=SPY 8-27 9:38 ADDER Created]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:34.371 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Created, 240827008=SPY 8-27 9:38 ADDER Created}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Created, 240827008=SPY 8-27 9:38 ADDER Created]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:35.118 no blocking orders 
+8-27 9:38 *openOrder* status:Submitted 240827007 BUY 10@558.02
+8-27 9:38 *openOrder* all live orders [240827007 BUY 10@558.02]
+8-27 9:38 *OrderStatus*:Submitted orderId:240827007 filled:0 remaining:10 avgFillPx:0.0 lastFillPx:0.0
+8-27 9:38 *openOrder* status:Submitted 240827008 BUY 10@552.99
+8-27 9:38 *openOrder* all live orders [240827007 BUY 10@558.02, 240827008 BUY 10@552.99]
+8-27 9:38 *OrderStatus*:Submitted orderId:240827008 filled:0 remaining:10 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:35.869 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:36.620 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:37.122 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:37.888 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:38.623 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:39.374 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:40.127 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:40.879 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:41.627 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:42.381 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:43.882 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:44.631 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:46.135 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:46.883 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:47.636 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:49.147 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:49.904 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:51.657 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:52.404 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:53.143 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:54.896 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:55.645 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:56.416 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:57.410 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:58.927 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:38:59.649 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:00.655 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:01.416 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:02.156 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:03.655 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:04.660 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:06.161 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:07.683 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:08.433 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:09.186 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:09.933 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:10.684 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:11.436 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:12.188 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:13.692 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:15.190 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:17.731 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:18.929 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:19.701 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:20.429 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:21.183 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:21.947 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:23.443 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:24.441 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:25.198 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:25.939 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:27.190 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:27.951 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:28.692 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:29.706 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:30.442 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:31.494 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:31.961 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:32.698 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:53.476 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:54.976 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:55.475 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:56.229 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:56.979 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:39:57.731 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:00.733 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:01.484 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:02.247 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:03.005 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:03.761 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:04.487 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:05.241 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:05.991 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:06.742 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:07.492 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:08.246 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:09.009 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:09.747 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:10.750 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:11.524 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:12.266 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:13.004 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:13.770 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:14.502 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:15.253 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:16.006 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:16.761 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:17.530 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:18.258 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:19.763 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:20.522 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:21.263 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:23.518 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:24.281 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:25.035 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:25.787 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:26.536 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:27.289 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:28.039 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:29.073 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:29.543 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:30.288 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:32.527 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:33.283 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:34.046 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:34.741 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:36.781 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:38.364 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:39.054 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:39.877 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:40.708 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:41.343 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:42.113 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:42.865 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:43.618 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:44.385 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:45.890 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:46.622 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:47.373 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:48.874 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:49.627 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:50.374 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:51.146 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:51.896 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:52.646 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:53.631 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:54.384 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:55.886 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:57.386 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:58.134 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:58.886 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:40:59.638 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:00.407 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:01.141 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:01.892 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:02.643 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:03.404 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:04.161 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:04.894 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:06.397 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:07.147 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:07.900 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:08.649 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:09.424 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:10.418 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:11.155 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:11.921 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:12.670 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:13.439 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:14.924 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:15.676 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:17.166 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:17.926 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:18.679 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:19.427 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:21.693 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:22.436 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:23.227 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:23.926 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:24.681 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:25.443 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:26.176 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:26.936 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:27.690 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:29.182 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:29.945 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:31.432 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:41:32.945 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:54.041 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:54.794 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:55.548 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:57.054 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:57.811 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:58.564 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:42:59.316 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:00.069 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:00.820 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:01.566 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:03.065 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:04.105 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:04.562 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:05.319 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:06.108 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:06.577 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:07.325 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:08.080 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:08.832 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:09.582 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:10.333 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:11.369 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:11.833 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:12.611 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:33.742 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:34.440 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:35.195 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:35.950 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:36.706 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:37.362 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:38.199 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:38.969 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:39.707 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:41.220 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:41.966 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:42.734 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:43.476 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:44.215 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:44.986 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:45.738 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:46.521 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:47.229 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:49.246 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:49.983 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:51.473 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:43:52.726 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:33.342 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:34.094 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:34.852 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:35.610 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:36.351 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:37.099 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:37.849 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:39.353 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:40.110 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:40.851 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:41.629 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:42.358 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:43.107 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:43.857 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:45.361 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:46.110 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:46.862 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:47.615 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:48.364 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:51.368 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:52.119 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:53.620 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:54.372 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:55.123 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:55.875 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:57.377 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:58.135 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:58.893 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:45:59.633 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:00.379 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:01.130 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:02.634 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:03.389 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:04.153 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:04.887 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:05.656 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:06.387 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:07.152 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:07.906 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:08.652 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:09.642 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:10.393 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:11.144 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:11.895 no blocking orders 
+no blocking buy orders: All submitted orders {240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827007=SPY 8-27 9:38 ADDER Submitted, 240827008=SPY 8-27 9:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827007, 240827008]}
+2024-08-27T09:46:12.644 no blocking orders 
+*Periodic Run* 8-27 10:35 last live feed time: 8-27 10:35 been:0min p:561.1 
+8-27 10:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 10:35 *chek openOrders*: [240827007, 240827008]
+8-27 10:35 561.1 2dP:56.0 1dP:91.0
+2d$:n:948 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 10:35]
+1d$:n:168 max:561.4 [8-27 10:33] min:558.4 [8-27 9:41] rng:0.5% 1Key:[8-27 7:35] last:[8-27 10:35]
+*Periodic Run* 8-27 11:35 last live feed time: 8-27 11:35 been:0min p:560.28 
+8-27 11:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 11:35 *chek openOrders*: [240827007, 240827008]
+8-27 11:35 560.28 2dP:43.0 1dP:52.0
+2d$:n:1008 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 11:35]
+1d$:n:228 max:562.0 [8-27 11:00] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 11:35]
+*Periodic Run* 8-27 12:35 last live feed time: 8-27 12:35 been:0min p:560.96 
+8-27 12:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 12:35 *chek openOrders*: [240827007, 240827008]
+8-27 12:35 560.96 2dP:54.0 1dP:71.0
+2d$:n:1068 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 12:35]
+1d$:n:288 max:562.0 [8-27 11:00] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 12:35]
+*Periodic Run* 8-27 13:35 last live feed time: 8-27 13:35 been:0min p:561.86 
+8-27 13:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 13:35 *chek openOrders*: [240827007, 240827008]
+8-27 13:35 561.86 2dP:68.0 1dP:96.0
+2d$:n:1128 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 13:35]
+1d$:n:348 max:562.0 [8-27 11:00] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 13:35]
+8-27 13:52 *openOrder* status:Submitted 240827007 BUY 10@558.02
+8-27 13:52 *openOrder* all live orders [240827007 BUY 10@558.02, 240827008 BUY 10@552.99]
+8-27 13:52 *OrderStatus*:Submitted orderId:240827007 filled:0 remaining:10 avgFillPx:0.0 lastFillPx:0.0
+8-27 13:52 *openOrder* status:Submitted 240827008 BUY 10@552.99
+8-27 13:52 *openOrder* all live orders [240827007 BUY 10@558.02, 240827008 BUY 10@552.99]
+8-27 13:52 *OrderStatus*:Submitted orderId:240827008 filled:0 remaining:10 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-27 14:35 last live feed time: 8-27 14:35 been:0min p:561.76 
+8-27 14:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 14:35 *chek openOrders*: [240827007, 240827008]
+8-27 14:35 561.76 2dP:67.0 1dP:92.0
+2d$:n:1182 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 14:35]
+1d$:n:402 max:562.0 [8-27 14:01] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 14:35]
+*Periodic Run* 8-27 15:35 last live feed time: 8-27 15:35 been:0min p:561.41 
+8-27 15:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 15:35 *chek openOrders*: [240827007, 240827008]
+8-27 15:35 561.41 2dP:61.0 1dP:83.0
+2d$:n:1242 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 15:35]
+1d$:n:462 max:562.0 [8-27 14:01] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 15:35]
+*Periodic Run* 8-27 16:35 last live feed time: 8-27 16:35 been:0min p:561.59 
+8-27 16:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 16:35 *chek openOrders*: [240827007, 240827008]
+8-27 16:35 561.59 2dP:64.0 1dP:88.0
+2d$:n:1299 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 16:35]
+1d$:n:519 max:562.0 [8-27 14:01] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 16:35]
+*Periodic Run* 8-27 17:35 last live feed time: 8-27 17:33 been:2min p:561.55 
+8-27 17:35 *chek orderStatus [240827007=Submitted, 240827008=Submitted]
+8-27 17:35 *chek openOrders*: [240827007, 240827008]
+8-27 17:35 561.55 2dP:63.0 1dP:87.0
+2d$:n:1329 max:563.9 [8-26 9:34] min:557.6 [8-23 12:46] rng:1.1% 1Key:[8-23 9:30] last:[8-27 17:33]
+1d$:n:549 max:562.0 [8-27 14:01] min:558.4 [8-27 9:41] rng:0.6% 1Key:[8-27 7:35] last:[8-27 17:33]

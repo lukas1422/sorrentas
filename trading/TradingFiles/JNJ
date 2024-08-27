@@ -7542,3 +7542,1920 @@ ytdReturn:6.36%
 *******************************************
 *STARTS* 8-26 17:17
 POS:0 COST:0.0 DELT:0k
+*******************************************
+*STARTS* 8-27 5:16
+POS:0 COST:0.0 DELT:0k
+8-27 5:16 rng:1.4% costTgt:0.98
+8-27 5:16 tgtMargin:1.011 tgtPrice:0.0
+ytdReturn:6.67%
+*Periodic Run* 8-27 5:16 last live feed time: 8-27 5:16 been:0min p:162.95 
+8-27 5:16 162.95 2dP:28.0 1dP:100.0
+2d$:n:781 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 5:16]
+1d$:n<5
+*Periodic Run* 8-27 6:16 last live feed time: 8-27 5:16 been:60min p:162.95 
+8-27 6:16 162.95 2dP:28.0 1dP:100.0
+2d$:n:781 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 5:16]
+1d$:n<5
+*Periodic Run* 8-27 7:16 last live feed time: 8-27 5:16 been:120min p:162.95 
+8-27 7:16 162.95 2dP:28.0 1dP:100.0
+2d$:n:781 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 5:16]
+1d$:n<5
+*******************************************
+*STARTS* 8-27 7:35
+POS:0 COST:0.0 DELT:0k
+8-27 7:35 rng:1.4% costTgt:0.98
+8-27 7:35 tgtMargin:1.011 tgtPrice:0.0
+ytdReturn:6.67%
+*Periodic Run* 8-27 7:35 last live feed time: 8-27 7:35 been:0min p:163.13 
+8-27 7:35 163.13 2dP:33.0 1dP:100.0
+2d$:n:781 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 7:35]
+1d$:n<5
+*Periodic Run* 8-27 8:35 last live feed time: 8-27 8:35 been:0min p:163.1 
+8-27 8:35 163.1 2dP:32.0 1dP:0.0
+2d$:n:789 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 8:35]
+1d$:n:9 max:163.4 [8-27 8:03] min:163.2 [8-27 8:30] rng:0.1% 1Key:[8-27 7:35] last:[8-27 8:35]
+*Periodic Run* 8-27 9:35 last live feed time: 8-27 9:35 been:0min p:163.15 
+8-27 9:35 163.15 2dP:33.0 1dP:20.0
+2d$:n:801 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 9:35]
+1d$:n:21 max:163.5 [8-27 9:31] min:163.1 [8-27 8:36] rng:0.3% 1Key:[8-27 7:35] last:[8-27 9:35]
+*Periodic Run* 8-27 10:35 last live feed time: 8-27 10:35 been:0min p:162.68 
+8-27 10:35 162.68 2dP:21.0 1dP:0.0
+2d$:n:861 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 10:35]
+1d$:n:81 max:164.0 [8-27 9:45] min:162.7 [8-27 10:35] rng:0.8% 1Key:[8-27 7:35] last:[8-27 10:35]
+10:38:53.583348637 no blocking orders,empty
+*1Buy*@162.63 8-27 10:38:53 1dp:0.0 2dp:19.0
+cash remaining: 234193.82
+0:240827009 JNJ BUY 34 @162.45 10:38 bid is:162.61
+10:38 0: JNJ orderID:240827009 tradeID:240827009 BUY 34 @162.45 factor:0.999 JNJ 8-27 10:38 ADDER Created
+1:240827010 JNJ BUY 34 @160.82 10:38 bid is:162.61
+10:38 1: JNJ orderID:240827010 tradeID:240827010 BUY 34 @160.82 factor:0.9890044540452559 JNJ 8-27 10:38 ADDER Created
+1D$:n:84 max:164.0 [8-27 9:45] min:162.6 [8-27 10:38] rng:0.8% 1Key:[8-27 7:35] last:[8-27 10:38]
+2D$:n:864 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 10:38]
+8-27 10:38 *openOrder* status:Submitted 240827009 BUY 34@162.45
+8-27 10:38 *openOrder* all live orders [240827009 BUY 34@162.45]
+8-27 10:38 *OrderStatus*:Submitted orderId:240827009 filled:0 remaining:34 avgFillPx:0.0 lastFillPx:0.0
+8-27 10:38 *openOrder* status:Submitted 240827010 BUY 34@160.82
+8-27 10:38 *openOrder* all live orders [240827009 BUY 34@162.45, 240827010 BUY 34@160.82]
+8-27 10:38 *OrderStatus*:Submitted orderId:240827010 filled:0 remaining:34 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:39:09.859 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:39:39.650 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:39:45.166 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:39:45.908 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:39:46.918 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:43:54.102 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:43:54.856 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:43:58.860 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:08.379 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:09.130 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:12.384 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:13.139 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:14.389 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:18.147 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:19.899 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:22.659 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:26.660 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:44:27.412 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:46:36.730 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:46:39.736 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:46:41.739 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:46:55.836 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:01.837 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:06.832 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:08.584 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:18.710 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:19.461 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:21.462 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:22.213 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:25.718 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:30.478 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:31.234 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:41.994 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:42.745 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:47:50.005 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:48:12.290 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:48:13.039 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:48:21.050 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T10:48:31.315 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:09:40.950 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:09:41.700 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:09:47.713 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:09:48.712 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:09:56.975 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:11.086 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:15.341 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:27.110 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:35.871 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:42.131 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:42.881 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:43.632 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:44.383 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:46.890 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:10:48.638 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:02.908 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:15.175 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:16.926 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:17.679 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:18.430 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:38.458 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:54.978 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:11:57.485 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:09.499 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:10.498 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:11.260 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:16.258 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:17.007 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:38.788 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:12:54.310 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:13:03.320 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:13:46.379 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:13:51.886 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:14:08.731 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:14:09.486 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:14:34.801 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:14:47.144 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:07.294 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:09.296 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:10.303 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:20.312 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:33.295 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:35.874 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:38.877 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:15:46.351 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:20.720 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:23.724 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:31.484 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:37.993 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:42.253 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:43.001 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:47.760 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:16:48.508 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:06.521 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:13.127 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:20.386 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:29.128 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:29.876 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:30.627 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:17:33.378 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:06.923 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:12.932 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:14.937 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:15.686 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:17.188 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:19.948 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:21.193 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:23.444 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:26.952 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:29.720 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:35.902 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:40.456 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:40.461 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:52.933 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:54.429 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:57.934 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:18:58.690 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:02.189 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:02.941 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:09.842 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:11.595 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:22.159 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:39.543 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:42.222 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:46.197 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:46.948 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:19:50.452 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:00.548 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:01.471 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:02.472 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:03.224 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:10.515 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:11.278 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:13.020 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:15.023 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:18.278 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:19.278 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:27.039 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:20:30.793 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.550 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.550 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.553 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.587 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.591 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.631 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:09.632 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:39.517 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:49.029 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:21:59.812 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827009=JNJ 8-27 10:38 ADDER Submitted, 240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827009, 240827010]}
+2024-08-27T11:22:04.798 no blocking orders 
+updating pos: JNJ 8-27 11:22 pos:34 cost:162.45
+8-27 11:22 *tradeReport* time: 2024-08-27T11:22:03 BOT execPx:162.45 shares:34 avgPx:162.45
+8-27 11:22 *openOrder* status:Filled 240827009 BUY 34@162.45
+8-27 11:22 *openOrder*:removing order.Status:Filled 240827009 BUY 34@162.45
+8-27 11:22 *openOrder*:after removal.OpenOrders: [240827010]
+8-27 11:22 *openOrder* all live orders [240827010 BUY 34@160.82]
+8-27 11:22 *OrderStatus*:Filled orderId:240827009 filled:34 remaining:0 avgFillPx:162.45 lastFillPx:162.45
+8-27 11:22 *openOrder* status:Filled 240827009 BUY 34@162.45
+8-27 11:22 *openOrder*:removing order.Status:Filled 240827009 BUY 34@162.45
+8-27 11:22 *openOrder*:after removal.OpenOrders: [240827010]
+8-27 11:22 *openOrder* all live orders [240827010 BUY 34@160.82]
+8-27 11:22 *OrderStatus*:Filled orderId:240827009 filled:34 remaining:0 avgFillPx:162.45 lastFillPx:162.45
+1.*commission report*:240827009 commission:0.32 
+2.*commission report* orderID:240827009 commission: 0.32 
+updating pos: JNJ 8-27 11:22 pos:34 cost:162.46
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:16.066 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:18.317 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:24.077 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:24.826 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:26.078 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:35.841 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:39.597 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:40.347 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:46.105 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:57.105 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:22:59.610 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:08.624 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:10.127 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:10.877 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:14.134 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:15.385 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:16.886 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:17.888 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:37.415 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:41.669 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:49.178 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:49.931 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:23:59.944 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:00.697 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:09.457 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:21.222 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:31.484 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:32.237 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:36.243 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:36.991 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:47.506 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:48.259 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:49.009 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:55.519 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:56.269 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:24:59.773 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:03.027 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:03.778 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:07.784 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:14.291 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:20.053 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:22.304 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:24.058 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:28.832 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:31.635 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:32.072 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:32.833 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:39.075 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:40.329 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:41.830 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:43.081 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:46.334 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:47.340 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:49.591 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:53.096 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:53.846 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:54.595 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:25:58.350 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:00.854 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:05.111 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:06.124 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:16.126 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:23.385 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:25.137 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:25.896 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:30.394 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:33.399 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:34.152 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:53.235 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:26:54.487 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:27:07.617 no blocking orders 
+updating pos: JNJ 8-27 11:27 pos:34 cost:162.46
+updating pos: JNJ 8-27 11:27 pos:34 cost:162.46
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:27:31.400 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:27:39.663 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:27:52.949 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:03.712 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:10.229 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:11.475 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:14.729 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:29.497 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:34.505 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:36.508 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:39.013 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:39.763 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:40.513 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:42.014 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:44.016 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:28:52.280 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:29:02.042 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:29:07.049 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:29:22.056 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:29:23.557 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:29:36.825 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:29:57.602 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:01.606 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:05.364 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:12.876 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:17.128 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:44.918 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:45.668 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:47.919 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:48.670 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:49.427 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:50.175 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:51.175 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:53.677 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:30:54.429 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:09.450 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:12.451 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:13.455 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:14.204 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:16.958 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:18.715 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:43.993 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:46.749 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:49.503 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:50.253 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:31:57.011 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:01.769 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:04.021 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:09.780 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:11.782 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:14.538 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:20.567 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:21.296 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:22.044 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:27.554 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:28.305 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:32.560 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:36.063 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:36.816 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:39.319 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:32:40.068 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:04.856 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:14.369 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:26.389 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:28.387 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:35.649 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:36.399 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:39.154 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:50.918 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:55.676 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:57.181 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:33:59.930 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:00.702 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:01.683 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:06.188 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:12.947 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:13.699 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:14.951 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:20.714 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:23.465 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:33.475 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:34.978 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:38.732 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:40.236 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:40.985 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:44.741 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:34:58.759 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:00.260 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:01.512 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:06.269 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:08.524 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:13.278 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:14.028 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:29.054 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:34.809 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:43.070 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:44.572 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:45.323 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:48.589 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:49.327 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:35:52.330 no blocking orders 
+*Periodic Run* 8-27 11:35 last live feed time: 8-27 11:35 been:0min p:162.23 cost:162.5 p/cost:0.999
+p:162.23 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:103 refillP:157.07 costTgt:0.98 refillP/cost:0.967 refillP/px:0.968
+8-27 11:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 11:35 *chek openOrders*: [240827010]
+8-27 11:35 162.23 2dP:10.0 1dP:0.0
+2d$:n:921 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 11:35]
+1d$:n:141 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 11:35]
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:36:00.343 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:36:17.734 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:36:18.485 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:36:31.401 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:36:57.765 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:01.069 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:06.831 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:09.171 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:11.587 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:12.338 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:13.701 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:14.450 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:27.832 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:49.974 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:37:53.226 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:10.254 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:11.006 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:14.263 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:16.514 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:17.264 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:20.267 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:21.021 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:51.311 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:38:52.562 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:39:07.837 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:39:14.344 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:39:16.094 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:39:31.364 no blocking orders 
+updating pos: JNJ 8-27 11:39 pos:34 cost:162.46
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:39:46.385 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:39:51.892 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:00.657 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:01.665 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:11.167 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:14.424 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:15.173 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:20.682 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:25.687 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:31.444 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:32.202 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:36.950 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:51.682 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:40:59.191 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:45:14.421 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:45:36.203 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:45:38.454 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:45:39.206 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:45:39.956 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:46:01.487 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:46:03.995 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:46:32.529 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:46:36.535 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:46:40.036 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:00.566 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:03.319 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:07.075 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:09.827 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:30.105 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:30.855 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:34.359 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:36.363 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:46.627 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:50.631 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:52.134 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:58.392 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:47:59.143 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:00.894 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:01.898 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:02.648 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:07.402 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:08.155 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:08.907 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:16.919 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:30.186 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:39.949 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:42.450 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:47.708 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:48:56.470 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:11.746 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:17.265 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:30.014 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:31.517 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:49.290 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:50.790 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:49:56.549 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:50:01.555 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:50:12.823 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:50:20.830 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:50:38.103 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:50:38.853 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:50:49.108 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:51:28.953 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:51:31.958 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T11:51:32.709 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:08:52.157 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:02.670 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:08.679 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:40.724 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:42.475 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:43.226 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:52.237 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:09:59.997 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:10:00.748 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:10:03.002 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:11:21.480 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:07.941 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:18.455 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:19.209 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:32.308 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:39.067 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:42.824 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:12:51.820 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:08.125 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:18.375 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:23.172 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:42.949 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:54.217 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:54.972 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:13:57.972 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:14:07.234 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:14:12.991 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:14:23.507 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:14:32.516 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:16:59.202 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:16:59.951 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:17:11.214 no blocking orders 
+no blocking buy orders: All submitted orders {240827009=JNJ 8-27 10:38 ADDER Filled, 240827010=JNJ 8-27 10:38 ADDER Submitted}
+no blocking buy orders: Active orders: [240827010=JNJ 8-27 10:38 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827010]}
+2024-08-27T12:17:13.219 no blocking orders 
+*Periodic Run* 8-27 12:35 last live feed time: 8-27 12:35 been:0min p:162.48 cost:162.5 p/cost:1.0
+p:162.48 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:103 refillP:157.07 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+8-27 12:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 12:35 *chek openOrders*: [240827010]
+8-27 12:35 162.48 2dP:16.0 1dP:17.0
+2d$:n:981 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 12:35]
+1d$:n:201 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 12:35]
+*Periodic Run* 8-27 13:35 last live feed time: 8-27 13:35 been:0min p:162.73 cost:162.5 p/cost:1.002
+p:162.73 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:103 refillP:157.07 costTgt:0.98 refillP/cost:0.967 refillP/px:0.965
+8-27 13:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 13:35 *chek openOrders*: [240827010]
+8-27 13:35 162.73 2dP:23.0 1dP:31.0
+2d$:n:1041 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 13:35]
+1d$:n:261 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 13:35]
+8-27 13:52 *openOrder* status:Submitted 240827010 BUY 34@160.82
+8-27 13:52 *openOrder* all live orders [240827010 BUY 34@160.82]
+8-27 13:52 *OrderStatus*:Submitted orderId:240827010 filled:0 remaining:34 avgFillPx:0.0 lastFillPx:0.0
+updating pos: JNJ 8-27 13:52 pos:34 cost:162.46
+*Periodic Run* 8-27 14:35 last live feed time: 8-27 14:35 been:0min p:162.85 cost:162.5 p/cost:1.002
+p:162.85 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:102 refillP:157.04 costTgt:0.98 refillP/cost:0.967 refillP/px:0.964
+8-27 14:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 14:35 *chek openOrders*: [240827010]
+8-27 14:35 162.85 2dP:26.0 1dP:38.0
+2d$:n:1095 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 14:35]
+1d$:n:315 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 14:35]
+*Periodic Run* 8-27 15:35 last live feed time: 8-27 15:35 been:0min p:162.97 cost:162.5 p/cost:1.003
+p:162.97 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:102 refillP:157.04 costTgt:0.98 refillP/cost:0.967 refillP/px:0.964
+8-27 15:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 15:35 *chek openOrders*: [240827010]
+8-27 15:35 162.97 2dP:29.0 1dP:44.0
+2d$:n:1155 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 15:35]
+1d$:n:375 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 15:35]
+8-27 16:00 *openOrder* status:Submitted 240827010 BUY 34@160.82
+8-27 16:00 *openOrder* all live orders [240827010 BUY 34@160.82]
+8-27 16:00 *OrderStatus*:Submitted orderId:240827010 filled:0 remaining:34 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-27 16:35 last live feed time: 8-27 16:31 been:4min p:162.95 cost:162.5 p/cost:1.003
+p:162.95 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:102 refillP:157.04 costTgt:0.98 refillP/cost:0.967 refillP/px:0.964
+8-27 16:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 16:35 *chek openOrders*: [240827010]
+8-27 16:35 162.95 2dP:28.0 1dP:43.0
+2d$:n:1184 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 16:31]
+1d$:n:404 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 16:31]
+*Periodic Run* 8-27 17:35 last live feed time: 8-27 16:31 been:64min p:162.95 cost:162.5 p/cost:1.003
+p:162.95 rng:1.4% pos:34 delt:6k cost:162.5 fullLot:102 refillP:157.04 costTgt:0.98 refillP/cost:0.967 refillP/px:0.964
+8-27 17:35 *chek orderStatus [240827009=Filled, 240827010=Submitted]
+8-27 17:35 *chek openOrders*: [240827010]
+8-27 17:35 162.95 2dP:28.0 1dP:43.0
+2d$:n:1184 max:165.7 [8-26 10:41] min:161.9 [8-23 9:44] rng:2.4% 1Key:[8-23 9:30] last:[8-27 16:31]
+1d$:n:404 max:164.0 [8-27 9:45] min:162.2 [8-27 11:33] rng:1.1% 1Key:[8-27 7:35] last:[8-27 16:31]

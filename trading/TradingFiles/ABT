@@ -10356,3 +10356,224 @@ ytdReturn:3.93%
 *******************************************
 *STARTS* 8-26 17:17
 POS:0 COST:0.0 DELT:0k
+*******************************************
+*STARTS* 8-27 5:16
+POS:0 COST:0.0 DELT:0k
+8-27 5:16 rng:1.7% costTgt:0.98
+8-27 5:16 tgtMargin:1.0135 tgtPrice:0.0
+ytdReturn:3.94%
+*Periodic Run* 8-27 5:16 5:16:55 no live feed
+8-27 5:16 0.0 2dP:61.0 1dP:100.0
+2d$:n:780 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-26 15:59]
+1d$:n<5
+*Periodic Run* 8-27 6:16 6:16:55 no live feed
+8-27 6:16 0.0 2dP:61.0 1dP:100.0
+2d$:n:780 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-26 15:59]
+1d$:n<5
+*Periodic Run* 8-27 7:16 7:16:55 no live feed
+8-27 7:16 0.0 2dP:61.0 1dP:100.0
+2d$:n:780 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-26 15:59]
+1d$:n<5
+*******************************************
+*STARTS* 8-27 7:35
+POS:0 COST:0.0 DELT:0k
+8-27 7:35 rng:1.7% costTgt:0.98
+8-27 7:35 tgtMargin:1.0135 tgtPrice:0.0
+ytdReturn:3.94%
+*Periodic Run* 8-27 7:35 7:35:53 no live feed
+8-27 7:35 0.0 2dP:101.0 1dP:101.0
+2d$:n:780 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-26 15:59]
+1d$:n<5
+*Periodic Run* 8-27 8:35 last live feed time: 8-27 8:01 been:34min p:112.67 
+8-27 8:35 112.67 2dP:57.0 1dP:100.0
+2d$:n:781 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 8:01]
+1d$:n<5
+*Periodic Run* 8-27 9:35 last live feed time: 8-27 9:35 been:0min p:112.69 
+8-27 9:35 112.69 2dP:63.0 1dP:25.0
+2d$:n:787 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 9:35]
+1d$:n:7 max:113.0 [8-27 9:32] min:112.7 [8-27 9:32] rng:0.3% 1Key:[8-27 8:01] last:[8-27 9:35]
+*Periodic Run* 8-27 10:35 last live feed time: 8-27 10:35 been:0min p:112.34 
+8-27 10:35 112.34 2dP:32.0 1dP:4.0
+2d$:n:847 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 10:35]
+1d$:n:67 max:113.1 [8-27 9:32] min:112.3 [8-27 10:33] rng:0.7% 1Key:[8-27 8:01] last:[8-27 10:35]
+11:17:47.649790784 no blocking orders,empty
+*1Buy*@112.16 8-27 11:17:47 1dp:0.0 2dp:19.0
+cash remaining: 234193.82
+0:240827011 ABT BUY 49 @112.05 11:17 bid is:112.16
+11:17 0: ABT orderID:240827011 tradeID:240827011 BUY 49 @112.05 factor:0.999 ABT 8-27 11:17 ADDER Created
+1:240827012 ABT BUY 49 @110.64 11:17 bid is:112.16
+11:17 1: ABT orderID:240827012 tradeID:240827012 BUY 49 @110.64 factor:0.9864600376696931 ABT 8-27 11:17 ADDER Created
+1D$:n:107 max:113.1 [8-27 9:32] min:112.2 [8-27 11:17] rng:0.7% 1Key:[8-27 8:01] last:[8-27 11:17]
+2D$:n:887 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 11:17]
+8-27 11:17 *openOrder* status:Submitted 240827011 BUY 49@112.05
+8-27 11:17 *openOrder* all live orders [240827011 BUY 49@112.05]
+8-27 11:17 *OrderStatus*:Submitted orderId:240827011 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+8-27 11:17 *openOrder* status:Submitted 240827012 BUY 49@110.64
+8-27 11:17 *openOrder* all live orders [240827011 BUY 49@112.05, 240827012 BUY 49@110.64]
+8-27 11:17 *OrderStatus*:Submitted orderId:240827012 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:18:36.403 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:18:40.472 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:00.444 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:01.204 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:02.190 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:09.842 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:12.095 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:20.660 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:29.420 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:50.953 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:52.204 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:58.465 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:19:59.965 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:21:09.513 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:21:09.548 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:21:09.632 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:21:12.980 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:01.184 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:01.932 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:02.685 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:04.689 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:06.189 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:06.941 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:10.947 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:16.954 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:17.704 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:18.455 no blocking orders 
+no blocking buy orders: All submitted orders {240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted}
+no blocking buy orders: Active orders: [240827011=ABT 8-27 11:17 ADDER Submitted, 240827012=ABT 8-27 11:17 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240827011, 240827012]}
+2024-08-27T11:34:23.464 no blocking orders 
+*Periodic Run* 8-27 11:35 last live feed time: 8-27 11:35 been:0min p:112.2 
+8-27 11:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 11:35 *chek openOrders*: [240827011, 240827012]
+8-27 11:35 112.2 2dP:22.0 1dP:7.0
+2d$:n:905 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 11:35]
+1d$:n:125 max:113.1 [8-27 9:32] min:112.2 [8-27 11:18] rng:0.8% 1Key:[8-27 8:01] last:[8-27 11:35]
+*Periodic Run* 8-27 12:35 last live feed time: 8-27 12:35 been:0min p:112.64 
+8-27 12:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 12:35 *chek openOrders*: [240827011, 240827012]
+8-27 12:35 112.64 2dP:54.0 1dP:54.0
+2d$:n:965 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 12:35]
+1d$:n:185 max:113.1 [8-27 9:32] min:112.2 [8-27 11:18] rng:0.8% 1Key:[8-27 8:01] last:[8-27 12:35]
+*Periodic Run* 8-27 13:35 last live feed time: 8-27 13:35 been:0min p:112.77 
+8-27 13:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 13:35 *chek openOrders*: [240827011, 240827012]
+8-27 13:35 112.77 2dP:65.0 1dP:69.0
+2d$:n:1025 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 13:35]
+1d$:n:245 max:113.1 [8-27 9:32] min:112.2 [8-27 11:18] rng:0.8% 1Key:[8-27 8:01] last:[8-27 13:35]
+8-27 13:52 *openOrder* status:Submitted 240827011 BUY 49@112.05
+8-27 13:52 *openOrder* all live orders [240827011 BUY 49@112.05, 240827012 BUY 49@110.64]
+8-27 13:52 *OrderStatus*:Submitted orderId:240827011 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+8-27 13:52 *openOrder* status:Submitted 240827012 BUY 49@110.64
+8-27 13:52 *openOrder* all live orders [240827011 BUY 49@112.05, 240827012 BUY 49@110.64]
+8-27 13:52 *OrderStatus*:Submitted orderId:240827012 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-27 14:35 last live feed time: 8-27 14:35 been:0min p:112.81 
+8-27 14:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 14:35 *chek openOrders*: [240827011, 240827012]
+8-27 14:35 112.81 2dP:67.0 1dP:73.0
+2d$:n:1077 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 14:35]
+1d$:n:297 max:113.1 [8-27 9:32] min:112.2 [8-27 11:18] rng:0.8% 1Key:[8-27 8:01] last:[8-27 14:35]
+*Periodic Run* 8-27 15:35 last live feed time: 8-27 15:35 been:0min p:112.87 
+8-27 15:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 15:35 *chek openOrders*: [240827011, 240827012]
+8-27 15:35 112.87 2dP:73.0 1dP:81.0
+2d$:n:1137 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 15:35]
+1d$:n:357 max:113.1 [8-27 9:32] min:112.2 [8-27 11:18] rng:0.8% 1Key:[8-27 8:01] last:[8-27 15:35]
+8-27 16:00 *openOrder* status:Submitted 240827012 BUY 49@110.64
+8-27 16:00 *openOrder* all live orders [240827011 BUY 49@112.05, 240827012 BUY 49@110.64]
+8-27 16:00 *OrderStatus*:Submitted orderId:240827012 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+8-27 16:00 *openOrder* status:Submitted 240827011 BUY 49@112.05
+8-27 16:00 *openOrder* all live orders [240827011 BUY 49@112.05, 240827012 BUY 49@110.64]
+8-27 16:00 *OrderStatus*:Submitted orderId:240827011 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-27 16:35 last live feed time: 8-27 16:00 been:35min p:113.1 
+8-27 16:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 16:35 *chek openOrders*: [240827011, 240827012]
+8-27 16:35 113.1 2dP:90.0 1dP:97.0
+2d$:n:1162 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 16:00]
+1d$:n:382 max:113.1 [8-27 15:59] min:112.2 [8-27 11:18] rng:0.9% 1Key:[8-27 8:01] last:[8-27 16:00]
+*Periodic Run* 8-27 17:35 last live feed time: 8-27 17:05 been:30min p:113.0 
+8-27 17:35 *chek orderStatus [240827011=Submitted, 240827012=Submitted]
+8-27 17:35 *chek openOrders*: [240827011, 240827012]
+8-27 17:35 113.0 2dP:82.0 1dP:87.0
+2d$:n:1163 max:113.2 [8-26 10:39] min:111.9 [8-23 12:43] rng:1.2% 1Key:[8-23 9:30] last:[8-27 17:05]
+1d$:n:383 max:113.1 [8-27 15:59] min:112.2 [8-27 11:18] rng:0.9% 1Key:[8-27 8:01] last:[8-27 17:05]
