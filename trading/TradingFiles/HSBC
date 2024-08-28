@@ -2463,3 +2463,101 @@ ytdReturn:17.57%
 8-27 17:35 44.17 2dP:93.0 1dP:82.0
 2d$:n:1046 max:44.2 [8-27 13:42] min:43.2 [8-23 9:33] rng:2.3% 1Key:[8-23 9:30] last:[8-27 15:59]
 1d$:n:266 max:44.2 [8-27 13:42] min:43.9 [8-27 7:35] rng:0.9% 1Key:[8-27 7:35] last:[8-27 15:59]
+*******************************************
+*STARTS* 8-28 8:21
+POS:0 COST:0.0 DELT:0k
+8-28 8:21 rng:1.0% costTgt:0.98
+8-28 8:21 tgtMargin:1.01 tgtPrice:0.0
+ytdReturn:18.83%
+*Periodic Run* 8-28 8:21 last live feed time: 8-28 8:21 been:0min p:43.79 
+8-28 8:21 43.79 2dP:28.0 1dP:100.0
+2d$:n:781 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 8:21]
+1d$:n<5
+*Periodic Run* 8-28 9:21 last live feed time: 8-28 9:18 been:2min p:43.74 
+8-28 9:21 43.74 2dP:20.0 1dP:100.0
+2d$:n:788 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 9:18]
+1d$:n:8 max:43.7 [8-28 8:21] min:43.7 [8-28 8:27] rng:0.1% 1Key:[8-28 8:21] last:[8-28 9:18]
+09:36:09.889111749 no blocking orders,empty
+*1Buy*@43.64 8-28 9:36:09 1dp:9.0 2dp:6.0
+cash remaining: 217686.42
+0:240828007 HSBC BUY 128 @43.59 9:36 bid is:43.63
+9:36 0: HSBC orderID:240828007 tradeID:240828007 BUY 128 @43.59 factor:0.999 HSBC 8-28 9:36 ADDER Created
+1:240828008 HSBC BUY 128 @43.19 9:36 bid is:43.63
+9:36 1: HSBC orderID:240828008 tradeID:240828008 BUY 128 @43.19 factor:0.99 HSBC 8-28 9:36 ADDER Created
+1D$:n:19 max:43.7 [8-28 8:21] min:43.6 [8-28 8:27] rng:0.2% 1Key:[8-28 8:21] last:[8-28 9:36]
+2D$:n:799 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 9:36]
+no blocking buy orders: All submitted orders {240828007=HSBC 8-28 9:36 ADDER Created, 240828008=HSBC 8-28 9:36 ADDER Created}
+no blocking buy orders: Active orders: [240828007=HSBC 8-28 9:36 ADDER Created, 240828008=HSBC 8-28 9:36 ADDER Created]
+active orders grouped by buysell: {BUY=[240828007, 240828008]}
+2024-08-28T09:36:10.637 no blocking orders 
+8-28 9:36 *openOrder* status:Submitted 240828007 BUY 128@43.59
+8-28 9:36 *openOrder* all live orders [240828007 BUY 128@43.59]
+8-28 9:36 *OrderStatus*:Submitted orderId:240828007 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+8-28 9:36 *openOrder* status:PreSubmitted 240828008 BUY 128@43.19
+8-28 9:36 *openOrder* all live orders [240828007 BUY 128@43.59, 240828008 BUY 128@43.19]
+8-28 9:36 *OrderStatus*:PreSubmitted orderId:240828008 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+8-28 9:36 *openOrder* status:Submitted 240828008 BUY 128@43.19
+8-28 9:36 *openOrder* all live orders [240828007 BUY 128@43.59, 240828008 BUY 128@43.19]
+8-28 9:36 *OrderStatus*:Submitted orderId:240828008 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240828007=HSBC 8-28 9:36 ADDER Submitted, 240828008=HSBC 8-28 9:36 ADDER Submitted}
+no blocking buy orders: Active orders: [240828007=HSBC 8-28 9:36 ADDER Submitted, 240828008=HSBC 8-28 9:36 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828007, 240828008]}
+2024-08-28T09:36:17.145 no blocking orders 
+no blocking buy orders: All submitted orders {240828007=HSBC 8-28 9:36 ADDER Submitted, 240828008=HSBC 8-28 9:36 ADDER Submitted}
+no blocking buy orders: Active orders: [240828007=HSBC 8-28 9:36 ADDER Submitted, 240828008=HSBC 8-28 9:36 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828007, 240828008]}
+2024-08-28T09:36:17.896 no blocking orders 
+*Periodic Run* 8-28 10:21 last live feed time: 8-28 10:21 been:0min p:43.77 
+8-28 10:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 10:21 *chek openOrders*: [240828007, 240828008]
+8-28 10:21 43.77 2dP:25.0 1dP:78.0
+2d$:n:837 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 10:21]
+1d$:n:57 max:43.8 [8-28 9:56] min:43.6 [8-28 8:27] rng:0.4% 1Key:[8-28 8:21] last:[8-28 10:21]
+*Periodic Run* 8-28 11:21 last live feed time: 8-28 11:20 been:1min p:43.84 
+8-28 11:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 11:21 *chek openOrders*: [240828007, 240828008]
+8-28 11:21 43.84 2dP:36.0 1dP:81.0
+2d$:n:884 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 11:20]
+1d$:n:104 max:43.9 [8-28 11:07] min:43.6 [8-28 8:27] rng:0.6% 1Key:[8-28 8:21] last:[8-28 11:20]
+*Periodic Run* 8-28 12:21 last live feed time: 8-28 12:21 been:0min p:43.85 
+8-28 12:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 12:21 *chek openOrders*: [240828007, 240828008]
+8-28 12:21 43.85 2dP:37.0 1dP:81.0
+2d$:n:913 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 12:21]
+1d$:n:133 max:43.9 [8-28 11:07] min:43.6 [8-28 8:27] rng:0.6% 1Key:[8-28 8:21] last:[8-28 12:21]
+*Periodic Run* 8-28 13:21 last live feed time: 8-28 13:17 been:4min p:43.9 
+8-28 13:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 13:21 *chek openOrders*: [240828007, 240828008]
+8-28 13:21 43.9 2dP:45.0 1dP:100.0
+2d$:n:933 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 13:17]
+1d$:n:153 max:43.9 [8-28 11:07] min:43.6 [8-28 8:27] rng:0.6% 1Key:[8-28 8:21] last:[8-28 13:17]
+*Periodic Run* 8-28 14:21 last live feed time: 8-28 14:21 been:0min p:43.82 
+8-28 14:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 14:21 *chek openOrders*: [240828007, 240828008]
+8-28 14:21 43.82 2dP:33.0 1dP:66.0
+2d$:n:973 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 14:21]
+1d$:n:193 max:43.9 [8-28 13:32] min:43.6 [8-28 8:27] rng:0.6% 1Key:[8-28 8:21] last:[8-28 14:21]
+8-28 14:25 *openOrder* status:Submitted 240828007 BUY 128@43.59
+8-28 14:25 *openOrder* all live orders [240828007 BUY 128@43.59, 240828008 BUY 128@43.19]
+8-28 14:25 *OrderStatus*:Submitted orderId:240828007 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+8-28 14:25 *openOrder* status:Submitted 240828008 BUY 128@43.19
+8-28 14:25 *openOrder* all live orders [240828007 BUY 128@43.59, 240828008 BUY 128@43.19]
+8-28 14:25 *OrderStatus*:Submitted orderId:240828008 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-28 15:21 last live feed time: 8-28 15:21 been:0min p:43.94 
+8-28 15:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 15:21 *chek openOrders*: [240828007, 240828008]
+8-28 15:21 43.94 2dP:52.0 1dP:100.0
+2d$:n:1023 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 15:21]
+1d$:n:243 max:43.9 [8-28 15:20] min:43.6 [8-28 8:27] rng:0.7% 1Key:[8-28 8:21] last:[8-28 15:21]
+8-28 16:00 *openOrder* status:Submitted 240828008 BUY 128@43.19
+8-28 16:00 *openOrder* all live orders [240828007 BUY 128@43.59, 240828008 BUY 128@43.19]
+8-28 16:00 *OrderStatus*:Submitted orderId:240828008 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+8-28 16:00 *openOrder* status:Submitted 240828007 BUY 128@43.59
+8-28 16:00 *openOrder* all live orders [240828007 BUY 128@43.59, 240828008 BUY 128@43.19]
+8-28 16:00 *OrderStatus*:Submitted orderId:240828007 filled:0 remaining:128 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-28 16:21 last live feed time: 8-28 16:00 been:21min p:43.95 
+8-28 16:21 *chek orderStatus [240828007=Submitted, 240828008=Submitted]
+8-28 16:21 *chek openOrders*: [240828007, 240828008]
+8-28 16:21 43.95 2dP:53.0 1dP:89.0
+2d$:n:1055 max:44.2 [8-27 13:42] min:43.6 [8-26 9:35] rng:1.4% 1Key:[8-26 9:30] last:[8-28 16:00]
+1d$:n:275 max:44.0 [8-28 15:45] min:43.6 [8-28 8:27] rng:0.8% 1Key:[8-28 8:21] last:[8-28 16:00]

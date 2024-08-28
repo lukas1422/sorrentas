@@ -1695,3 +1695,950 @@ ytdReturn:39.28%
 8-27 17:35 49.02 2dP:81.0 1dP:100.0
 2d$:n:1134 max:49.2 [8-26 10:11] min:48.1 [8-23 9:31] rng:2.2% 1Key:[8-23 9:30] last:[8-27 17:25]
 1d$:n:354 max:49.0 [8-27 11:05] min:48.4 [8-27 9:30] rng:1.2% 1Key:[8-27 8:51] last:[8-27 17:25]
+*******************************************
+*STARTS* 8-28 8:21
+POS:0 COST:0.0 DELT:0k
+8-28 8:21 rng:2.4% costTgt:0.976
+8-28 8:21 tgtMargin:1.019 tgtPrice:0.0
+ytdReturn:40.23%
+*Periodic Run* 8-28 8:21 last live feed time: 8-28 8:21 been:0min p:48.95 
+8-28 8:21 48.95 2dP:66.0 1dP:100.0
+2d$:n:781 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 8:21]
+1d$:n<5
+*Periodic Run* 8-28 9:21 last live feed time: 8-28 8:21 been:60min p:48.95 
+8-28 9:21 48.95 2dP:66.0 1dP:100.0
+2d$:n:781 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 8:21]
+1d$:n<5
+*Periodic Run* 8-28 10:21 last live feed time: 8-28 10:21 been:0min p:49.01 
+8-28 10:21 49.01 2dP:73.0 1dP:76.0
+2d$:n:834 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 10:21]
+1d$:n:54 max:49.1 [8-28 9:49] min:48.8 [8-28 9:37] rng:0.7% 1Key:[8-28 8:21] last:[8-28 10:21]
+*Periodic Run* 8-28 11:21 last live feed time: 8-28 11:21 been:0min p:49.04 
+8-28 11:21 49.04 2dP:77.0 1dP:74.0
+2d$:n:894 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 11:21]
+1d$:n:114 max:49.1 [8-28 11:11] min:48.8 [8-28 9:37] rng:0.8% 1Key:[8-28 8:21] last:[8-28 11:21]
+*Periodic Run* 8-28 12:21 last live feed time: 8-28 12:21 been:0min p:48.65 
+8-28 12:21 48.65 2dP:29.0 1dP:1.0
+2d$:n:951 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 12:21]
+1d$:n:171 max:49.1 [8-28 11:11] min:48.6 [8-28 12:19] rng:1.0% 1Key:[8-28 8:21] last:[8-28 12:21]
+12:23:59.825615777 no blocking orders,empty
+*1Buy*@48.58 8-28 12:23:59 1dp:0.0 2dp:17.0
+cash remaining: 201724.02
+0:240828024 IP BUY 115 @48.51 12:23 bid is:48.56
+12:23 0: IP orderID:240828024 tradeID:240828024 BUY 115 @48.51 factor:0.999 IP 8-28 12:23 ADDER Created
+1:240828025 IP BUY 115 @47.64 12:23 bid is:48.56
+12:23 1: IP orderID:240828025 tradeID:240828025 BUY 115 @47.64 factor:0.9809806646342235 IP 8-28 12:23 ADDER Created
+1D$:n:173 max:49.1 [8-28 11:11] min:48.6 [8-28 12:23] rng:1.0% 1Key:[8-28 8:21] last:[8-28 12:23]
+2D$:n:953 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 12:23]
+8-28 12:24 *openOrder* status:Submitted 240828024 BUY 115@48.51
+8-28 12:24 *openOrder* all live orders [240828024 BUY 115@48.51]
+8-28 12:24 *OrderStatus*:Submitted orderId:240828024 filled:0 remaining:115 avgFillPx:0.0 lastFillPx:0.0
+8-28 12:24 *openOrder* status:Submitted 240828025 BUY 115@47.64
+8-28 12:24 *openOrder* all live orders [240828024 BUY 115@48.51, 240828025 BUY 115@47.64]
+8-28 12:24 *OrderStatus*:Submitted orderId:240828025 filled:0 remaining:115 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T12:24:04.576 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T12:24:10.334 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T12:26:02.989 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T12:26:06.242 no blocking orders 
+*Periodic Run* 8-28 13:21 last live feed time: 8-28 13:21 been:0min p:48.63 
+8-28 13:21 *chek orderStatus [240828024=Submitted, 240828025=Submitted]
+8-28 13:21 *chek openOrders*: [240828024, 240828025]
+8-28 13:21 48.63 2dP:26.0 1dP:10.0
+2d$:n:998 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 13:21]
+1d$:n:218 max:49.1 [8-28 11:11] min:48.6 [8-28 12:23] rng:1.2% 1Key:[8-28 8:21] last:[8-28 13:21]
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:37:00.233 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:37:16.502 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:37:18.254 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:37:24.761 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:37:25.513 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:37:34.025 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:39:02.643 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:39:42.198 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:39:42.949 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:39:43.703 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:42:45.208 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:42:45.958 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:42:46.707 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:43:16.249 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:43:26.261 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:43:33.272 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:44:30.604 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:44:31.351 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:45:03.897 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:45:19.419 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:45:24.426 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:45:30.934 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:45:40.949 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:46:06.233 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:46:06.986 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:47:01.308 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:47:30.349 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:47:37.352 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:47:50.120 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:47:50.870 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:48:02.886 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:48:50.453 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:49:15.994 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:49:19.248 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:49:29.511 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:50:06.352 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:50:55.878 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:50:57.382 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:51:18.908 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:51:45.446 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:09.476 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:17.737 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:25.246 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:25.998 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:34.010 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:41.270 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:52:50.280 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:53:09.054 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:53:24.325 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:54:20.400 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:54:25.905 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:54:28.411 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:54:30.913 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:54:51.190 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:55:00.200 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:55:00.952 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:55:29.238 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:55:39.249 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:56:43.331 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:57:38.401 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:57:44.409 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:57:50.169 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828024=IP 8-28 12:23 ADDER Submitted, 240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828024, 240828025]}
+2024-08-28T13:57:58.927 no blocking orders 
+updating pos: IP 8-28 13:58 pos:17 cost:48.51
+8-28 13:58 *tradeReport* time: 2024-08-28T13:58:06 BOT execPx:48.51 shares:17 avgPx:48.51
+8-28 13:58 *openOrder* status:Submitted 240828024 BUY 115@48.51
+8-28 13:58 *openOrder* all live orders [240828024 BUY 115@48.51, 240828025 BUY 115@47.64]
+8-28 13:58 *OrderStatus*:Submitted orderId:240828024 filled:17 remaining:98 avgFillPx:48.51 lastFillPx:48.51
+updating pos: IP 8-28 13:58 pos:115 cost:48.51
+8-28 13:58 *tradeReport* time: 2024-08-28T13:58:06 BOT execPx:48.51 shares:98 avgPx:48.51
+8-28 13:58 *openOrder* status:Filled 240828024 BUY 115@48.51
+8-28 13:58 *openOrder*:removing order.Status:Filled 240828024 BUY 115@48.51
+8-28 13:58 *openOrder*:after removal.OpenOrders: [240828025]
+8-28 13:58 *openOrder* all live orders [240828025 BUY 115@47.64]
+8-28 13:58 *OrderStatus*:Filled orderId:240828024 filled:115 remaining:0 avgFillPx:48.51 lastFillPx:48.51
+8-28 13:58 *openOrder* status:Filled 240828024 BUY 115@48.51
+8-28 13:58 *openOrder*:removing order.Status:Filled 240828024 BUY 115@48.51
+8-28 13:58 *openOrder*:after removal.OpenOrders: [240828025]
+8-28 13:58 *openOrder* all live orders [240828025 BUY 115@47.64]
+8-28 13:58 *OrderStatus*:Filled orderId:240828024 filled:115 remaining:0 avgFillPx:48.51 lastFillPx:48.51
+1.*commission report*:240828024 commission:0.33 
+2.*commission report* orderID:240828024 commission: 0.33 
+updating pos: IP 8-28 13:58 pos:115 cost:48.51
+8-28 13:58 *openOrder* status:Filled 240828024 BUY 115@48.51
+8-28 13:58 *openOrder*:removing order.Status:Filled 240828024 BUY 115@48.51
+8-28 13:58 *openOrder*:after removal.OpenOrders: [240828025]
+8-28 13:58 *openOrder* all live orders [240828025 BUY 115@47.64]
+8-28 13:58 *OrderStatus*:Filled orderId:240828024 filled:115 remaining:0 avgFillPx:48.51 lastFillPx:48.51
+1.*commission report*:240828024 commission:-0.05 
+2.*commission report* orderID:240828024 commission: -0.05 
+updating pos: IP 8-28 13:58 pos:115 cost:48.51
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T13:58:14.448 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T13:58:27.465 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T13:58:28.215 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T13:58:28.967 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T13:58:45.242 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T13:59:36.056 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:00:51.406 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:00:59.417 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:01:06.175 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:01:08.929 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:02:17.268 no blocking orders 
+updating pos: IP 8-28 14:02 pos:115 cost:48.51
+updating pos: IP 8-28 14:02 pos:115 cost:48.51
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:02:43.550 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:03:25.355 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:03:50.641 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:05:52.365 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:05:56.121 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:06:11.142 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:06:32.670 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:06:34.422 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:07:20.981 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:07:48.517 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:07:55.024 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:08:21.061 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:08:28.072 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:16:56.145 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:17:05.659 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:17:14.676 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:17:15.420 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:17:22.185 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:18:38.027 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:19:09.756 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:19:27.530 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:19:28.278 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:19:53.318 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:20:00.323 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:10.814 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:11.568 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:12.319 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:16.574 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:17.324 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:19.578 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:33.345 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:34.098 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:35.098 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:37.352 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:38.102 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:41.609 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:42.608 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:51.870 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:21:52.621 no blocking orders 
+*Periodic Run* 8-28 14:21 last live feed time: 8-28 14:21 been:0min p:48.53 cost:48.5 p/cost:1.0
+p:48.53 rng:2.4% pos:115 delt:6k cost:48.5 fullLot:345 refillP:46.59 costTgt:0.976 refillP/cost:0.96 refillP/px:0.96
+8-28 14:21 *chek orderStatus [240828024=Filled, 240828025=Submitted]
+8-28 14:21 *chek openOrders*: [240828025]
+8-28 14:21 48.53 2dP:14.0 1dP:3.0
+2d$:n:1047 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 14:21]
+1d$:n:267 max:49.1 [8-28 11:11] min:48.5 [8-28 14:21] rng:1.3% 1Key:[8-28 8:21] last:[8-28 14:21]
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:22:03.386 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:22:08.148 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:22:25.418 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:22:41.688 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:22:51.700 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:25.246 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:31.756 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:32.507 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:41.268 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:42.024 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:51.533 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:23:55.290 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:24:28.332 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:25:00.375 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:25:05.385 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:25:14.924 no blocking orders 
+8-28 14:25 *openOrder* status:Submitted 240828025 BUY 115@47.64
+8-28 14:25 *openOrder* all live orders [240828025 BUY 115@47.64]
+8-28 14:25 *OrderStatus*:Submitted orderId:240828025 filled:0 remaining:115 avgFillPx:0.0 lastFillPx:0.0
+updating pos: IP 8-28 14:25 pos:115 cost:48.51
+updating pos: IP 8-28 14:25 pos:115 cost:48.51
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:26:42.178 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:26:42.928 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:27:01.953 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:27:11.463 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:28:57.101 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:28:57.851 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:29:08.364 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:29:36.402 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:30:01.934 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:30:03.436 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:30:09.694 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:31:40.313 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:31:41.064 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:32:01.338 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:32:22.113 no blocking orders 
+updating pos: IP 8-28 14:32 pos:115 cost:48.51
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:32:54.153 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:33:03.164 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:33:04.433 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:33:10.675 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:33:11.427 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:34:07.246 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:34:27.019 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:34:27.770 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:34:34.027 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:36:05.262 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:36:06.014 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:37:00.339 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:37:01.084 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:37:40.387 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:37:41.139 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:38:03.918 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:38:14.684 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:38:15.435 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:39:14.512 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:39:15.266 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:39:19.515 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:39:22.774 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:40:10.765 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:42:07.485 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:42:09.489 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:42:55.549 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:43:10.821 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:43:11.574 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:43:44.418 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:44:56.187 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:45:17.457 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:46:17.039 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:46:17.791 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:46:18.541 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:46:23.561 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:46:27.805 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:47:05.357 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:47:14.619 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:47:31.139 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:47:46.161 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:47:46.915 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:48:21.956 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:48:23.459 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:48:25.963 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:48:32.220 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:51:01.417 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:51:02.917 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:51:37.960 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:51:43.970 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:51:58.736 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:52:00.988 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:52:05.245 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:52:07.502 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:52:08.252 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:52:54.060 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:01.068 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:09.578 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:10.330 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:18.842 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:19.594 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:25.348 no blocking orders 
+no blocking buy orders: All submitted orders {240828024=IP 8-28 12:23 ADDER Filled, 240828025=IP 8-28 12:23 ADDER Submitted}
+no blocking buy orders: Active orders: [240828025=IP 8-28 12:23 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828025]}
+2024-08-28T14:53:35.864 no blocking orders 
+*Periodic Run* 8-28 15:21 last live feed time: 8-28 15:21 been:0min p:48.62 cost:48.5 p/cost:1.002
+p:48.62 rng:2.4% pos:115 delt:6k cost:48.5 fullLot:344 refillP:46.59 costTgt:0.976 refillP/cost:0.96 refillP/px:0.958
+8-28 15:21 *chek orderStatus [240828024=Filled, 240828025=Submitted]
+8-28 15:21 *chek openOrders*: [240828025]
+8-28 15:21 48.62 2dP:28.0 1dP:29.0
+2d$:n:1102 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 15:21]
+1d$:n:322 max:49.1 [8-28 11:11] min:48.4 [8-28 14:39] rng:1.5% 1Key:[8-28 8:21] last:[8-28 15:21]
+8-28 16:00 *openOrder* status:Submitted 240828025 BUY 115@47.64
+8-28 16:00 *openOrder* all live orders [240828025 BUY 115@47.64]
+8-28 16:00 *OrderStatus*:Submitted orderId:240828025 filled:0 remaining:115 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-28 16:21 last live feed time: 8-28 15:59 been:21min p:48.49 cost:48.5 p/cost:1.0
+p:48.49 rng:2.4% pos:115 delt:6k cost:48.5 fullLot:345 refillP:46.59 costTgt:0.976 refillP/cost:0.96 refillP/px:0.961
+8-28 16:21 *chek orderStatus [240828024=Filled, 240828025=Submitted]
+8-28 16:21 *chek openOrders*: [240828025]
+8-28 16:21 48.49 2dP:12.0 1dP:12.0
+2d$:n:1136 max:49.2 [8-26 10:11] min:48.4 [8-27 9:30] rng:1.7% 1Key:[8-26 9:30] last:[8-28 15:59]
+1d$:n:356 max:49.1 [8-28 11:11] min:48.4 [8-28 14:39] rng:1.5% 1Key:[8-28 8:21] last:[8-28 15:59]

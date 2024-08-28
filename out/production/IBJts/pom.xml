@@ -10,7 +10,7 @@
     </properties>
 
     <build>
-        <sourceDirectory>.</sourceDirectory>
+        <sourceDirectory>../source/JavaClient</sourceDirectory>
         <directory>build</directory>
 
         <plugins>

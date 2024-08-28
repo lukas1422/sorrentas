@@ -4432,3 +4432,754 @@ active orders grouped by buysell: {BUY=[240827017, 240827018]}
 8-27 17:35 143.54 2dP:42.0 1dP:29.0
 2d$:n:1137 max:144.8 [8-27 9:43] min:142.6 [8-23 12:43] rng:1.5% 1Key:[8-23 9:30] last:[8-27 16:00]
 1d$:n:357 max:144.8 [8-27 9:43] min:143.0 [8-27 15:23] rng:1.2% 1Key:[8-27 7:35] last:[8-27 16:00]
+*******************************************
+*STARTS* 8-28 8:21
+POS:0 COST:0.0 DELT:0k
+8-28 8:21 rng:1.4% costTgt:0.98
+8-28 8:21 tgtMargin:1.0113 tgtPrice:0.0
+ytdReturn:20.37%
+*Periodic Run* 8-28 8:21 8:21:57 no live feed
+8-28 8:21 0.0 2dP:29.0 1dP:100.0
+2d$:n:780 max:144.8 [8-27 9:43] min:143.0 [8-27 15:23] rng:1.2% 1Key:[8-26 9:30] last:[8-27 15:59]
+1d$:n<5
+*Periodic Run* 8-28 9:21 9:21:57 no live feed
+8-28 9:21 0.0 2dP:29.0 1dP:100.0
+2d$:n:780 max:144.8 [8-27 9:43] min:143.0 [8-27 15:23] rng:1.2% 1Key:[8-26 9:30] last:[8-27 15:59]
+1d$:n<5
+*Periodic Run* 8-28 10:21 last live feed time: 8-28 10:21 been:0min p:144.48 
+8-28 10:21 144.48 2dP:82.0 1dP:87.0
+2d$:n:831 max:144.8 [8-27 9:43] min:143.0 [8-27 15:23] rng:1.2% 1Key:[8-26 9:30] last:[8-28 10:21]
+1d$:n:51 max:144.6 [8-28 10:15] min:143.7 [8-28 9:58] rng:0.6% 1Key:[8-28 9:30] last:[8-28 10:21]
+*Periodic Run* 8-28 11:21 last live feed time: 8-28 11:21 been:0min p:144.99 
+8-28 11:21 144.99 2dP:90.0 1dP:86.0
+2d$:n:888 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 11:21]
+1d$:n:108 max:145.2 [8-28 11:14] min:143.7 [8-28 9:58] rng:1.0% 1Key:[8-28 9:30] last:[8-28 11:21]
+*Periodic Run* 8-28 12:21 last live feed time: 8-28 12:21 been:0min p:144.18 
+8-28 12:21 144.18 2dP:53.0 1dP:31.0
+2d$:n:948 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 12:21]
+1d$:n:168 max:145.2 [8-28 11:14] min:143.7 [8-28 9:58] rng:1.0% 1Key:[8-28 9:30] last:[8-28 12:21]
+*Periodic Run* 8-28 13:21 last live feed time: 8-28 13:21 been:0min p:143.69 
+8-28 13:21 143.69 2dP:31.0 1dP:0.0
+2d$:n:1007 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 13:21]
+1d$:n:227 max:145.2 [8-28 11:14] min:143.7 [8-28 9:58] rng:1.0% 1Key:[8-28 9:30] last:[8-28 13:21]
+13:57:24.884225313 no blocking orders,empty
+*1Buy*@143.41 8-28 13:57:24 1dp:0.0 2dp:18.0
+cash remaining: 196143.4
+0:240828026 KMB BUY 38 @143.27 13:57 bid is:143.41
+13:57 0: KMB orderID:240828026 tradeID:240828026 BUY 38 @143.27 factor:0.999 KMB 8-28 13:57 ADDER Created
+1:240828027 KMB BUY 38 @141.79 13:57 bid is:143.41
+13:57 1: KMB orderID:240828027 tradeID:240828027 BUY 38 @141.79 factor:0.988719517979288 KMB 8-28 13:57 ADDER Created
+1D$:n:259 max:145.2 [8-28 11:14] min:143.5 [8-28 13:57] rng:1.2% 1Key:[8-28 9:30] last:[8-28 13:57]
+2D$:n:1039 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 13:57]
+8-28 13:57 *openOrder* status:Submitted 240828026 BUY 38@143.27
+8-28 13:57 *openOrder* all live orders [240828026 BUY 38@143.27]
+8-28 13:57 *OrderStatus*:Submitted orderId:240828026 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+8-28 13:57 *openOrder* status:Submitted 240828027 BUY 38@141.79
+8-28 13:57 *openOrder* all live orders [240828026 BUY 38@143.27, 240828027 BUY 38@141.79]
+8-28 13:57 *OrderStatus*:Submitted orderId:240828027 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:57:26.635 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:57:28.137 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:57:45.659 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:57:46.411 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:57:52.168 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:58:10.943 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:58:17.955 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:58:26.464 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:58:42.984 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:58:56.001 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:59:22.290 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:59:39.560 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T13:59:48.823 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:00:34.885 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:00:41.397 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:00:42.896 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:00:43.648 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:01:09.179 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:01:35.962 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:01:38.716 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:01:39.467 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:01:40.219 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:02:05.500 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:02:09.254 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:02:10.008 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:02:48.808 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:02:49.810 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:02:54.063 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:03:18.594 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:03:19.348 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:03:20.097 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:04:03.402 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:04:09.157 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:04:42.381 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:05:17.568 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:05:39.099 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:05:40.852 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:05:41.603 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:05:54.369 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:06:11.143 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:06:34.172 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:17:44.709 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:17:58.980 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:18:03.983 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:18:12.494 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:18:13.246 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:21:02.805 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:21:42.361 no blocking orders 
+*Periodic Run* 8-28 14:21 last live feed time: 8-28 14:21 been:0min p:143.47 
+8-28 14:21 *chek orderStatus [240828026=Submitted, 240828027=Submitted]
+8-28 14:21 *chek openOrders*: [240828026, 240828027]
+8-28 14:21 143.47 2dP:21.0 1dP:6.0
+2d$:n:1063 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 14:21]
+1d$:n:283 max:145.2 [8-28 11:14] min:143.4 [8-28 14:05] rng:1.3% 1Key:[8-28 9:30] last:[8-28 14:21]
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:23:15.736 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:23:18.989 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:23:52.035 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:23:53.535 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:25:00.375 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:25:20.905 no blocking orders 
+8-28 14:25 *openOrder* status:Submitted 240828026 BUY 38@143.27
+8-28 14:25 *openOrder* all live orders [240828026 BUY 38@143.27, 240828027 BUY 38@141.79]
+8-28 14:25 *OrderStatus*:Submitted orderId:240828026 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+8-28 14:25 *openOrder* status:Submitted 240828027 BUY 38@141.79
+8-28 14:25 *openOrder* all live orders [240828026 BUY 38@143.27, 240828027 BUY 38@141.79]
+8-28 14:25 *OrderStatus*:Submitted orderId:240828027 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:11.139 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:13.645 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:33.417 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:43.679 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:49.438 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:57.446 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:59.198 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:26:59.950 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:27:10.963 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:27:11.715 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:27:41.753 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:27:42.502 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:28:11.040 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828026=KMB 8-28 13:57 ADDER Submitted, 240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828026, 240828027]}
+2024-08-28T14:28:15.298 no blocking orders 
+updating pos: KMB 8-28 14:28 pos:38 cost:143.27
+8-28 14:28 *tradeReport* time: 2024-08-28T14:28:17 BOT execPx:143.27 shares:38 avgPx:143.27
+8-28 14:28 *openOrder* status:Filled 240828026 BUY 38@143.27
+8-28 14:28 *openOrder*:removing order.Status:Filled 240828026 BUY 38@143.27
+8-28 14:28 *openOrder*:after removal.OpenOrders: [240828027]
+8-28 14:28 *openOrder* all live orders [240828027 BUY 38@141.79]
+8-28 14:28 *OrderStatus*:Filled orderId:240828026 filled:38 remaining:0 avgFillPx:143.27 lastFillPx:143.27
+8-28 14:28 *openOrder* status:Filled 240828026 BUY 38@143.27
+8-28 14:28 *openOrder*:removing order.Status:Filled 240828026 BUY 38@143.27
+8-28 14:28 *openOrder*:after removal.OpenOrders: [240828027]
+8-28 14:28 *openOrder* all live orders [240828027 BUY 38@141.79]
+8-28 14:28 *OrderStatus*:Filled orderId:240828026 filled:38 remaining:0 avgFillPx:143.27 lastFillPx:143.27
+1.*commission report*:240828026 commission:0.31 
+2.*commission report* orderID:240828026 commission: 0.31 
+updating pos: KMB 8-28 14:28 pos:38 cost:143.28
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:28:38.576 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:28:54.596 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:29:54.925 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:30:06.690 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:30:21.713 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:30:44.991 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:31:01.262 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:31:26.796 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:31:27.545 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:31:31.301 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:31:47.572 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:32:06.095 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:32:07.348 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:32:32.378 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:32:43.891 no blocking orders 
+updating pos: KMB 8-28 14:32 pos:38 cost:143.28
+updating pos: KMB 8-28 14:32 pos:38 cost:143.28
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:33:46.719 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:33:48.221 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:33:52.977 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:33:59.235 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:34:42.793 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:34:50.302 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:34:51.050 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:34:53.804 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:34:59.308 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:35:08.068 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:36:06.770 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:36:30.295 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:36:46.065 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:36:48.322 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:36:49.822 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:37:34.882 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:37:42.892 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:37:59.664 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:38:06.171 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:39:02.494 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:39:16.011 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:38.803 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:39.557 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:40.308 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:42.056 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:44.060 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:45.061 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:49.323 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:50.071 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:56.075 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:40:56.827 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:41:19.607 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:41:48.397 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:41:54.969 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:42:00.727 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:42:13.994 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:42:58.056 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:43:24.340 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:43:25.091 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:44:17.962 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:44:18.714 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:45:00.186 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:45:01.438 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:45:01.937 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:45:11.702 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:45:41.240 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:46:23.561 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:46:46.082 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:46:57.844 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:47:48.162 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:47:49.664 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:47:59.178 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:48:31.970 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:49:09.272 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:49:11.026 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:49:12.776 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:50:03.091 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:50:24.370 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:50:31.126 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:50:44.894 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:50:45.645 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:50:46.398 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:51:28.699 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:51:33.706 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:51:38.964 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:00.740 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:01.491 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:11.004 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:12.506 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:17.011 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:17.765 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:24.523 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:47.051 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:47.804 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:56.814 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:52:58.314 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:53:10.330 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:53:47.128 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:54:05.903 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:54:18.424 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:54:33.191 no blocking orders 
+no blocking buy orders: All submitted orders {240828026=KMB 8-28 13:57 ADDER Filled, 240828027=KMB 8-28 13:57 ADDER Submitted}
+no blocking buy orders: Active orders: [240828027=KMB 8-28 13:57 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240828027]}
+2024-08-28T14:54:39.700 no blocking orders 
+*Periodic Run* 8-28 15:21 last live feed time: 8-28 15:21 been:0min p:143.43 cost:143.3 p/cost:1.001
+p:143.43 rng:1.4% pos:38 delt:5k cost:143.3 fullLot:116 refillP:138.54 costTgt:0.98 refillP/cost:0.967 refillP/px:0.966
+8-28 15:21 *chek orderStatus [240828026=Filled, 240828027=Submitted]
+8-28 15:21 *chek openOrders*: [240828027]
+8-28 15:21 143.43 2dP:19.0 1dP:10.0
+2d$:n:1123 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 15:21]
+1d$:n:343 max:145.2 [8-28 11:14] min:143.2 [8-28 14:28] rng:1.4% 1Key:[8-28 9:30] last:[8-28 15:21]
+8-28 16:00 *openOrder* status:Submitted 240828027 BUY 38@141.79
+8-28 16:00 *openOrder* all live orders [240828027 BUY 38@141.79]
+8-28 16:00 *OrderStatus*:Submitted orderId:240828027 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-28 16:21 last live feed time: 8-28 16:00 been:21min p:143.86 cost:143.3 p/cost:1.004
+p:143.86 rng:1.4% pos:38 delt:5k cost:143.3 fullLot:116 refillP:138.54 costTgt:0.98 refillP/cost:0.967 refillP/px:0.963
+8-28 16:21 *chek orderStatus [240828026=Filled, 240828027=Submitted]
+8-28 16:21 *chek openOrders*: [240828027]
+8-28 16:21 143.86 2dP:39.0 1dP:32.0
+2d$:n:1162 max:145.2 [8-28 11:14] min:143.0 [8-27 15:23] rng:1.5% 1Key:[8-26 9:30] last:[8-28 16:00]
+1d$:n:382 max:145.2 [8-28 11:14] min:143.2 [8-28 14:28] rng:1.4% 1Key:[8-28 9:30] last:[8-28 16:00]
