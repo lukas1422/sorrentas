@@ -4388,3 +4388,504 @@ ytdReturn:35.14%
 8-28 16:21 105.79 2dP:68.0 1dP:40.0
 2d$:n:1170 max:106.6 [8-28 9:30] min:104.1 [8-26 9:30] rng:2.3% 1Key:[8-26 9:30] last:[8-28 16:00]
 1d$:n:390 max:106.6 [8-28 9:30] min:105.3 [8-28 15:14] rng:1.2% 1Key:[8-28 9:13] last:[8-28 16:00]
+*******************************************
+*STARTS* 8-29 7:43
+POS:0 COST:0.0 DELT:0k
+8-29 7:43 rng:1.3% costTgt:0.98
+8-29 7:43 tgtMargin:1.0108 tgtPrice:0.0
+ytdReturn:34.97%
+*Periodic Run* 8-29 7:43 7:43:27 no live feed
+8-29 7:43 0.0 2dP:101.0 1dP:101.0
+2d$:n:780 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-28 15:59]
+1d$:n<5
+*Periodic Run* 8-29 8:43 last live feed time: 8-29 8:00 been:43min p:106.5 
+8-29 8:43 106.5 2dP:95.0 1dP:100.0
+2d$:n:781 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 8:00]
+1d$:n<5
+*Periodic Run* 8-29 9:43 last live feed time: 8-29 9:43 been:0min p:105.87 
+8-29 9:43 105.87 2dP:49.0 1dP:90.0
+2d$:n:796 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 9:43]
+1d$:n:16 max:105.9 [8-29 8:00] min:105.6 [8-29 9:36] rng:0.3% 1Key:[8-29 8:00] last:[8-29 9:43]
+09:56:42.304666777 no blocking orders,empty
+*1Buy*@105.43 8-29 9:56:42 1dp:0.0 2dp:17.0
+cash remaining: 174602.59
+0:240829018 CL BUY 53 @105.32 9:56 bid is:105.43
+9:56 0: CL orderID:240829018 tradeID:240829018 BUY 53 @105.32 factor:0.999 CL 8-29 9:56 ADDER Created
+1:240829019 CL BUY 53 @104.3 9:56 bid is:105.43
+9:56 1: CL orderID:240829019 tradeID:240829019 BUY 53 @104.3 factor:0.9892439891023472 CL 8-29 9:56 ADDER Created
+1D$:n:29 max:105.9 [8-29 8:00] min:105.5 [8-29 9:56] rng:0.4% 1Key:[8-29 8:00] last:[8-29 9:56]
+2D$:n:809 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 9:56]
+8-29 9:56 *openOrder* status:Submitted 240829018 BUY 53@105.32
+8-29 9:56 *openOrder* all live orders [240829018 BUY 53@105.32]
+8-29 9:56 *OrderStatus*:Submitted orderId:240829018 filled:0 remaining:53 avgFillPx:0.0 lastFillPx:0.0
+8-29 9:56 *openOrder* status:PreSubmitted 240829019 BUY 53@104.3
+8-29 9:56 *openOrder* all live orders [240829018 BUY 53@105.32, 240829019 BUY 53@104.3]
+8-29 9:56 *OrderStatus*:PreSubmitted orderId:240829019 filled:0 remaining:53 avgFillPx:0.0 lastFillPx:0.0
+8-29 9:56 *openOrder* status:Submitted 240829019 BUY 53@104.3
+8-29 9:56 *openOrder* all live orders [240829018 BUY 53@105.32, 240829019 BUY 53@104.3]
+8-29 9:56 *OrderStatus*:Submitted orderId:240829019 filled:0 remaining:53 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:56:43.162 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:56:57.438 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:15.524 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:16.145 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:16.821 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:18.988 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:19.826 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:21.930 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:24.965 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:25.789 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:30.882 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:35.140 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:36.019 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:46.928 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:57:48.444 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:02.476 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:11.219 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:11.965 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:13.971 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:14.720 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:37.799 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:47.079 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:47.766 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:58:55.026 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:04.541 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:05.183 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:13.520 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:38.681 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:49.208 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:58.703 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T09:59:59.866 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:03.124 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:10.425 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:22.301 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:33.342 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:34.087 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:38.586 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:44.098 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:00:53.146 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:02.881 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:22.429 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:30.463 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:34.426 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:35.189 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:36.957 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:02:44.058 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:03:13.382 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:03:20.877 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:03:26.893 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:05:31.181 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:05:32.931 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:05:33.692 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:05:45.662 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:05:50.218 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:05:50.969 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:06:04.324 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:07:27.058 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:07:27.833 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:07:30.796 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:07:34.044 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:07:34.797 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:07:52.323 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:10.321 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:15.689 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:18.630 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:23.222 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:24.009 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:31.536 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:33.352 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:34.015 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:34.883 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:38.986 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:42.495 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:47.492 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829018=CL 8-29 9:56 ADDER Submitted, 240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829018, 240829019]}
+2024-08-29T10:08:51.214 no blocking orders 
+updating pos: CL 8-29 10:08 pos:53 cost:105.32
+8-29 10:08 *tradeReport* time: 2024-08-29T10:08:59 BOT execPx:105.32 shares:53 avgPx:105.32
+8-29 10:08 *openOrder* status:Filled 240829018 BUY 53@105.32
+8-29 10:08 *openOrder*:removing order.Status:Filled 240829018 BUY 53@105.32
+8-29 10:08 *openOrder*:after removal.OpenOrders: [240829019]
+8-29 10:08 *openOrder* all live orders [240829019 BUY 53@104.3]
+8-29 10:08 *OrderStatus*:Filled orderId:240829018 filled:53 remaining:0 avgFillPx:105.32 lastFillPx:105.32
+8-29 10:08 *openOrder* status:Filled 240829018 BUY 53@105.32
+8-29 10:08 *openOrder*:removing order.Status:Filled 240829018 BUY 53@105.32
+8-29 10:08 *openOrder*:after removal.OpenOrders: [240829019]
+8-29 10:08 *openOrder* all live orders [240829019 BUY 53@104.3]
+8-29 10:08 *OrderStatus*:Filled orderId:240829018 filled:53 remaining:0 avgFillPx:105.32 lastFillPx:105.32
+1.*commission report*:240829018 commission:0.3 
+2.*commission report* orderID:240829018 commission: 0.3 
+updating pos: CL 8-29 10:08 pos:53 cost:105.33
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:08:59.660 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:00.394 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:01.154 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:01.916 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:02.653 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:03.848 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:06.598 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:07.300 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:08.038 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:10.536 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:12.061 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:13.776 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:15.721 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:17.043 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:19.951 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:20.641 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:22.991 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:23.684 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:24.465 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:35.801 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:36.589 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:42.974 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:43.732 no blocking orders 
+no blocking buy orders: All submitted orders {240829018=CL 8-29 9:56 ADDER Filled, 240829019=CL 8-29 9:56 ADDER Submitted}
+no blocking buy orders: Active orders: [240829019=CL 8-29 9:56 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240829019]}
+2024-08-29T10:09:44.496 no blocking orders 
+updating pos: CL 8-29 10:13 pos:53 cost:105.33
+updating pos: CL 8-29 10:13 pos:53 cost:105.33
+*Periodic Run* 8-29 10:43 last live feed time: 8-29 10:43 been:0min p:105.8 cost:105.3 p/cost:1.005
+p:105.8 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.962
+8-29 10:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 10:43 *chek openOrders*: [240829019]
+8-29 10:43 105.8 2dP:44.0 1dP:65.0
+2d$:n:856 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 10:43]
+1d$:n:76 max:106.0 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 10:43]
+*Periodic Run* 8-29 11:43 last live feed time: 8-29 11:43 been:0min p:105.77 cost:105.3 p/cost:1.004
+p:105.77 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.963
+8-29 11:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 11:43 *chek openOrders*: [240829019]
+8-29 11:43 105.77 2dP:42.0 1dP:61.0
+2d$:n:916 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 11:43]
+1d$:n:136 max:106.0 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 11:43]
+*Periodic Run* 8-29 12:43 last live feed time: 8-29 12:43 been:0min p:105.84 cost:105.3 p/cost:1.005
+p:105.84 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.962
+8-29 12:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 12:43 *chek openOrders*: [240829019]
+8-29 12:43 105.84 2dP:47.0 1dP:71.0
+2d$:n:976 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 12:43]
+1d$:n:196 max:106.0 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 12:43]
+*Periodic Run* 8-29 13:43 last live feed time: 8-29 13:43 been:0min p:105.8 cost:105.3 p/cost:1.005
+p:105.8 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.962
+8-29 13:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 13:43 *chek openOrders*: [240829019]
+8-29 13:43 105.8 2dP:44.0 1dP:65.0
+2d$:n:1036 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 13:43]
+1d$:n:256 max:106.0 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 13:43]
+*Periodic Run* 8-29 14:43 last live feed time: 8-29 14:43 been:0min p:105.84 cost:105.3 p/cost:1.005
+p:105.84 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.962
+8-29 14:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 14:43 *chek openOrders*: [240829019]
+8-29 14:43 105.84 2dP:47.0 1dP:66.0
+2d$:n:1096 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 14:43]
+1d$:n:316 max:106.1 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 14:43]
+*Periodic Run* 8-29 15:43 last live feed time: 8-29 15:43 been:0min p:105.79 cost:105.3 p/cost:1.004
+p:105.79 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.962
+8-29 15:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 15:43 *chek openOrders*: [240829019]
+8-29 15:43 105.79 2dP:43.0 1dP:59.0
+2d$:n:1156 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 15:43]
+1d$:n:376 max:106.1 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 15:43]
+8-29 16:00 *openOrder* status:Submitted 240829019 BUY 53@104.3
+8-29 16:00 *openOrder* all live orders [240829019 BUY 53@104.3]
+8-29 16:00 *OrderStatus*:Submitted orderId:240829019 filled:0 remaining:53 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 8-29 16:43 last live feed time: 8-29 16:31 been:11min p:105.8 cost:105.3 p/cost:1.005
+p:105.8 rng:1.3% pos:53 delt:6k cost:105.3 fullLot:158 refillP:101.81 costTgt:0.98 refillP/cost:0.967 refillP/px:0.962
+8-29 16:43 *chek orderStatus [240829018=Filled, 240829019=Submitted]
+8-29 16:43 *chek openOrders*: [240829019]
+8-29 16:43 105.8 2dP:44.0 1dP:60.0
+2d$:n:1174 max:106.6 [8-28 9:30] min:105.2 [8-27 9:30] rng:1.3% 1Key:[8-27 9:30] last:[8-29 16:31]
+1d$:n:394 max:106.1 [8-29 8:00] min:105.3 [8-29 10:09] rng:0.7% 1Key:[8-29 8:00] last:[8-29 16:31]

@@ -3125,3 +3125,27 @@ KMB 8-28 14:28 *openOrder* FILLED 240828026 BUY 38@143.27
 KMB 8-28 14:28 *OrderStatus*: filled:240828026
 KMB 1.*commission report*:240828026 commission:0.31 
 KMB *********************
+*****START***** HKT: 19:43:07 EST: 8-29 7:43
+WMT 8-29 9:30 *openOrder* FILLED 240829009 BUY 73@75.78
+WMT 8-29 9:30 *OrderStatus*: filled:240829009
+WMT 1.*commission report*:240829009 commission:0.31 
+WMT *********************
+WMT 1.*commission report*:240829009 commission:-0.03 
+WMT *********************
+CL 8-29 10:08 *openOrder* FILLED 240829018 BUY 53@105.32
+CL 8-29 10:08 *OrderStatus*: filled:240829018
+CL 1.*commission report*:240829018 commission:0.3 
+CL *********************
+AWK 8-29 10:30 *openOrder* FILLED 240829020 SELL 8@142.35
+AWK 8-29 10:30 *OrderStatus*: filled:240829020
+AWK 1.*commission report*:240829020 commission:0.38 realized pnl:19.0 computed Pnl:19.0
+AWK *********************
+SPY 8-29 10:31 *openOrder* FILLED 240829011 SELL 6@561.99
+SPY 8-29 10:31 *OrderStatus*: filled:240829011
+SPY 1.*commission report*:240829011 commission:0.44 realized pnl:33.03 computed Pnl:33.03
+SPY *********************
+MRK 8-29 12:49 *OrderStatus*: filled:240829006
+IWM 8-29 13:34 *openOrder* FILLED 240829026 SELL 8@220.63
+IWM 8-29 13:34 *OrderStatus*: filled:240829026
+IWM 1.*commission report*:240829026 commission:0.39 realized pnl:24.87 computed Pnl:24.87
+IWM *********************
