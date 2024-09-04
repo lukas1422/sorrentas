@@ -2657,3 +2657,403 @@ ytdReturn:18.67%
 8-30 15:34 44.19 2dP:89.0 1dP:57.0
 2d$:n:834 max:44.3 [8-30 8:00] min:43.7 [8-28 9:36] rng:1.4% 1Key:[8-28 9:30] last:[8-30 10:10]
 1d$:n:54 max:44.3 [8-30 8:00] min:44.1 [8-30 9:17] rng:0.3% 1Key:[8-30 5:34] last:[8-30 10:10]
+*******************************************
+*STARTS* 9-3 1:26
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 9-3 1:26 1:26:20 no live feed
+9-3 1:26 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+9-3 1:26 rng:1.0% costTgt:0.98
+9-3 1:26 tgtMargin:1.01 tgtPrice:0.0
+ytdReturn:19.61%
+*Periodic Run* 9-3 2:26 last live feed time: 9-3 2:10 been:15min p:44.41 
+9-3 2:26 44.41 2dP:88.0 1dP:100.0
+2d$:n:782 max:44.5 [8-30 15:55] min:43.8 [8-29 11:07] rng:1.6% 1Key:[8-29 9:30] last:[9-3 2:10]
+1d$:n<5
+*Periodic Run* 9-3 3:26 last live feed time: 9-3 3:03 been:22min p:44.41 
+9-3 3:26 44.41 2dP:88.0 1dP:0.0
+2d$:n:787 max:44.5 [8-30 15:55] min:43.8 [8-29 11:07] rng:1.6% 1Key:[8-29 9:30] last:[9-3 3:03]
+1d$:n:5 max:44.4 [9-3 2:33] min:44.4 [9-3 2:33] rng:0.0% 1Key:[9-3 2:33] last:[9-3 3:03]
+*Periodic Run* 9-3 4:26 last live feed time: 9-3 4:25 been:0min p:43.93 
+9-3 4:26 43.93 2dP:18.0 1dP:0.0
+2d$:n:790 max:44.5 [8-30 15:55] min:43.8 [8-29 11:07] rng:1.6% 1Key:[8-29 9:30] last:[9-3 4:25]
+1d$:n:8 max:44.4 [9-3 2:33] min:44.2 [9-3 4:25] rng:0.5% 1Key:[9-3 2:33] last:[9-3 4:25]
+*Periodic Run* 9-3 5:26 last live feed time: 9-3 5:24 been:1min p:43.84 
+9-3 5:26 43.84 2dP:4.0 1dP:0.0
+2d$:n:799 max:44.5 [8-30 15:55] min:43.8 [8-29 11:07] rng:1.6% 1Key:[8-29 9:30] last:[9-3 5:24]
+1d$:n:17 max:44.4 [9-3 2:33] min:43.9 [9-3 5:24] rng:1.2% 1Key:[9-3 2:33] last:[9-3 5:24]
+*Periodic Run* 9-3 6:26 last live feed time: 9-3 6:14 been:12min p:43.67 
+9-3 6:26 43.67 2dP:0.0 1dP:0.0
+2d$:n:807 max:44.5 [8-30 15:55] min:43.7 [9-3 6:11] rng:1.8% 1Key:[8-29 9:30] last:[9-3 6:14]
+1d$:n:25 max:44.4 [9-3 2:33] min:43.7 [9-3 6:11] rng:1.6% 1Key:[9-3 2:33] last:[9-3 6:14]
+*Periodic Run* 9-3 7:26 last live feed time: 9-3 7:20 been:5min p:43.77 
+9-3 7:26 43.77 2dP:11.0 1dP:13.0
+2d$:n:811 max:44.5 [8-30 15:55] min:43.7 [9-3 6:11] rng:1.9% 1Key:[8-29 9:30] last:[9-3 7:20]
+1d$:n:29 max:44.4 [9-3 2:33] min:43.7 [9-3 6:11] rng:1.7% 1Key:[9-3 2:33] last:[9-3 7:20]
+*Periodic Run* 9-3 8:26 last live feed time: 9-3 8:23 been:2min p:43.81 
+9-3 8:26 43.81 2dP:16.0 1dP:18.0
+2d$:n:817 max:44.5 [8-30 15:55] min:43.7 [9-3 6:11] rng:1.9% 1Key:[8-29 9:30] last:[9-3 8:23]
+1d$:n:35 max:44.4 [9-3 2:33] min:43.7 [9-3 6:11] rng:1.7% 1Key:[9-3 2:33] last:[9-3 8:23]
+*Periodic Run* 9-3 9:26 last live feed time: 9-3 9:23 been:2min p:43.79 
+9-3 9:26 43.79 2dP:14.0 1dP:15.0
+2d$:n:834 max:44.5 [8-30 15:55] min:43.7 [9-3 6:11] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:23]
+1d$:n:52 max:44.4 [9-3 2:33] min:43.7 [9-3 6:11] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:23]
+09:47:56.113823589 no blocking orders,empty
+*1Buy*@43.73 9-3 9:47:56 1dp:9.0 2dp:8.0
+cash remaining: 188303.12
+0:240903024 HSBC BUY 127 @43.68 9:47 bid is:43.72
+9:47 0: HSBC orderID:240903024 tradeID:240903024 BUY 127 @43.68 factor:0.999 HSBC 9-3 9:47 ADDER Created
+1:240903025 HSBC BUY 127 @43.28 9:47 bid is:43.72
+9:47 1: HSBC orderID:240903025 tradeID:240903025 BUY 127 @43.28 factor:0.99 HSBC 9-3 9:47 ADDER Created
+1D$:n:71 max:44.4 [9-3 2:33] min:43.7 [9-3 6:11] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:47]
+2D$:n:853 max:44.5 [8-30 15:55] min:43.7 [9-3 6:11] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:47]
+9-3 9:47 *openOrder* status:Submitted 240903024 BUY 127@43.68
+9-3 9:47 *openOrder* all live orders [240903024 BUY 127@43.68]
+9-3 9:47 *OrderStatus*:Submitted orderId:240903024 filled:0 remaining:127 avgFillPx:0.0 lastFillPx:0.0
+9-3 9:47 *openOrder* status:Submitted 240903025 BUY 127@43.28
+9-3 9:47 *openOrder* all live orders [240903024 BUY 127@43.68, 240903025 BUY 127@43.28]
+9-3 9:47 *OrderStatus*:Submitted orderId:240903025 filled:0 remaining:127 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:48:01.318 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:48:02.070 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:48:29.285 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:48:34.831 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:49:01.779 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:49:05.529 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903024=HSBC 9-3 9:47 ADDER Submitted, 240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903024, 240903025]}
+2024-09-03T09:49:06.284 no blocking orders 
+updating pos: HSBC 9-3 9:49 pos:127 cost:43.68
+9-3 9:49 *tradeReport* time: 2024-09-03T09:49:10 BOT execPx:43.68 shares:127 avgPx:43.68
+9-3 9:49 *openOrder* status:Filled 240903024 BUY 127@43.68
+9-3 9:49 *openOrder*:removing order.Status:Filled 240903024 BUY 127@43.68
+9-3 9:49 *openOrder*:after removal.OpenOrders: [240903025]
+9-3 9:49 *openOrder* all live orders [240903025 BUY 127@43.28]
+9-3 9:49 *OrderStatus*:Filled orderId:240903024 filled:127 remaining:0 avgFillPx:43.68 lastFillPx:43.68
+9-3 9:49 *openOrder* status:Filled 240903024 BUY 127@43.68
+9-3 9:49 *openOrder*:removing order.Status:Filled 240903024 BUY 127@43.68
+9-3 9:49 *openOrder*:after removal.OpenOrders: [240903025]
+9-3 9:49 *openOrder* all live orders [240903025 BUY 127@43.28]
+9-3 9:49 *OrderStatus*:Filled orderId:240903024 filled:127 remaining:0 avgFillPx:43.68 lastFillPx:43.68
+1.*commission report*:240903024 commission:0.32 
+2.*commission report* orderID:240903024 commission: 0.32 
+updating pos: HSBC 9-3 9:49 pos:127 cost:43.68
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:49:14.336 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:49:15.050 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:49:55.374 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:49:59.381 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:50:02.139 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:50:04.137 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:50:35.981 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:50:36.697 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:50:40.501 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:50:58.479 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:51:14.805 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:51:47.006 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:51:48.212 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:51:56.225 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:52:44.909 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:52:56.137 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:03.894 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:07.399 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:16.661 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:36.955 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:37.229 no blocking orders 
+updating pos: HSBC 9-3 9:53 pos:127 cost:43.68
+updating pos: HSBC 9-3 9:53 pos:127 cost:43.68
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:49.209 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:51.496 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:56.971 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:53:59.470 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:54:06.486 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:54:07.983 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:54:08.734 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:54:19.745 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:54:55.736 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:55:02.991 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:55:14.760 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:55:15.547 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:56:11.079 no blocking orders 
+no blocking buy orders: All submitted orders {240903024=HSBC 9-3 9:47 ADDER Filled, 240903025=HSBC 9-3 9:47 ADDER Submitted}
+no blocking buy orders: Active orders: [240903025=HSBC 9-3 9:47 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903025]}
+2024-09-03T09:56:23.601 no blocking orders 
+*Periodic Run* 9-3 10:26 last live feed time: 9-3 9:56 been:29min p:43.66 cost:43.7 p/cost:0.999
+p:43.66 rng:1.0% pos:127 delt:6k cost:43.7 fullLot:384 refillP:42.23 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-3 10:26 *chek orderStatus [240903024=Filled, 240903025=Submitted]
+9-3 10:26 *chek openOrders*: [240903025]
+9-3 10:26 43.66 2dP:1.0 1dP:1.0
+2d$:n:862 max:44.5 [8-30 15:55] min:43.7 [9-3 9:51] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:80 max:44.4 [9-3 2:33] min:43.7 [9-3 9:51] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 11:26 last live feed time: 9-3 9:56 been:89min p:43.66 cost:43.7 p/cost:0.999
+p:43.66 rng:1.0% pos:127 delt:6k cost:43.7 fullLot:384 refillP:42.23 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-3 11:26 *chek orderStatus [240903024=Filled, 240903025=Submitted]
+9-3 11:26 *chek openOrders*: [240903025]
+9-3 11:26 43.66 2dP:1.0 1dP:1.0
+2d$:n:862 max:44.5 [8-30 15:55] min:43.7 [9-3 9:51] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:80 max:44.4 [9-3 2:33] min:43.7 [9-3 9:51] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 12:26 last live feed time: 9-3 9:56 been:149min p:43.66 cost:43.7 p/cost:0.999
+p:43.66 rng:1.0% pos:127 delt:6k cost:43.7 fullLot:384 refillP:42.23 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-3 12:26 *chek orderStatus [240903024=Filled, 240903025=Submitted]
+9-3 12:26 *chek openOrders*: [240903025]
+9-3 12:26 43.66 2dP:1.0 1dP:1.0
+2d$:n:862 max:44.5 [8-30 15:55] min:43.7 [9-3 9:51] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:80 max:44.4 [9-3 2:33] min:43.7 [9-3 9:51] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 13:26 last live feed time: 9-3 9:56 been:209min p:43.66 cost:43.7 p/cost:0.999
+p:43.66 rng:1.0% pos:127 delt:6k cost:43.7 fullLot:384 refillP:42.23 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-3 13:26 *chek orderStatus [240903024=Filled, 240903025=Submitted]
+9-3 13:26 *chek openOrders*: [240903025]
+9-3 13:26 43.66 2dP:1.0 1dP:1.0
+2d$:n:862 max:44.5 [8-30 15:55] min:43.7 [9-3 9:51] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:80 max:44.4 [9-3 2:33] min:43.7 [9-3 9:51] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 14:26 last live feed time: 9-3 9:56 been:269min p:43.66 cost:43.7 p/cost:0.999
+p:43.66 rng:1.0% pos:127 delt:6k cost:43.7 fullLot:384 refillP:42.23 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-3 14:26 *chek orderStatus [240903024=Filled, 240903025=Submitted]
+9-3 14:26 *chek openOrders*: [240903025]
+9-3 14:26 43.66 2dP:1.0 1dP:1.0
+2d$:n:862 max:44.5 [8-30 15:55] min:43.7 [9-3 9:51] rng:1.9% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:80 max:44.4 [9-3 2:33] min:43.7 [9-3 9:51] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*******************************************
+*STARTS* 9-3 15:14
+updating pos: HSBC 9-3 15:14 pos:127 cost:43.68
+POS:127 COST:43.7 DELT:6k
+9-3 15:14 *openOrder* status:Submitted 240903025 BUY 127@43.28
+openOrder does not contain order HSBC 240903025 BUY 127@43.28
+9-3 15:14 *openOrder* all live orders [240903025 BUY 127@43.28]
+9-3 15:14 *OrderStatus*:Submitted orderId:240903025 filled:0 remaining:127 avgFillPx:0.0 lastFillPx:0.0
+9-3 15:14 *OrderStatus*:Cancelled orderId:240903025 filled:0 remaining:127 avgFillPx:0.0 lastFillPx:0.0
+9-3 15:14 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {240903025=240903025 BUY 127@43.28}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={240903007=240903007 SELL 4@145.54, 240903008=240903008 SELL 4@147.35}, BRK B={}, CL={240903016=240903016 SELL 19@108.69}, GLD={240903023=240903023 BUY 24@227.55}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={240903019=240903019 SELL 14@148.03}, KO={}, MCD={}, MMM={240903027=240903027 BUY 42@129.79}, MRK={240903011=240903011 SELL 5@120.94, 240903010=240903010 SELL 5@119.62}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}, WMT={}}
+9-3 15:14 rng:1.0% costTgt:0.98
+9-3 15:14 tgtMargin:1.01 tgtPrice:44.12
+ytdReturn:17.0%
+*Periodic Run* 9-3 15:14 15:14:20 no live feed
+9-3 15:14 *chek orderStatus [240903025=Cancelled]
+9-3 15:14 0.0 2dP:101.0 1dP:101.0
+2d$:n:734 max:44.5 [8-30 15:55] min:43.4 [9-3 11:00] rng:2.5% 1Key:[8-30 9:30] last:[9-3 15:13]
+1d$:n:344 max:43.8 [9-3 9:35] min:43.4 [9-3 11:00] rng:1.0% 1Key:[9-3 9:30] last:[9-3 15:13]
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903025=HSBC 9-3 15:14 UNKNOWN Cancelled}
+*Periodic Run* 9-3 16:14 last live feed time: 9-3 15:59 been:14min p:43.42 cost:43.7 p/cost:0.994
+p:43.42 rng:1.0% pos:127 delt:6k cost:43.7 fullLot:386 refillP:42.23 costTgt:0.98 refillP/cost:0.967 refillP/px:0.973
+9-3 16:14 *chek orderStatus [240903025=Cancelled]
+9-3 16:14 43.42 2dP:9.0 1dP:20.0
+2d$:n:766 max:44.5 [8-30 15:55] min:43.3 [9-3 15:47] rng:2.7% 1Key:[8-30 9:30] last:[9-3 15:59]
+1d$:n:376 max:43.8 [9-3 9:35] min:43.3 [9-3 15:47] rng:1.2% 1Key:[9-3 9:30] last:[9-3 15:59]

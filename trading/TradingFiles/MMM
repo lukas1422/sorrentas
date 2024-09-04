@@ -2701,3 +2701,881 @@ ytdReturn:49.66%
 8-30 15:34 133.15 2dP:75.0 1dP:25.0
 2d$:n:829 max:133.8 [8-30 9:33] min:131.2 [8-28 12:23] rng:2.0% 1Key:[8-28 9:30] last:[8-30 10:10]
 1d$:n:49 max:133.8 [8-30 9:33] min:132.9 [8-30 5:34] rng:0.6% 1Key:[8-30 5:34] last:[8-30 10:10]
+*******************************************
+*STARTS* 9-3 1:26
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 9-3 1:26 1:26:20 no live feed
+9-3 1:26 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+9-3 1:26 rng:2.0% costTgt:0.98
+9-3 1:26 tgtMargin:1.0161 tgtPrice:0.0
+ytdReturn:51.66%
+*Periodic Run* 9-3 2:26 last live feed time: 9-3 2:10 been:15min p:133.8 
+9-3 2:26 133.8 2dP:68.0 1dP:100.0
+2d$:n:782 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 2:10]
+1d$:n<5
+*Periodic Run* 9-3 3:26 last live feed time: 9-3 3:03 been:22min p:133.5 
+9-3 3:26 133.5 2dP:59.0 1dP:0.0
+2d$:n:788 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 3:03]
+1d$:n:6 max:133.6 [9-3 2:33] min:133.6 [9-3 2:49] rng:0.0% 1Key:[9-3 2:33] last:[9-3 3:03]
+*Periodic Run* 9-3 4:26 last live feed time: 9-3 4:18 been:7min p:134.0 
+9-3 4:26 134.0 2dP:73.0 1dP:100.0
+2d$:n:790 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 4:18]
+1d$:n:8 max:133.8 [9-3 4:11] min:133.6 [9-3 2:49] rng:0.1% 1Key:[9-3 2:33] last:[9-3 4:18]
+*Periodic Run* 9-3 5:26 last live feed time: 9-3 5:13 been:12min p:133.82 
+9-3 5:26 133.82 2dP:68.0 1dP:74.0
+2d$:n:795 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 5:13]
+1d$:n:13 max:133.9 [9-3 4:11] min:133.6 [9-3 2:49] rng:0.2% 1Key:[9-3 2:33] last:[9-3 5:13]
+*Periodic Run* 9-3 6:26 last live feed time: 9-3 6:01 been:25min p:133.78 
+9-3 6:26 133.78 2dP:67.0 1dP:58.0
+2d$:n:797 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 6:01]
+1d$:n:15 max:133.9 [9-3 4:11] min:133.6 [9-3 2:49] rng:0.3% 1Key:[9-3 2:33] last:[9-3 6:01]
+*Periodic Run* 9-3 7:26 last live feed time: 9-3 7:21 been:5min p:133.82 
+9-3 7:26 133.82 2dP:68.0 1dP:69.0
+2d$:n:799 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 7:21]
+1d$:n:17 max:133.9 [9-3 4:11] min:133.6 [9-3 2:49] rng:0.3% 1Key:[9-3 2:33] last:[9-3 7:21]
+*Periodic Run* 9-3 8:26 last live feed time: 9-3 8:23 been:2min p:134.69 
+9-3 8:26 134.69 2dP:93.0 1dP:100.0
+2d$:n:803 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 8:23]
+1d$:n:21 max:134.1 [9-3 8:23] min:133.5 [9-3 2:49] rng:0.4% 1Key:[9-3 2:33] last:[9-3 8:23]
+*Periodic Run* 9-3 9:26 last live feed time: 9-3 9:26 been:0min p:133.4 
+9-3 9:26 133.4 2dP:56.0 1dP:0.0
+2d$:n:809 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:26]
+1d$:n:27 max:134.1 [9-3 8:23] min:133.5 [9-3 9:26] rng:0.4% 1Key:[9-3 2:33] last:[9-3 9:26]
+09:48:21.075273935 no blocking orders,empty
+*1Buy*@131.93 9-3 9:48:21 1dp:0.0 2dp:15.0
+cash remaining: 188303.12
+0:240903026 MMM BUY 42 @131.79 9:48 bid is:131.92
+9:48 0: MMM orderID:240903026 tradeID:240903026 BUY 42 @131.79 factor:0.999 MMM 9-3 9:48 ADDER Created
+1:240903027 MMM BUY 42 @129.79 9:48 bid is:131.92
+9:48 1: MMM orderID:240903027 tradeID:240903027 BUY 42 @129.79 factor:0.9838650349877598 MMM 9-3 9:48 ADDER Created
+1D$:n:48 max:134.1 [9-3 8:23] min:132.5 [9-3 9:48] rng:1.2% 1Key:[9-3 2:33] last:[9-3 9:48]
+2D$:n:830 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:48]
+9-3 9:48 *openOrder* status:Submitted 240903026 BUY 42@131.79
+9-3 9:48 *openOrder* all live orders [240903026 BUY 42@131.79]
+9-3 9:48 *OrderStatus*:Submitted orderId:240903026 filled:0 remaining:42 avgFillPx:0.0 lastFillPx:0.0
+9-3 9:48 *openOrder* status:Submitted 240903027 BUY 42@129.79
+9-3 9:48 *openOrder* all live orders [240903026 BUY 42@131.79, 240903027 BUY 42@129.79]
+9-3 9:48 *OrderStatus*:Submitted orderId:240903027 filled:0 remaining:42 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:29.786 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:31.329 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:34.295 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:37.848 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:39.212 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:43.719 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:46.975 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:51.737 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:52.195 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:48:54.517 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:09.793 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:13.545 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:14.334 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:16.338 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:16.342 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:18.054 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:49:18.805 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:50:42.253 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:50:45.258 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:50:46.007 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:50:55.278 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:01.296 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:03.787 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:06.038 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:07.543 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:09.800 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:10.548 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:11.298 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:12.047 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:16.555 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:28.360 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:30.578 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:48.960 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903026=MMM 9-3 9:48 ADDER Submitted, 240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903026, 240903027]}
+2024-09-03T09:51:50.009 no blocking orders 
+updating pos: MMM 9-3 9:51 pos:42 cost:131.79
+9-3 9:51 *tradeReport* time: 2024-09-03T09:51:51 BOT execPx:131.79 shares:42 avgPx:131.79
+9-3 9:51 *openOrder* status:Filled 240903026 BUY 42@131.79
+9-3 9:51 *openOrder*:removing order.Status:Filled 240903026 BUY 42@131.79
+9-3 9:51 *openOrder*:after removal.OpenOrders: [240903027]
+9-3 9:51 *openOrder* all live orders [240903027 BUY 42@129.79]
+9-3 9:51 *OrderStatus*:Filled orderId:240903026 filled:42 remaining:0 avgFillPx:131.79 lastFillPx:131.79
+9-3 9:51 *openOrder* status:Filled 240903026 BUY 42@131.79
+9-3 9:51 *openOrder*:removing order.Status:Filled 240903026 BUY 42@131.79
+9-3 9:51 *openOrder*:after removal.OpenOrders: [240903027]
+9-3 9:51 *openOrder* all live orders [240903027 BUY 42@129.79]
+9-3 9:51 *OrderStatus*:Filled orderId:240903026 filled:42 remaining:0 avgFillPx:131.79 lastFillPx:131.79
+1.*commission report*:240903026 commission:0.31 
+2.*commission report* orderID:240903026 commission: 0.31 
+updating pos: MMM 9-3 9:51 pos:42 cost:131.8
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:51:51.722 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:51:54.507 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:51:59.512 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:06.988 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:12.244 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:14.247 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:15.159 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:19.633 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:23.634 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:32.896 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:35.651 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:38.655 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:41.367 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:46.874 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:50.161 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:52:50.630 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:53:02.926 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:53:04.896 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:53:06.644 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:53:09.155 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:53:09.903 no blocking orders 
+no blocking buy orders: All submitted orders {240903026=MMM 9-3 9:48 ADDER Filled, 240903027=MMM 9-3 9:48 ADDER Submitted}
+no blocking buy orders: Active orders: [240903027=MMM 9-3 9:48 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240903027]}
+2024-09-03T09:53:15.662 no blocking orders 
+updating pos: MMM 9-3 9:53 pos:42 cost:131.8
+updating pos: MMM 9-3 9:53 pos:42 cost:131.8
+*Periodic Run* 9-3 10:26 last live feed time: 9-3 9:56 been:29min p:132.6 cost:131.8 p/cost:1.006
+p:132.6 rng:2.0% pos:42 delt:6k cost:131.8 fullLot:126 refillP:127.37 costTgt:0.98 refillP/cost:0.966 refillP/px:0.961
+9-3 10:26 *chek orderStatus [240903026=Filled, 240903027=Submitted]
+9-3 10:26 *chek openOrders*: [240903027]
+9-3 10:26 132.6 2dP:34.0 1dP:33.0
+2d$:n:838 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:56 max:134.1 [9-3 8:23] min:131.9 [9-3 9:52] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 11:26 last live feed time: 9-3 9:56 been:89min p:132.6 cost:131.8 p/cost:1.006
+p:132.6 rng:2.0% pos:42 delt:6k cost:131.8 fullLot:126 refillP:127.37 costTgt:0.98 refillP/cost:0.966 refillP/px:0.961
+9-3 11:26 *chek orderStatus [240903026=Filled, 240903027=Submitted]
+9-3 11:26 *chek openOrders*: [240903027]
+9-3 11:26 132.6 2dP:34.0 1dP:33.0
+2d$:n:838 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:56 max:134.1 [9-3 8:23] min:131.9 [9-3 9:52] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 12:26 last live feed time: 9-3 9:56 been:149min p:132.6 cost:131.8 p/cost:1.006
+p:132.6 rng:2.0% pos:42 delt:6k cost:131.8 fullLot:126 refillP:127.37 costTgt:0.98 refillP/cost:0.966 refillP/px:0.961
+9-3 12:26 *chek orderStatus [240903026=Filled, 240903027=Submitted]
+9-3 12:26 *chek openOrders*: [240903027]
+9-3 12:26 132.6 2dP:34.0 1dP:33.0
+2d$:n:838 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:56 max:134.1 [9-3 8:23] min:131.9 [9-3 9:52] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 13:26 last live feed time: 9-3 9:56 been:209min p:132.6 cost:131.8 p/cost:1.006
+p:132.6 rng:2.0% pos:42 delt:6k cost:131.8 fullLot:126 refillP:127.37 costTgt:0.98 refillP/cost:0.966 refillP/px:0.961
+9-3 13:26 *chek orderStatus [240903026=Filled, 240903027=Submitted]
+9-3 13:26 *chek openOrders*: [240903027]
+9-3 13:26 132.6 2dP:34.0 1dP:33.0
+2d$:n:838 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:56 max:134.1 [9-3 8:23] min:131.9 [9-3 9:52] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*Periodic Run* 9-3 14:26 last live feed time: 9-3 9:56 been:269min p:132.6 cost:131.8 p/cost:1.006
+p:132.6 rng:2.0% pos:42 delt:6k cost:131.8 fullLot:126 refillP:127.37 costTgt:0.98 refillP/cost:0.966 refillP/px:0.961
+9-3 14:26 *chek orderStatus [240903026=Filled, 240903027=Submitted]
+9-3 14:26 *chek openOrders*: [240903027]
+9-3 14:26 132.6 2dP:34.0 1dP:33.0
+2d$:n:838 max:135.0 [8-30 15:55] min:131.4 [8-29 9:52] rng:2.7% 1Key:[8-29 9:30] last:[9-3 9:56]
+1d$:n:56 max:134.1 [9-3 8:23] min:131.9 [9-3 9:52] rng:1.7% 1Key:[9-3 2:33] last:[9-3 9:56]
+*******************************************
+*STARTS* 9-3 15:14
+updating pos: MMM 9-3 15:14 pos:42 cost:131.8
+POS:42 COST:131.8 DELT:6k
+9-3 15:14 *openOrder* status:Submitted 240903027 BUY 42@129.79
+openOrder does not contain order MMM 240903027 BUY 42@129.79
+9-3 15:14 *openOrder* all live orders [240903027 BUY 42@129.79]
+9-3 15:14 *OrderStatus*:Submitted orderId:240903027 filled:0 remaining:42 avgFillPx:0.0 lastFillPx:0.0
+9-3 15:14 *OrderStatus*:Cancelled orderId:240903027 filled:0 remaining:42 avgFillPx:0.0 lastFillPx:0.0
+9-3 15:14 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {240903027=240903027 BUY 42@129.79}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}, WMT={}}
+9-3 15:14 rng:2.0% costTgt:0.98
+9-3 15:14 tgtMargin:1.0161 tgtPrice:133.93
+ytdReturn:47.57%
+*Periodic Run* 9-3 15:14 last live feed time: 9-3 15:14 been:0min p:131.09 cost:131.8 p/cost:0.995
+p:131.09 rng:2.0% pos:42 delt:6k cost:131.8 fullLot:127 refillP:127.38 costTgt:0.98 refillP/cost:0.966 refillP/px:0.972
+9-3 15:14 *chek orderStatus [240903027=Cancelled]
+9-3 15:14 131.09 2dP:11.0 1dP:16.0
+2d$:n:735 max:135.0 [8-30 15:55] min:130.6 [9-3 10:58] rng:3.3% 1Key:[8-30 9:30] last:[9-3 15:14]
+1d$:n:345 max:133.6 [9-3 9:36] min:130.6 [9-3 10:58] rng:2.3% 1Key:[9-3 9:30] last:[9-3 15:14]
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+all orders finished {240903027=MMM 9-3 15:14 UNKNOWN Cancelled}
+*Periodic Run* 9-3 16:14 last live feed time: 9-3 16:10 been:3min p:130.74 cost:131.8 p/cost:0.992
+p:130.74 rng:2.0% pos:42 delt:5k cost:131.8 fullLot:128 refillP:127.39 costTgt:0.98 refillP/cost:0.967 refillP/px:0.974
+9-3 16:14 *chek orderStatus [240903027=Cancelled]
+9-3 16:14 130.74 2dP:10.0 1dP:14.0
+2d$:n:784 max:135.0 [8-30 15:55] min:130.3 [9-3 15:41] rng:3.6% 1Key:[8-30 9:30] last:[9-3 16:10]
+1d$:n:394 max:133.6 [9-3 9:36] min:130.3 [9-3 15:41] rng:2.5% 1Key:[9-3 9:30] last:[9-3 16:10]

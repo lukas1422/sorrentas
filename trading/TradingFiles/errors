@@ -18314,3 +18314,156 @@ commission report issue tradekey:0001015d.66d07453.01 report:ID:0001015d.66d0745
 *openOrder* Error 8-30 5:34 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
 *openOrder* Error 8-30 5:41 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
 *openOrder* Error 8-30 12:09 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 9-3 1:26 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 1:26 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 1:26 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 9-3 1:31 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.hkhmds
+*openOrder* Error 9-3 1:33 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 9-3 2:10 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 2:10 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 2:10 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 2:10 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 2:10 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-3 2:10 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 2:11 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 2:33 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+*openOrder* Error 9-3 2:35 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 2:35 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 2:35 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 2:35 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 2:36 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 2:36 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 2:36 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 2:36 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 2:36 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-3 2:36 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 2:37 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 3:01 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 3:02 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 3:03 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 3:03 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 3:03 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 3:03 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 3:03 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+*openOrder* Error 9-3 5:11 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 5:11 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 5:11 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 5:11 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-3 5:11 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 5:12 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 5:12 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 5:12 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 5:12 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 5:12 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 5:12 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+*openOrder* Error 9-3 7:58 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 7:58 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 7:58 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 7:58 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 7:59 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-3 7:59 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-3 7:59 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-3 7:59 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-3 7:59 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-3 7:59 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm. The following farms are not connected: hkhmds; ushmds; secdefhk.
+HSBC openorders does not contain order HSBC 240903025 BUY 127@43.28
+GLD openorders does not contain order GLD 240903023 BUY 24@227.55
+KMB openorders does not contain order KMB 240903019 SELL 14@148.03
+MMM openorders does not contain order MMM 240903027 BUY 42@129.79
+AWK openorders does not contain order AWK 240903008 SELL 4@147.35
+AWK openorders does not contain order AWK 240903007 SELL 4@145.54
+CL openorders does not contain order CL 240903016 SELL 19@108.69
+MRK openorders does not contain order MRK 240903010 SELL 5@119.62
+MRK openorders does not contain order MRK 240903011 SELL 5@120.94
+*openOrder* Error 9-3 15:14 orderId:240903025 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903019 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903023 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903008 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903007 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903016 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903010 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903011 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:240903027 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-3 15:14 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+ABT 15:14:13.166 no bid or no ask when trying to trade
+ABT 15:14:13.166 cost/bid/ask: 0.0 0.0 0.0
+ADM 15:14:13.405 no bid or no ask when trying to trade
+ADM 15:14:13.405 cost/bid/ask: 0.0 0.0 0.0
+KO 15:14:13.557 no bid or no ask when trying to trade
+KO 15:14:13.557 cost/bid/ask: 0.0 0.0 0.0
+AWK 15:14:13.559 no bid or no ask when trying to trade
+AWK 15:14:13.559 cost/bid/ask: 139.92798335 0.0 0.0
+KO 15:14:13.560 no bid or no ask when trying to trade
+KO 15:14:13.560 cost/bid/ask: 0.0 0.0 0.0
+KO 15:14:13.560 no bid or no ask when trying to trade
+KO 15:14:13.560 cost/bid/ask: 0.0 0.0 0.0
+KO 15:14:13.560 no bid or no ask when trying to trade
+KO 15:14:13.560 cost/bid/ask: 0.0 0.0 0.0
+MCD 15:14:13.756 no bid or no ask when trying to trade
+MCD 15:14:13.756 cost/bid/ask: 288.36743685 0.0 0.0
+MMM 15:14:13.756 no bid or no ask when trying to trade
+MMM 15:14:13.756 cost/bid/ask: 131.79733945 0.0 0.0
+BRK B 15:14:13.952 no bid or no ask when trying to trade
+BRK B 15:14:13.952 cost/bid/ask: 0.0 476.33 0.0
+BRK B 15:14:13.955 no bid or no ask when trying to trade
+BRK B 15:14:13.955 cost/bid/ask: 0.0 476.33 0.0
+BRK B 15:14:13.956 no bid or no ask when trying to trade
+BRK B 15:14:13.956 cost/bid/ask: 0.0 476.33 0.0
+BRK B 15:14:13.957 no bid or no ask when trying to trade
+BRK B 15:14:13.957 cost/bid/ask: 0.0 476.33 0.0
+PG 15:14:13.958 no bid or no ask when trying to trade
+PG 15:14:13.958 cost/bid/ask: 0.0 0.0 0.0
+PHO 15:14:14.152 no bid or no ask when trying to trade
+PHO 15:14:14.152 cost/bid/ask: 69.08247875 0.0 0.0
+CL 15:14:14.157 no bid or no ask when trying to trade
+CL 15:14:14.157 cost/bid/ask: 105.32560945 0.0 0.0
+SPY 15:14:14.256 no bid or no ask when trying to trade
+SPY 15:14:14.256 cost/bid/ask: 553.8975125 0.0 0.0
+UL 15:14:14.257 no bid or no ask when trying to trade
+UL 15:14:14.257 cost/bid/ask: 0.0 0.0 0.0
+UNP 15:14:14.257 no bid or no ask when trying to trade
+UNP 15:14:14.257 cost/bid/ask: 0.0 0.0 0.0
+IP 15:14:14.258 no bid or no ask when trying to trade
+IP 15:14:14.258 cost/bid/ask: 48.5125026 0.0 0.0
+HON 15:14:14.259 no bid or no ask when trying to trade
+HON 15:14:14.259 cost/bid/ask: 0.0 0.0 0.0
+IWM 15:14:14.260 no bid or no ask when trying to trade
+IWM 15:14:14.260 cost/bid/ask: 217.47221175 0.0 0.0
+GLD 15:14:14.261 no bid or no ask when trying to trade
+GLD 15:14:14.261 cost/bid/ask: 229.63319405 0.0 0.0
+IP 15:14:14.341 no bid or no ask when trying to trade
+IP 15:14:14.341 cost/bid/ask: 48.5125026 0.0 0.0
+UNP 15:14:14.342 no bid or no ask when trying to trade
+UNP 15:14:14.342 cost/bid/ask: 0.0 0.0 0.0
+MRK 15:14:14.535 no bid or no ask when trying to trade
+MRK 15:14:14.535 cost/bid/ask: 116.1481 0.0 0.0
+JNJ 15:14:14.536 no bid or no ask when trying to trade
+JNJ 15:14:14.536 cost/bid/ask: 0.0 0.0 0.0
+KMB 15:14:14.786 no bid or no ask when trying to trade
+KMB 15:14:14.786 cost/bid/ask: 143.2782184 0.0 0.0
+*openOrder* Error 9-3 15:21 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
