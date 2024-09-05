@@ -5164,3 +5164,149 @@ p:107.78 rng:1.3% pos:13 delt:1k cost:105.3 fullLot:155 refillP:102.87 costTgt:0
 9-3 16:14 107.78 2dP:93.0 1dP:90.0
 2d$:n:780 max:107.9 [9-3 11:03] min:105.7 [8-30 9:31] rng:2.1% 1Key:[8-30 9:30] last:[9-3 15:59]
 1d$:n:390 max:107.9 [9-3 11:03] min:106.5 [9-3 9:30] rng:1.3% 1Key:[9-3 9:30] last:[9-3 15:59]
+*******************************************
+*STARTS* 9-4 8:20
+updating pos: CL 9-4 8:20 pos:13 cost:105.33
+POS:13 COST:105.3 DELT:1k
+9-4 8:20 *tradeReport* time: 2024-09-03T15:32:04 SLD execPx:107.78 shares:6 avgPx:107.78
+listOfExecs [orderID: 240903350 time: 2024-09-03T15:32:04 side: SLD shares: 6 price: 107.78]
+9-4 8:20 rng:1.3% costTgt:0.98
+9-4 8:20 tgtMargin:1.0107 tgtPrice:106.45
+ytdReturn:37.51%
+*Periodic Run* 9-4 8:20 last live feed time: 9-4 8:20 been:0min p:107.71 cost:105.3 p/cost:1.023
+p:107.71 rng:1.3% pos:13 delt:1k cost:105.3 fullLot:155 refillP:102.87 costTgt:0.98 refillP/cost:0.977 refillP/px:0.955
+9-4 8:20 107.71 2dP:101.0 1dP:101.0
+2d$:n:781 max:107.9 [9-3 11:03] min:105.7 [8-30 9:31] rng:2.1% 1Key:[8-30 9:30] last:[9-4 8:20]
+1d$:n<5
+*Periodic Run* 9-4 9:20 last live feed time: 9-4 9:08 been:12min p:107.5 cost:105.3 p/cost:1.021
+p:107.5 rng:1.3% pos:13 delt:1k cost:105.3 fullLot:155 refillP:102.87 costTgt:0.98 refillP/cost:0.977 refillP/px:0.957
+9-4 9:20 107.5 2dP:81.0 1dP:100.0
+2d$:n:783 max:107.9 [9-3 11:03] min:105.7 [8-30 9:31] rng:2.1% 1Key:[8-30 9:30] last:[9-4 9:08]
+1d$:n<5
+******************CUT**************************
+CUT 9-4 9:30:00 1dP:100.0 2dp:89.0 px107.98 cost:105.3256077 px/Cost:1.0252 reqMargin:1.0107 rng:0.0134
+0:240904003 CL SELL 4 @108.39 9:30
+0: SELL CL 9-4 9:30 CUTTER Created target margin:1.01072 cost*target margin:106.45 askPx:108.17
+1:240904004 CL SELL 9 @109.25 9:30
+1: SELL CL 9-4 9:30 CUTTER Created target margin:1.01072 cost*target margin:106.45 askPx:108.17
+2024-09-04T09:30:00.431708974 remaining position <= 0, break
+2D$:n:786 max:107.9 [9-4 9:30] min:105.7 [8-30 9:31] rng:2.1% 1Key:[8-30 9:30] last:[9-4 9:30]
+1D$:n:6 max:107.7 [9-4 9:30] min:107.7 [9-4 9:08] rng:0.0% 1Key:[9-4 8:20] last:[9-4 9:30]
+9-4 9:30 *openOrder* status:PreSubmitted 240904003 SELL 4@108.39
+9-4 9:30 *openOrder* all live orders [240904003 SELL 4@108.39]
+9-4 9:30 *OrderStatus*:PreSubmitted orderId:240904003 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+9-4 9:30 *openOrder* status:Submitted 240904004 SELL 9@109.25
+9-4 9:30 *openOrder* all live orders [240904003 SELL 4@108.39, 240904004 SELL 9@109.25]
+9-4 9:30 *OrderStatus*:Submitted orderId:240904004 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+9-4 9:30 *openOrder* status:Submitted 240904003 SELL 4@108.39
+9-4 9:30 *openOrder* all live orders [240904003 SELL 4@108.39, 240904004 SELL 9@109.25]
+9-4 9:30 *OrderStatus*:Submitted orderId:240904003 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+updating pos: CL 9-4 9:30 pos:9 cost:105.33
+9-4 9:30 *tradeReport* time: 2024-09-04T09:30:02 SLD execPx:108.39 shares:4 avgPx:108.39
+9-4 9:30 *openOrder* status:Filled 240904003 SELL 4@108.39
+9-4 9:30 *openOrder*:removing order.Status:Filled 240904003 SELL 4@108.39
+9-4 9:30 *openOrder*:after removal.OpenOrders: [240904004]
+9-4 9:30 *openOrder* all live orders [240904004 SELL 9@109.25]
+9-4 9:30 *OrderStatus*:Filled orderId:240904003 filled:4 remaining:0 avgFillPx:108.39 lastFillPx:108.39
+9-4 9:30 *openOrder* status:Filled 240904003 SELL 4@108.39
+9-4 9:30 *openOrder*:removing order.Status:Filled 240904003 SELL 4@108.39
+9-4 9:30 *openOrder*:after removal.OpenOrders: [240904004]
+9-4 9:30 *openOrder* all live orders [240904004 SELL 9@109.25]
+9-4 9:30 *OrderStatus*:Filled orderId:240904003 filled:4 remaining:0 avgFillPx:108.39 lastFillPx:108.39
+computed Pnl:11.898595199999978
+1.*commission report*:240904003 commission:0.36 realized pnl:11.9 computed Pnl:11.9
+2.*commission report* orderID:240904003 commission: 0.36 realized pnl: 11.9
+updating pos: CL 9-4 9:30 pos:9 cost:105.33
+updating pos: CL 9-4 9:30 pos:9 cost:105.33
+updating pos: CL 9-4 9:34 pos:9 cost:105.33
+updating pos: CL 9-4 9:34 pos:9 cost:105.33
+*Periodic Run* 9-4 10:20 last live feed time: 9-4 10:20 been:0min p:108.71 cost:105.3 p/cost:1.032
+p:108.71 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+9-4 10:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 10:20 *chek openOrders*: [240904004]
+9-4 10:20 108.71 2dP:96.0 1dP:88.0
+2d$:n:836 max:108.8 [9-4 9:37] min:105.7 [8-30 9:31] rng:3.0% 1Key:[8-30 9:30] last:[9-4 10:20]
+1d$:n:56 max:108.8 [9-4 9:37] min:107.7 [9-4 9:08] rng:1.0% 1Key:[9-4 8:20] last:[9-4 10:20]
+9-4 10:49 *openOrder* status:Submitted 240904004 SELL 9@109.25
+9-4 10:49 *openOrder* all live orders [240904004 SELL 9@109.25]
+9-4 10:49 *OrderStatus*:Submitted orderId:240904004 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+updating pos: CL 9-4 10:49 pos:9 cost:105.33
+updating pos: CL 9-4 10:49 pos:9 cost:105.33
+*Periodic Run* 9-4 11:20 last live feed time: 9-4 11:20 been:0min p:108.54 cost:105.3 p/cost:1.031
+p:108.54 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.949
+9-4 11:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 11:20 *chek openOrders*: [240904004]
+9-4 11:20 108.54 2dP:88.0 1dP:68.0
+2d$:n:896 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 11:20]
+1d$:n:116 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 11:20]
+9-4 11:42 *openOrder* status:Submitted 240904004 SELL 9@109.25
+9-4 11:42 *openOrder* all live orders [240904004 SELL 9@109.25]
+9-4 11:42 *OrderStatus*:Submitted orderId:240904004 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+updating pos: CL 9-4 11:42 pos:9 cost:105.33
+updating pos: CL 9-4 11:42 pos:9 cost:105.33
+*Periodic Run* 9-4 12:20 last live feed time: 9-4 12:20 been:0min p:108.31 cost:105.3 p/cost:1.028
+p:108.31 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.951
+9-4 12:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 12:20 *chek openOrders*: [240904004]
+9-4 12:20 108.31 2dP:81.0 1dP:49.0
+2d$:n:956 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 12:20]
+1d$:n:176 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 12:20]
+*Periodic Run* 9-4 13:20 last live feed time: 9-4 13:20 been:0min p:107.96 cost:105.3 p/cost:1.025
+p:107.96 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:155 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.954
+9-4 13:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 13:20 *chek openOrders*: [240904004]
+9-4 13:20 107.96 2dP:70.0 1dP:19.0
+2d$:n:1016 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 13:20]
+1d$:n:236 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 13:20]
+*Periodic Run* 9-4 14:20 last live feed time: 9-4 14:20 been:0min p:108.44 cost:105.3 p/cost:1.03
+p:108.44 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.95
+9-4 14:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 14:20 *chek openOrders*: [240904004]
+9-4 14:20 108.44 2dP:85.0 1dP:60.0
+2d$:n:1076 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 14:20]
+1d$:n:296 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 14:20]
+*Periodic Run* 9-4 15:20 last live feed time: 9-4 15:20 been:0min p:108.47 cost:105.3 p/cost:1.03
+p:108.47 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.949
+9-4 15:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 15:20 *chek openOrders*: [240904004]
+9-4 15:20 108.47 2dP:86.0 1dP:62.0
+2d$:n:1136 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 15:20]
+1d$:n:356 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 15:20]
+9-4 16:00 *openOrder* status:Submitted 240904004 SELL 9@109.25
+9-4 16:00 *openOrder* all live orders [240904004 SELL 9@109.25]
+9-4 16:00 *OrderStatus*:Submitted orderId:240904004 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-4 16:20 last live feed time: 9-4 16:00 been:20min p:108.77 cost:105.3 p/cost:1.033
+p:108.77 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+9-4 16:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 16:20 *chek openOrders*: [240904004]
+9-4 16:20 108.77 2dP:95.0 1dP:87.0
+2d$:n:1176 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 16:00]
+1d$:n:396 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 16:00]
+*Periodic Run* 9-4 17:20 last live feed time: 9-4 16:00 been:80min p:108.77 cost:105.3 p/cost:1.033
+p:108.77 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+9-4 17:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 17:20 *chek openOrders*: [240904004]
+9-4 17:20 108.77 2dP:95.0 1dP:87.0
+2d$:n:1176 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 16:00]
+1d$:n:396 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 16:00]
+*Periodic Run* 9-4 18:20 last live feed time: 9-4 16:00 been:140min p:108.77 cost:105.3 p/cost:1.033
+p:108.77 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+9-4 18:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 18:20 *chek openOrders*: [240904004]
+9-4 18:20 108.77 2dP:95.0 1dP:87.0
+2d$:n:1176 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 16:00]
+1d$:n:396 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 16:00]
+*Periodic Run* 9-4 19:20 last live feed time: 9-4 16:00 been:200min p:108.77 cost:105.3 p/cost:1.033
+p:108.77 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+9-4 19:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 19:20 *chek openOrders*: [240904004]
+9-4 19:20 108.77 2dP:95.0 1dP:87.0
+2d$:n:1176 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 16:00]
+1d$:n:396 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 16:00]
+*Periodic Run* 9-4 20:20 last live feed time: 9-4 16:00 been:260min p:108.77 cost:105.3 p/cost:1.033
+p:108.77 rng:1.3% pos:9 delt:1k cost:105.3 fullLot:154 refillP:102.97 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+9-4 20:20 *chek orderStatus [240904003=Filled, 240904004=Submitted]
+9-4 20:20 *chek openOrders*: [240904004]
+9-4 20:20 108.77 2dP:95.0 1dP:87.0
+2d$:n:1176 max:108.9 [9-4 10:29] min:105.7 [8-30 9:31] rng:3.1% 1Key:[8-30 9:30] last:[9-4 16:00]
+1d$:n:396 max:108.9 [9-4 10:29] min:107.7 [9-4 9:08] rng:1.1% 1Key:[9-4 8:20] last:[9-4 16:00]

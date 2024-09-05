@@ -3216,3 +3216,20 @@ HON 9-3 15:37 *openOrder* FILLED 240903358 BUY 27@204.66
 HON 9-3 15:37 *OrderStatus*: filled:240903358
 HON 1.*commission report*:240903358 commission:0.3 
 HON *********************
+*****START***** HKT: 20:20:37 EST: 9-4 8:20
+CL 9-4 9:30 *openOrder* FILLED 240904003 SELL 4@108.39
+CL 9-4 9:30 *OrderStatus*: filled:240904003
+CL 1.*commission report*:240904003 commission:0.36 realized pnl:11.9 computed Pnl:11.9
+CL *********************
+KMB 9-4 9:31 *openOrder* FILLED 240904007 SELL 4@148.29
+KMB 9-4 9:31 *OrderStatus*: filled:240904007
+KMB 1.*commission report*:240904007 commission:0.36 realized pnl:19.68 computed Pnl:19.68
+KMB *********************
+AWK 9-4 9:36 *openOrder* FILLED 240904005 SELL 2@144.86
+AWK 9-4 9:36 *OrderStatus*: filled:240904005
+AWK 1.*commission report*:240904005 commission:0.36 realized pnl:9.51 computed Pnl:9.51
+AWK *********************
+KO 9-4 13:31 *openOrder* FILLED 240904012 BUY 77@72.04
+KO 9-4 13:31 *OrderStatus*: filled:240904012
+KO 1.*commission report*:240904012 commission:0.27 
+KO *********************

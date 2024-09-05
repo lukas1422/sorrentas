@@ -5668,3 +5668,1058 @@ ytdReturn:5.66%
 9-3 16:14 255.21 2dP:63.0 1dP:37.0
 2d$:n:781 max:256.9 [9-3 11:31] min:252.3 [8-30 9:30] rng:1.8% 1Key:[8-30 9:30] last:[9-3 16:00]
 1d$:n:391 max:256.9 [9-3 11:31] min:254.2 [9-3 9:38] rng:1.0% 1Key:[9-3 9:30] last:[9-3 16:00]
+*******************************************
+*STARTS* 9-4 8:20
+POS:0 COST:0.0 DELT:0k
+9-4 8:20 rng:1.6% costTgt:0.98
+9-4 8:20 tgtMargin:1.0128 tgtPrice:0.0
+ytdReturn:5.59%
+*Periodic Run* 9-4 8:20 last live feed time: 9-4 8:20 been:0min p:254.64 
+9-4 8:20 254.64 2dP:51.0 1dP:100.0
+2d$:n:781 max:256.9 [9-3 11:31] min:252.3 [8-30 9:30] rng:1.8% 1Key:[8-30 9:30] last:[9-4 8:20]
+1d$:n<5
+*Periodic Run* 9-4 9:20 last live feed time: 9-4 8:20 been:60min p:254.64 
+9-4 9:20 254.64 2dP:51.0 1dP:100.0
+2d$:n:781 max:256.9 [9-3 11:31] min:252.3 [8-30 9:30] rng:1.8% 1Key:[8-30 9:30] last:[9-4 8:20]
+1d$:n<5
+*Periodic Run* 9-4 10:20 last live feed time: 9-4 10:20 been:0min p:255.91 
+9-4 10:20 255.91 2dP:64.0 1dP:15.0
+2d$:n:832 max:257.9 [9-4 9:52] min:252.3 [8-30 9:30] rng:2.2% 1Key:[8-30 9:30] last:[9-4 10:20]
+1d$:n:52 max:257.9 [9-4 9:52] min:255.6 [9-4 8:20] rng:0.9% 1Key:[9-4 8:20] last:[9-4 10:20]
+*Periodic Run* 9-4 11:20 last live feed time: 9-4 11:20 been:0min p:255.18 
+9-4 11:20 255.18 2dP:51.0 1dP:15.0
+2d$:n:892 max:257.9 [9-4 9:52] min:252.3 [8-30 9:30] rng:2.2% 1Key:[8-30 9:30] last:[9-4 11:20]
+1d$:n:112 max:257.9 [9-4 9:52] min:254.7 [9-4 8:20] rng:1.3% 1Key:[9-4 8:20] last:[9-4 11:20]
+*Periodic Run* 9-4 12:20 last live feed time: 9-4 12:20 been:0min p:255.1 
+9-4 12:20 255.1 2dP:49.0 1dP:12.0
+2d$:n:949 max:257.9 [9-4 9:52] min:252.3 [8-30 9:30] rng:2.2% 1Key:[8-30 9:30] last:[9-4 12:20]
+1d$:n:169 max:257.9 [9-4 9:52] min:254.7 [9-4 8:20] rng:1.3% 1Key:[9-4 8:20] last:[9-4 12:20]
+13:06:58.721942562 no blocking orders,empty
+*1Buy*@252.12 9-4 13:06:58 1dp:0.0 2dp:0.0
+cash remaining: 170685.48
+0:240904010 UNP BUY 22 @251.78 13:06 bid is:252.03
+13:06 0: UNP orderID:240904010 tradeID:240904010 BUY 22 @251.78 factor:0.999 UNP 9-4 13:06 ADDER Created
+1:240904011 UNP BUY 22 @248.8 13:06 bid is:252.03
+13:06 1: UNP orderID:240904011 tradeID:240904011 BUY 22 @248.8 factor:0.9871651334820583 UNP 9-4 13:06 ADDER Created
+1D$:n:215 max:257.9 [9-4 9:52] min:254.0 [9-4 13:06] rng:1.5% 1Key:[9-4 8:20] last:[9-4 13:06]
+2D$:n:995 max:257.9 [9-4 9:52] min:252.3 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 13:06]
+9-4 13:06 *openOrder* status:Submitted 240904010 BUY 22@251.78
+9-4 13:06 *openOrder* all live orders [240904010 BUY 22@251.78]
+9-4 13:06 *OrderStatus*:Submitted orderId:240904010 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Created}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Created]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:06:59.473 no blocking orders 
+9-4 13:06 *openOrder* status:Submitted 240904011 BUY 22@248.8
+9-4 13:06 *openOrder* all live orders [240904010 BUY 22@251.78, 240904011 BUY 22@248.8]
+9-4 13:06 *OrderStatus*:Submitted orderId:240904011 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:00.478 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:01.927 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:02.142 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:02.980 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:04.995 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:05.753 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:06.511 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:07.726 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:08.012 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:08.763 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:14.778 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:18.002 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:20.023 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:20.736 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:23.102 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:23.616 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:26.265 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:30.866 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:40.165 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:40.895 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:44.362 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:45.381 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:49.594 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:51.765 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:54.302 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:07:57.046 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:08:00.792 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:08:04.287 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:08:05.048 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:08:08.792 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:08:59.879 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:04.132 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:17.907 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:18.670 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:36.175 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:36.911 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:52.897 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:58.955 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:09:59.705 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:10:02.411 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:10:20.393 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:10:21.277 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:10:31.933 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:10:33.425 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:10:34.166 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:11:06.452 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:11:28.388 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:11:47.200 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:01.531 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:02.106 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:03.824 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:04.580 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:07.827 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:08.590 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:09.559 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:12:10.361 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:15:25.906 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:15:35.669 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:15:40.423 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:01.214 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:02.213 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:04.476 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:05.770 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:23.243 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:24.039 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:26.496 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:27.277 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:34.283 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:35.016 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:36.774 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:37.511 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:44.316 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:16:56.761 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:17:18.047 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:17:41.594 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:11.324 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:29.299 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:30.439 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:30.795 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:35.260 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:45.807 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:57.582 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:18:59.540 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:02.539 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:03.309 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:08.084 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:08.815 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:14.024 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:58.638 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:19:59.411 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:20:07.932 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:20:11.652 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:20:12.438 no blocking orders 
+*Periodic Run* 9-4 13:20 last live feed time: 9-4 13:20 been:0min p:253.09 
+9-4 13:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 13:20 *chek openOrders*: [240904010, 240904011]
+9-4 13:20 253.09 2dP:15.0 1dP:12.0
+2d$:n:1009 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 13:20]
+1d$:n:229 max:257.9 [9-4 9:52] min:252.4 [9-4 13:06] rng:2.2% 1Key:[9-4 8:20] last:[9-4 13:20]
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:21:55.014 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:22:09.547 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:22:32.359 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:22:33.095 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:22:35.069 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:22:48.604 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:23:06.740 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:23:38.426 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:24:17.974 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:24:25.993 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:24:42.061 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:24:47.815 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:24:48.579 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:25:04.817 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:25:13.712 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:25:17.467 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:25:49.521 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:25:56.993 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:03.511 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:20.014 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:30.792 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:40.568 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:48.319 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:51.820 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:53.580 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:26:54.639 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:27:32.381 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:27:58.003 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:28:14.726 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:28:46.610 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:28:51.756 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:07.729 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:29.220 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:39.489 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:40.277 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:44.042 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:45.773 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:46.511 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:51.618 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:55.056 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:29:55.808 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:04.559 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:18.801 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:19.557 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:25.859 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:32.583 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:33.319 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:34.094 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:35.084 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:49.541 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:51.231 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:51.880 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:55.381 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:30:56.126 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:31:31.663 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:31:35.479 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:31:36.185 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:31:40.102 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:02.649 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:22.656 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:23.427 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:28.459 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:29.177 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:47.477 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:32:58.777 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:01.989 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:02.981 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:08.441 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:27.604 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:35.009 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:35.125 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:41.416 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:33:43.971 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:34:13.976 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:34:39.004 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:34:39.763 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:02.907 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:06.912 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:07.678 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:08.934 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:26.202 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:29.730 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:31.998 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:39.491 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:35:40.236 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:36:13.557 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:36:14.318 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:36:48.356 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:36:52.259 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:36:53.001 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:36:57.765 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:37:09.698 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:37:14.426 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:39:02.214 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:39:12.702 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:39:13.455 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:51:17.964 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:51:28.724 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:51:29.489 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:51:31.490 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:51:34.514 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:52:08.528 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:52:09.276 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:52:34.842 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:53:22.354 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:53:45.050 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:53:47.798 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:53:48.829 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:53:49.537 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:07.425 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:32.874 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:36.643 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:45.124 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:47.127 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:47.874 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:48.638 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:54:54.635 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:20.475 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:22.236 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:35.213 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:37.242 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:38.748 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:39.452 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:41.710 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:42.450 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:46.724 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:54.226 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:55.727 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:55:59.008 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:00.983 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:03.490 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:17.748 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:43.830 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:51.580 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:52.324 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:56:53.326 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:57:03.615 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:57:04.349 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:57:16.400 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:58:05.230 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T13:58:13.189 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T14:00:00.882 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T14:00:06.346 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T14:00:13.387 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T14:02:44.362 no blocking orders 
+no blocking buy orders: All submitted orders {240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted}
+no blocking buy orders: Active orders: [240904010=UNP 9-4 13:06 ADDER Submitted, 240904011=UNP 9-4 13:06 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240904010, 240904011]}
+2024-09-04T14:04:10.915 no blocking orders 
+*Periodic Run* 9-4 14:20 last live feed time: 9-4 14:20 been:0min p:253.23 
+9-4 14:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 14:20 *chek openOrders*: [240904010, 240904011]
+9-4 14:20 253.23 2dP:18.0 1dP:18.0
+2d$:n:1068 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 14:20]
+1d$:n:288 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 14:20]
+*Periodic Run* 9-4 15:20 last live feed time: 9-4 15:20 been:0min p:254.99 
+9-4 15:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 15:20 *chek openOrders*: [240904010, 240904011]
+9-4 15:20 254.99 2dP:49.0 1dP:48.0
+2d$:n:1127 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 15:20]
+1d$:n:347 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 15:20]
+9-4 16:00 *openOrder* status:Submitted 240904010 BUY 22@251.78
+9-4 16:00 *openOrder* all live orders [240904010 BUY 22@251.78, 240904011 BUY 22@248.8]
+9-4 16:00 *OrderStatus*:Submitted orderId:240904010 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+9-4 16:00 *openOrder* status:Submitted 240904011 BUY 22@248.8
+9-4 16:00 *openOrder* all live orders [240904010 BUY 22@251.78, 240904011 BUY 22@248.8]
+9-4 16:00 *OrderStatus*:Submitted orderId:240904011 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-4 16:20 last live feed time: 9-4 16:00 been:20min p:255.7 
+9-4 16:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 16:20 *chek openOrders*: [240904010, 240904011]
+9-4 16:20 255.7 2dP:61.0 1dP:61.0
+2d$:n:1167 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 16:00]
+1d$:n:387 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 16:00]
+*Periodic Run* 9-4 17:20 last live feed time: 9-4 16:51 been:29min p:255.0 
+9-4 17:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 17:20 *chek openOrders*: [240904010, 240904011]
+9-4 17:20 255.0 2dP:49.0 1dP:49.0
+2d$:n:1168 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 16:51]
+1d$:n:388 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 16:51]
+*Periodic Run* 9-4 18:20 last live feed time: 9-4 16:51 been:89min p:255.0 
+9-4 18:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 18:20 *chek openOrders*: [240904010, 240904011]
+9-4 18:20 255.0 2dP:49.0 1dP:49.0
+2d$:n:1168 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 16:51]
+1d$:n:388 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 16:51]
+*Periodic Run* 9-4 19:20 last live feed time: 9-4 16:51 been:149min p:255.0 
+9-4 19:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 19:20 *chek openOrders*: [240904010, 240904011]
+9-4 19:20 255.0 2dP:49.0 1dP:49.0
+2d$:n:1168 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 16:51]
+1d$:n:388 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 16:51]
+*Periodic Run* 9-4 20:20 last live feed time: 9-4 16:51 been:209min p:255.0 
+9-4 20:20 *chek orderStatus [240904010=Submitted, 240904011=Submitted]
+9-4 20:20 *chek openOrders*: [240904010, 240904011]
+9-4 20:20 255.0 2dP:49.0 1dP:49.0
+2d$:n:1168 max:257.9 [9-4 9:52] min:252.2 [8-30 9:30] rng:2.3% 1Key:[8-30 9:30] last:[9-4 16:51]
+1d$:n:388 max:257.9 [9-4 9:52] min:252.2 [9-4 13:06] rng:2.3% 1Key:[9-4 8:20] last:[9-4 16:51]
