@@ -29279,3 +29279,38 @@
 9-4 17:00 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefil 
 9-4 17:00 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
 9-4 17:00 Conn:disconnected
+9-5 4:02 Conn: account list: [U19778287]
+9-5 4:02 ****Conn:connected****
+9-5 4:02 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+9-5 4:02 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+9-5 4:02 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 4:03 Conn: account list: [U19778287]
+9-5 4:03 ****Conn:connected****
+9-5 4:03 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+9-5 4:03 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+9-5 4:03 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 4:09 Conn error ID: -1 code: 2107 msg: HMDS data farm connection is inactive but should be available upon demand.ushmds 
+9-5 9:05 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefil 
+9-5 9:05 Conn error ID: -1 code: 1100 msg: Connectivity between IB and Trader Workstation has been lost. 
+9-5 9:05 Conn error ID: -1 code: 2103 msg: Market data farm connection is broken:usfarm 
+9-5 9:05 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 9:05 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefil 
+9-5 9:05 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+9-5 9:05 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 9:05 Conn error ID: -1 code: 1102 msg: Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds. 
+9-5 11:00 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefil 
+9-5 11:00 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 15:06 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefil 
+9-5 15:06 Conn error ID: -1 code: 1100 msg: Connectivity between IB and Trader Workstation has been lost. 
+9-5 15:06 Conn error ID: -1 code: 2103 msg: Market data farm connection is broken:usfarm 
+9-5 15:06 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 15:06 Conn error ID: -1 code: 2119 msg: Market data farm is connecting:usfarm 
+9-5 15:06 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+9-5 15:06 Conn: account list: [U19778287]
+9-5 15:06 ****Conn:connected****
+9-5 15:06 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+9-5 15:06 Conn error ID: -1 code: 2107 msg: HMDS data farm connection is inactive but should be available upon demand.ushmds 
+9-5 15:06 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+9-5 15:06 Conn error ID: -1 code: 1102 msg: Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds. 
+9-5 17:42 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefil 
+9-5 17:42 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 

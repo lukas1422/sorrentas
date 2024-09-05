@@ -18489,3 +18489,22 @@ KMB 15:14:14.786 cost/bid/ask: 143.2782184 0.0 0.0
 *openOrder* Error 9-4 17:00 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
 *openOrder* Error 9-4 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
 *openOrder* Error 9-4 17:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 9-5 4:09 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 9-5 9:05 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-5 9:05 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-5 9:05 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-5 9:05 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-5 9:05 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-5 9:05 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 9-5 11:00 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+ADM 2024-09-05T15:01:05.950 Adder: ytd < -10% cannot trade:-0.12708688342161467
+ADM 2024-09-05T15:01:07.551 Adder: ytd < -10% cannot trade:-0.12708688342161467
+ADM 2024-09-05T15:04:03.895 Adder: ytd < -10% cannot trade:-0.12708688342161467
+ADM 2024-09-05T15:04:04.647 Adder: ytd < -10% cannot trade:-0.12708688342161467
+*openOrder* Error 9-5 15:06 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-5 15:06 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-5 15:06 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-5 15:06 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-5 15:06 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-5 15:06 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 9-5 17:42 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
