@@ -18508,3 +18508,36 @@ ADM 2024-09-05T15:04:04.647 Adder: ytd < -10% cannot trade:-0.12708688342161467
 *openOrder* Error 9-5 15:06 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
 *openOrder* Error 9-5 15:06 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
 *openOrder* Error 9-5 17:42 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-6 8:22 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 9-6 8:22 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 9-6 8:22 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 9-6 8:22 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-6 8:22 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-6 8:28 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 9-6 8:29 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-09-06T10:04:04.465 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T10:04:05.217 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T11:00:03.048 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T11:00:03.268 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T11:00:03.736 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T12:00:01.121 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T12:00:02.624 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T12:00:08.137 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T12:02:06.777 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T13:01:00.205 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T13:01:07.967 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T13:01:08.721 Adder: ytd < -10% cannot trade:-0.14627334886252685
+*openOrder* Error 9-6 14:19 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-6 14:19 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 9-6 14:19 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-6 14:19 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+ADM 2024-09-06T15:00:00.379 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:00:02.382 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:00:04.386 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:00:05.137 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:00:09.892 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:04:02.641 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:04:03.392 Adder: ytd < -10% cannot trade:-0.14627334886252685
+ADM 2024-09-06T15:04:05.648 Adder: ytd < -10% cannot trade:-0.14627334886252685
+*openOrder* Error 9-6 16:03 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 9-6 16:03 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
