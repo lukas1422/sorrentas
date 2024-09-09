@@ -13581,3 +13581,351 @@ ytdReturn:10.12%
 9-6 17:22 117.48 2dP:52.0 1dP:0.0
 2d$:n:1180 max:120.3 [9-6 9:39] min:114.5 [9-4 10:15] rng:5.0% 1Key:[9-4 9:30] last:[9-6 16:38]
 1d$:n:400 max:120.3 [9-6 9:39] min:117.7 [9-6 16:38] rng:2.2% 1Key:[9-6 8:22] last:[9-6 16:38]
+*******************************************
+*STARTS* 9-9 7:06
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 9-9 7:07 7:07:03 no live feed
+9-9 7:07 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+9-9 7:08 rng:1.7% costTgt:0.98
+9-9 7:08 tgtMargin:1.0135 tgtPrice:0.0
+ytdReturn:9.43%
+*Periodic Run* 9-9 8:07 last live feed time: 9-9 8:02 been:4min p:115.0 
+9-9 8:07 115.0 2dP:9.0 1dP:34.0
+2d$:n:804 max:120.3 [9-6 9:38] min:114.5 [9-9 8:00] rng:5.1% 1Key:[9-5 9:30] last:[9-9 8:02]
+1d$:n:24 max:116.0 [9-9 7:33] min:114.5 [9-9 8:00] rng:1.3% 1Key:[9-9 7:07] last:[9-9 8:02]
+*Periodic Run* 9-9 9:07 last live feed time: 9-9 9:01 been:5min p:114.75 
+9-9 9:07 114.75 2dP:8.0 1dP:27.0
+2d$:n:820 max:120.3 [9-6 9:38] min:114.3 [9-9 8:00] rng:5.2% 1Key:[9-5 9:30] last:[9-9 9:01]
+1d$:n:40 max:116.0 [9-9 7:33] min:114.3 [9-9 8:00] rng:1.5% 1Key:[9-9 7:07] last:[9-9 9:01]
+09:30:02.062892550 no blocking orders,empty
+*1Buy*@113.15 9-9 9:30:02 1dp:0.0 2dp:0.0
+cash remaining: 134640.36
+0:240909003 MRK BUY 49 @112.14 9:30 bid is:112.25
+9:30 0: MRK orderID:240909003 tradeID:240909003 BUY 49 @112.14 factor:0.999 MRK 9-9 9:30 ADDER Created
+1:240909004 MRK BUY 49 @110.74 9:30 bid is:112.25
+9:30 1: MRK orderID:240909004 tradeID:240909004 BUY 49 @110.74 factor:0.9865204724270757 MRK 9-9 9:30 ADDER Created
+1D$:n:61 max:116.0 [9-9 7:33] min:113.3 [9-9 9:29] rng:2.3% 1Key:[9-9 7:07] last:[9-9 9:30]
+2D$:n:841 max:120.3 [9-6 9:38] min:113.3 [9-9 9:29] rng:6.1% 1Key:[9-5 9:30] last:[9-9 9:30]
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:02.802 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:03.556 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:04.308 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Created, 240909004=MRK 9-9 9:30 ADDER Created]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:05.060 no blocking orders 
+9-9 9:30 *openOrder* status:Submitted 240909004 BUY 49@110.74
+9-9 9:30 *openOrder* all live orders [240909004 BUY 49@110.74]
+9-9 9:30 *OrderStatus*:Submitted orderId:240909004 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+9-9 9:30 *openOrder* status:PreSubmitted 240909003 BUY 49@112.14
+9-9 9:30 *openOrder* all live orders [240909003 BUY 49@112.14, 240909004 BUY 49@110.74]
+9-9 9:30 *OrderStatus*:PreSubmitted orderId:240909003 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+9-9 9:30 *openOrder* status:Submitted 240909003 BUY 49@112.14
+9-9 9:30 *openOrder* all live orders [240909003 BUY 49@112.14, 240909004 BUY 49@110.74]
+9-9 9:30 *OrderStatus*:Submitted orderId:240909003 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:10.572 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:11.328 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:12.084 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:12.828 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:13.577 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:14.333 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:15.084 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:15.834 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:16.587 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:17.337 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:18.088 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:19.590 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:20.342 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:21.093 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:21.845 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:22.598 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:43.253 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:44.006 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:44.752 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:45.504 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:48.734 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:49.484 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:51.991 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:52.665 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:53.421 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:54.170 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:57.691 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:58.427 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:30:59.470 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:00.584 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:01.971 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:02.702 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:03.453 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:04.957 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:05.711 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:08.465 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:09.222 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:13.484 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:14.224 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:14.971 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:19.999 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:20.754 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:21.752 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:25.754 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:26.641 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:27.382 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:28.136 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:28.880 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:29.455 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:31.182 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:31.955 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:33.438 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:34.260 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:35.062 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:36.570 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:40.072 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:40.824 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:41.575 no blocking orders 
+no blocking buy orders: All submitted orders {240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [240909003=MRK 9-9 9:30 ADDER Submitted, 240909004=MRK 9-9 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240909003, 240909004]}
+2024-09-09T09:31:43.081 no blocking orders 
+*Periodic Run* 9-9 10:07 last live feed time: 9-9 10:06 been:0min p:116.72 
+9-9 10:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 10:07 *chek openOrders*: [240909003, 240909004]
+9-9 10:07 116.72 2dP:51.0 1dP:100.0
+2d$:n:877 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 10:06]
+1d$:n:97 max:116.5 [9-9 10:06] min:113.0 [9-9 9:29] rng:3.1% 1Key:[9-9 7:07] last:[9-9 10:06]
+*Periodic Run* 9-9 11:07 last live feed time: 9-9 11:07 been:0min p:116.0 
+9-9 11:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 11:07 *chek openOrders*: [240909003, 240909004]
+9-9 11:07 116.0 2dP:41.0 1dP:78.0
+2d$:n:938 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 11:07]
+1d$:n:158 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 11:07]
+*Periodic Run* 9-9 12:07 last live feed time: 9-9 12:07 been:0min p:116.28 
+9-9 12:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 12:07 *chek openOrders*: [240909003, 240909004]
+9-9 12:07 116.28 2dP:46.0 1dP:87.0
+2d$:n:998 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 12:07]
+1d$:n:218 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 12:07]
+*Periodic Run* 9-9 13:07 last live feed time: 9-9 13:07 been:0min p:115.96 
+9-9 13:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 13:07 *chek openOrders*: [240909003, 240909004]
+9-9 13:07 115.96 2dP:41.0 1dP:77.0
+2d$:n:1058 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 13:07]
+1d$:n:278 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 13:07]
+*Periodic Run* 9-9 14:07 last live feed time: 9-9 14:07 been:0min p:115.11 
+9-9 14:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 14:07 *chek openOrders*: [240909003, 240909004]
+9-9 14:07 115.11 2dP:29.0 1dP:55.0
+2d$:n:1118 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 14:07]
+1d$:n:338 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 14:07]
+*Periodic Run* 9-9 15:07 last live feed time: 9-9 15:07 been:0min p:115.34 
+9-9 15:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 15:07 *chek openOrders*: [240909003, 240909004]
+9-9 15:07 115.34 2dP:32.0 1dP:61.0
+2d$:n:1178 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 15:07]
+1d$:n:398 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 15:07]
+*Periodic Run* 9-9 16:07 last live feed time: 9-9 16:03 been:3min p:115.23 
+9-9 16:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 16:07 *chek openOrders*: [240909003, 240909004]
+9-9 16:07 115.23 2dP:31.0 1dP:58.0
+2d$:n:1233 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 16:03]
+1d$:n:453 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 16:03]
+*Periodic Run* 9-9 17:07 last live feed time: 9-9 17:06 been:0min p:115.5 
+9-9 17:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 17:07 *chek openOrders*: [240909003, 240909004]
+9-9 17:07 115.5 2dP:35.0 1dP:65.0
+2d$:n:1240 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 17:06]
+1d$:n:460 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 17:06]
+*Periodic Run* 9-9 18:07 last live feed time: 9-9 17:42 been:24min p:115.41 
+9-9 18:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 18:07 *chek openOrders*: [240909003, 240909004]
+9-9 18:07 115.41 2dP:33.0 1dP:63.0
+2d$:n:1244 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 17:42]
+1d$:n:464 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 17:42]
+*Periodic Run* 9-9 19:07 last live feed time: 9-9 18:35 been:31min p:115.2 
+9-9 19:07 *chek orderStatus [240909003=Submitted, 240909004=Submitted]
+9-9 19:07 *chek openOrders*: [240909003, 240909004]
+9-9 19:07 115.2 2dP:30.0 1dP:58.0
+2d$:n:1246 max:120.3 [9-6 9:38] min:113.0 [9-9 9:29] rng:6.4% 1Key:[9-5 9:30] last:[9-9 18:35]
+1d$:n:466 max:116.8 [9-9 10:08] min:113.0 [9-9 9:29] rng:3.4% 1Key:[9-9 7:07] last:[9-9 18:35]
