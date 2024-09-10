@@ -6325,3 +6325,1311 @@ ytdReturn:38.02%
 9-9 19:07 65.4 2dP:23.0 1dP:7.0
 2d$:n:1147 max:65.9 [9-9 12:45] min:65.3 [9-6 15:59] rng:0.9% 1Key:[9-5 9:30] last:[9-9 17:15]
 1d$:n:367 max:65.9 [9-9 12:45] min:65.4 [9-9 7:53] rng:0.7% 1Key:[9-9 7:53] last:[9-9 17:15]
+*******************************************
+*STARTS* 9-10 8:22
+POS:0 COST:0.0 DELT:0k
+9-10 8:22 rng:0.9% costTgt:0.98
+9-10 8:22 tgtMargin:1.01 tgtPrice:0.0
+ytdReturn:38.74%
+*Periodic Run* 9-10 8:22 last live feed time: 9-10 8:22 been:0min p:65.65 
+9-10 8:22 65.65 2dP:64.0 1dP:100.0
+2d$:n:781 max:65.9 [9-9 12:46] min:65.3 [9-6 15:59] rng:0.9% 1Key:[9-6 9:30] last:[9-10 8:22]
+1d$:n<5
+*Periodic Run* 9-10 9:22 last live feed time: 9-10 9:21 been:1min p:65.57 
+9-10 9:22 65.57 2dP:51.0 1dP:0.0
+2d$:n:787 max:65.9 [9-9 12:46] min:65.3 [9-6 15:59] rng:0.9% 1Key:[9-6 9:30] last:[9-10 9:21]
+1d$:n:7 max:65.7 [9-10 8:38] min:65.6 [9-10 9:18] rng:0.1% 1Key:[9-10 8:22] last:[9-10 9:21]
+10:01:06.009292998 no blocking orders,empty
+*1Buy*@65.39 9-10 10:01:06 1dp:0.0 2dp:19.0
+cash remaining: 133781.34
+0:240910026 UL BUY 85 @65.31 10:01 bid is:65.38
+10:01 0: UL orderID:240910026 tradeID:240910026 BUY 85 @65.31 factor:0.999 UL 9-10 10:01 ADDER Created
+1:240910027 UL BUY 85 @64.73 10:01 bid is:65.38
+10:01 1: UL orderID:240910027 tradeID:240910027 BUY 85 @64.73 factor:0.99 UL 9-10 10:01 ADDER Created
+1D$:n:39 max:65.7 [9-10 8:38] min:65.4 [9-10 10:01] rng:0.4% 1Key:[9-10 8:22] last:[9-10 10:01]
+2D$:n:819 max:65.9 [9-9 12:46] min:65.3 [9-6 15:59] rng:0.9% 1Key:[9-6 9:30] last:[9-10 10:01]
+9-10 10:01 *openOrder* status:Submitted 240910026 BUY 85@65.31
+9-10 10:01 *openOrder* all live orders [240910026 BUY 85@65.31]
+9-10 10:01 *OrderStatus*:Submitted orderId:240910026 filled:0 remaining:85 avgFillPx:0.0 lastFillPx:0.0
+9-10 10:01 *openOrder* status:Submitted 240910027 BUY 85@64.73
+9-10 10:01 *openOrder* all live orders [240910026 BUY 85@65.31, 240910027 BUY 85@64.73]
+9-10 10:01 *OrderStatus*:Submitted orderId:240910027 filled:0 remaining:85 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:01:18.883 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:01:19.615 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:01:20.540 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:01:23.052 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:01:32.111 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:02:41.414 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:02:42.164 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:02:55.942 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:03:01.015 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:03:14.475 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910026=UL 9-10 10:01 ADDER Submitted, 240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910026, 240910027]}
+2024-09-10T10:03:29.497 no blocking orders 
+updating pos: UL 9-10 10:03 pos:85 cost:65.31
+9-10 10:03 *tradeReport* time: 2024-09-10T10:03:58 BOT execPx:65.31 shares:85 avgPx:65.31
+9-10 10:03 *openOrder* status:Filled 240910026 BUY 85@65.31
+9-10 10:03 *openOrder*:removing order.Status:Filled 240910026 BUY 85@65.31
+9-10 10:03 *openOrder*:after removal.OpenOrders: [240910027]
+9-10 10:03 *openOrder* all live orders [240910027 BUY 85@64.73]
+9-10 10:03 *OrderStatus*:Filled orderId:240910026 filled:85 remaining:0 avgFillPx:65.31 lastFillPx:65.31
+9-10 10:03 *openOrder* status:Filled 240910026 BUY 85@65.31
+9-10 10:03 *openOrder*:removing order.Status:Filled 240910026 BUY 85@65.31
+9-10 10:03 *openOrder*:after removal.OpenOrders: [240910027]
+9-10 10:03 *openOrder* all live orders [240910027 BUY 85@64.73]
+9-10 10:03 *OrderStatus*:Filled orderId:240910026 filled:85 remaining:0 avgFillPx:65.31 lastFillPx:65.31
+1.*commission report*:240910026 commission:0.27 
+2.*commission report* orderID:240910026 commission: 0.27 
+updating pos: UL 9-10 10:03 pos:85 cost:65.31
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:03:59.226 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:04:03.507 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:04:08.907 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:04:28.872 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:05:10.552 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:05:16.316 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:05:53.626 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:06:22.965 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:06:28.767 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:06:31.471 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:06:45.232 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:07:27.275 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:07:36.568 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:07:37.528 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:07:40.818 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:07:46.877 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:07:47.589 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:08:14.136 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:08:14.879 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:08:29.728 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:09:00.720 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:09:22.109 no blocking orders 
+updating pos: UL 9-10 10:09 pos:85 cost:65.31
+updating pos: UL 9-10 10:09 pos:85 cost:65.31
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:13.449 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:14.955 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:15.958 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:23.485 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:24.239 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:25.731 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:27.483 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:11:37.931 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:12:10.061 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:12:27.330 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:13:02.396 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:13:41.990 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:14:06.518 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:14:07.502 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:14:16.778 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:14:36.562 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:15:07.341 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:15:09.624 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:15:12.130 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:15:21.892 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:15:59.510 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:16:31.397 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:16:54.567 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:17:01.586 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:17:03.342 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:17:35.138 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:17:57.422 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:18:00.943 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:18:01.704 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:18:05.445 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:18:06.206 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:18:08.843 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:19:16.310 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:19:17.290 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:19:31.589 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:19:42.102 no blocking orders 
+*Periodic Run* 9-10 10:22 last live feed time: 9-10 10:21 been:0min p:65.37 cost:65.3 p/cost:1.001
+p:65.37 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.966
+9-10 10:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 10:22 *chek openOrders*: [240910027]
+9-10 10:22 65.37 2dP:20.0 1dP:27.0
+2d$:n:837 max:65.9 [9-9 12:46] min:65.2 [9-6 15:59] rng:0.9% 1Key:[9-6 9:30] last:[9-10 10:21]
+1d$:n:57 max:65.7 [9-10 8:38] min:65.3 [9-10 10:15] rng:0.7% 1Key:[9-10 8:22] last:[9-10 10:21]
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:37:04.864 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:41:35.820 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:41:38.504 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:42:28.307 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:42:43.697 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:43:09.044 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:43:57.846 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:44:00.573 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:44:45.380 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:45:02.364 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:45:21.365 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:47:16.745 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:47:20.706 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:47:46.225 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:47:55.230 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:48:22.524 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:48:23.290 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:48:54.083 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:49:35.364 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:49:40.123 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:50:09.942 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:50:38.821 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:51:05.246 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:51:05.991 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:51:30.284 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:52:04.327 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:53:33.950 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:56:00.447 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:56:09.674 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:56:12.417 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:56:21.445 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:56:38.283 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:57:37.358 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:57:43.544 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:57:44.319 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:57:55.600 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:58:04.523 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:58:24.525 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:58:31.093 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:58:31.797 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:58:35.241 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T10:58:46.604 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:00:53.018 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:01:22.574 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:01:24.058 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:01:25.315 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:01:39.597 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:01:45.615 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:02:05.637 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:02:44.470 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:18:55.696 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:19:00.012 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:19:16.540 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:21:02.244 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:21:26.752 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:21:27.536 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:21:31.425 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:21:35.115 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:22:02.311 no blocking orders 
+*Periodic Run* 9-10 11:22 last live feed time: 9-10 11:22 been:0min p:65.29 cost:65.3 p/cost:1.0
+p:65.29 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-10 11:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 11:22 *chek openOrders*: [240910027]
+9-10 11:22 65.29 2dP:7.0 1dP:10.0
+2d$:n:893 max:65.9 [9-9 12:46] min:65.2 [9-6 15:59] rng:0.9% 1Key:[9-6 9:30] last:[9-10 11:22]
+1d$:n:113 max:65.7 [9-10 8:38] min:65.2 [9-10 10:15] rng:0.7% 1Key:[9-10 8:22] last:[9-10 11:22]
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:26:11.438 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:29:24.867 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:29:55.555 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:02.754 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:04.956 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:05.178 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:07.448 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:08.231 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:30.825 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:30:58.003 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:31:24.778 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:31:53.052 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:32:18.438 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:33:07.876 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:33:31.613 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:33:35.068 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:33:50.110 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:34:14.332 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:34:15.069 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:34:34.648 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:02.515 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:03.264 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:04.564 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:05.331 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:06.114 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:10.894 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:16.643 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:17.425 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:38.753 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:35:40.294 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:36:13.127 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:36:46.717 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:36:55.146 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:37:19.774 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:37:39.889 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:37:58.841 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:38:01.595 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:38:03.934 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:38:17.003 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:39:08.351 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:39:26.494 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:39:28.182 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:39:52.675 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:39:53.456 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:39:55.754 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:40:16.845 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:40:49.922 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:41:02.723 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:41:20.849 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:43:22.592 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:44:13.040 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:44:28.050 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:45:01.417 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:45:04.701 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:46:24.253 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:46:25.548 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:47:22.913 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:48:50.226 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:49:03.138 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:49:59.927 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:08.650 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:09.907 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:20.964 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:21.708 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:42.239 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:42.966 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:50:55.046 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:51:08.295 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:51:21.384 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:52:29.912 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:52:39.486 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:52:41.258 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:53:25.707 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:53:26.335 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:53:34.543 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:53:52.904 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:54:25.615 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:55:44.505 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:56:42.124 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:57:17.339 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:58:14.310 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:58:44.147 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:58:44.909 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:59:01.710 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:59:11.121 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:59:17.049 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:59:56.532 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T11:59:57.269 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:00:02.665 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:00:04.274 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:00:06.596 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:00:07.835 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:00:08.693 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:01:00.918 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:01:31.535 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:02:14.220 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:02:28.213 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:03:03.328 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:03:04.085 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:03:08.343 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:03:22.873 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:03:33.885 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:03:34.658 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:05:21.416 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:05:25.349 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:06:14.922 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:06:44.452 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:07:03.033 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:07:04.498 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:07:17.282 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:07:18.014 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:07:40.621 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:08:22.695 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:08:52.179 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:09:20.248 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:09:39.737 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:09:40.455 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:10:44.632 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:10:47.596 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:11:27.057 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:12:19.690 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:14:17.608 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:14:21.273 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:15:02.136 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:15:03.591 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:16:12.975 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:16:40.567 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:17:10.594 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:17:33.649 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:17:35.414 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:17:54.878 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:01.389 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:02.142 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:02.906 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:07.649 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:20.448 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:24.448 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:25.182 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:25.948 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:18:48.874 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:19:28.001 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:19:52.845 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:21:02.469 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:22:02.065 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:22:05.355 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:22:25.067 no blocking orders 
+*Periodic Run* 9-10 12:22 last live feed time: 9-10 12:22 been:0min p:65.12 cost:65.3 p/cost:0.997
+p:65.12 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:257 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.97
+9-10 12:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 12:22 *chek openOrders*: [240910027]
+9-10 12:22 65.12 2dP:2.0 1dP:3.0
+2d$:n:948 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 12:22]
+1d$:n:168 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 12:22]
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:23:35.954 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:24:10.952 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:24:49.020 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:25:04.549 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:25:21.677 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:26:18.187 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:26:18.450 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:26:40.225 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:26:41.754 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:26:42.523 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:26:53.258 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:28:43.545 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:29:12.150 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:43:30.119 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:44:06.581 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:44:09.721 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:44:10.415 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:45:03.054 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:45:25.215 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:45:25.966 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:45:43.496 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:46:36.096 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:46:49.130 no blocking orders 
+no blocking buy orders: All submitted orders {240910026=UL 9-10 10:01 ADDER Filled, 240910027=UL 9-10 10:01 ADDER Submitted}
+no blocking buy orders: Active orders: [240910027=UL 9-10 10:01 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240910027]}
+2024-09-10T12:46:55.381 no blocking orders 
+*Periodic Run* 9-10 13:22 last live feed time: 9-10 13:22 been:0min p:65.22 cost:65.3 p/cost:0.999
+p:65.22 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:257 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.968
+9-10 13:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 13:22 *chek openOrders*: [240910027]
+9-10 13:22 65.22 2dP:15.0 1dP:20.0
+2d$:n:1000 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 13:22]
+1d$:n:220 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 13:22]
+*Periodic Run* 9-10 14:22 last live feed time: 9-10 14:22 been:0min p:65.29 cost:65.3 p/cost:1.0
+p:65.29 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+9-10 14:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 14:22 *chek openOrders*: [240910027]
+9-10 14:22 65.29 2dP:25.0 1dP:32.0
+2d$:n:1054 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 14:22]
+1d$:n:274 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 14:22]
+*Periodic Run* 9-10 15:22 last live feed time: 9-10 15:16 been:6min p:65.39 cost:65.3 p/cost:1.001
+p:65.39 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.966
+9-10 15:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 15:22 *chek openOrders*: [240910027]
+9-10 15:22 65.39 2dP:38.0 1dP:49.0
+2d$:n:1102 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 15:16]
+1d$:n:322 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 15:16]
+9-10 16:00 *openOrder* status:Submitted 240910027 BUY 85@64.73
+9-10 16:00 *openOrder* all live orders [240910027 BUY 85@64.73]
+9-10 16:00 *OrderStatus*:Submitted orderId:240910027 filled:0 remaining:85 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-10 16:22 last live feed time: 9-10 16:00 been:22min p:65.35 cost:65.3 p/cost:1.001
+p:65.35 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.966
+9-10 16:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 16:22 *chek openOrders*: [240910027]
+9-10 16:22 65.35 2dP:33.0 1dP:42.0
+2d$:n:1136 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 16:00]
+1d$:n:356 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 16:00]
+9-10 17:00 *openOrder* status:Submitted 240910027 BUY 85@64.73
+9-10 17:00 *openOrder* all live orders [240910027 BUY 85@64.73]
+9-10 17:00 *OrderStatus*:Submitted orderId:240910027 filled:0 remaining:85 avgFillPx:0.0 lastFillPx:0.0
+updating pos: UL 9-10 17:00 pos:85 cost:65.31
+*Periodic Run* 9-10 17:22 last live feed time: 9-10 16:00 been:82min p:65.35 cost:65.3 p/cost:1.001
+p:65.35 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.966
+9-10 17:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 17:22 *chek openOrders*: [240910027]
+9-10 17:22 65.35 2dP:33.0 1dP:42.0
+2d$:n:1136 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 16:00]
+1d$:n:356 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 16:00]
+*Periodic Run* 9-10 18:22 last live feed time: 9-10 16:00 been:142min p:65.35 cost:65.3 p/cost:1.001
+p:65.35 rng:0.9% pos:85 delt:6k cost:65.3 fullLot:256 refillP:63.14 costTgt:0.98 refillP/cost:0.967 refillP/px:0.966
+9-10 18:22 *chek orderStatus [240910026=Filled, 240910027=Submitted]
+9-10 18:22 *chek openOrders*: [240910027]
+9-10 18:22 65.35 2dP:33.0 1dP:42.0
+2d$:n:1136 max:65.9 [9-9 12:46] min:65.1 [9-10 12:02] rng:1.2% 1Key:[9-6 9:30] last:[9-10 16:00]
+1d$:n:356 max:65.7 [9-10 8:38] min:65.1 [9-10 12:02] rng:0.9% 1Key:[9-10 8:22] last:[9-10 16:00]
