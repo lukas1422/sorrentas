@@ -4503,3 +4503,1114 @@ p:47.37 rng:2.3% pos:115 delt:5k cost:48.5 fullLot:353 refillP:46.63 costTgt:0.9
 9-10 18:22 47.37 2dP:54.0 1dP:71.0
 2d$:n:1156 max:47.9 [9-9 13:18] min:46.8 [9-6 11:32] rng:2.4% 1Key:[9-6 9:30] last:[9-10 18:12]
 1d$:n:376 max:47.5 [9-10 9:30] min:47.0 [9-10 10:37] rng:1.1% 1Key:[9-10 8:22] last:[9-10 18:12]
+*******************************************
+*STARTS* 9-11 8:53
+updating pos: IP 9-11 8:53 pos:115 cost:48.51
+POS:115 COST:48.5 DELT:6k
+9-11 8:53 rng:2.3% costTgt:0.977
+9-11 8:53 tgtMargin:1.0187 tgtPrice:49.42
+ytdReturn:34.7%
+*Periodic Run* 9-11 8:54 last live feed time: 9-11 8:53 been:0min p:47.0 cost:48.5 p/cost:0.969
+p:47.0 rng:2.3% pos:115 delt:5k cost:48.5 fullLot:356 refillP:46.64 costTgt:0.977 refillP/cost:0.961 refillP/px:0.992
+9-11 8:54 47.0 2dP:101.0 1dP:101.0
+2d$:n:781 max:47.9 [9-9 13:18] min:46.9 [9-9 9:30] rng:2.0% 1Key:[9-9 9:30] last:[9-11 8:53]
+1d$:n<5
+09:32:20.058742572 no blocking orders,empty
+*REFILL*@46.63 9-11 9:32:20 delta:5k 1dp:0.0 2dp:0.0 cost:48.5 px/cost:0.9612 refillPx:46.65 avgRng:0.0234
+0:240911010 IP BUY 119 @46.58 9:32 bid is:46.63
+9:32 0: IP orderID:240911010 tradeID:240911010 BUY 119 @46.58 factor:0.999 IP 9-11 9:32 ADDER Created
+1:240911011 IP BUY 119 @45.76 9:32 bid is:46.63
+9:32 1: IP orderID:240911011 tradeID:240911011 BUY 119 @45.76 factor:0.9812628727180404 IP 9-11 9:32 ADDER Created
+1D$:n:5 max:46.8 [9-11 9:30] min:46.8 [9-11 9:30] rng:0.1% 1Key:[9-11 8:53] last:[9-11 9:32]
+2D$:n:785 max:47.9 [9-9 13:18] min:46.7 [9-11 9:30] rng:2.5% 1Key:[9-9 9:30] last:[9-11 9:32]
+9-11 9:32 *openOrder* status:Submitted 240911010 BUY 119@46.58
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58]
+9-11 9:32 *OrderStatus*:Submitted orderId:240911010 filled:0 remaining:119 avgFillPx:0.0 lastFillPx:0.0
+9-11 9:32 *openOrder* status:PreSubmitted 240911011 BUY 119@45.76
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58, 240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:PreSubmitted orderId:240911011 filled:0 remaining:119 avgFillPx:0.0 lastFillPx:0.0
+9-11 9:32 *openOrder* status:Submitted 240911011 BUY 119@45.76
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58, 240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Submitted orderId:240911011 filled:0 remaining:119 avgFillPx:0.0 lastFillPx:0.0
+updating pos: IP 9-11 9:32 pos:118 cost:48.46
+9-11 9:32 *tradeReport* time: 2024-09-11T09:32:32 BOT execPx:46.58 shares:3 avgPx:46.58
+9-11 9:32 *openOrder* status:Submitted 240911010 BUY 119@46.58
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58, 240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Submitted orderId:240911010 filled:3 remaining:116 avgFillPx:46.58 lastFillPx:46.58
+9-11 9:32 *openOrder* status:Submitted 240911010 BUY 119@46.58
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58, 240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Submitted orderId:240911010 filled:3 remaining:116 avgFillPx:46.58 lastFillPx:46.58
+1.*commission report*:240911010 commission:0.35 
+2.*commission report* orderID:240911010 commission: 0.35 
+updating pos: IP 9-11 9:32 pos:118 cost:48.47
+updating pos: IP 9-11 9:32 pos:208 cost:47.65
+9-11 9:32 *tradeReport* time: 2024-09-11T09:32:35 BOT execPx:46.58 shares:90 avgPx:46.58
+9-11 9:32 *openOrder* status:Submitted 240911010 BUY 119@46.58
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58, 240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Submitted orderId:240911010 filled:93 remaining:26 avgFillPx:46.58 lastFillPx:46.58
+9-11 9:32 *openOrder* status:Submitted 240911010 BUY 119@46.58
+9-11 9:32 *openOrder* all live orders [240911010 BUY 119@46.58, 240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Submitted orderId:240911010 filled:93 remaining:26 avgFillPx:46.58 lastFillPx:46.58
+1.*commission report*:240911010 commission:-0.09 
+2.*commission report* orderID:240911010 commission: -0.09 
+updating pos: IP 9-11 9:32 pos:208 cost:47.65
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Submitted, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911010=IP 9-11 9:32 ADDER Submitted, 240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911010, 240911011]}
+2024-09-11T09:32:38.845 no blocking orders 
+updating pos: IP 9-11 9:32 pos:234 cost:47.53
+9-11 9:32 *tradeReport* time: 2024-09-11T09:32:47 BOT execPx:46.58 shares:26 avgPx:46.58
+9-11 9:32 *openOrder* status:Filled 240911010 BUY 119@46.58
+9-11 9:32 *openOrder*:removing order.Status:Filled 240911010 BUY 119@46.58
+9-11 9:32 *openOrder*:after removal.OpenOrders: [240911011]
+9-11 9:32 *openOrder* all live orders [240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Filled orderId:240911010 filled:119 remaining:0 avgFillPx:46.58 lastFillPx:46.58
+9-11 9:32 *openOrder* status:Filled 240911010 BUY 119@46.58
+9-11 9:32 *openOrder*:removing order.Status:Filled 240911010 BUY 119@46.58
+9-11 9:32 *openOrder*:after removal.OpenOrders: [240911011]
+9-11 9:32 *openOrder* all live orders [240911011 BUY 119@45.76]
+9-11 9:32 *OrderStatus*:Filled orderId:240911010 filled:119 remaining:0 avgFillPx:46.58 lastFillPx:46.58
+1.*commission report*:240911010 commission:0.04 
+2.*commission report* orderID:240911010 commission: 0.04 
+updating pos: IP 9-11 9:32 pos:234 cost:47.53
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:32:52.876 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:32:58.632 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:12.662 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:17.659 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:19.959 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:29.682 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:30.431 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:32.938 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:33.688 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:35.267 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:38.692 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:40.448 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:41.191 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:33:44.421 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:34:02.240 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:34:12.752 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:34:15.296 no blocking orders 
+updating pos: IP 9-11 9:38 pos:234 cost:47.53
+updating pos: IP 9-11 9:38 pos:234 cost:47.53
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:39:43.884 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:39:44.792 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:39:45.689 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:01.685 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:02.400 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:11.429 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:13.162 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:20.212 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:21.922 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:23.420 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:40:45.744 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:03.007 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:03.745 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:09.242 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:17.270 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:21.518 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:37.835 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:41:52.399 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:42:00.881 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:42:03.405 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:42:12.617 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:42:14.124 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:42:27.896 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:42:35.112 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:06.461 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:09 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:09.971 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:18.484 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:24.668 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:29.001 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:29.752 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:36.262 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:41.782 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:48.289 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:52.791 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:43:56.554 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:44:04.535 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:44:05.234 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:44:22.356 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:44:27.883 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:47:45.043 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:47:46.417 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:47:48.892 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:47:53.889 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:47:56.412 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:50:10.343 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:50:14.816 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:50:16.875 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:50:28.100 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:50:38.679 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:52:23.298 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:52:31.288 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:52:40.565 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:52:46.069 no blocking orders 
+*Periodic Run* 9-11 9:53 last live feed time: 9-11 9:53 been:0min p:46.56 cost:47.5 p/cost:0.98
+p:46.56 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:360 refillP:44.97 costTgt:0.977 refillP/cost:0.946 refillP/px:0.966
+9-11 9:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 9:53 *chek openOrders*: [240911011]
+9-11 9:53 46.56 2dP:5.0 1dP:19.0
+2d$:n:806 max:47.9 [9-9 13:18] min:46.5 [9-11 9:43] rng:3.0% 1Key:[9-9 9:30] last:[9-11 9:53]
+1d$:n:26 max:46.8 [9-11 9:30] min:46.5 [9-11 9:43] rng:0.7% 1Key:[9-11 8:53] last:[9-11 9:53]
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:55:40.810 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:55:41.587 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:05.030 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:07.354 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:13.133 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:16.902 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:19.103 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:31.360 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:32.151 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:33.887 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:56:51.919 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:03.650 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:06.166 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:34.694 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:38.968 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:39.708 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:50.703 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:57:54.150 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:58:02.740 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:58:03.506 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:58:29.532 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:59:19.357 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:59:47.863 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:59:48.888 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:59:49.638 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T09:59:50.631 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:20.429 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:30.184 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:33.440 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:39.204 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:45.826 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:51.468 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:00:52.222 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:01:06.355 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:01:16.291 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:03:39.485 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:03:41.955 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:04:33.308 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:04:34.043 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:04:35.246 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:04:42.041 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:04:54.693 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:05:06.571 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:05:07.325 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:05:18.606 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:05:21.384 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:05:30.111 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:06:05.218 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:06:27.635 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:06:46.640 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:07:31.945 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:07:32.690 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:07:55.055 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:07:56.472 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:07:59.986 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:08:11.496 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:08:13.502 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:08:40.785 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:08:41.539 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:09:26.641 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:09:32.379 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:09:39.145 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:13.712 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:16.958 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:17.680 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:18.435 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:20.436 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:21.967 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:23.475 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:24.200 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:27.986 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:28.701 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:33.233 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:35.208 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:37.720 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:38.475 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:10:53.479 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:08.038 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:11.006 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:14.723 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:17.522 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:22.804 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:41.063 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:53.052 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:11:58.574 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:12:13.094 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:12:56.136 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:13:29.928 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:15:15.613 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:15:23.832 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:15:35.016 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:08.629 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:17.144 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:20.656 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:26.512 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:29.159 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:50.695 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:16:57.984 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:17:13.765 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:17:16.722 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:17:26.068 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:18:19.838 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:19:53.433 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:01.978 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:02.704 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:05.826 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:12.236 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:16.022 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:19.496 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:42.015 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:20:58.294 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:04.764 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:10.562 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:11.317 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:14.742 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:22.091 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:22.823 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:32.110 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:40.598 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:21:53.606 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:13.627 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:19.138 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:19.892 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:24.171 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:31.924 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:37.914 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:40.713 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:43.174 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:45.690 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:22:53.470 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:23:06.732 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:23:07.491 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:23:20.737 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:23:28.758 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:29:04.174 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:29:08.267 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:30:11.094 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:30:15.659 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:30:35.038 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:30:35.640 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:30:59.146 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:01.650 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:06.910 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:13.143 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:13.877 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:21.409 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:54.383 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:31:58.464 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:32:18.007 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:32:29.236 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:32:50.284 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:32:51.055 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:32:59.556 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:33:00.285 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:33:12.804 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:33:13.814 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:33:14.980 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T10:33:16.300 no blocking orders 
+*Periodic Run* 9-11 10:53 last live feed time: 9-11 10:53 been:0min p:46.53 cost:47.5 p/cost:0.979
+p:46.53 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:360 refillP:44.97 costTgt:0.977 refillP/cost:0.946 refillP/px:0.966
+9-11 10:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 10:53 *chek openOrders*: [240911011]
+9-11 10:53 46.53 2dP:10.0 1dP:33.0
+2d$:n:865 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 10:53]
+1d$:n:85 max:46.8 [9-11 9:30] min:46.4 [9-11 10:22] rng:1.0% 1Key:[9-11 8:53] last:[9-11 10:53]
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:08:59.865 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:00.619 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:23.405 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:24.872 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:25.542 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:26.740 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:28.483 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:09:38.421 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:47:40.663 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:47:53.942 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:47:57.237 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:48:04.718 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:48:09.569 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:48:15.966 no blocking orders 
+no blocking buy orders: All submitted orders {240911010=IP 9-11 9:32 ADDER Filled, 240911011=IP 9-11 9:32 ADDER Submitted}
+no blocking buy orders: Active orders: [240911011=IP 9-11 9:32 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911011]}
+2024-09-11T11:49:01.331 no blocking orders 
+*Periodic Run* 9-11 11:53 last live feed time: 9-11 11:53 been:0min p:46.5 cost:47.5 p/cost:0.978
+p:46.5 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:360 refillP:44.97 costTgt:0.977 refillP/cost:0.946 refillP/px:0.967
+9-11 11:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 11:53 *chek openOrders*: [240911011]
+9-11 11:53 46.5 2dP:8.0 1dP:26.0
+2d$:n:925 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 11:53]
+1d$:n:145 max:46.8 [9-11 9:30] min:46.4 [9-11 10:22] rng:1.0% 1Key:[9-11 8:53] last:[9-11 11:53]
+*Periodic Run* 9-11 12:53 last live feed time: 9-11 12:53 been:0min p:46.57 cost:47.5 p/cost:0.98
+p:46.57 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:360 refillP:44.97 costTgt:0.977 refillP/cost:0.946 refillP/px:0.966
+9-11 12:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 12:53 *chek openOrders*: [240911011]
+9-11 12:53 46.57 2dP:13.0 1dP:42.0
+2d$:n:982 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 12:53]
+1d$:n:202 max:46.8 [9-11 9:30] min:46.4 [9-11 10:22] rng:1.0% 1Key:[9-11 8:53] last:[9-11 12:53]
+*Periodic Run* 9-11 13:53 last live feed time: 9-11 13:53 been:0min p:46.71 cost:47.5 p/cost:0.983
+p:46.71 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:358 refillP:44.96 costTgt:0.977 refillP/cost:0.946 refillP/px:0.963
+9-11 13:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 13:53 *chek openOrders*: [240911011]
+9-11 13:53 46.71 2dP:22.0 1dP:67.0
+2d$:n:1037 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 13:53]
+1d$:n:257 max:46.9 [9-11 9:30] min:46.4 [9-11 10:22] rng:1.1% 1Key:[9-11 8:53] last:[9-11 13:53]
+*Periodic Run* 9-11 14:53 last live feed time: 9-11 14:53 been:0min p:46.72 cost:47.5 p/cost:0.983
+p:46.72 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:358 refillP:44.96 costTgt:0.977 refillP/cost:0.946 refillP/px:0.962
+9-11 14:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 14:53 *chek openOrders*: [240911011]
+9-11 14:53 46.72 2dP:23.0 1dP:67.0
+2d$:n:1093 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 14:53]
+1d$:n:313 max:46.9 [9-11 9:30] min:46.4 [9-11 10:22] rng:1.1% 1Key:[9-11 8:53] last:[9-11 14:53]
+*Periodic Run* 9-11 15:53 last live feed time: 9-11 15:53 been:0min p:47.08 cost:47.5 p/cost:0.991
+p:47.08 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:356 refillP:44.95 costTgt:0.977 refillP/cost:0.946 refillP/px:0.955
+9-11 15:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 15:53 *chek openOrders*: [240911011]
+9-11 15:53 47.08 2dP:47.0 1dP:95.0
+2d$:n:1151 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 15:53]
+1d$:n:371 max:47.1 [9-11 15:37] min:46.4 [9-11 10:22] rng:1.6% 1Key:[9-11 8:53] last:[9-11 15:53]
+9-11 16:00 *openOrder* status:Submitted 240911011 BUY 119@45.76
+9-11 16:00 *openOrder* all live orders [240911011 BUY 119@45.76]
+9-11 16:00 *OrderStatus*:Submitted orderId:240911011 filled:0 remaining:119 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-11 16:53 last live feed time: 9-11 16:00 been:53min p:47.13 cost:47.5 p/cost:0.992
+p:47.13 rng:2.3% pos:234 delt:11k cost:47.5 fullLot:355 refillP:44.95 costTgt:0.977 refillP/cost:0.946 refillP/px:0.954
+9-11 16:53 *chek orderStatus [240911010=Filled, 240911011=Submitted]
+9-11 16:53 *chek openOrders*: [240911011]
+9-11 16:53 47.13 2dP:50.0 1dP:98.0
+2d$:n:1158 max:47.9 [9-9 13:18] min:46.4 [9-11 10:22] rng:3.2% 1Key:[9-9 9:30] last:[9-11 16:00]
+1d$:n:378 max:47.1 [9-11 15:59] min:46.4 [9-11 10:22] rng:1.6% 1Key:[9-11 8:53] last:[9-11 16:00]
+9-11 17:00 *openOrder* status:Submitted 240911011 BUY 119@45.76
+9-11 17:00 *openOrder* all live orders [240911011 BUY 119@45.76]
+9-11 17:00 *OrderStatus*:Submitted orderId:240911011 filled:0 remaining:119 avgFillPx:0.0 lastFillPx:0.0
+updating pos: IP 9-11 17:00 pos:234 cost:47.53

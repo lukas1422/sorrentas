@@ -1845,3 +1845,90 @@ updating pos: AWK 9-10 17:00 pos:0 cost:0.0
 9-10 18:22 148.2 2dP:93.0 1dP:86.0
 2d$:n:1126 max:148.5 [9-10 15:22] min:143.6 [9-6 15:53] rng:3.4% 1Key:[9-6 9:30] last:[9-10 17:00]
 1d$:n:346 max:148.5 [9-10 15:22] min:146.3 [9-10 9:30] rng:1.5% 1Key:[9-10 8:22] last:[9-10 17:00]
+*******************************************
+*STARTS* 9-11 8:53
+POS:0 COST:0.0 DELT:0k
+9-11 8:53 rng:1.9% costTgt:0.98
+9-11 8:53 tgtMargin:1.015 tgtPrice:0.0
+ytdReturn:14.19%
+*Periodic Run* 9-11 8:54 last live feed time: 9-11 8:53 been:0min p:148.5 
+9-11 8:54 148.5 2dP:101.0 1dP:101.0
+2d$:n:781 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 8:53]
+1d$:n<5
+*Periodic Run* 9-11 9:53 last live feed time: 9-11 9:53 been:0min p:146.06 
+9-11 9:53 146.06 2dP:47.0 1dP:21.0
+2d$:n:802 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 9:53]
+1d$:n:22 max:147.1 [9-11 8:53] min:145.8 [9-11 9:53] rng:0.9% 1Key:[9-11 8:53] last:[9-11 9:53]
+10:31:40.610555244 no blocking orders,empty
+*1Buy*@144.9 9-11 10:31:40 1dp:0.0 2dp:19.0
+cash remaining: 98098.38
+0:240911025 AWK BUY 38 @144.65 10:31 bid is:144.79
+10:31 0: AWK orderID:240911025 tradeID:240911025 BUY 38 @144.65 factor:0.999 AWK 9-11 10:31 ADDER Created
+1:240911026 AWK BUY 38 @142.62 10:31 bid is:144.79
+10:31 1: AWK orderID:240911026 tradeID:240911026 BUY 38 @142.62 factor:0.9849886205650623 AWK 9-11 10:31 ADDER Created
+1D$:n:55 max:147.1 [9-11 8:53] min:144.9 [9-11 10:31] rng:1.5% 1Key:[9-11 8:53] last:[9-11 10:31]
+2D$:n:835 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 10:31]
+9-11 10:31 *openOrder* status:Submitted 240911025 BUY 38@144.65
+9-11 10:31 *openOrder* all live orders [240911025 BUY 38@144.65]
+9-11 10:31 *OrderStatus*:Submitted orderId:240911025 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+9-11 10:31 *openOrder* status:Submitted 240911026 BUY 38@142.62
+9-11 10:31 *openOrder* all live orders [240911025 BUY 38@144.65, 240911026 BUY 38@142.62]
+9-11 10:31 *OrderStatus*:Submitted orderId:240911026 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240911025=AWK 9-11 10:31 ADDER Submitted, 240911026=AWK 9-11 10:31 ADDER Submitted}
+no blocking buy orders: Active orders: [240911025=AWK 9-11 10:31 ADDER Submitted, 240911026=AWK 9-11 10:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240911025, 240911026]}
+2024-09-11T10:31:45.854 no blocking orders 
+*Periodic Run* 9-11 10:53 last live feed time: 9-11 10:53 been:0min p:145.63 
+9-11 10:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 10:53 *chek openOrders*: [240911025, 240911026]
+9-11 10:53 145.63 2dP:38.0 1dP:35.0
+2d$:n:854 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 10:53]
+1d$:n:74 max:147.1 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.5% 1Key:[9-11 8:53] last:[9-11 10:53]
+*Periodic Run* 9-11 11:53 last live feed time: 9-11 11:53 been:0min p:146.27 
+9-11 11:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 11:53 *chek openOrders*: [240911025, 240911026]
+9-11 11:53 146.27 2dP:52.0 1dP:63.0
+2d$:n:910 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 11:53]
+1d$:n:130 max:147.1 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.5% 1Key:[9-11 8:53] last:[9-11 11:53]
+*Periodic Run* 9-11 12:53 last live feed time: 9-11 12:53 been:0min p:146.95 
+9-11 12:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 12:53 *chek openOrders*: [240911025, 240911026]
+9-11 12:53 146.95 2dP:66.0 1dP:91.0
+2d$:n:963 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 12:53]
+1d$:n:183 max:147.2 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.6% 1Key:[9-11 8:53] last:[9-11 12:53]
+*Periodic Run* 9-11 13:53 last live feed time: 9-11 13:53 been:0min p:147.16 
+9-11 13:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 13:53 *chek openOrders*: [240911025, 240911026]
+9-11 13:53 147.16 2dP:71.0 1dP:93.0
+2d$:n:1010 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 13:53]
+1d$:n:230 max:147.3 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.7% 1Key:[9-11 8:53] last:[9-11 13:53]
+*Periodic Run* 9-11 14:53 last live feed time: 9-11 14:53 been:0min p:146.99 
+9-11 14:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 14:53 *chek openOrders*: [240911025, 240911026]
+9-11 14:53 146.99 2dP:67.0 1dP:85.0
+2d$:n:1061 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 14:53]
+1d$:n:281 max:147.4 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.7% 1Key:[9-11 8:53] last:[9-11 14:53]
+*Periodic Run* 9-11 15:53 last live feed time: 9-11 15:53 been:0min p:147.03 
+9-11 15:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 15:53 *chek openOrders*: [240911025, 240911026]
+9-11 15:53 147.03 2dP:68.0 1dP:86.0
+2d$:n:1112 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 15:53]
+1d$:n:332 max:147.4 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.8% 1Key:[9-11 8:53] last:[9-11 15:53]
+9-11 16:00 *openOrder* status:Submitted 240911025 BUY 38@144.65
+9-11 16:00 *openOrder* all live orders [240911025 BUY 38@144.65, 240911026 BUY 38@142.62]
+9-11 16:00 *OrderStatus*:Submitted orderId:240911025 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+9-11 16:00 *openOrder* status:Submitted 240911026 BUY 38@142.62
+9-11 16:00 *openOrder* all live orders [240911025 BUY 38@144.65, 240911026 BUY 38@142.62]
+9-11 16:00 *OrderStatus*:Submitted orderId:240911026 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-11 16:53 last live feed time: 9-11 16:00 been:53min p:147.04 
+9-11 16:53 *chek orderStatus [240911025=Submitted, 240911026=Submitted]
+9-11 16:53 *chek openOrders*: [240911025, 240911026]
+9-11 16:53 147.04 2dP:68.0 1dP:86.0
+2d$:n:1119 max:148.5 [9-10 15:22] min:143.8 [9-9 9:31] rng:3.3% 1Key:[9-9 9:30] last:[9-11 16:00]
+1d$:n:339 max:147.4 [9-11 8:53] min:144.8 [9-11 10:31] rng:1.8% 1Key:[9-11 8:53] last:[9-11 16:00]
+9-11 17:00 *openOrder* status:Submitted 240911025 BUY 38@144.65
+9-11 17:00 *openOrder* all live orders [240911025 BUY 38@144.65, 240911026 BUY 38@142.62]
+9-11 17:00 *OrderStatus*:Submitted orderId:240911025 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
+9-11 17:00 *openOrder* status:Submitted 240911026 BUY 38@142.62
+9-11 17:00 *openOrder* all live orders [240911025 BUY 38@144.65, 240911026 BUY 38@142.62]
+9-11 17:00 *OrderStatus*:Submitted orderId:240911026 filled:0 remaining:38 avgFillPx:0.0 lastFillPx:0.0
