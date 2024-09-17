@@ -10085,3 +10085,1189 @@ p:204.68 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:81 refillP:191.33 costTgt:0.
 9-16 22:19 204.68 2dP:58.0 1dP:31.0
 2d$:n:1168 max:206.7 [9-16 9:33] min:201.9 [9-12 12:08] rng:2.3% 1Key:[9-12 9:30] last:[9-16 16:00]
 1d$:n:388 max:206.7 [9-16 9:33] min:203.8 [9-16 11:30] rng:1.4% 1Key:[9-16 8:19] last:[9-16 16:00]
+*******************************************
+*STARTS* 9-17 7:10
+updating pos: HON 9-17 7:10 pos:25 cost:197.73
+POS:25 COST:197.7 DELT:5k
+9-17 7:11 rng:1.5% costTgt:0.98
+9-17 7:11 tgtMargin:1.0122 tgtPrice:200.14
+ytdReturn:-0.8%
+*Periodic Run* 9-17 7:11 7:11:09 no live feed
+9-17 7:11 0.0 2dP:101.0 1dP:101.0
+2d$:n:780 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-16 15:59]
+1d$:n<5
+*Periodic Run* 9-17 8:11 8:11:10 no live feed
+9-17 8:11 0.0 2dP:34.0 1dP:100.0
+2d$:n:780 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-16 15:59]
+1d$:n<5
+*Periodic Run* 9-17 9:11 last live feed time: 9-17 9:06 been:4min p:204.89 cost:197.7 p/cost:1.036
+p:204.89 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:81 refillP:191.33 costTgt:0.98 refillP/cost:0.968 refillP/px:0.934
+9-17 9:11 204.89 2dP:41.0 1dP:100.0
+2d$:n:781 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 9:06]
+1d$:n<5
+******************CUT**************************
+CUT 9-17 9:30:59 1dP:100.0 2dp:56.0 px205.13 cost:197.730044 px/Cost:1.0374 reqMargin:1.0122 rng:0.0152
+0:240917023 HON SELL 8 @205.85 9:30
+0: SELL HON 9-17 9:30 CUTTER Created target margin:1.01217 cost*target margin:200.14 askPx:205.44
+1:240917024 HON SELL 8 @207.52 9:30
+1: SELL HON 9-17 9:30 CUTTER Created target margin:1.01217 cost*target margin:200.14 askPx:205.44
+2:240917025 HON SELL 9 @209.61 9:30
+2: SELL HON 9-17 9:30 CUTTER Created target margin:1.01217 cost*target margin:200.14 askPx:205.44
+2D$:n:782 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 9:30]
+1D$:n<5
+9-17 9:31 *openOrder* status:PreSubmitted 240917024 SELL 8@207.52
+9-17 9:31 *openOrder* all live orders [240917024 SELL 8@207.52]
+9-17 9:31 *OrderStatus*:PreSubmitted orderId:240917024 filled:0 remaining:8 avgFillPx:0.0 lastFillPx:0.0
+9-17 9:31 *openOrder* status:PreSubmitted 240917025 SELL 9@209.61
+9-17 9:31 *openOrder* all live orders [240917024 SELL 8@207.52, 240917025 SELL 9@209.61]
+9-17 9:31 *OrderStatus*:PreSubmitted orderId:240917025 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+9-17 9:31 *openOrder* status:Submitted 240917023 SELL 8@205.85
+9-17 9:31 *openOrder* all live orders [240917023 SELL 8@205.85, 240917024 SELL 8@207.52, 240917025 SELL 9@209.61]
+9-17 9:31 *OrderStatus*:Submitted orderId:240917023 filled:0 remaining:8 avgFillPx:0.0 lastFillPx:0.0
+9-17 9:31 *openOrder* status:Submitted 240917024 SELL 8@207.52
+9-17 9:31 *openOrder* all live orders [240917023 SELL 8@205.85, 240917024 SELL 8@207.52, 240917025 SELL 9@209.61]
+9-17 9:31 *OrderStatus*:Submitted orderId:240917024 filled:0 remaining:8 avgFillPx:0.0 lastFillPx:0.0
+9-17 9:31 *openOrder* status:Submitted 240917025 SELL 9@209.61
+9-17 9:31 *openOrder* all live orders [240917023 SELL 8@205.85, 240917024 SELL 8@207.52, 240917025 SELL 9@209.61]
+9-17 9:31 *OrderStatus*:Submitted orderId:240917025 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+*Periodic Run* 9-17 10:11 last live feed time: 9-17 10:10 been:0min p:204.84 cost:197.7 p/cost:1.036
+p:204.84 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:81 refillP:191.33 costTgt:0.98 refillP/cost:0.968 refillP/px:0.934
+9-17 10:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 10:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 10:11 204.84 2dP:40.0 1dP:58.0
+2d$:n:821 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 10:10]
+1d$:n:41 max:205.5 [9-17 9:33] min:204.0 [9-17 9:55] rng:0.7% 1Key:[9-17 9:06] last:[9-17 10:10]
+*Periodic Run* 9-17 11:11 last live feed time: 9-17 11:11 been:0min p:205.25 cost:197.7 p/cost:1.038
+p:205.25 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:81 refillP:191.33 costTgt:0.98 refillP/cost:0.968 refillP/px:0.932
+9-17 11:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 11:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 11:11 205.25 2dP:53.0 1dP:77.0
+2d$:n:880 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 11:11]
+1d$:n:100 max:205.6 [9-17 10:49] min:204.0 [9-17 9:55] rng:0.8% 1Key:[9-17 9:06] last:[9-17 11:11]
+*Periodic Run* 9-17 12:11 last live feed time: 9-17 12:10 been:0min p:205.35 cost:197.7 p/cost:1.039
+p:205.35 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:81 refillP:191.33 costTgt:0.98 refillP/cost:0.968 refillP/px:0.932
+9-17 12:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 12:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 12:11 205.35 2dP:56.0 1dP:80.0
+2d$:n:938 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 12:10]
+1d$:n:158 max:205.7 [9-17 11:36] min:204.0 [9-17 9:55] rng:0.8% 1Key:[9-17 9:06] last:[9-17 12:10]
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+*Periodic Run* 9-17 13:11 last live feed time: 9-17 13:11 been:0min p:204.39 cost:197.7 p/cost:1.034
+p:204.39 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:82 refillP:191.36 costTgt:0.98 refillP/cost:0.968 refillP/px:0.936
+9-17 13:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 13:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 13:11 204.39 2dP:25.0 1dP:28.0
+2d$:n:996 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 13:11]
+1d$:n:216 max:205.7 [9-17 11:36] min:203.9 [9-17 12:52] rng:0.9% 1Key:[9-17 9:06] last:[9-17 13:11]
+*Periodic Run* 9-17 14:11 last live feed time: 9-17 14:10 been:0min p:204.95 cost:197.7 p/cost:1.037
+p:204.95 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:81 refillP:191.33 costTgt:0.98 refillP/cost:0.968 refillP/px:0.934
+9-17 14:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 14:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 14:11 204.95 2dP:43.0 1dP:59.0
+2d$:n:1054 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 14:10]
+1d$:n:274 max:205.7 [9-17 11:36] min:203.9 [9-17 12:52] rng:0.9% 1Key:[9-17 9:06] last:[9-17 14:10]
+*Periodic Run* 9-17 15:11 last live feed time: 9-17 15:10 been:0min p:204.44 cost:197.7 p/cost:1.034
+p:204.44 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:82 refillP:191.36 costTgt:0.98 refillP/cost:0.968 refillP/px:0.936
+9-17 15:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 15:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 15:11 204.44 2dP:27.0 1dP:30.0
+2d$:n:1114 max:206.7 [9-16 9:32] min:203.6 [9-13 14:01] rng:1.5% 1Key:[9-13 9:30] last:[9-17 15:10]
+1d$:n:334 max:205.7 [9-17 11:36] min:203.9 [9-17 12:52] rng:0.9% 1Key:[9-17 9:06] last:[9-17 15:10]
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+no blocking buy orders: All submitted orders {240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240917023=HON 9-17 9:30 CUTTER Submitted, 240917024=HON 9-17 9:30 CUTTER Submitted, 240917025=HON 9-17 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240917023, 240917024, 240917025]}
+*Periodic Run* 9-17 16:11 last live feed time: 9-17 16:00 been:10min p:204.24 cost:197.7 p/cost:1.033
+p:204.24 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:82 refillP:191.36 costTgt:0.98 refillP/cost:0.968 refillP/px:0.937
+9-17 16:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 16:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 16:11 204.24 2dP:21.0 1dP:31.0
+2d$:n:1164 max:206.7 [9-16 9:32] min:203.6 [9-17 15:44] rng:1.5% 1Key:[9-13 9:30] last:[9-17 16:00]
+1d$:n:384 max:205.7 [9-17 11:36] min:203.6 [9-17 15:44] rng:1.0% 1Key:[9-17 9:06] last:[9-17 16:00]
+*Periodic Run* 9-17 17:11 last live feed time: 9-17 16:00 been:70min p:204.24 cost:197.7 p/cost:1.033
+p:204.24 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:82 refillP:191.36 costTgt:0.98 refillP/cost:0.968 refillP/px:0.937
+9-17 17:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 17:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 17:11 204.24 2dP:21.0 1dP:31.0
+2d$:n:1164 max:206.7 [9-16 9:32] min:203.6 [9-17 15:44] rng:1.5% 1Key:[9-13 9:30] last:[9-17 16:00]
+1d$:n:384 max:205.7 [9-17 11:36] min:203.6 [9-17 15:44] rng:1.0% 1Key:[9-17 9:06] last:[9-17 16:00]
+*Periodic Run* 9-17 18:11 last live feed time: 9-17 16:00 been:130min p:204.24 cost:197.7 p/cost:1.033
+p:204.24 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:82 refillP:191.36 costTgt:0.98 refillP/cost:0.968 refillP/px:0.937
+9-17 18:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 18:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 18:11 204.24 2dP:21.0 1dP:31.0
+2d$:n:1164 max:206.7 [9-16 9:32] min:203.6 [9-17 15:44] rng:1.5% 1Key:[9-13 9:30] last:[9-17 16:00]
+1d$:n:384 max:205.7 [9-17 11:36] min:203.6 [9-17 15:44] rng:1.0% 1Key:[9-17 9:06] last:[9-17 16:00]
+*Periodic Run* 9-17 19:11 last live feed time: 9-17 16:00 been:190min p:204.24 cost:197.7 p/cost:1.033
+p:204.24 rng:1.5% pos:25 delt:5k cost:197.7 fullLot:82 refillP:191.36 costTgt:0.98 refillP/cost:0.968 refillP/px:0.937
+9-17 19:11 *chek orderStatus [240917023=Submitted, 240917024=Submitted, 240917025=Submitted]
+9-17 19:11 *chek openOrders*: [240917023, 240917024, 240917025]
+9-17 19:11 204.24 2dP:21.0 1dP:31.0
+2d$:n:1164 max:206.7 [9-16 9:32] min:203.6 [9-17 15:44] rng:1.5% 1Key:[9-13 9:30] last:[9-17 16:00]
+1d$:n:384 max:205.7 [9-17 11:36] min:203.6 [9-17 15:44] rng:1.0% 1Key:[9-17 9:06] last:[9-17 16:00]
