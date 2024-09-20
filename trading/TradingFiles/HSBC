@@ -5995,3 +5995,134 @@ p:44.71 rng:0.0% pos:57 delt:3k cost:43.7 fullLot:375 refillP:42.54 costTgt:0.98
 9-20 1:23 44.71 2dP:64.0 1dP:64.0
 2d$:n:243 max:44.8 [9-19 14:44] min:44.5 [9-19 10:23] rng:0.6% 1Key:[9-19 10:23] last:[9-19 16:00]
 1d$:n:243 max:44.8 [9-19 14:44] min:44.5 [9-19 10:23] rng:0.6% 1Key:[9-19 10:23] last:[9-19 16:00]
+*******************************************
+*STARTS* 9-20 9:29
+updating pos: HSBC 9-20 9:29 pos:57 cost:43.68
+POS:57 COST:43.7 DELT:2k
+*Periodic Run* 9-20 9:30 last live feed time: 9-20 9:29 been:0min p:44.35 cost:43.7 p/cost:1.015
+p:44.35 rng:0.0% pos:57 delt:3k cost:43.7 fullLot:378 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.959
+9-20 9:30 44.35 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 9-20 9:30:02 1dP:100.0 2dp:100.0 px44.34 cost:43.68250175 px/Cost:1.0151 reqMargin:1.01 rng:0.0
+0:240920007 HSBC SELL 19 @44.43 9:30
+0: SELL HSBC 9-20 9:30 CUTTER Created target margin:1.01 cost*target margin:44.12 askPx:44.34
+1:240920008 HSBC SELL 19 @44.78 9:30
+1: SELL HSBC 9-20 9:30 CUTTER Created target margin:1.01 cost*target margin:44.12 askPx:44.34
+2:240920009 HSBC SELL 19 @45.23 9:30
+2: SELL HSBC 9-20 9:30 CUTTER Created target margin:1.01 cost*target margin:44.12 askPx:44.34
+2D$:n<5
+1D$:n<5
+9-20 9:30 *openOrder* status:PreSubmitted 240920008 SELL 19@44.78
+9-20 9:30 *openOrder* all live orders [240920008 SELL 19@44.78]
+9-20 9:30 *OrderStatus*:PreSubmitted orderId:240920008 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:PreSubmitted 240920007 SELL 19@44.43
+9-20 9:30 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78]
+9-20 9:30 *OrderStatus*:PreSubmitted orderId:240920007 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:Submitted 240920009 SELL 19@45.23
+9-20 9:30 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78, 240920009 SELL 19@45.23]
+9-20 9:30 *OrderStatus*:Submitted orderId:240920009 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:Submitted 240920007 SELL 19@44.43
+9-20 9:30 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78, 240920009 SELL 19@45.23]
+9-20 9:30 *OrderStatus*:Submitted orderId:240920007 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:Submitted 240920008 SELL 19@44.78
+9-20 9:30 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78, 240920009 SELL 19@45.23]
+9-20 9:30 *OrderStatus*:Submitted orderId:240920008 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+no blocking buy orders: All submitted orders {240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920007=HSBC 9-20 9:30 CUTTER Submitted, 240920008=HSBC 9-20 9:30 CUTTER Submitted, 240920009=HSBC 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920007, 240920008, 240920009]}
+9-20 9:37 rng:1.0% costTgt:0.98
+9-20 9:37 tgtMargin:1.01 tgtPrice:44.12
+ytdReturn:10.29%
+*Periodic Run* 9-20 10:30 last live feed time: 9-20 10:26 been:4min p:44.12 cost:43.7 p/cost:1.01
+p:44.12 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:380 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.964
+9-20 10:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 10:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 10:30 44.12 2dP:36.0 1dP:1.0
+2d$:n:837 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 10:26]
+1d$:n:57 max:44.3 [9-20 9:29] min:44.1 [9-20 9:50] rng:0.4% 1Key:[9-20 9:29] last:[9-20 10:26]
+*Periodic Run* 9-20 11:30 last live feed time: 9-20 11:29 been:0min p:44.08 cost:43.7 p/cost:1.009
+p:44.08 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:380 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.965
+9-20 11:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 11:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 11:30 44.08 2dP:33.0 1dP:2.0
+2d$:n:894 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 11:29]
+1d$:n:114 max:44.3 [9-20 9:29] min:44.1 [9-20 11:28] rng:0.5% 1Key:[9-20 9:29] last:[9-20 11:29]
+*Periodic Run* 9-20 12:30 last live feed time: 9-20 12:29 been:0min p:44.17 cost:43.7 p/cost:1.011
+p:44.17 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:379 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.963
+9-20 12:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 12:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 12:30 44.17 2dP:41.0 1dP:44.0
+2d$:n:938 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 12:29]
+1d$:n:158 max:44.3 [9-20 9:29] min:44.1 [9-20 11:28] rng:0.5% 1Key:[9-20 9:29] last:[9-20 12:29]
+*Periodic Run* 9-20 13:30 last live feed time: 9-20 13:28 been:1min p:44.17 cost:43.7 p/cost:1.011
+p:44.17 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:379 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.963
+9-20 13:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 13:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 13:30 44.17 2dP:41.0 1dP:44.0
+2d$:n:973 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 13:28]
+1d$:n:193 max:44.3 [9-20 9:29] min:44.1 [9-20 11:28] rng:0.5% 1Key:[9-20 9:29] last:[9-20 13:28]
+*Periodic Run* 9-20 14:30 last live feed time: 9-20 13:42 been:47min p:44.21 cost:43.7 p/cost:1.012
+p:44.21 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:379 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.962
+9-20 14:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 14:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 14:30 44.21 2dP:45.0 1dP:61.0
+2d$:n:983 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 13:42]
+1d$:n:203 max:44.3 [9-20 9:29] min:44.1 [9-20 11:28] rng:0.5% 1Key:[9-20 9:29] last:[9-20 13:42]
+*Periodic Run* 9-20 15:30 last live feed time: 9-20 13:42 been:107min p:44.21 cost:43.7 p/cost:1.012
+p:44.21 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:379 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.962
+9-20 15:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 15:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 15:30 44.21 2dP:45.0 1dP:61.0
+2d$:n:983 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 13:42]
+1d$:n:203 max:44.3 [9-20 9:29] min:44.1 [9-20 11:28] rng:0.5% 1Key:[9-20 9:29] last:[9-20 13:42]
+9-20 16:00 *openOrder* status:Submitted 240920008 SELL 19@44.78
+9-20 16:00 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78, 240920009 SELL 19@45.23]
+9-20 16:00 *OrderStatus*:Submitted orderId:240920008 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+9-20 16:00 *openOrder* status:Submitted 240920009 SELL 19@45.23
+9-20 16:00 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78, 240920009 SELL 19@45.23]
+9-20 16:00 *OrderStatus*:Submitted orderId:240920009 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+9-20 16:00 *openOrder* status:Submitted 240920007 SELL 19@44.43
+9-20 16:00 *openOrder* all live orders [240920007 SELL 19@44.43, 240920008 SELL 19@44.78, 240920009 SELL 19@45.23]
+9-20 16:00 *OrderStatus*:Submitted orderId:240920007 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-20 16:30 last live feed time: 9-20 13:42 been:167min p:44.21 cost:43.7 p/cost:1.012
+p:44.21 rng:1.0% pos:57 delt:3k cost:43.7 fullLot:379 refillP:42.55 costTgt:0.98 refillP/cost:0.974 refillP/px:0.962
+9-20 16:30 *chek orderStatus [240920007=Submitted, 240920008=Submitted, 240920009=Submitted]
+9-20 16:30 *chek openOrders*: [240920007, 240920008, 240920009]
+9-20 16:30 44.21 2dP:45.0 1dP:61.0
+2d$:n:983 max:44.8 [9-19 14:44] min:43.7 [9-18 10:14] rng:2.5% 1Key:[9-18 9:30] last:[9-20 13:42]
+1d$:n:203 max:44.3 [9-20 9:29] min:44.1 [9-20 11:28] rng:0.5% 1Key:[9-20 9:29] last:[9-20 13:42]

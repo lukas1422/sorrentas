@@ -17335,3 +17335,404 @@ p:239.08 rng:0.0% pos:23 delt:5k cost:237.4 fullLot:70 refillP:229.55 costTgt:0.
 9-20 1:23 239.08 2dP:66.0 1dP:66.0
 2d$:n:371 max:239.5 [9-19 13:01] min:238.2 [9-19 10:23] rng:0.5% 1Key:[9-19 10:23] last:[9-19 18:49]
 1d$:n:371 max:239.5 [9-19 13:01] min:238.2 [9-19 10:23] rng:0.5% 1Key:[9-19 10:23] last:[9-19 18:49]
+*******************************************
+*STARTS* 9-20 9:29
+updating pos: GLD 9-20 9:29 pos:23 cost:237.42
+POS:23 COST:237.4 DELT:5k
+*Periodic Run* 9-20 9:30 last live feed time: 9-20 9:30 been:0min p:241.04 cost:237.4 p/cost:1.015
+p:241.04 rng:0.0% pos:23 delt:6k cost:237.4 fullLot:69 refillP:229.51 costTgt:0.98 refillP/cost:0.967 refillP/px:0.952
+9-20 9:30 241.04 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 9-20 9:30:02 1dP:100.0 2dp:100.0 px241.05 cost:237.4238826 px/Cost:1.0153 reqMargin:1.01 rng:0.0
+0:240920011 GLD SELL 7 @241.55 9:30
+0: SELL GLD 9-20 9:30 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:241.07
+1:240920012 GLD SELL 7 @243.48 9:30
+1: SELL GLD 9-20 9:30 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:241.07
+2:240920013 GLD SELL 9 @245.89 9:30
+2: SELL GLD 9-20 9:30 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:241.07
+2D$:n<5
+1D$:n<5
+9-20 9:30 *openOrder* status:Submitted 240920013 SELL 9@245.89
+9-20 9:30 *openOrder* all live orders [240920013 SELL 9@245.89]
+9-20 9:30 *OrderStatus*:Submitted orderId:240920013 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:PreSubmitted 240920012 SELL 7@243.48
+9-20 9:30 *openOrder* all live orders [240920012 SELL 7@243.48, 240920013 SELL 9@245.89]
+9-20 9:30 *OrderStatus*:PreSubmitted orderId:240920012 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:PreSubmitted 240920011 SELL 7@241.55
+9-20 9:30 *openOrder* all live orders [240920011 SELL 7@241.55, 240920012 SELL 7@243.48, 240920013 SELL 9@245.89]
+9-20 9:30 *OrderStatus*:PreSubmitted orderId:240920011 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:Submitted 240920011 SELL 7@241.55
+9-20 9:30 *openOrder* all live orders [240920011 SELL 7@241.55, 240920012 SELL 7@243.48, 240920013 SELL 9@245.89]
+9-20 9:30 *OrderStatus*:Submitted orderId:240920011 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:30 *openOrder* status:Submitted 240920012 SELL 7@243.48
+9-20 9:30 *openOrder* all live orders [240920011 SELL 7@241.55, 240920012 SELL 7@243.48, 240920013 SELL 9@245.89]
+9-20 9:30 *OrderStatus*:Submitted orderId:240920012 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+no blocking buy orders: All submitted orders {240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [240920011=GLD 9-20 9:30 CUTTER Submitted, 240920012=GLD 9-20 9:30 CUTTER Submitted, 240920013=GLD 9-20 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[240920011, 240920012, 240920013]}
+9-20 9:37 rng:0.9% costTgt:0.98
+9-20 9:37 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:25.11%
+updating pos: GLD 9-20 10:30 pos:16 cost:237.42
+9-20 10:30 *tradeReport* time: 2024-09-20T10:30:06 SLD execPx:241.55 shares:7 avgPx:241.55
+9-20 10:30 *openOrder* status:Filled 240920011 SELL 7@241.55
+9-20 10:30 *openOrder*:removing order.Status:Filled 240920011 SELL 7@241.55
+9-20 10:30 *openOrder*:after removal.OpenOrders: [240920012, 240920013]
+9-20 10:30 *openOrder* all live orders [240920012 SELL 7@243.48, 240920013 SELL 9@245.89]
+9-20 10:30 *OrderStatus*:Filled orderId:240920011 filled:7 remaining:0 avgFillPx:241.55 lastFillPx:241.55
+9-20 10:30 *openOrder* status:Filled 240920011 SELL 7@241.55
+9-20 10:30 *openOrder*:removing order.Status:Filled 240920011 SELL 7@241.55
+9-20 10:30 *openOrder*:after removal.OpenOrders: [240920012, 240920013]
+9-20 10:30 *openOrder* all live orders [240920012 SELL 7@243.48, 240920013 SELL 9@245.89]
+9-20 10:30 *OrderStatus*:Filled orderId:240920011 filled:7 remaining:0 avgFillPx:241.55 lastFillPx:241.55
+computed Pnl:28.49383279999999
+1.*commission report*:240920011 commission:0.39 realized pnl:28.49 computed Pnl:28.49
+2.*commission report* orderID:240920011 commission: 0.39 realized pnl: 28.49
+updating pos: GLD 9-20 10:30 pos:16 cost:237.42
+updating pos: GLD 9-20 10:30 pos:16 cost:237.42
+*Periodic Run* 9-20 10:30 last live feed time: 9-20 10:30 been:0min p:241.53 cost:237.4 p/cost:1.017
+p:241.53 rng:0.9% pos:16 delt:6k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.954
+9-20 10:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 10:30 *chek openOrders*: [240920012, 240920013]
+9-20 10:30 241.53 2dP:100.0 1dP:100.0
+2d$:n:842 max:241.5 [9-20 10:30] min:235.4 [9-18 15:50] rng:2.6% 1Key:[9-18 9:30] last:[9-20 10:30]
+1d$:n:62 max:241.5 [9-20 10:30] min:240.5 [9-20 9:48] rng:0.4% 1Key:[9-20 9:29] last:[9-20 10:30]
+updating pos: GLD 9-20 10:36 pos:16 cost:237.42
+*Periodic Run* 9-20 11:30 last live feed time: 9-20 11:30 been:0min p:241.32 cost:237.4 p/cost:1.016
+p:241.32 rng:0.9% pos:16 delt:4k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.955
+9-20 11:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 11:30 *chek openOrders*: [240920012, 240920013]
+9-20 11:30 241.32 2dP:91.0 1dP:59.0
+2d$:n:902 max:241.9 [9-20 11:08] min:235.4 [9-18 15:50] rng:2.8% 1Key:[9-18 9:30] last:[9-20 11:30]
+1d$:n:122 max:241.9 [9-20 11:08] min:240.5 [9-20 9:48] rng:0.6% 1Key:[9-20 9:29] last:[9-20 11:30]
+*Periodic Run* 9-20 12:30 last live feed time: 9-20 12:30 been:0min p:242.41 cost:237.4 p/cost:1.021
+p:242.41 rng:0.9% pos:16 delt:4k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+9-20 12:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 12:30 *chek openOrders*: [240920012, 240920013]
+9-20 12:30 242.41 2dP:98.0 1dP:93.0
+2d$:n:962 max:242.6 [9-20 12:18] min:235.4 [9-18 15:50] rng:3.0% 1Key:[9-18 9:30] last:[9-20 12:30]
+1d$:n:182 max:242.6 [9-20 12:18] min:240.5 [9-20 9:48] rng:0.9% 1Key:[9-20 9:29] last:[9-20 12:30]
+*Periodic Run* 9-20 13:30 last live feed time: 9-20 13:30 been:0min p:242.15 cost:237.4 p/cost:1.02
+p:242.15 rng:0.9% pos:16 delt:4k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.952
+9-20 13:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 13:30 *chek openOrders*: [240920012, 240920013]
+9-20 13:30 242.15 2dP:94.0 1dP:78.0
+2d$:n:1022 max:242.6 [9-20 12:55] min:235.4 [9-18 15:50] rng:3.1% 1Key:[9-18 9:30] last:[9-20 13:30]
+1d$:n:242 max:242.6 [9-20 12:55] min:240.5 [9-20 9:48] rng:0.9% 1Key:[9-20 9:29] last:[9-20 13:30]
+*Periodic Run* 9-20 14:30 last live feed time: 9-20 13:45 been:44min p:242.12 cost:237.4 p/cost:1.02
+p:242.12 rng:0.9% pos:16 delt:4k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.952
+9-20 14:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 14:30 *chek openOrders*: [240920012, 240920013]
+9-20 14:30 242.12 2dP:93.0 1dP:77.0
+2d$:n:1037 max:242.6 [9-20 12:55] min:235.4 [9-18 15:50] rng:3.1% 1Key:[9-18 9:30] last:[9-20 13:45]
+1d$:n:257 max:242.6 [9-20 12:55] min:240.5 [9-20 9:48] rng:0.9% 1Key:[9-20 9:29] last:[9-20 13:45]
+*Periodic Run* 9-20 15:30 last live feed time: 9-20 13:45 been:104min p:242.12 cost:237.4 p/cost:1.02
+p:242.12 rng:0.9% pos:16 delt:4k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.952
+9-20 15:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 15:30 *chek openOrders*: [240920012, 240920013]
+9-20 15:30 242.12 2dP:93.0 1dP:77.0
+2d$:n:1037 max:242.6 [9-20 12:55] min:235.4 [9-18 15:50] rng:3.1% 1Key:[9-18 9:30] last:[9-20 13:45]
+1d$:n:257 max:242.6 [9-20 12:55] min:240.5 [9-20 9:48] rng:0.9% 1Key:[9-20 9:29] last:[9-20 13:45]
+*Periodic Run* 9-20 16:30 last live feed time: 9-20 13:45 been:164min p:242.12 cost:237.4 p/cost:1.02
+p:242.12 rng:0.9% pos:16 delt:4k cost:237.4 fullLot:69 refillP:230.47 costTgt:0.98 refillP/cost:0.971 refillP/px:0.952
+9-20 16:30 *chek orderStatus [240920011=Filled, 240920012=Submitted, 240920013=Submitted]
+9-20 16:30 *chek openOrders*: [240920012, 240920013]
+9-20 16:30 242.12 2dP:93.0 1dP:77.0
+2d$:n:1037 max:242.6 [9-20 12:55] min:235.4 [9-18 15:50] rng:3.1% 1Key:[9-18 9:30] last:[9-20 13:45]
+1d$:n:257 max:242.6 [9-20 12:55] min:240.5 [9-20 9:48] rng:0.9% 1Key:[9-20 9:29] last:[9-20 13:45]

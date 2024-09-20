@@ -11811,3 +11811,419 @@ p:248.62 rng:0.0% pos:22 delt:5k cost:251.5 fullLot:67 refillP:243.21 costTgt:0.
 9-20 1:23 248.62 2dP:65.0 1dP:65.0
 2d$:n:336 max:249.9 [9-19 10:30] min:246.3 [9-19 11:02] rng:1.5% 1Key:[9-19 10:23] last:[9-19 18:17]
 1d$:n:336 max:249.9 [9-19 10:30] min:246.3 [9-19 11:02] rng:1.5% 1Key:[9-19 10:23] last:[9-19 18:17]
+*******************************************
+*STARTS* 9-20 9:29
+updating pos: UNP 9-20 9:29 pos:22 cost:251.54
+POS:22 COST:251.5 DELT:6k
+*Periodic Run* 9-20 9:30 last live feed time: 9-20 9:29 been:0min p:244.05 cost:251.5 p/cost:0.97
+p:244.05 rng:0.0% pos:22 delt:5k cost:251.5 fullLot:68 refillP:243.26 costTgt:0.98 refillP/cost:0.967 refillP/px:0.997
+9-20 9:30 244.05 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+09:33:03.928410685 no blocking orders,empty
+09:33:07.492648526 no blocking orders,empty
+09:33:08.231724994 no blocking orders,empty
+09:33:10.746395594 no blocking orders,empty
+09:33:28.561668806 no blocking orders,empty
+09:33:29.333069447 no blocking orders,empty
+09:33:32.320272447 no blocking orders,empty
+09:36:47.532414430 no blocking orders,empty
+09:36:50.763300695 no blocking orders,empty
+09:36:52.732492320 no blocking orders,empty
+09:36:53.746759569 no blocking orders,empty
+09:36:54.482954873 no blocking orders,empty
+09:36:56.750799178 no blocking orders,empty
+9-20 9:37 rng:1.6% costTgt:0.98
+9-20 9:37 tgtMargin:1.0129 tgtPrice:254.78
+ytdReturn:1.15%
+09:37:47.334847540 no blocking orders,empty
+*REFILL*@243.15 9-20 9:37:47 delta:5k 1dp:0.0 2dp:0.0 cost:251.5 px/cost:0.9666 refillPx:243.26 avgRng:0.0161
+0:240920498 UNP BUY 22 @242.65 9:37 bid is:242.89
+9:37 0: UNP orderID:240920498 tradeID:240920498 BUY 22 @242.65 factor:0.999 UNP 9-20 9:37 ADDER Created
+1:240920499 UNP BUY 22 @239.76 9:37 bid is:242.89
+9:37 1: UNP orderID:240920499 tradeID:240920499 BUY 22 @239.76 factor:0.9871251393140279 UNP 9-20 9:37 ADDER Created
+1D$:n:9 max:243.8 [9-20 9:30] min:243.1 [9-20 9:37] rng:0.3% 1Key:[9-20 9:29] last:[9-20 9:37]
+2D$:n:789 max:254.1 [9-18 9:30] min:243.1 [9-20 9:37] rng:4.5% 1Key:[9-18 9:30] last:[9-20 9:37]
+9-20 9:37 *openOrder* status:Submitted 240920498 BUY 22@242.65
+9-20 9:37 *openOrder* all live orders [240920498 BUY 22@242.65]
+9-20 9:37 *OrderStatus*:Submitted orderId:240920498 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:37 *openOrder* status:PreSubmitted 240920499 BUY 22@239.76
+9-20 9:37 *openOrder* all live orders [240920498 BUY 22@242.65, 240920499 BUY 22@239.76]
+9-20 9:37 *OrderStatus*:PreSubmitted orderId:240920499 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+9-20 9:37 *openOrder* status:Submitted 240920499 BUY 22@239.76
+9-20 9:37 *openOrder* all live orders [240920498 BUY 22@242.65, 240920499 BUY 22@239.76]
+9-20 9:37 *OrderStatus*:Submitted orderId:240920499 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Submitted, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920498=UNP 9-20 9:37 ADDER Submitted, 240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920498, 240920499]}
+2024-09-20T09:37:53.097 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Submitted, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920498=UNP 9-20 9:37 ADDER Submitted, 240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920498, 240920499]}
+2024-09-20T09:37:59.576 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Submitted, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920498=UNP 9-20 9:37 ADDER Submitted, 240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920498, 240920499]}
+2024-09-20T09:43:22.284 no blocking orders 
+updating pos: UNP 9-20 9:43 pos:24 cost:250.8
+9-20 9:43 *tradeReport* time: 2024-09-20T09:43:29 BOT execPx:242.65 shares:2 avgPx:242.65
+9-20 9:43 *openOrder* status:Submitted 240920498 BUY 22@242.65
+9-20 9:43 *openOrder* all live orders [240920498 BUY 22@242.65, 240920499 BUY 22@239.76]
+9-20 9:43 *OrderStatus*:Submitted orderId:240920498 filled:2 remaining:20 avgFillPx:242.65 lastFillPx:242.65
+updating pos: UNP 9-20 9:43 pos:44 cost:247.1
+9-20 9:43 *tradeReport* time: 2024-09-20T09:43:29 BOT execPx:242.65 shares:20 avgPx:242.65
+9-20 9:43 *openOrder* status:Filled 240920498 BUY 22@242.65
+9-20 9:43 *openOrder*:removing order.Status:Filled 240920498 BUY 22@242.65
+9-20 9:43 *openOrder*:after removal.OpenOrders: [240920499]
+9-20 9:43 *openOrder* all live orders [240920499 BUY 22@239.76]
+9-20 9:43 *OrderStatus*:Filled orderId:240920498 filled:22 remaining:0 avgFillPx:242.65 lastFillPx:242.65
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:23.151 no blocking orders 
+9-20 9:43 *openOrder* status:Filled 240920498 BUY 22@242.65
+9-20 9:43 *openOrder*:removing order.Status:Filled 240920498 BUY 22@242.65
+9-20 9:43 *openOrder*:after removal.OpenOrders: [240920499]
+9-20 9:43 *openOrder* all live orders [240920499 BUY 22@239.76]
+9-20 9:43 *OrderStatus*:Filled orderId:240920498 filled:22 remaining:0 avgFillPx:242.65 lastFillPx:242.65
+1.*commission report*:240920498 commission:0.35 
+2.*commission report* orderID:240920498 commission: 0.35 
+9-20 9:43 *openOrder* status:Filled 240920498 BUY 22@242.65
+9-20 9:43 *openOrder*:removing order.Status:Filled 240920498 BUY 22@242.65
+9-20 9:43 *openOrder*:after removal.OpenOrders: [240920499]
+9-20 9:43 *openOrder* all live orders [240920499 BUY 22@239.76]
+9-20 9:43 *OrderStatus*:Filled orderId:240920498 filled:22 remaining:0 avgFillPx:242.65 lastFillPx:242.65
+1.*commission report*:240920498 commission:-0.02 
+2.*commission report* orderID:240920498 commission: -0.02 
+updating pos: UNP 9-20 9:43 pos:44 cost:247.11
+updating pos: UNP 9-20 9:43 pos:44 cost:247.1
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:29.945 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:32.645 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:37.180 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:42.194 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:46.689 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:47.442 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:48.474 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:49.708 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:50.449 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:54.952 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:43:55.713 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:03.250 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:09.258 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:15.492 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:18.987 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:19.739 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:27.510 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:28.252 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:29.759 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:30.506 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:34.313 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:38.783 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:39.785 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:45.028 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:47.055 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:44:51.035 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:46:43.195 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:46:55.707 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:46:56.458 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:46:57.991 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:47:01.482 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T09:47:01.715 no blocking orders 
+updating pos: UNP 9-20 9:48 pos:44 cost:247.1
+updating pos: UNP 9-20 9:48 pos:44 cost:247.1
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:32.643 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:33.416 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:35.679 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:39.154 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:52.681 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:54.308 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:58.198 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:04:59.939 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:05.257 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:17.520 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:18.013 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:19.271 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:50.324 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:52.840 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:54.057 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:05:58.594 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:06.074 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:09.351 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:25.371 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:26.590 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:38.121 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:38.389 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:41.642 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:50.493 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:06:50.674 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:12:50.638 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:12:52.161 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:13:36.854 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:13:43.637 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:13:57.426 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:03.610 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:06.892 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:28.901 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:50.062 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:51.133 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:55.897 no blocking orders 
+no blocking buy orders: All submitted orders {240920498=UNP 9-20 9:37 ADDER Filled, 240920499=UNP 9-20 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [240920499=UNP 9-20 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240920499]}
+2024-09-20T10:14:56.849 no blocking orders 
+*Periodic Run* 9-20 10:30 last live feed time: 9-20 10:30 been:0min p:243.58 cost:247.1 p/cost:0.986
+p:243.58 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.968
+9-20 10:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 10:30 *chek openOrders*: [240920499]
+9-20 10:30 243.58 2dP:8.0 1dP:81.0
+2d$:n:842 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 10:30]
+1d$:n:62 max:243.8 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.5% 1Key:[9-20 9:29] last:[9-20 10:30]
+*Periodic Run* 9-20 11:30 last live feed time: 9-20 11:30 been:0min p:244.01 cost:247.1 p/cost:0.987
+p:244.01 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.966
+9-20 11:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 11:30 *chek openOrders*: [240920499]
+9-20 11:30 244.01 2dP:12.0 1dP:89.0
+2d$:n:901 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 11:30]
+1d$:n:121 max:244.2 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.6% 1Key:[9-20 9:29] last:[9-20 11:30]
+*Periodic Run* 9-20 12:30 last live feed time: 9-20 12:29 been:0min p:243.74 cost:247.1 p/cost:0.986
+p:243.74 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.967
+9-20 12:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 12:30 *chek openOrders*: [240920499]
+9-20 12:30 243.74 2dP:10.0 1dP:71.0
+2d$:n:958 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 12:29]
+1d$:n:178 max:244.2 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.6% 1Key:[9-20 9:29] last:[9-20 12:29]
+*Periodic Run* 9-20 13:30 last live feed time: 9-20 13:29 been:0min p:243.68 cost:247.1 p/cost:0.986
+p:243.68 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.968
+9-20 13:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 13:30 *chek openOrders*: [240920499]
+9-20 13:30 243.68 2dP:9.0 1dP:56.0
+2d$:n:1011 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 13:29]
+1d$:n:231 max:244.5 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.8% 1Key:[9-20 9:29] last:[9-20 13:29]
+*Periodic Run* 9-20 14:30 last live feed time: 9-20 13:45 been:44min p:243.78 cost:247.1 p/cost:0.987
+p:243.78 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.967
+9-20 14:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 14:30 *chek openOrders*: [240920499]
+9-20 14:30 243.78 2dP:10.0 1dP:61.0
+2d$:n:1025 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 13:45]
+1d$:n:245 max:244.5 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.8% 1Key:[9-20 9:29] last:[9-20 13:45]
+*Periodic Run* 9-20 15:30 last live feed time: 9-20 13:45 been:104min p:243.78 cost:247.1 p/cost:0.987
+p:243.78 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.967
+9-20 15:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 15:30 *chek openOrders*: [240920499]
+9-20 15:30 243.78 2dP:10.0 1dP:61.0
+2d$:n:1025 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 13:45]
+1d$:n:245 max:244.5 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.8% 1Key:[9-20 9:29] last:[9-20 13:45]
+9-20 16:00 *openOrder* status:Submitted 240920499 BUY 22@239.76
+9-20 16:00 *openOrder* all live orders [240920499 BUY 22@239.76]
+9-20 16:00 *OrderStatus*:Submitted orderId:240920499 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 9-20 16:30 last live feed time: 9-20 13:45 been:164min p:243.78 cost:247.1 p/cost:0.987
+p:243.78 rng:1.6% pos:44 delt:11k cost:247.1 fullLot:68 refillP:235.77 costTgt:0.98 refillP/cost:0.954 refillP/px:0.967
+9-20 16:30 *chek orderStatus [240920498=Filled, 240920499=Submitted]
+9-20 16:30 *chek openOrders*: [240920499]
+9-20 16:30 243.78 2dP:10.0 1dP:61.0
+2d$:n:1025 max:254.1 [9-18 9:30] min:242.6 [9-20 9:44] rng:4.7% 1Key:[9-18 9:30] last:[9-20 13:45]
+1d$:n:245 max:244.5 [9-20 9:30] min:242.6 [9-20 9:44] rng:0.8% 1Key:[9-20 9:29] last:[9-20 13:45]
