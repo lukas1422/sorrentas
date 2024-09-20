@@ -18646,3 +18646,238 @@ commission report issue tradekey:00010168.66eb13dc.01 report:ID:00010168.66eb13d
 *openOrder* Error 9-18 17:00 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
 *openOrder* Error 9-18 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
 *openOrder* Error 9-18 17:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 9-19 9:27 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+HON 2024-09-19T10:00:00.448 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:00:00.888 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:00:01.727 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:00:02.169 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:00:02.604 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:00:05.570 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:00:06.864 Adder: ytd < -10% cannot trade:-1.0
+UL 2024-09-19T10:00:06.866 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:00:07.302 Adder: ytd < -10% cannot trade:-1.0
+UL 2024-09-19T10:01:00.076 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:01:00.525 Adder: ytd < -10% cannot trade:-1.0
+UL 2024-09-19T10:01:00.956 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:01:04.170 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:01:04.561 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:01:04.959 Adder: ytd < -10% cannot trade:-1.0
+UL 2024-09-19T10:01:06.692 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T10:01:06.693 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:01:07.125 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:02:07.771 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:02:09.950 Adder: ytd < -10% cannot trade:-1.0
+HON 2024-09-19T10:03:04.090 Adder: ytd < -10% cannot trade:-1.0
+IP 2024-09-19T10:03:07.065 Adder: ytd < -10% cannot trade:-1.0
+IP 2024-09-19T10:03:07.929 Adder: ytd < -10% cannot trade:-1.0
+MMM openorders does not contain order MMM 240919012 SELL 6@135.41
+MMM openorders does not contain order MMM 240919013 SELL 6@136.49
+MMM openorders does not contain order MMM 240919014 SELL 6@137.84
+SLV openorders does not contain order SLV 240919016 SELL 111@28.31
+HON openorders does not contain order HON 240919007 SELL 9@208.2
+HSBC openorders does not contain order HSBC 240919009 SELL 28@44.8
+HSBC openorders does not contain order HSBC 240919010 SELL 28@45.16
+HSBC openorders does not contain order HSBC 240919011 SELL 29@45.6
+HON openorders does not contain order HON 240919006 SELL 8@206.16
+PHO openorders does not contain order PHO 240919079 SELL 17@71.52
+MCD openorders does not contain order MCD 240919049 SELL 1@295.47
+MCD openorders does not contain order MCD 240919050 SELL 3@297.83
+PHO openorders does not contain order PHO 240919077 SELL 16@70.26
+PHO openorders does not contain order PHO 240919078 SELL 16@70.82
+MRK openorders does not contain order MRK 240919021 SELL 5@121.4
+IP openorders does not contain order IP 240919024 SELL 8@50.79
+IP openorders does not contain order IP 240919025 SELL 16@51.2
+WMT openorders does not contain order WMT 240919029 SELL 9@79.21
+SLV openorders does not contain order SLV 240919017 SELL 111@28.53
+SLV openorders does not contain order SLV 240919018 SELL 112@28.82
+MRK openorders does not contain order MRK 240919019 SELL 5@119.26
+MRK openorders does not contain order MRK 240919020 SELL 5@120.21
+*openOrder* Error 9-19 10:23 orderId:240919009 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919016 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919010 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919011 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919049 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919012 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919013 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919014 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919050 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919007 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919024 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919006 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919029 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919025 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919017 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919021 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919018 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919079 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919019 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919077 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919078 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 9-19 10:23 orderId:240919020 errorCode:202 msg:Order Canceled - reason:
+ABT 10:23:32.677 no bid or no ask when trying to trade
+ABT 10:23:32.677 cost/bid/ask: 115.95150425 0.0 0.0
+ABT 10:23:32.679 no bid or no ask when trying to trade
+ABT 10:23:32.679 cost/bid/ask: 115.95150425 0.0 0.0
+ADM 10:23:32.682 no bid or no ask when trying to trade
+ADM 10:23:32.682 cost/bid/ask: 0.0 0.0 0.0
+AWK 10:23:32.686 no bid or no ask when trying to trade
+AWK 10:23:32.686 cost/bid/ask: 148.7785189 0.0 0.0
+BRK B 10:23:33.076 no bid or no ask when trying to trade
+BRK B 10:23:33.076 cost/bid/ask: 461.4864565 0.0 0.0
+CL 10:23:33.096 no bid or no ask when trying to trade
+CL 10:23:33.096 cost/bid/ask: 106.09587595 102.57 0.0
+GLD 10:23:34.924 no bid or no ask when trying to trade
+GLD 10:23:34.924 cost/bid/ask: 237.4238826 0.0 0.0
+HON 10:23:34.927 no bid or no ask when trying to trade
+HON 10:23:34.927 cost/bid/ask: 197.730044 0.0 0.0
+HSBC 10:23:34.928 no bid or no ask when trying to trade
+HSBC 10:23:34.928 cost/bid/ask: 43.68250235 0.0 0.0
+IP 10:23:34.933 no bid or no ask when trying to trade
+IP 10:23:34.933 cost/bid/ask: 46.5816125 0.0 0.0
+KMB 10:23:34.943 no bid or no ask when trying to trade
+KMB 10:23:34.943 cost/bid/ask: 143.2782143 0.0 0.0
+KO 10:23:34.947 no bid or no ask when trying to trade
+KO 10:23:34.947 cost/bid/ask: 72.04354935 0.0 0.0
+MCD 10:23:34.947 no bid or no ask when trying to trade
+MCD 10:23:34.947 cost/bid/ask: 288.367425 0.0 0.0
+MMM 10:23:34.950 no bid or no ask when trying to trade
+MMM 10:23:34.950 cost/bid/ask: 127.27905 0.0 0.0
+MRK 10:23:34.952 no bid or no ask when trying to trade
+MRK 10:23:34.952 cost/bid/ask: 113.50544665 0.0 0.0
+PG 10:23:35.317 no bid or no ask when trying to trade
+PG 10:23:35.317 cost/bid/ask: 174.88035 0.0 171.42
+PHO 10:23:35.317 no bid or no ask when trying to trade
+PHO 10:23:35.317 cost/bid/ask: 66.6581347 0.0 0.0
+SPY 10:23:35.347 no bid or no ask when trying to trade
+SPY 10:23:35.347 cost/bid/ask: 553.8975 570.26 0.0
+UL 10:23:35.347 no bid or no ask when trying to trade
+UL 10:23:35.347 cost/bid/ask: 65.31317295 0.0 0.0
+UNP 10:23:35.348 no bid or no ask when trying to trade
+UNP 10:23:35.348 cost/bid/ask: 251.54495455 0.0 0.0
+*openOrder* Error 9-19 10:23 orderId:240919056 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919057 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919058 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919059 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919061 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919062 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919064 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919065 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919067 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919068 errorCode:103 msg:Duplicate order id
+*openOrder* Error 9-19 10:23 orderId:240919069 errorCode:103 msg:Duplicate order id
+KO 2024-09-19T11:00:00.100 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:00:00.101 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:00.102 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:00:00.492 Adder: ytd < -10% cannot trade:-1.0
+PHO 2024-09-19T11:00:00.496 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:00:00.498 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:00:00.925 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:00.926 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:01.363 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:05.605 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:00:05.612 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:00:05.612 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:00:05.995 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:05.996 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:00:07.676 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:07.677 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:00:08.500 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:08.501 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:00:09.362 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:00.401 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:00.403 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:01:01.814 Adder: ytd < -10% cannot trade:-1.0
+MCD 2024-09-19T11:01:01.815 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:01:01.817 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:01.819 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-09-19T11:01:01.819 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:01.819 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:01:01.820 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:03.264 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-09-19T11:01:03.265 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:03.266 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:01:03.269 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:03.270 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-09-19T11:01:03.270 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:01:03.270 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:03.270 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:03.661 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:05.138 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:05.144 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:05.145 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:01:05.535 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:01:05.535 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:01:05.537 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:05.538 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:05.539 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:01:05.930 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:01:05.931 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:06.357 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:06.358 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:07.232 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:07.233 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:01:08.102 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:01:08.102 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:00.430 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-09-19T11:02:00.430 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:02:00.871 Adder: ytd < -10% cannot trade:-1.0
+ABT 2024-09-19T11:02:00.873 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:02.352 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:02:02.356 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:02:02.357 Adder: ytd < -10% cannot trade:-1.0
+ABT 2024-09-19T11:02:02.357 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:02.358 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:02:02.745 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T11:02:03.617 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:03.618 Adder: ytd < -10% cannot trade:-1.0
+ABT 2024-09-19T11:02:03.618 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:02:04.057 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-09-19T11:02:05.510 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:02:05.515 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:02:05.517 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:05.517 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-09-19T11:02:05.518 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:02:05.901 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:06.335 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:09.763 Adder: ytd < -10% cannot trade:-1.0
+IWM 2024-09-19T11:02:09.764 Adder: ytd < -10% cannot trade:-1.0
+SPY 2024-09-19T11:02:09.764 Adder: ytd < -10% cannot trade:-1.0
+UNP 2024-09-19T11:03:00.774 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:03:01.592 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:03:02.899 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:03:05.250 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:04:03.779 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:04:04.605 Adder: ytd < -10% cannot trade:-1.0
+MCD 2024-09-19T11:04:06.059 Adder: ytd < -10% cannot trade:-1.0
+MCD 2024-09-19T11:04:06.061 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:04:08.093 Adder: ytd < -10% cannot trade:-1.0
+WMT 2024-09-19T11:04:08.094 Adder: ytd < -10% cannot trade:-1.0
+commission report issue tradekey:00010168.66ec77fe.01 report:ID:00010168.66ec77fe.01.01 commission:0.354477 curr:USD pnl:52.955368 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 9-19 12:21 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-19 12:21 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+KO 2024-09-19T13:00:07.102 Adder: ytd < -10% cannot trade:-1.0
+PG 2024-09-19T13:00:07.506 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:00:07.507 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-09-19T13:01:01.016 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-09-19T13:01:01.845 Adder: ytd < -10% cannot trade:-1.0
+PG 2024-09-19T13:01:02.265 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-09-19T13:01:02.681 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-09-19T13:01:04.132 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-09-19T13:01:08.706 Adder: ytd < -10% cannot trade:-1.0
+PG 2024-09-19T13:02:00.394 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:02:03.716 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:02:04.559 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:02:06.374 Adder: ytd < -10% cannot trade:-1.0
+ABT 2024-09-19T13:02:06.375 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:02:06.378 Adder: ytd < -10% cannot trade:-1.0
+ABT 2024-09-19T13:02:09.842 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:03:00.123 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:03:04.492 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T13:04:04.266 Adder: ytd < -10% cannot trade:-1.0
+PG 2024-09-19T13:04:04.267 Adder: ytd < -10% cannot trade:-1.0
+PG 2024-09-19T13:04:05.081 Adder: ytd < -10% cannot trade:-1.0
+PG 2024-09-19T13:04:08.987 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-09-19T14:01:03.367 Adder: ytd < -10% cannot trade:-1.0
+*openOrder* Error 9-19 14:33 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-19 14:33 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-19 19:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002

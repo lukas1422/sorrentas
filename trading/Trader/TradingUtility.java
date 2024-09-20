@@ -129,8 +129,10 @@ public class TradingUtility {
 //    }
 
     public static Order placeOfferLimitTIF(int id, double p, Decimal quantity, Types.TimeInForce tif) {
-        if (quantity.longValue() <= 0) throw new IllegalStateException(" cannot have negative or 0 quantity");
-
+        if (quantity.longValue() <= 0) {
+            pr("WRONG quantity is " + quantity.longValue());
+            throw new IllegalStateException(" cannot have negative or 0 quantity");
+        }
         Order o = new Order();
         o.orderId(id);
         o.action(Types.Action.SELL);
