@@ -6246,3 +6246,112 @@ p:45.07 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:372 refillP:42.63 costTgt:0.98
 9-23 16:25 45.07 2dP:95.0 1dP:88.0
 2d$:n:1086 max:45.1 [9-23 15:12] min:44.1 [9-20 11:28] rng:2.4% 1Key:[9-19 9:30] last:[9-23 15:59]
 1d$:n:306 max:45.1 [9-23 15:12] min:44.7 [9-23 8:00] rng:0.9% 1Key:[9-23 7:25] last:[9-23 15:59]
+*******************************************
+*STARTS* 9-24 7:55
+updating pos: HSBC 9-24 7:55 pos:38 cost:43.68
+POS:38 COST:43.7 DELT:2k
+9-24 7:55 rng:1.0% costTgt:0.98
+9-24 7:55 tgtMargin:1.01 tgtPrice:44.12
+ytdReturn:21.25%
+*Periodic Run* 9-24 7:55 last live feed time: 9-24 7:55 been:0min p:45.55 cost:43.7 p/cost:1.043
+p:45.55 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:368 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.936
+9-24 7:55 45.55 2dP:101.0 1dP:101.0
+2d$:n:781 max:45.1 [9-24 7:55] min:44.1 [9-20 11:28] rng:2.4% 1Key:[9-20 9:30] last:[9-24 7:55]
+1d$:n<5
+*******************************************
+*STARTS* 9-24 8:02
+updating pos: HSBC 9-24 8:02 pos:38 cost:43.68
+POS:38 COST:43.7 DELT:2k
+9-24 8:02 rng:1.0% costTgt:0.98
+9-24 8:02 tgtMargin:1.01 tgtPrice:44.12
+ytdReturn:21.25%
+*Periodic Run* 9-24 8:02 last live feed time: 9-24 8:02 been:0min p:45.58 cost:43.7 p/cost:1.043
+p:45.58 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:367 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.935
+9-24 8:02 45.58 2dP:101.0 1dP:101.0
+2d$:n:781 max:45.1 [9-24 8:02] min:44.1 [9-20 11:28] rng:2.4% 1Key:[9-20 9:30] last:[9-24 8:02]
+1d$:n<5
+*******************************************
+*STARTS* 9-24 8:37
+updating pos: HSBC 9-24 8:37 pos:38 cost:43.68
+POS:38 COST:43.7 DELT:2k
+9-24 8:37 rng:1.0% costTgt:0.98
+9-24 8:37 tgtMargin:1.01 tgtPrice:44.12
+ytdReturn:21.25%
+*Periodic Run* 9-24 8:38 last live feed time: 9-24 8:38 been:0min p:45.66 cost:43.7 p/cost:1.045
+p:45.66 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:367 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.934
+9-24 8:38 45.66 2dP:101.0 1dP:101.0
+2d$:n:781 max:45.1 [9-24 8:38] min:44.1 [9-20 11:28] rng:2.4% 1Key:[9-20 9:30] last:[9-24 8:38]
+1d$:n<5
+******************CUT**************************
+CUT 9-24 9:30:00 1dP:0.0 2dp:86.0 px45.44 cost:43.68250265 px/Cost:1.0402 reqMargin:1.01 rng:0.0102
+0:240924003 HSBC SELL 12 @45.55 9:30
+0: SELL HSBC 9-24 9:30 CUTTER Created target margin:1.01 cost*target margin:44.12 askPx:45.46
+1:240924004 HSBC SELL 12 @45.91 9:30
+1: SELL HSBC 9-24 9:30 CUTTER Created target margin:1.01 cost*target margin:44.12 askPx:45.46
+2:240924005 HSBC SELL 14 @46.37 9:30
+2: SELL HSBC 9-24 9:30 CUTTER Created target margin:1.01 cost*target margin:44.12 askPx:45.46
+2D$:n:793 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 9:30]
+1D$:n:13 max:45.7 [9-24 8:54] min:45.4 [9-24 9:24] rng:0.5% 1Key:[9-24 8:38] last:[9-24 9:30]
+updating pos: HSBC 9-24 9:36 pos:38 cost:43.68
+updating pos: HSBC 9-24 9:37 pos:38 cost:43.68
+*Periodic Run* 9-24 9:38 last live feed time: 9-24 9:36 been:1min p:45.4 cost:43.7 p/cost:1.039
+p:45.4 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:369 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.939
+9-24 9:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 9:38 45.4 2dP:84.0 1dP:17.0
+2d$:n:799 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 9:36]
+1d$:n:19 max:45.7 [9-24 8:54] min:45.3 [9-24 9:36] rng:0.7% 1Key:[9-24 8:38] last:[9-24 9:36]
+*Periodic Run* 9-24 10:38 last live feed time: 9-24 10:37 been:0min p:45.19 cost:43.7 p/cost:1.035
+p:45.19 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:371 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.943
+9-24 10:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 10:38 45.19 2dP:71.0 1dP:0.0
+2d$:n:859 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 10:37]
+1d$:n:79 max:45.7 [9-24 8:54] min:45.2 [9-24 9:36] rng:1.0% 1Key:[9-24 8:38] last:[9-24 10:37]
+*Periodic Run* 9-24 11:38 last live feed time: 9-24 11:36 been:2min p:45.19 cost:43.7 p/cost:1.035
+p:45.19 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:371 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.943
+9-24 11:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 11:38 45.19 2dP:71.0 1dP:1.0
+2d$:n:906 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 11:36]
+1d$:n:126 max:45.7 [9-24 8:54] min:45.2 [9-24 9:36] rng:1.1% 1Key:[9-24 8:38] last:[9-24 11:36]
+updating pos: HSBC 9-24 11:41 pos:38 cost:43.68
+*Periodic Run* 9-24 12:38 last live feed time: 9-24 12:37 been:0min p:45.09 cost:43.7 p/cost:1.032
+p:45.09 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:371 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.945
+9-24 12:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 12:38 45.09 2dP:64.0 1dP:0.0
+2d$:n:944 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 12:37]
+1d$:n:164 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 12:37]
+*Periodic Run* 9-24 13:38 last live feed time: 9-24 13:36 been:1min p:45.17 cost:43.7 p/cost:1.034
+p:45.17 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:371 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.944
+9-24 13:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 13:38 45.17 2dP:69.0 1dP:14.0
+2d$:n:973 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 13:36]
+1d$:n:193 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 13:36]
+*Periodic Run* 9-24 14:38 last live feed time: 9-24 14:37 been:0min p:45.17 cost:43.7 p/cost:1.034
+p:45.17 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:371 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.944
+9-24 14:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 14:38 45.17 2dP:69.0 1dP:14.0
+2d$:n:1008 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 14:37]
+1d$:n:228 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 14:37]
+*Periodic Run* 9-24 15:38 last live feed time: 9-24 15:38 been:0min p:45.18 cost:43.7 p/cost:1.034
+p:45.18 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:371 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.944
+9-24 15:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 15:38 45.18 2dP:70.0 1dP:16.0
+2d$:n:1043 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 15:38]
+1d$:n:263 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 15:38]
+*Periodic Run* 9-24 16:38 last live feed time: 9-24 16:00 been:38min p:45.22 cost:43.7 p/cost:1.035
+p:45.22 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:370 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.943
+9-24 16:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 16:38 45.22 2dP:72.0 1dP:23.0
+2d$:n:1061 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 16:00]
+1d$:n:281 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 16:00]
+*Periodic Run* 9-24 17:38 last live feed time: 9-24 16:00 been:98min p:45.22 cost:43.7 p/cost:1.035
+p:45.22 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:370 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.943
+9-24 17:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 17:38 45.22 2dP:72.0 1dP:23.0
+2d$:n:1061 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 16:00]
+1d$:n:281 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 16:00]
+*Periodic Run* 9-24 18:38 last live feed time: 9-24 16:00 been:158min p:45.22 cost:43.7 p/cost:1.035
+p:45.22 rng:1.0% pos:38 delt:2k cost:43.7 fullLot:370 refillP:42.63 costTgt:0.98 refillP/cost:0.976 refillP/px:0.943
+9-24 18:38 *chek orderStatus [240924003=Created, 240924004=Created, 240924005=Created]
+9-24 18:38 45.22 2dP:72.0 1dP:23.0
+2d$:n:1061 max:45.7 [9-24 8:54] min:44.1 [9-20 11:28] rng:3.6% 1Key:[9-20 9:30] last:[9-24 16:00]
+1d$:n:281 max:45.7 [9-24 8:54] min:45.1 [9-24 9:36] rng:1.3% 1Key:[9-24 8:38] last:[9-24 16:00]
