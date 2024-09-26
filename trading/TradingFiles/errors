@@ -19117,3 +19117,52 @@ commission report issue tradekey:00012e17.66ed652c.01 report:ID:00012e17.66ed652
 *openOrder* Error 9-24 11:42 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
 ADM 2024-09-24T14:00:03.746 Adder: ytd < -10% cannot trade:-0.1343351036992927
 *openOrder* Error 9-24 15:30 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-24 19:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 9-25 7:21 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-09-25T10:00:01.259 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:00:06.259 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:01:00.590 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:01:01.351 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:01:02.099 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:01:02.885 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:02:00.948 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:02:02.693 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:03:01.641 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:03:05.632 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:04:07.208 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:04:07.961 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T10:04:08.768 Adder: ytd < -10% cannot trade:-0.13689329909141434
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-25 10:06 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-25 10:07 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-25 10:07 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-25 10:07 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-25 10:07 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-25 10:07 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+ADM 2024-09-25T13:00:09.499 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T13:01:00.148 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T13:01:06.860 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T13:02:07.999 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T13:03:07.906 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T13:04:04.993 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T14:00:01.457 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T14:00:09.148 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T15:00:04.379 Adder: ytd < -10% cannot trade:-0.13689329909141434
+ADM 2024-09-25T15:01:05.876 Adder: ytd < -10% cannot trade:-0.13689329909141434
+*openOrder* Error 9-25 17:00 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 9-25 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 9-25 17:00 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-25 17:00 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 9-25 17:00 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 9-25 17:00 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 9-25 19:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002

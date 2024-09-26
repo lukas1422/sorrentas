@@ -3685,3 +3685,20 @@ HSBC *********************
 *****START***** HKT: 19:55:04 EST: 9-24 7:55
 *****START***** HKT: 20:02:07 EST: 9-24 8:02
 *****START***** HKT: 20:37:49 EST: 9-24 8:37
+*****START***** HKT: 19:15:19 EST: 9-25 7:15
+SLV 9-25 9:32 *openOrder* FILLED 240925004 SELL 25@29.15
+SLV 9-25 9:32 *OrderStatus*: filled:240925004
+SLV 1.*commission report*:240925004 commission:0.34 realized pnl:40.61 computed Pnl:40.61
+SLV *********************
+HON 9-25 9:46 *openOrder* FILLED 240925008 SELL 2@206.91
+HON 9-25 9:46 *OrderStatus*: filled:240925008
+HON 1.*commission report*:240925008 commission:0.36 realized pnl:18.03 computed Pnl:18.03
+HON *********************
+JNJ 9-25 10:11 *openOrder* FILLED 240926927 BUY 34@161.44
+JNJ 9-25 10:11 *OrderStatus*: filled:240926927
+JNJ 1.*commission report*:240926927 commission:0.32 
+JNJ *********************
+AWK 9-25 10:44 *openOrder* FILLED 240927787 BUY 38@143.71
+AWK 9-25 10:44 *OrderStatus*: filled:240927787
+AWK 1.*commission report*:240927787 commission:0.31 
+AWK *********************
