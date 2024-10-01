@@ -14385,3 +14385,1987 @@ POS:0 COST:0.0 DELT:0k
 9-30 9:28 0.0 2dP:101.0 1dP:101.0
 2d$:n<5
 1d$:n<5
+*******************************************
+*STARTS* 9-30 9:33
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 9-30 9:33 9:33:21 no live feed
+9-30 9:33 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+9-30 9:34 rng:1.5% costTgt:0.98
+9-30 9:34 tgtMargin:1.0121 tgtPrice:0.0
+ytdReturn:0.72%
+09:34:48.562844256 no blocking orders,empty
+*1Buy*@207.64 9-30 9:34:48 1dp:0.0 2dp:15.0
+cash remaining: 134781.87
+0:240930006 HON BUY 26 @207.43 9:34 bid is:207.64
+9:34 0: HON orderID:240930006 tradeID:240930006 BUY 26 @207.43 factor:0.999 HON 9-30 9:34 ADDER Created
+1:240930007 HON BUY 26 @205.14 9:34 bid is:207.64
+9:34 1: HON orderID:240930007 tradeID:240930007 BUY 26 @205.14 factor:0.9879436003250505 HON 9-30 9:34 ADDER Created
+1D$:n:5 max:208.2 [9-30 9:31] min:207.9 [9-30 9:34] rng:0.1% 1Key:[9-30 9:30] last:[9-30 9:34]
+2D$:n:395 max:210.8 [9-27 11:31] min:207.2 [9-27 9:30] rng:1.8% 1Key:[9-27 9:30] last:[9-30 9:34]
+9-30 9:34 *openOrder* status:Submitted 240930007 BUY 26@205.14
+9-30 9:34 *openOrder* all live orders [240930007 BUY 26@205.14]
+9-30 9:34 *OrderStatus*:Submitted orderId:240930007 filled:0 remaining:26 avgFillPx:0.0 lastFillPx:0.0
+9-30 9:34 *openOrder* status:PreSubmitted 240930006 BUY 26@207.43
+9-30 9:34 *openOrder* all live orders [240930006 BUY 26@207.43, 240930007 BUY 26@205.14]
+9-30 9:34 *OrderStatus*:PreSubmitted orderId:240930006 filled:0 remaining:26 avgFillPx:0.0 lastFillPx:0.0
+9-30 9:34 *openOrder* status:Submitted 240930006 BUY 26@207.43
+9-30 9:34 *openOrder* all live orders [240930006 BUY 26@207.43, 240930007 BUY 26@205.14]
+9-30 9:34 *OrderStatus*:Submitted orderId:240930006 filled:0 remaining:26 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Submitted, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930006=HON 9-30 9:34 ADDER Submitted, 240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930006, 240930007]}
+2024-09-30T09:34:54.569 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Submitted, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930006=HON 9-30 9:34 ADDER Submitted, 240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930006, 240930007]}
+2024-09-30T09:35:00.335 no blocking orders 
+updating pos: HON 9-30 9:35 pos:26 cost:207.43
+9-30 9:35 *tradeReport* time: 2024-09-30T09:35 BOT execPx:207.43 shares:26 avgPx:207.43
+9-30 9:35 *openOrder* status:Filled 240930006 BUY 26@207.43
+9-30 9:35 *openOrder*:removing order.Status:Filled 240930006 BUY 26@207.43
+9-30 9:35 *openOrder*:after removal.OpenOrders: [240930007]
+9-30 9:35 *openOrder* all live orders [240930007 BUY 26@205.14]
+9-30 9:35 *OrderStatus*:Filled orderId:240930006 filled:26 remaining:0 avgFillPx:207.43 lastFillPx:207.43
+9-30 9:35 *openOrder* status:Filled 240930006 BUY 26@207.43
+9-30 9:35 *openOrder*:removing order.Status:Filled 240930006 BUY 26@207.43
+9-30 9:35 *openOrder*:after removal.OpenOrders: [240930007]
+9-30 9:35 *openOrder* all live orders [240930007 BUY 26@205.14]
+9-30 9:35 *OrderStatus*:Filled orderId:240930006 filled:26 remaining:0 avgFillPx:207.43 lastFillPx:207.43
+1.*commission report*:240930006 commission:0.3 
+2.*commission report* orderID:240930006 commission: 0.3 
+updating pos: HON 9-30 9:35 pos:26 cost:207.44
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:35:00.827 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:35:43.480 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:35:44.730 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:35:54.496 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:35:55.005 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:01.760 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:21.788 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:32.570 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:37.095 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:38.595 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:44.903 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:44.909 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:58.724 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:36:59.224 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:37:15.001 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:37:29.780 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:37:46.972 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:37:49.261 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:38:14.512 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:38:15.062 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:38:39.045 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:38:39.543 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:38:40.081 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:38:40.546 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:39:31.319 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:40:33.338 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:40:33.842 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:40:39.598 no blocking orders 
+updating pos: HON 9-30 9:40 pos:26 cost:207.44
+updating pos: HON 9-30 9:40 pos:26 cost:207.44
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:40:48.112 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:41:16.161 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:41:16.652 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:41:20.693 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:41:23.412 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:41:59.464 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:42:04.967 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:42:18.492 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:42:18.493 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:42:32.010 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:42:56.547 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:01.056 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:25.839 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:43.403 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:43.404 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:45.122 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:46.119 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:43:54.096 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:44:00.053 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:44:04.610 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:44:13.324 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:45:24.426 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:45:27.432 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:45:27.936 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:45:43.760 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:46:02.742 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:46:03.241 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:46:23.520 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:46:31.032 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:46:38.410 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:47:29.536 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:47:29.544 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:48:30.584 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T09:48:52.860 no blocking orders 
+*Periodic Run* 9-30 10:33 last live feed time: 9-30 10:33 been:0min p:207.14 cost:207.4 p/cost:0.999
+p:207.14 rng:1.5% pos:26 delt:5k cost:207.4 fullLot:80 refillP:200.6 costTgt:0.98 refillP/cost:0.967 refillP/px:0.968
+9-30 10:33 *chek orderStatus [240930006=Filled, 240930007=Submitted]
+9-30 10:33 *chek openOrders*: [240930007]
+9-30 10:33 207.14 2dP:9.0 1dP:27.0
+2d$:n:452 max:210.8 [9-27 11:31] min:206.8 [9-30 9:45] rng:2.0% 1Key:[9-27 9:30] last:[9-30 10:33]
+1d$:n:62 max:208.2 [9-30 9:31] min:206.8 [9-30 9:45] rng:0.7% 1Key:[9-30 9:30] last:[9-30 10:33]
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:35:41.890 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:39:11.710 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:39:31.238 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:39:33.241 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:40:45.604 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:40:46.104 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:41:01.380 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:53:09.736 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:53:13.239 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:53:24.759 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:53:28.263 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:53:30.515 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:54:02.066 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:54:35.365 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:55:26.941 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:55:27.440 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:55:27.943 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:55:43.216 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:56:00.491 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:56:26.035 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:56:41.283 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:56:45.791 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:56:50.249 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T10:56:50.750 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:18:35.853 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:06.845 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:07.347 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:22.862 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:28.871 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:29.374 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:38.978 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:51.500 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:56.479 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:19:56.983 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:20:00.234 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:20:46.845 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:20:47.346 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:21:05.281 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:21:27.833 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:23:28.235 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:10.361 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:10.865 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:23.143 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:37.169 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:46.683 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:47.180 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:25:47.931 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:26:34.870 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:26:35.373 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:27:18.813 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:27:43.976 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:27:48.908 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:27:55.685 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:28:00.039 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:28:09.303 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:28:25.194 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:28:26.697 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:28:39.719 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:28:59.050 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:00.299 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:05.811 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:29.383 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:29.882 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:30.384 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:38.897 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:57.431 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:29:59.953 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:30:11.722 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:30:17.981 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:30:32.853 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:30:56.982 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:30:59.492 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:30:59.986 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:31:03.492 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:31:18.093 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:31:43.452 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:31:52.032 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:32:32.541 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:32:59.806 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:33:03.820 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:33:18.084 no blocking orders 
+*Periodic Run* 9-30 11:33 last live feed time: 9-30 11:33 been:0min p:206.49 cost:207.4 p/cost:0.995
+p:206.49 rng:1.5% pos:26 delt:5k cost:207.4 fullLot:81 refillP:200.63 costTgt:0.98 refillP/cost:0.967 refillP/px:0.972
+9-30 11:33 *chek orderStatus [240930006=Filled, 240930007=Submitted]
+9-30 11:33 *chek openOrders*: [240930007]
+9-30 11:33 206.49 2dP:4.0 1dP:10.0
+2d$:n:510 max:210.8 [9-27 11:31] min:206.3 [9-30 11:28] rng:2.2% 1Key:[9-27 9:30] last:[9-30 11:33]
+1d$:n:120 max:208.2 [9-30 9:31] min:206.3 [9-30 11:28] rng:0.9% 1Key:[9-30 9:30] last:[9-30 11:33]
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:33:45.895 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:02.797 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:03.300 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:05.803 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:09.059 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:10.563 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:11.060 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:25.525 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:44.826 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:34:49.585 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:18.434 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:27.449 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:38.217 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:38.876 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:39.377 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:41.880 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:42.882 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:47.139 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:50.149 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:35:51.645 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:36:24.965 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:36:26.467 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:37:21.965 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:37:23.387 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:37:29.650 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:37:49.551 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:38:07.336 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:38:08.084 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:38:32.569 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:38:39.832 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:38:40.330 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:39:02.569 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:39:05.324 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:39:10.079 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:39:32.679 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:39:43.447 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:39:54.580 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:15.387 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:15.887 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:16.389 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:20.894 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:21.627 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:31.664 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:32.667 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:33.167 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:46.007 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:40:53.519 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:01.855 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:05.670 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:14.934 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:27.206 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:28.707 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:32.602 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:38.363 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:45.873 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:47.377 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:47.877 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:49.882 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:50.381 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:55.389 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:55.892 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:56.641 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:58.643 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:41:59.145 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:03.151 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:03.653 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:05.850 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:15.368 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:15.866 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:17.120 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:17.618 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:32.642 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:59.064 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:42:59.563 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:13.268 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:14.270 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:14.782 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:15.272 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:15.775 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:17.778 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:18.526 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:24.538 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:30.048 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:32.047 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:32.550 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:33.048 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:34.051 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:39.059 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:52.482 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:43:57.987 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:44:11.762 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:44:41.674 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:44:55.210 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:01.717 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:03.970 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:05.977 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:27.031 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:29.783 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:44.558 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:48.561 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:49.062 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:57.630 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:45:59.133 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:02.388 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:02.890 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:03.388 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:03.892 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:04.891 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:56.285 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:56.788 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:57.539 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T11:46:58.539 no blocking orders 
+*Periodic Run* 9-30 12:33 last live feed time: 9-30 12:31 been:1min p:206.13 cost:207.4 p/cost:0.994
+p:206.13 rng:1.5% pos:26 delt:5k cost:207.4 fullLot:81 refillP:200.63 costTgt:0.98 refillP/cost:0.967 refillP/px:0.973
+9-30 12:33 *chek orderStatus [240930006=Filled, 240930007=Submitted]
+9-30 12:33 *chek openOrders*: [240930007]
+9-30 12:33 206.13 2dP:7.0 1dP:15.0
+2d$:n:565 max:210.8 [9-27 11:31] min:205.8 [9-30 11:45] rng:2.5% 1Key:[9-27 9:30] last:[9-30 12:31]
+1d$:n:175 max:208.2 [9-30 9:31] min:205.8 [9-30 11:45] rng:1.2% 1Key:[9-30 9:30] last:[9-30 12:31]
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:50:42.151 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:51:07.764 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:52:45.952 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:53:49.465 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:53:55.822 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:53:56.318 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:54:22.498 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:54:22.995 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:54:39.889 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:54:40.387 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:54:42.892 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:55:00.787 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T12:55:16.559 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:01:03.971 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:01:57.380 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:01:57.880 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:02:17.615 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:03:10.896 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:03:35.386 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:04:01.794 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:04:26.394 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:04:26.893 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:06:13.247 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:06:25.857 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:06:58.510 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:07:03.019 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:07:42.880 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:07:55.115 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:07:59.374 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:08:02.129 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:08:26.162 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:08:31.562 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:08:32.566 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:09:37.653 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:10:03.177 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:10:03.671 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:10:33.272 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:10:33.774 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:10:43.786 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:00.811 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:32.700 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:33.447 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:43.039 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:43.539 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:44.041 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:46.546 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:11:59.068 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:12:12.399 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:12:16.404 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:12:16.906 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:12:17.407 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:12:17.908 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:13:10.213 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:13:52.955 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:13:57.710 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:15:22.005 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:15:24.508 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:15:33.272 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:04.156 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:04.656 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:21.708 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:22.054 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:38.076 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:53.125 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:53.626 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:16:54.877 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:29:22.525 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:29:29.034 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:29:52.738 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:29:53.236 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:01.751 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:25.005 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:25.505 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:33.516 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:35.268 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:38.780 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:47.131 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:30:47.636 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:31:27.656 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:31:28.158 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:03.459 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:03.959 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:04.461 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:14.104 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:14.514 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:38.648 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:39.898 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:43.231 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:43.731 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:32:54.933 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:33:07.186 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:33:10.439 no blocking orders 
+*Periodic Run* 9-30 13:33 last live feed time: 9-30 13:33 been:0min p:205.93 cost:207.4 p/cost:0.993
+p:205.93 rng:1.5% pos:26 delt:5k cost:207.4 fullLot:81 refillP:200.63 costTgt:0.98 refillP/cost:0.967 refillP/px:0.974
+9-30 13:33 *chek orderStatus [240930006=Filled, 240930007=Submitted]
+9-30 13:33 *chek openOrders*: [240930007]
+9-30 13:33 205.93 2dP:4.0 1dP:7.0
+2d$:n:621 max:210.8 [9-27 11:31] min:205.8 [9-30 11:45] rng:2.5% 1Key:[9-27 9:30] last:[9-30 13:33]
+1d$:n:231 max:208.2 [9-30 9:31] min:205.8 [9-30 11:45] rng:1.2% 1Key:[9-30 9:30] last:[9-30 13:33]
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:33:23.823 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:33:24.482 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:33:39.870 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:34:29.851 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:34:35.115 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T13:34:54.639 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:06:27.615 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:06:28.115 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:06:28.615 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:06:32.120 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:06:33.624 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:06:57.657 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:18.442 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:20.444 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:30.480 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:36.250 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:39.756 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:45.264 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:48.019 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:48.519 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:49.021 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:07:54.528 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:16.315 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:17.316 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:21.071 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:21.573 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:24.577 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:36.800 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:40.305 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:08:50.569 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:09:11.520 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:10:13.262 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:10:13.764 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:10:19.772 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:10:20.271 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:11:04.636 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:11:05.138 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:11:26.323 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:11:33.333 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:11:35.588 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:11:47.305 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:12:07.834 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:12:49.849 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:12:54.698 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:12:55.198 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:03.959 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:05.212 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:11.224 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:14.474 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:15.476 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:15.976 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:16.430 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:19.219 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:20.221 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:32.701 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:13:35.705 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:14:04.813 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:01.594 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:02.094 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:02.597 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:03.347 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:08.357 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:08.855 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:10.608 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:19.623 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:20.122 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:20.625 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:46.371 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:48.874 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:51.882 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:52.379 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:53.882 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:54.883 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:15:55.382 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:16:11.709 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:16:19.971 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:16:24.791 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:16:25.291 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:16:52.680 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:17:08.951 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:17:09.516 no blocking orders 
+no blocking buy orders: All submitted orders {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Submitted}
+no blocking buy orders: Active orders: [240930007=HON 9-30 9:34 ADDER Submitted]
+active orders grouped by buysell: {BUY=[240930007]}
+2024-09-30T14:17:19.029 no blocking orders 
+updating pos: HON 9-30 14:17 pos:52 cost:206.29
+9-30 14:17 *OrderStatus*:Filled orderId:240930007 filled:26 remaining:0 avgFillPx:205.14 lastFillPx:205.14
+9-30 14:17 *OrderStatus*:Filled deleting finished orders from openOrderMap {240930007=240930007 BUY 26@205.14}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={240930009=240930009 BUY 18@300.01}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+9-30 14:17 *OrderStatus*:Filled orderId:240930007 filled:26 remaining:0 avgFillPx:205.14 lastFillPx:205.14
+updating pos: HON 9-30 14:17 pos:52 cost:206.3
+9-30 14:17 *tradeReport* time: 2024-09-30T14:17:25 BOT execPx:205.14 shares:26 avgPx:205.14
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+updating pos: HON 9-30 14:22 pos:52 cost:206.3
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+all orders finished {240930006=HON 9-30 9:34 ADDER Filled, 240930007=HON 9-30 9:34 ADDER Filled}
+*Periodic Run* 9-30 14:33 last live feed time: 9-30 14:33 been:0min p:205.03 cost:206.3 p/cost:0.994
+p:205.03 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.96
+9-30 14:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 14:33 205.03 2dP:10.0 1dP:17.0
+2d$:n:677 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 14:33]
+1d$:n:287 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 14:33]
+*Periodic Run* 9-30 15:33 last live feed time: 9-30 15:33 been:0min p:205.59 cost:206.3 p/cost:0.997
+p:205.59 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.958
+9-30 15:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 15:33 205.59 2dP:19.0 1dP:32.0
+2d$:n:737 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 15:33]
+1d$:n:347 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 15:33]
+*Periodic Run* 9-30 16:33 last live feed time: 9-30 16:22 been:10min p:205.5 cost:206.3 p/cost:0.996
+p:205.5 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.958
+9-30 16:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 16:33 205.5 2dP:17.0 1dP:30.0
+2d$:n:765 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 16:22]
+1d$:n:375 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 16:22]
+*Periodic Run* 9-30 17:33 last live feed time: 9-30 16:22 been:70min p:205.5 cost:206.3 p/cost:0.996
+p:205.5 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.958
+9-30 17:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 17:33 205.5 2dP:17.0 1dP:30.0
+2d$:n:765 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 16:22]
+1d$:n:375 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 16:22]
+*Periodic Run* 9-30 18:33 last live feed time: 9-30 16:22 been:130min p:205.5 cost:206.3 p/cost:0.996
+p:205.5 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.958
+9-30 18:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 18:33 205.5 2dP:17.0 1dP:30.0
+2d$:n:765 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 16:22]
+1d$:n:375 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 16:22]
+*Periodic Run* 9-30 19:33 last live feed time: 9-30 16:22 been:190min p:205.5 cost:206.3 p/cost:0.996
+p:205.5 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.958
+9-30 19:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 19:33 205.5 2dP:17.0 1dP:30.0
+2d$:n:765 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 16:22]
+1d$:n:375 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 16:22]
+*Periodic Run* 9-30 20:33 last live feed time: 9-30 16:22 been:250min p:205.5 cost:206.3 p/cost:0.996
+p:205.5 rng:1.5% pos:52 delt:11k cost:206.3 fullLot:81 refillP:196.87 costTgt:0.98 refillP/cost:0.954 refillP/px:0.958
+9-30 20:33 *chek orderStatus [240930006=Filled, 240930007=Filled]
+9-30 20:33 205.5 2dP:17.0 1dP:30.0
+2d$:n:765 max:210.8 [9-27 11:31] min:204.4 [9-30 14:24] rng:3.2% 1Key:[9-27 9:30] last:[9-30 16:22]
+1d$:n:375 max:208.2 [9-30 9:31] min:204.4 [9-30 14:24] rng:1.9% 1Key:[9-30 9:30] last:[9-30 16:22]
