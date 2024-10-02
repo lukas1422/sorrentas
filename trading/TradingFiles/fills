@@ -3744,3 +3744,22 @@ IP 9-30 11:07 *OrderStatus*: filled:240930010
 IP 1.*commission report*:240930010 commission:0.36 realized pnl:37.53 computed Pnl:37.53
 IP *********************
 HON 9-30 14:17 *OrderStatus*: filled:240930007
+*****START***** HKT: 19:36:59 EST: 10-1 7:36
+GLD 10-1 9:33 *openOrder* FILLED 241001004 SELL 5@245.7
+GLD 10-1 9:33 *OrderStatus*: filled:241001004
+GLD 1.*commission report*:241001004 commission:0.38 realized pnl:41.0 computed Pnl:41.0
+GLD *********************
+IP 10-1 9:33 *openOrder* FILLED 241001194 BUY 115@48.5
+IP 10-1 9:33 *OrderStatus*: filled:241001194
+IP 1.*commission report*:241001194 commission:0.27 
+IP *********************
+IP 1.*commission report*:241001194 commission:0.02 
+IP *********************
+IP 1.*commission report*:241001194 commission:0.01 
+IP *********************
+IP 1.*commission report*:241001194 commission:0.01 
+IP *********************
+SLV 10-1 9:34 *openOrder* FILLED 241001229 SELL 16@28.89
+SLV 10-1 9:34 *OrderStatus*: filled:241001229
+SLV 1.*commission report*:241001229 commission:0.34 realized pnl:21.7 computed Pnl:21.7
+SLV *********************
