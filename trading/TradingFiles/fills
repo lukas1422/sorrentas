@@ -3763,3 +3763,31 @@ SLV 10-1 9:34 *openOrder* FILLED 241001229 SELL 16@28.89
 SLV 10-1 9:34 *OrderStatus*: filled:241001229
 SLV 1.*commission report*:241001229 commission:0.34 realized pnl:21.7 computed Pnl:21.7
 SLV *********************
+*****START***** HKT: 20:39:52 EST: 10-2 8:39
+SLV 10-2 9:47 *openOrder* FILLED 241002003 SELL 34@29.19
+SLV 10-2 9:47 *OrderStatus*: filled:241002003
+SLV 1.*commission report*:241002003 commission:0.34 realized pnl:56.71 computed Pnl:56.71
+SLV *********************
+*****START***** HKT: 20:54:57 EST: 10-3 8:54
+CL 10-3 9:53 *openOrder* FILLED 241003005 BUY 55@101.16
+CL 10-3 9:53 *OrderStatus*: filled:241003005
+CL 1.*commission report*:241003005 commission:0.3 
+CL *********************
+PG 10-3 9:53 *openOrder* FILLED 241003007 BUY 32@170.16
+PG 10-3 9:53 *OrderStatus*: filled:241003007
+PG 1.*commission report*:241003007 commission:0.32 
+PG *********************
+HSBC 10-3 10:10 *openOrder* FILLED 241003003 SELL 8@45.16
+HSBC 10-3 10:10 *OrderStatus*: filled:241003003
+HSBC 1.*commission report*:241003003 commission:0.35 realized pnl:11.47 computed Pnl:11.47
+HSBC *********************
+UL 10-3 10:14 *openOrder* FILLED 241003011 BUY 88@63.08
+UL 10-3 10:14 *OrderStatus*: filled:241003011
+UL 1.*commission report*:241003011 commission:0.37 
+UL *********************
+MRK 10-3 10:32 *openOrder* FILLED 241003009 BUY 50@110.91
+MRK 10-3 10:32 *OrderStatus*: filled:241003009
+MRK 1.*commission report*:241003009 commission:0.33 
+MRK *********************
+MRK 1.*commission report*:241003009 commission:-0.02 
+MRK *********************
