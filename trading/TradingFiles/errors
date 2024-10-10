@@ -19684,3 +19684,150 @@ UL 10:04:38.290 cost/bid/ask: 64.1793867 0.0 0.0
 *openOrder* Error 10-7 14:20 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 *openOrder* Error 10-7 14:26 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 10-7 14:26 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-8 2:58 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-8 2:58 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-8 2:58 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-8 2:58 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-8 2:58 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-8 3:05 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-8 3:05 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-8 4:31 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-8 4:32 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-8 4:32 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-8 4:32 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-8 4:32 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-8 9:30 orderId:241008003 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 9:30 orderId:241008004 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 9:30 orderId:241008005 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 9:34 orderId:241008229 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 9:34 orderId:241008230 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 9:54 orderId:241008512 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 9:54 orderId:241008513 errorCode:103 msg:Duplicate order id
+ADM 2024-10-08T10:00:00.536 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:00:05.033 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:01:02.108 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:01:06.598 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:02:04.053 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:02:06.198 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:02:09.201 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:03:07.497 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:03:08.997 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:04:00.798 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:04:03.589 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T10:04:09.356 Adder: ytd < -10% cannot trade:-0.1634701067762332
+*openOrder* Error 10-8 10:06 orderId:241009221 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-8 10:06 orderId:241009222 errorCode:103 msg:Duplicate order id
+ADM 2024-10-08T11:00:07.701 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T11:02:01.617 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T11:02:04.865 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T12:00:02.242 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T13:02:02.387 Adder: ytd < -10% cannot trade:-0.1634701067762332
+ADM 2024-10-08T13:04:06.775 Adder: ytd < -10% cannot trade:-0.1634701067762332
+*openOrder* Error 10-8 17:26 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-8 19:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 10-9 9:09 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-9 9:09 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-9 9:09 orderId:60125 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 10-9 9:09 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-9 9:09 orderId:60125 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 10-9 9:14 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 10-9 9:16 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-9 9:30 orderId:241009004 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-9 9:30 orderId:241009005 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-9 9:30 orderId:241009006 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-9 9:30 orderId:241009007 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-9 9:30 orderId:241009008 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-9 9:30 orderId:241009009 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-9 9:33 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+ABT 09:33:59.463 no bid or no ask when trying to trade
+ABT 09:33:59.463 cost/bid/ask: 115.95150425 0.0 0.0
+BRK B 09:34:00.175 no bid or no ask when trying to trade
+BRK B 09:34:00.175 cost/bid/ask: 461.4864565 0.0 0.0
+CL 09:34:00.379 no bid or no ask when trying to trade
+CL 09:34:00.379 cost/bid/ask: 103.30967055 0.0 0.0
+ADM 09:34:00.381 no bid or no ask when trying to trade
+ADM 09:34:00.381 cost/bid/ask: 0.0 0.0 0.0
+AWK 09:34:00.382 no bid or no ask when trying to trade
+AWK 09:34:00.382 cost/bid/ask: 142.22919805 0.0 0.0
+HON 09:34:00.391 no bid or no ask when trying to trade
+HON 09:34:00.391 cost/bid/ask: 206.2966231 0.0 0.0
+IP 09:34:00.393 no bid or no ask when trying to trade
+IP 09:34:00.393 cost/bid/ask: 48.5025748 47.03 0.0
+CL 09:34:00.563 no bid or no ask when trying to trade
+CL 09:34:00.563 cost/bid/ask: 103.30967055 0.0 0.0
+JNJ 09:34:00.569 no bid or no ask when trying to trade
+JNJ 09:34:00.569 cost/bid/ask: 162.80862855 0.0 159.8
+KO 09:34:00.578 no bid or no ask when trying to trade
+KO 09:34:00.578 cost/bid/ask: 70.1633135 0.0 0.0
+MMM 09:34:00.581 no bid or no ask when trying to trade
+MMM 09:34:00.581 cost/bid/ask: 137.5278075 0.0 0.0
+HSBC 09:34:00.583 no bid or no ask when trying to trade
+HSBC 09:34:00.583 cost/bid/ask: 0.0 0.0 0.0
+PHO 09:34:00.874 no bid or no ask when trying to trade
+PHO 09:34:00.874 cost/bid/ask: 66.65813335 0.0 69.84
+SLV 09:34:01.071 no bid or no ask when trying to trade
+SLV 09:34:01.071 cost/bid/ask: 0.0 0.0 0.0
+PG 09:34:01.075 no bid or no ask when trying to trade
+PG 09:34:01.075 cost/bid/ask: 171.60359785 0.0 0.0
+MRK 09:34:01.076 no bid or no ask when trying to trade
+MRK 09:34:01.076 cost/bid/ask: 111.2340702 0.0 0.0
+MCD 09:34:01.283 no bid or no ask when trying to trade
+MCD 09:34:01.283 cost/bid/ask: 303.2785111 0.0 303.42
+IWM 09:34:01.291 no bid or no ask when trying to trade
+IWM 09:34:01.291 cost/bid/ask: 222.062664 0.0 217.0
+UNP 09:34:01.293 no bid or no ask when trying to trade
+UNP 09:34:01.293 cost/bid/ask: 243.21533285 0.0 0.0
+KMB 09:34:01.295 no bid or no ask when trying to trade
+KMB 09:34:01.295 cost/bid/ask: 143.2782143 0.0 0.0
+IWM 09:34:01.297 no bid or no ask when trying to trade
+IWM 09:34:01.297 cost/bid/ask: 222.062664 0.0 217.0
+IWM 09:34:01.298 no bid or no ask when trying to trade
+IWM 09:34:01.298 cost/bid/ask: 222.062664 0.0 217.0
+IWM 09:34:01.300 no bid or no ask when trying to trade
+IWM 09:34:01.300 cost/bid/ask: 222.062664 0.0 217.0
+UL 09:34:01.303 no bid or no ask when trying to trade
+UL 09:34:01.303 cost/bid/ask: 64.1793867 0.0 0.0
+KMB 09:34:01.517 no bid or no ask when trying to trade
+KMB 09:34:01.517 cost/bid/ask: 143.2782143 0.0 0.0
+*openOrder* Error 10-9 9:34 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-9 9:34 orderId:60005 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 10-9 9:34 orderId:60155 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 10-9 9:34 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-9 9:34 orderId:60005 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 10-9 9:34 orderId:60155 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 10-9 9:41 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+PHO openorders does not contain order PHO 241009239 SELL 10@70.57
+SLV openorders does not contain order SLV 241009050 BUY 202@27.19
+GLD openorders does not contain order GLD 241009010 SELL 4@246.2
+GLD openorders does not contain order GLD 241009008 SELL 2@241.85
+GLD openorders does not contain order GLD 241009009 SELL 2@243.78
+*openOrder* Error 10-9 18:51 orderId:241009050 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-9 18:51 orderId:241009010 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-9 18:51 orderId:241009008 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-9 18:51 orderId:241009009 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-9 18:51 orderId:241009239 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-9 18:51 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-9 18:58 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-9 19:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 10-10 9:04 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-10 9:11 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:0001051b.6707bbde.01 report:ID:0001051b.6707bbde.01.01 commission:0.323544 curr:USD pnl:49.782373 yield:1.7976931348623157E308 yieldRedemption:0
+ADM 2024-10-10T13:02:04.324 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T13:03:05.448 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T14:01:06.306 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T14:01:07.020 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T14:02:09.448 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T15:02:01.372 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T15:02:02.112 Adder: ytd < -10% cannot trade:-0.1903311583935101
+ADM 2024-10-10T15:04:04.101 Adder: ytd < -10% cannot trade:-0.1903311583935101
+*openOrder* Error 10-10 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-10 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-10 17:00 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-10 17:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
