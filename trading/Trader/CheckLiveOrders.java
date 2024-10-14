@@ -7,6 +7,51 @@ import controller.AccountSummaryTag;
 import controller.ApiController;
 import handler.DefaultConnectionHandler;
 import handler.LiveHandler;
+import utility.Utility;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.time.Duration;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
+
+import static Trader.Allstatic.*;
+import static Trader.TradingUtility.*;
+import static Trader.TradingUtility.getESTLocalTimeNow;
+import static api.ControllerCalls.placeOrModifyOrderCheck;
+import static api.TradingConstants.*;
+import static api.TradingConstants.Hmmss;
+import static client.OrderStatus.Created;
+import static client.OrderStatus.Filled;
+import static client.Types.Action.BUY;
+import static client.Types.Action.SELL;
+import static client.Types.TimeInForce.DAY;
+import static enums.AutoOrderType.ADDER;
+import static enums.AutoOrderType.CUTTER;
+import static java.lang.Double.MAX_VALUE;
+import static java.lang.Double.MIN_VALUE;
+import static java.lang.Math.floor;
+import static java.lang.Math.round;
+import static java.time.temporal.ChronoUnit.MINUTES;
+import static java.util.stream.Collectors.*;
+import static utility.Utility.*;
+import static utility.Utility.pr;
+
+
+import api.OrderAugmented;
+import auxiliary.SimpleBar;
+import client.*;
+import controller.AccountSummaryTag;
+import controller.ApiController;
+import handler.DefaultConnectionHandler;
+import handler.LiveHandler;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -35,7 +80,8 @@ import static java.time.temporal.ChronoUnit.MINUTES;
 import static java.util.stream.Collectors.*;
 import static utility.Utility.*;
 
-class ProfitTargetTrader implements LiveHandler,
+
+public class CheckLiveOrders implements LiveHandler,
         ApiController.IPositionHandler, ApiController.ITradeReportHandler, ApiController.ILiveOrderHandler
         , ApiController.IAccountSummaryHandler {
 
@@ -99,7 +145,7 @@ class ProfitTargetTrader implements LiveHandler,
 
     private static Map<String, Double> rng = new HashMap<>();
 
-    private ProfitTargetTrader() throws IOException {
+    private CheckLiveOrders() throws IOException {
         outputToGeneral("*****START***** HKT:", hkTime(), "EST:", usDateTime(),
                 "MASTERID:", MASTERID, "\n", "mkt start time today:", TODAY930);
         outputToOrders("", "*****START***** HKT:", hkTime(), "EST:", usDateTime());
@@ -171,11 +217,11 @@ class ProfitTargetTrader implements LiveHandler,
 
     private void connectAndReqPos() {
         api = new ApiController(new DefaultConnectionHandler(),
-                new DefaultLogger(), new DefaultLogger());
+                new Utility.DefaultLogger(), new Utility.DefaultLogger());
         CountDownLatch l = new CountDownLatch(1);
 
         try {
-            api.connect("127.0.0.1", PORT_TO_USE, 5, "");
+            api.connect("127.0.0.1", PORT_TO_USE, 7, "");
             l.countDown();
             pr("Latch counted down", PORT_TO_USE, getESTDateTimeNow().format(MdHmmss));
         } catch (IllegalStateException ex) {
@@ -194,58 +240,25 @@ class ProfitTargetTrader implements LiveHandler,
                 if (!twoDayData.containsKey(symb)) {
                     twoDayData.put(symb, new ConcurrentSkipListMap<>());
                 }
-                pr("requesting hist day data", symb);
-                CompletableFuture.runAsync(() -> reqHistDayData(api, Allstatic.ibStockReqId.addAndGet(5),
-                        c, ProfitTargetTrader::todaySoFar, () ->
-                                pr(symb, "2D$:" + genStats(twoDayData.get(symb)),
-                                        "1D$:" + genStats(twoDayData.get(symb).tailMap(TODAY230))),
-                        2, Types.BarSize._1_min));
-                CompletableFuture.runAsync(() -> reqHistDayData(api, Allstatic.ibStockReqId.addAndGet(5),
-                        c, ProfitTargetTrader::ytdOpen, () -> computeHistoricalData(symb)
-                        , Math.min(364, getCalendarYtdDays() + 10), Types.BarSize._1_day));
+//                pr("requesting hist day data", symb);
+
             });
             pr("print all target stocks:", targets);
+            pr("requesting positions");
             api.reqPositions(this);
+            pr("requesting live orders");
             api.reqLiveOrders(this);
-            AccountSummaryTag[] tags =
-                    {AccountSummaryTag.AvailableFunds};
-            api.reqAccountSummary("All", tags, this);
+//            AccountSummaryTag[] tags =
+//                    {AccountSummaryTag.AvailableFunds};
+//            api.reqAccountSummary("All", tags, this);
 
-            pr("req Executions");
-            api.reqExecutions(new ExecutionFilter(), this);
-            outputToGeneral(usDateTime(), "cancelling all orders on start up");
-            api.cancelAllOrders();
+//            pr("req Executions");
+//            api.reqExecutions(new ExecutionFilter(), this);
+//            outputToGeneral(usDateTime(), "cancelling all orders on start up");
+//            api.cancelAllOrders();
         }, 2, TimeUnit.SECONDS);
     }
 
-    private static void computeHistoricalData(String s) {
-        pr("computing historical data for", s);
-        if (ytdDayData.containsKey(s) && !ytdDayData.get(s).isEmpty()) {
-            double rng = ytdDayData.get(s).values().stream().mapToDouble(SimpleBar::getHLRange)
-                    .average().orElse(0.0);
-            ProfitTargetTrader.rng.put(s, rng);
-            outputToSymbol(s, usDateTime(), "rng:" + round(rng * 1000.0) / 10.0 + "%",
-                    "costTgt:" + round3(costTgt(s)));
-            outputToSymbol(s, usDateTime(), "tgtMargin:" + round4(tgtProfitMargin(s))
-                    , "tgtPrice:" + round2(costMap.getOrDefault(s, 0.0) * tgtProfitMargin(s)));
-
-            if (ytdDayData.get(s).firstKey().isBefore(getYearBeginMinus1Day())) {
-                double lastYearClose = ytdDayData.get(s).floorEntry(getYearBeginMinus1Day()).getValue().getClose();
-                lastYearCloseMap.put(s, lastYearClose);
-                double yesterdayClose = ytdDayData.get(s).lowerEntry(getESTDateTimeNow().toLocalDate())
-                        .getValue().getClose();
-                pr("stock yesterday close ", s, yesterdayClose);
-                yesterdayCloseMap.put(s, yesterdayClose);
-                ytdReturn.put(s, ytdDayData.get(s).lastEntry().getValue().getClose() / lastYearClose - 1);
-                outputToSymbol(s, "ytdReturn:" + round(ytdReturn.get(s) * 10000d) / 100d + "%");
-                pr("last year close for", s, ytdDayData.get(s).floorEntry(getYearBeginMinus1Day()).getKey(),
-                        ytdDayData.get(s).floorEntry(getYearBeginMinus1Day()).getValue().getClose(),
-                        "YTD:", round2(ytdReturn.get(s)));
-            }
-        } else {
-            pr("no historical data to compute ", s);
-        }
-    }
 
 //    private static void registerContractAll(Contract... cts) {
 //        Arrays.stream(cts).forEach(ProfitTargetTrader::registerContract);
@@ -253,8 +266,8 @@ class ProfitTargetTrader implements LiveHandler,
 
     private static void registerContract(Contract ct) {
         String symb = ibContractToSymbol(ct);
-        outputToSymbol(symb, "*******************************************");
-        outputToSymbol(symb, "*STARTS*", usDateTime());
+        //outputToSymbol(symb, "*******************************************");
+        //outputToSymbol(symb, "*STARTS*", usDateTime());
         symbolContractMap.put(symb, ct);
         targets.add(symb);
         ytdReturn.put(symb, -1.0);
@@ -269,46 +282,46 @@ class ProfitTargetTrader implements LiveHandler,
         }
     }
 
-    private static boolean noBlockingBuyOrders(String s) {
-        if (orderSubmitted.get(s).isEmpty()) {
-            outputToSymbol(s, getESTLocalTimeNow(), "no blocking orders,empty");
-            return true;
-        }
-
-        if (orderSubmitted.get(s).size() > 15) {
-            outputToSymbol(s, getESTLocalTimeNow(), "order size 15, meaning something is wrong", orderSubmitted.get(s));
-            return false;
-        }
-
-        if (orderSubmitted.get(s).values().stream().map(OrderAugmented::getOrderStatus)
-                .filter(e -> !e.isFinished()).count() > 6) {
-            outputToSymbol(s, getESTLocalTimeNow(), "maximum unfinished orders exceeding 6", orderSubmitted.get(s));
-            return false;
-        }
-//        outputToSymbol(s, "no blocking buy orders orderSubmitted nonempty:"
-//                , orderSubmitted.get(s));
-
-        if (orderSubmitted.get(s).values().stream().map(OrderAugmented::getOrderStatus)
-                .allMatch(OrderStatus::isFinished)) {
-            outputToSymbol(s, "all orders finished", orderSubmitted.get(s));
-            return true;
-        } else {
-            outputToSymbol(s, "no blocking buy orders: All submitted orders", orderSubmitted.get(s));
-            outputToSymbol(s, "no blocking buy orders: Active orders:",
-                    orderSubmitted.get(s).entrySet().stream()
-                            .filter(e -> !e.getValue().getOrderStatus().isFinished())
-                            .collect(toList()));
-            outputToSymbol(s, "active orders grouped by buysell:",
-                    orderSubmitted.get(s).entrySet().stream()
-                            .filter(e -> !e.getValue().getOrderStatus().isFinished())
-                            .collect(groupingBy(e -> e.getValue().getOrder().action()
-                                    , mapping(e -> e.getValue().getOrder().orderId(), toList()))));
-
-            return orderSubmitted.get(s).entrySet().stream()
-                    .filter(e -> !e.getValue().getOrderStatus().isFinished())
-                    .noneMatch(e -> e.getValue().getOrder().action() == BUY);
-        }
-    }
+//    private static boolean noBlockingBuyOrders(String s) {
+//        if (orderSubmitted.get(s).isEmpty()) {
+//            outputToSymbol(s, getESTLocalTimeNow(), "no blocking orders,empty");
+//            return true;
+//        }
+//
+//        if (orderSubmitted.get(s).size() > 15) {
+////            outputToSymbol(s, getESTLocalTimeNow(), "order size 15, meaning something is wrong", orderSubmitted.get(s));
+//            return false;
+//        }
+//
+//        if (orderSubmitted.get(s).values().stream().map(OrderAugmented::getOrderStatus)
+//                .filter(e -> !e.isFinished()).count() > 6) {
+//            outputToSymbol(s, getESTLocalTimeNow(), "maximum unfinished orders exceeding 6", orderSubmitted.get(s));
+//            return false;
+//        }
+////        outputToSymbol(s, "no blocking buy orders orderSubmitted nonempty:"
+////                , orderSubmitted.get(s));
+//
+//        if (orderSubmitted.get(s).values().stream().map(OrderAugmented::getOrderStatus)
+//                .allMatch(OrderStatus::isFinished)) {
+//            outputToSymbol(s, "all orders finished", orderSubmitted.get(s));
+//            return true;
+//        } else {
+//            outputToSymbol(s, "no blocking buy orders: All submitted orders", orderSubmitted.get(s));
+//            outputToSymbol(s, "no blocking buy orders: Active orders:",
+//                    orderSubmitted.get(s).entrySet().stream()
+//                            .filter(e -> !e.getValue().getOrderStatus().isFinished())
+//                            .collect(toList()));
+//            outputToSymbol(s, "active orders grouped by buysell:",
+//                    orderSubmitted.get(s).entrySet().stream()
+//                            .filter(e -> !e.getValue().getOrderStatus().isFinished())
+//                            .collect(groupingBy(e -> e.getValue().getOrder().action()
+//                                    , mapping(e -> e.getValue().getOrder().orderId(), toList()))));
+//
+//            return orderSubmitted.get(s).entrySet().stream()
+//                    .filter(e -> !e.getValue().getOrderStatus().isFinished())
+//                    .noneMatch(e -> e.getValue().getOrder().action() == BUY);
+//        }
+//    }
 
     private static boolean noBlockingSellOrders(String s) {
         if (orderSubmitted.get(s).isEmpty()) {
@@ -434,97 +447,6 @@ class ProfitTargetTrader implements LiveHandler,
                 (costPerShare * lowerTgt * (pos + buySize) - costPerShare * pos) / buySize);
     }
 
-    private static void tryToTrade(Contract ct, double px, LocalDateTime t) {
-        if (!TRADING_TIME_PRED.test(getESTLocalTimeNow())) {
-            return;
-        }
-        String s = ibContractToSymbol(ct);
-        if (bidMap.getOrDefault(s, 0.0) == 0.0
-                || askMap.getOrDefault(s, 0.0) == 0.0) {
-//            outputToError(s, t.toLocalTime(), "no bid or no ask when trying to trade");
-//            outputToError(s, t.toLocalTime(), "cost/bid/ask:",
-//                    costMap.getOrDefault(s, 0.0), bidMap.getOrDefault(s, 0.0)
-//                    , askMap.getOrDefault(s, 0.0));
-            //can continue, trade at px
-//            return;
-        }
-        double cost = costMap.getOrDefault(s, 0.0);
-
-        if (!ct.currency().equalsIgnoreCase("USD")) {
-            outputToGeneral(usDateTime(), "only USD stock allowed, s:", ct.symbol());
-            return;
-        }
-
-        if (!twoDayPctMap.containsKey(s) || !oneDayPctMap.containsKey(s)) {
-            pr(s, "no percentile info:", !twoDayPctMap.containsKey(s) ? "2day" : "",
-                    !oneDayPctMap.containsKey(s) ? "1day" : "");
-            return;
-        }
-
-        double twoDayP = twoDayPctMap.getOrDefault(s, 100.0);
-        double oneDayP = oneDayPctMap.getOrDefault(s, 100.0);
-        Decimal pos = symbPos.get(s);
-        long posLong = pos.longValue();
-
-        //if(order)
-
-        if (oneDayP < 10 && twoDayP < 20 && checkIfDeltaOK(s)) {
-            if (!noBlockingBuyOrders(s)) {
-                outputToSymbol(s, t, "no blocking orders ");
-                return;
-            }
-
-            if (!ytdReturn.containsKey(s) || ytdReturn.getOrDefault(s, MIN_VALUE) < -0.1) {
-                if (t.getSecond() < 10 && t.getMinute() < 5) {
-                    outputToSymbol(s, t, !ytdReturn.containsKey(s) ?
-                            "ytdReturn not available, quitting inventory adder" :
-                            str("Adder: ytd < -10% cannot trade:" +
-                                    ytdReturn.getOrDefault(s, MIN_VALUE)));
-                    outputToError(s, t, !ytdReturn.containsKey(s) ?
-                            "ytdReturn not available, quitting inventory adder" :
-                            str("Adder: ytd < -10% cannot trade:" +
-                                    ytdReturn.getOrDefault(s, MIN_VALUE)));
-                }
-                return;
-            }
-
-            if (pos.isZero()) {
-                outputToSymbol(s, "*1Buy*@" + px, t.format(MdHmmss), "1dp:" + oneDayP, "2dp:" + twoDayP);
-                outputToSymbol(s, "cash remaining:", AVAILABLE_CASH);
-                inventoryAdder(ct, px, t, getLot(px));
-            } else if (pos.longValue() > 0 && cost != 0.0) {
-                if (px < refillPx(s, px, posLong, cost)) {
-                    outputToSymbol(s, "*REFILL*@" + px, t.format(MdHmmss),
-                            "delta:" + round(symbDelta.getOrDefault(s, 0.0) / 1000.0) + "k",
-                            "1dp:" + oneDayP, "2dp:" + twoDayP,
-                            "cost:" + round1(costMap.get(s)),
-                            "px/cost:" + round4(pxDivCost(px, s)),
-                            "refillPx:" + round2(refillPx(s, px, posLong, cost)),
-                            "avgRng:" + round4(rng.getOrDefault(s, 0.0)));
-                    inventoryAdder(ct, px, t, getLot(px));
-                }
-            }
-        }
-
-        if (pos.longValue() > 0 && twoDayP > 50 && cost != 0.0) {
-            double pOverCost = pxDivCost(px, s);
-            if (pOverCost > tgtProfitMargin(s)) {
-                if (!noBlockingSellOrders(s)) {
-                    return;
-                }
-
-                outputToSymbol(s, "******************CUT**************************");
-                outputToSymbol(s, "CUT", t.format(MdHmmss),
-                        "1dP:" + oneDayP, "2dp:" + twoDayP, "px" + px,
-                        "cost:" + costMap.get(s),
-                        "px/Cost:" + round4(pOverCost),
-                        "reqMargin:" + round4(tgtProfitMargin(s)),
-                        "rng:" + round4(rng.getOrDefault(s, 0.0)));
-                inventoryCutter(ct, px, t);
-            }
-        }
-    }
-
     //live data start
     @Override
     public void handlePrice(TickType tt, Contract ct, double price, LocalDateTime t) {
@@ -548,7 +470,7 @@ class ProfitTargetTrader implements LiveHandler,
                 if (symbPos.containsKey(symb)) {
                     symbDelta.put(symb, price * symbPos.get(symb).longValue());
                 }
-                tryToTrade(ct, price, t);
+//                tryToTrade(ct, price, t);
                 break;
             case BID:
                 bidMap.put(symb, price);
@@ -605,8 +527,8 @@ class ProfitTargetTrader implements LiveHandler,
                     symbolContractIDMap.put(s, a.contract().conid())));
 
             es.schedule(() -> {
-                pr("Position end: requesting live:", s);
-                req1ContractLive(api, symbolContractMap.get(s), this, false);
+//                pr("Position end: requesting live:", s);
+//                req1ContractLive(api, symbolContractMap.get(s), this, false);
             }, 10L, TimeUnit.SECONDS);
         });
     }
@@ -898,76 +820,6 @@ class ProfitTargetTrader implements LiveHandler,
     }
 
 
-//    private static void inventoryCutter(Contract ct, double px, LocalDateTime t) {
-//        String s = ibContractToSymbol(ct);
-//        double currentDelta = symbDelta.getOrDefault(s, 0.0);
-//        Decimal pos = symbPos.get(s);
-//        double cost = costMap.get(s);
-//        String timeStr = t.toLocalTime().format(Hmm);
-//
-//        if (currentDelta == 0.0) {
-//            outputToSymbol(s, "error in inventory cutter", "currentdelta:" + currentDelta);
-//            outputToError(s, "error in inventory cutter", "currentdelta:" + currentDelta);
-//            return;
-//        }
-//
-//        double basePrice = maxs(askMap.get(s), costMap.get(s) * tgtProfitMargin(s));
-//
-//        int id0 = tradeID.incrementAndGet();
-//        double offerPrice0 = r(basePrice);
-//        Decimal sellQ0 = currentDelta > 2000.0 ? Decimal.get(round(pos.longValue() / 4.0)) : pos;
-//        Order o0 = placeOfferLimitTIF(id0, offerPrice0, sellQ0, DAY);
-//        orderSubmitted.get(s).put(o0.orderId(), new OrderAugmented(ct, t, o0,
-//                CUTTER, Created));
-//        placeOrModifyOrderCheck(api, ct, o0, new OrderHandler(s, o0.orderId()));
-//        outputToOrders(s, o0.orderId(), s, "SELL", o0.totalQuantity().longValue(),
-//                "@" + offerPrice0, timeStr);
-//        outputToSymbol(s, "sell0:", orderSubmitted.get(s).get(o0.orderId()),
-//                "reqMargin:" + round5(tgtProfitMargin(s)),
-//                "targetPx:" + round2(cost * tgtProfitMargin(s)),
-//                "askPx:" + askMap.getOrDefault(s, 0.0));
-//
-//        if (currentDelta > 2000.0) {
-//            int id1 = tradeID.incrementAndGet();
-//            double offerPrice1 = r(basePrice * sellFactor(s, 1));
-//            Decimal sellQ1 = currentDelta > 1000.0 ?
-//                    Decimal.get(floor(pos.longValue() / 4.0)) : pos;
-//            Order o1 = placeOfferLimitTIF(id1, offerPrice1, sellQ1, DAY);
-//            orderSubmitted.get(s).put(o1.orderId(), new OrderAugmented(ct, t, o1, CUTTER, Created));
-//            placeOrModifyOrderCheck(api, ct, o1, new OrderHandler(s, o1.orderId()));
-//            outputToOrders(s, o1.orderId(), s, "SELL", o1.totalQuantity().longValue(),
-//                    "@" + offerPrice1, timeStr);
-//            outputToSymbol(s, "sell1:", orderSubmitted.get(s).get(o1.orderId()),
-//                    "reqMargin:" + round5(tgtProfitMargin(s)),
-//                    "targetPx:" + round2(cost * tgtProfitMargin(s)),
-//                    "askPx:" + askMap.getOrDefault(s, 0.0));
-//
-//            Decimal sellQ2 = Decimal.get(floor(pos.longValue() / 4.0));
-//            int id2 = tradeID.incrementAndGet();
-//            Order o2 = placeOfferLimitTIF(id2, r(basePrice * sellFactor(s, 2)), sellQ2, DAY);
-//            orderSubmitted.get(s).put(o2.orderId(), new OrderAugmented(ct, t, o2, CUTTER, Created));
-//            placeOrModifyOrderCheck(api, ct, o2, new OrderHandler(s, o2.orderId()));
-//            outputToOrders(s, o2.orderId(), s, "SELL", o2.totalQuantity().longValue(),
-//                    "@" + r(basePrice * sellFactor(s, 2)), timeStr);
-//            outputToSymbol(s, "sell2:", orderSubmitted.get(s).get(o2.orderId()));
-//
-//            Decimal sellQ3 = Decimal.get(pos.longValue() - sellQ0.longValue()
-//                    - sellQ1.longValue() - sellQ2.longValue());
-//
-//            if (sellQ3.longValue() > 0) {
-//                int id3 = tradeID.incrementAndGet();
-//                Order o3 = placeOfferLimitTIF(id3, r(basePrice * sellFactor(s, 3)), sellQ3, DAY);
-//                orderSubmitted.get(s).put(o3.orderId(), new OrderAugmented(ct, t, o3, CUTTER, Created));
-//                placeOrModifyOrderCheck(api, ct, o3, new OrderHandler(s, o3.orderId()));
-//                outputToOrders(s, o3.orderId(), s, "SELL", o3.totalQuantity().longValue(),
-//                        "@" + r(basePrice * sellFactor(s, 3)), t.toLocalTime().format(Hmm));
-//                outputToSymbol(s, "sell3:", orderSubmitted.get(s).get(o3.orderId()));
-//            }
-//        }
-//        outputToSymbol(s, "2D$:" + genStats(twoDayData.get(s)));
-//        outputToSymbol(s, "1D$:" + genStats(twoDayData.get(s).tailMap(TODAY230)));
-//    }
-
     //Open Orders ***************************
     @Override
     public void openOrder(Contract contract, Order order, OrderState orderState) {
@@ -1193,57 +1045,8 @@ class ProfitTargetTrader implements LiveHandler,
     //Execution end*********************************
 //open orders end **********************
     public static void main(String[] args) throws IOException {
-        ProfitTargetTrader test1 = new ProfitTargetTrader();
+        CheckLiveOrders test1 = new CheckLiveOrders();
         test1.connectAndReqPos();
-        es.scheduleAtFixedRate(ProfitTargetTrader::periodicCompute, 20L, 20L, TimeUnit.SECONDS);
-        es.scheduleAtFixedRate(ProfitTargetTrader::periodicCheckOrders, 20L, 60L, TimeUnit.SECONDS);
-        es.scheduleAtFixedRate(ProfitTargetTrader::periodicPnl, 20L, 120L, TimeUnit.SECONDS);
-        es.scheduleAtFixedRate(() -> {
-            targets.forEach(s -> {
-//                outputToSymbol(s, );
-                outputToSymbol(s, "*Periodic Run*", usDateTime(), lastPxTimestamp.containsKey(s) ?
-                        str("last live feed time:", lastPxTimestamp.get(s).format(MdHmm),
-                                "been:" + Duration.between(lastPxTimestamp.get(s), getESTDateTimeNow()).toMinutes()
-                                        + "min", "p:" + px.getOrDefault(s, 0.0),
-                                costMap.getOrDefault(s, 0.0) == 0.0 ? "" : str(
-                                        "cost:" + round1(costMap.get(s)),
-                                        "p/cost:" + round3(px.getOrDefault(s, 0.0)
-                                                / costMap.getOrDefault(s, 0.0)))) :
-                        str(getESTLocalTimeNow().format(Hmmss)
-                                , "no live feed"));
-                if (symbDelta.getOrDefault(s, 0.0) > 0.0 && costMap.getOrDefault(s, 0.0) != 0.0) {
-                    outputToSymbol(s, "p:" + px.getOrDefault(s, 0.0),
-                            "rng:" + round(1000.0 * rng.getOrDefault(s, 0.0)) / 10.0 + "%",
-                            "pos:" + symbPos.getOrDefault(s, Decimal.ZERO).longValue(),
-                            "delt:" + round(symbDelta.getOrDefault(s, 0.0) / 1000.0) + "k",
-                            "cost:" + round1(costMap.get(s)),
-                            "fullLot:" + getLot(px.get(s)),
-                            "refillP:" + round2(refillPx(s, px.get(s), symbPos.get(s).longValue(), costMap.get(s))),
-                            "costTgt:" + round3(costTgt(s)),
-                            "refillP/cost:" + round3(refillPx(s, px.get(s),
-                                    symbPos.get(s).longValue(), costMap.get(s)) / costMap.get(s)),
-                            "refillP/px:" + round3(refillPx(s, px.get(s), symbPos.get(s).longValue()
-                                    , costMap.get(s)) / px.get(s)));
-                }
-                if (!orderSubmitted.get(s).isEmpty()) {
-                    outputToSymbol(s, usDateTime(), "*chek orderStatus",
-                            orderSubmitted.get(s).entrySet().stream()
-                                    .collect(Collectors.toMap(Map.Entry::getKey,
-                                            e -> e.getValue().getOrderStatus()))
-                                    .entrySet().stream().sorted(Map.Entry.comparingByKey()).toList());
-                }
-                if (!openOrders.get(s).isEmpty()) {
-                    outputToSymbol(s, usDateTime(), "*chek openOrders*:",
-                            openOrders.get(s).keySet().stream()
-                                    .sorted(Comparator.naturalOrder()).toList());
-                }
-                outputToSymbol(s, usDateTime(), px.getOrDefault(s, 0.0),
-                        "2dP:" + twoDayPctMap.getOrDefault(s, 101.0),
-                        "1dP:" + oneDayPctMap.getOrDefault(s, 101.0));
-                outputToSymbol(s, "2d$:" + genStats(twoDayData.get(s)));
-                outputToSymbol(s, "1d$:" + genStats(twoDayData.get(s).tailMap(TODAY230)));
-            });
-        }, 20L, 3600L, TimeUnit.SECONDS);
         Runtime.getRuntime().addShutdownHook(new Thread(() -> outputToGeneral("*Ending*", usDateTime())));
     }
 

@@ -19831,3 +19831,691 @@ ADM 2024-10-10T15:04:04.101 Adder: ytd < -10% cannot trade:-0.1903311583935101
 *openOrder* Error 10-10 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
 *openOrder* Error 10-10 17:00 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
 *openOrder* Error 10-10 17:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 10-11 9:08 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-11 9:30 orderId:241011004 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 9:30 orderId:241011005 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 9:30 orderId:241011006 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 9:30 orderId:241011007 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 9:30 orderId:241011008 errorCode:103 msg:Duplicate order id
+PHO openorders does not contain order PHO 241013759 SELL 10@70.17
+*openOrder* Error 10-11 10:26 orderId:241013759 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-11 10:26 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+ABT 10:26:22.037 no bid or no ask when trying to trade
+ABT 10:26:22.037 cost/bid/ask: 115.95150425 0.0 0.0
+ABT 10:26:22.046 no bid or no ask when trying to trade
+ABT 10:26:22.046 cost/bid/ask: 115.95150425 0.0 0.0
+ADM 10:26:22.047 no bid or no ask when trying to trade
+ADM 10:26:22.047 cost/bid/ask: 0.0 0.0 0.0
+ADM 10:26:22.054 no bid or no ask when trying to trade
+ADM 10:26:22.054 cost/bid/ask: 0.0 0.0 0.0
+CL 10:26:22.055 no bid or no ask when trying to trade
+CL 10:26:22.055 cost/bid/ask: 103.30967055 0.0 99.63
+AWK 10:26:22.061 no bid or no ask when trying to trade
+AWK 10:26:22.061 cost/bid/ask: 142.22919805 0.0 138.0
+BRK B 10:26:22.243 no bid or no ask when trying to trade
+BRK B 10:26:22.243 cost/bid/ask: 461.4864565 0.0 0.0
+IP 10:26:22.250 no bid or no ask when trying to trade
+IP 10:26:22.250 cost/bid/ask: 47.5515795 0.0 0.0
+IP 10:26:22.253 no bid or no ask when trying to trade
+IP 10:26:22.253 cost/bid/ask: 47.5515795 0.0 0.0
+GLD 10:26:22.482 no bid or no ask when trying to trade
+GLD 10:26:22.482 cost/bid/ask: 237.42388335 0.0 0.0
+KO 10:26:22.499 no bid or no ask when trying to trade
+KO 10:26:22.499 cost/bid/ask: 70.1633135 0.0 0.0
+MCD 10:26:22.901 no bid or no ask when trying to trade
+MCD 10:26:22.901 cost/bid/ask: 303.2785111 304.1 0.0
+MMM 10:26:23.337 no bid or no ask when trying to trade
+MMM 10:26:23.337 cost/bid/ask: 137.5278075 0.0 0.0
+MRK 10:26:23.572 no bid or no ask when trying to trade
+MRK 10:26:23.572 cost/bid/ask: 111.2340702 0.0 0.0
+PHO 10:26:23.590 no bid or no ask when trying to trade
+PHO 10:26:23.590 cost/bid/ask: 66.65814 0.0 0.0
+HSBC 10:26:23.602 no bid or no ask when trying to trade
+HSBC 10:26:23.602 cost/bid/ask: 0.0 0.0 0.0
+UL 10:26:23.647 no bid or no ask when trying to trade
+UL 10:26:23.647 cost/bid/ask: 64.1793867 0.0 0.0
+HSBC 10:26:23.650 no bid or no ask when trying to trade
+HSBC 10:26:23.650 cost/bid/ask: 0.0 0.0 0.0
+SLV 10:26:23.651 no bid or no ask when trying to trade
+SLV 10:26:23.651 cost/bid/ask: 27.57215 0.0 0.0
+HON 10:26:23.651 no bid or no ask when trying to trade
+HON 10:26:23.651 cost/bid/ask: 0.0 0.0 0.0
+KMB 10:26:23.656 no bid or no ask when trying to trade
+KMB 10:26:23.656 cost/bid/ask: 143.2782143 0.0 0.0
+KMB 10:26:23.728 no bid or no ask when trying to trade
+KMB 10:26:23.728 cost/bid/ask: 143.2782143 0.0 0.0
+JNJ 10:26:23.728 no bid or no ask when trying to trade
+JNJ 10:26:23.728 cost/bid/ask: 162.80862855 161.8 0.0
+UNP 10:26:23.732 no bid or no ask when trying to trade
+UNP 10:26:23.732 cost/bid/ask: 243.21533285 0.0 0.0
+*openOrder* Error 10-11 10:26 orderId:241011061 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 10:26 orderId:241011062 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 10:26 orderId:241011063 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 10:26 orderId:241011068 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-11 10:26 orderId:241011069 errorCode:103 msg:Duplicate order id
+HON 10:27:46.553 no bid or no ask when trying to trade
+HON 10:27:46.553 cost/bid/ask: 0.0 0.0 0.0
+ABT 10:27:46.559 no bid or no ask when trying to trade
+ABT 10:27:46.559 cost/bid/ask: 115.95150425 0.0 0.0
+HON 10:27:46.560 no bid or no ask when trying to trade
+HON 10:27:46.560 cost/bid/ask: 0.0 0.0 0.0
+HON 10:27:46.560 no bid or no ask when trying to trade
+HON 10:27:46.560 cost/bid/ask: 0.0 0.0 0.0
+HON 10:27:46.562 no bid or no ask when trying to trade
+HON 10:27:46.562 cost/bid/ask: 0.0 0.0 0.0
+HSBC 10:27:46.563 no bid or no ask when trying to trade
+HSBC 10:27:46.563 cost/bid/ask: 0.0 0.0 0.0
+KMB 10:27:46.573 no bid or no ask when trying to trade
+KMB 10:27:46.573 cost/bid/ask: 143.2782143 141.77 0.0
+AWK 10:27:46.897 no bid or no ask when trying to trade
+AWK 10:27:46.897 cost/bid/ask: 142.22919805 0.0 0.0
+ADM 10:27:47.099 no bid or no ask when trying to trade
+ADM 10:27:47.099 cost/bid/ask: 0.0 0.0 0.0
+MMM 10:27:47.128 no bid or no ask when trying to trade
+MMM 10:27:47.128 cost/bid/ask: 137.5278075 0.0 0.0
+MCD 10:27:47.310 no bid or no ask when trying to trade
+MCD 10:27:47.310 cost/bid/ask: 303.2785111 0.0 0.0
+KO 10:27:47.564 no bid or no ask when trying to trade
+KO 10:27:47.564 cost/bid/ask: 70.1633135 0.0 0.0
+GLD 10:27:48.156 no bid or no ask when trying to trade
+GLD 10:27:48.156 cost/bid/ask: 237.42388335 0.0 0.0
+BRK B 10:27:48.176 no bid or no ask when trying to trade
+BRK B 10:27:48.176 cost/bid/ask: 461.4864565 0.0 0.0
+SLV 10:27:48.187 no bid or no ask when trying to trade
+SLV 10:27:48.187 cost/bid/ask: 27.57215 0.0 0.0
+*openOrder* Error 10-11 10:34 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:0001051b.67092ac3.01 report:ID:0001051b.67092ac3.01.01 commission:0.341816 curr:USD pnl:27.990884 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 10-11 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-11 17:00 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-11 17:00 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-11 17:00 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 10-14 9:36 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+ADM 09:36:08.432 no bid or no ask when trying to trade
+ADM 09:36:08.432 cost/bid/ask: 0.0 0.0 0.0
+ABT 09:36:08.625 no bid or no ask when trying to trade
+ABT 09:36:08.625 cost/bid/ask: 115.95150425 0.0 0.0
+BRK B 09:36:08.629 no bid or no ask when trying to trade
+BRK B 09:36:08.629 cost/bid/ask: 461.4864565 0.0 0.0
+CL 09:36:08.631 no bid or no ask when trying to trade
+CL 09:36:08.631 cost/bid/ask: 103.30967055 0.0 0.0
+GLD 09:36:08.633 no bid or no ask when trying to trade
+GLD 09:36:08.633 cost/bid/ask: 237.423875 0.0 0.0
+IWM 09:36:08.635 no bid or no ask when trying to trade
+IWM 09:36:08.635 cost/bid/ask: 222.062664 0.0 0.0
+AWK 09:36:08.640 no bid or no ask when trying to trade
+AWK 09:36:08.640 cost/bid/ask: 142.22919805 0.0 0.0
+*openOrder* Error 10-14 9:36 orderId:241014008 errorCode:103 msg:Duplicate order id
+IP 09:36:33.917 no bid or no ask when trying to trade
+IP 09:36:33.917 cost/bid/ask: 47.5515795 0.0 0.0
+KMB 09:36:33.923 no bid or no ask when trying to trade
+KMB 09:36:33.923 cost/bid/ask: 143.2782143 0.0 0.0
+MCD 09:36:35.011 no bid or no ask when trying to trade
+MCD 09:36:35.011 cost/bid/ask: 303.2785111 0.0 0.0
+JNJ 09:36:47.977 no bid or no ask when trying to trade
+JNJ 09:36:47.977 cost/bid/ask: 162.80862855 0.0 0.0
+HON 09:36:48.240 no bid or no ask when trying to trade
+HON 09:36:48.240 cost/bid/ask: 0.0 0.0 0.0
+MRK 09:36:48.242 no bid or no ask when trying to trade
+MRK 09:36:48.242 cost/bid/ask: 111.2340702 0.0 0.0
+KO 09:36:48.242 no bid or no ask when trying to trade
+KO 09:36:48.242 cost/bid/ask: 70.1633135 0.0 0.0
+PG 09:36:48.243 no bid or no ask when trying to trade
+PG 09:36:48.243 cost/bid/ask: 171.60359785 0.0 0.0
+SLV 09:36:48.244 no bid or no ask when trying to trade
+SLV 09:36:48.244 cost/bid/ask: 27.57215 0.0 0.0
+SPY 09:36:48.245 no bid or no ask when trying to trade
+SPY 09:36:48.245 cost/bid/ask: 553.8975 0.0 0.0
+UNP 09:36:48.246 no bid or no ask when trying to trade
+UNP 09:36:48.246 cost/bid/ask: 243.21533285 0.0 0.0
+UL 09:36:48.429 no bid or no ask when trying to trade
+UL 09:36:48.429 cost/bid/ask: 64.1793867 0.0 0.0
+PHO 09:36:48.433 no bid or no ask when trying to trade
+PHO 09:36:48.433 cost/bid/ask: 0.0 0.0 0.0
+*openOrder* Error 10-14 9:36 orderId:241014009 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 9:36 orderId:241014010 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 9:37 orderId:241014048 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 9:37 orderId:241014049 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 9:41 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 10-14 9:44 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-14 9:52 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+ADM 09:52:42.020 no bid or no ask when trying to trade
+ADM 09:52:42.020 cost/bid/ask: 0.0 0.0 0.0
+IWM 09:52:42.745 no bid or no ask when trying to trade
+IWM 09:52:42.745 cost/bid/ask: 222.062664 0.0 221.33
+IWM 09:52:42.747 no bid or no ask when trying to trade
+IWM 09:52:42.747 cost/bid/ask: 222.062664 0.0 221.33
+IWM 09:52:42.748 no bid or no ask when trying to trade
+IWM 09:52:42.748 cost/bid/ask: 222.062664 0.0 221.33
+IWM 09:52:42.749 no bid or no ask when trying to trade
+IWM 09:52:42.749 cost/bid/ask: 222.062664 0.0 221.33
+HON 09:52:42.982 no bid or no ask when trying to trade
+HON 09:52:42.982 cost/bid/ask: 0.0 0.0 0.0
+ABT 09:52:43.174 no bid or no ask when trying to trade
+ABT 09:52:43.174 cost/bid/ask: 115.95150425 116.68 0.0
+BRK B 09:52:43.176 no bid or no ask when trying to trade
+BRK B 09:52:43.176 cost/bid/ask: 461.4864565 0.0 0.0
+CL 09:52:43.177 no bid or no ask when trying to trade
+CL 09:52:43.177 cost/bid/ask: 103.30967055 0.0 0.0
+AWK 09:52:44.371 no bid or no ask when trying to trade
+AWK 09:52:44.371 cost/bid/ask: 142.22919805 0.0 0.0
+SLV 09:52:44.379 no bid or no ask when trying to trade
+SLV 09:52:44.379 cost/bid/ask: 27.57215 0.0 0.0
+PG 09:52:44.381 no bid or no ask when trying to trade
+PG 09:52:44.381 cost/bid/ask: 171.60359785 0.0 0.0
+PHO 09:52:44.382 no bid or no ask when trying to trade
+PHO 09:52:44.382 cost/bid/ask: 0.0 0.0 0.0
+MCD 09:52:44.407 no bid or no ask when trying to trade
+MCD 09:52:44.407 cost/bid/ask: 303.2785111 0.0 0.0
+KO 09:52:44.409 no bid or no ask when trying to trade
+KO 09:52:44.409 cost/bid/ask: 70.1633135 0.0 69.68
+JNJ 09:52:46.209 no bid or no ask when trying to trade
+JNJ 09:52:46.209 cost/bid/ask: 162.80862855 0.0 0.0
+SPY 09:52:46.213 no bid or no ask when trying to trade
+SPY 09:52:46.213 cost/bid/ask: 553.8975 582.79 0.0
+IP 09:52:46.215 no bid or no ask when trying to trade
+IP 09:52:46.215 cost/bid/ask: 47.5515795 0.0 0.0
+KMB 09:52:46.215 no bid or no ask when trying to trade
+KMB 09:52:46.215 cost/bid/ask: 143.2782143 0.0 0.0
+SPY 09:52:46.216 no bid or no ask when trying to trade
+SPY 09:52:46.216 cost/bid/ask: 553.8975 582.79 0.0
+SPY 09:52:46.216 no bid or no ask when trying to trade
+SPY 09:52:46.216 cost/bid/ask: 553.8975 582.79 0.0
+SPY 09:52:46.217 no bid or no ask when trying to trade
+SPY 09:52:46.217 cost/bid/ask: 553.8975 582.79 0.0
+UL 09:52:46.241 no bid or no ask when trying to trade
+UL 09:52:46.241 cost/bid/ask: 64.1793867 0.0 62.7
+*openOrder* Error 10-14 9:53 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 9:53 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 10-14 9:53 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 9:59 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-14 10:02 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 10:08 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 10:15 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 10:16 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 10:16 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+HON 10:16:21.351 no bid or no ask when trying to trade
+HON 10:16:21.351 cost/bid/ask: 0.0 0.0 0.0
+IWM 10:16:21.549 no bid or no ask when trying to trade
+IWM 10:16:21.549 cost/bid/ask: 222.062664 0.0 0.0
+CL 10:16:21.555 no bid or no ask when trying to trade
+CL 10:16:21.555 cost/bid/ask: 103.30967055 0.0 0.0
+AWK 10:16:21.734 no bid or no ask when trying to trade
+AWK 10:16:21.734 cost/bid/ask: 142.22919805 0.0 0.0
+IP 10:16:21.736 no bid or no ask when trying to trade
+IP 10:16:21.736 cost/bid/ask: 47.5515795 0.0 0.0
+HSBC 10:16:21.746 no bid or no ask when trying to trade
+HSBC 10:16:21.746 cost/bid/ask: 0.0 0.0 0.0
+KMB 10:16:22.622 no bid or no ask when trying to trade
+KMB 10:16:22.622 cost/bid/ask: 143.2782143 0.0 0.0
+MCD 10:16:22.829 no bid or no ask when trying to trade
+MCD 10:16:22.829 cost/bid/ask: 303.2785111 0.0 0.0
+KO 10:16:22.833 no bid or no ask when trying to trade
+KO 10:16:22.833 cost/bid/ask: 70.1633135 0.0 0.0
+JNJ 10:16:22.874 no bid or no ask when trying to trade
+JNJ 10:16:22.874 cost/bid/ask: 162.80862855 0.0 0.0
+PG 10:16:22.889 no bid or no ask when trying to trade
+PG 10:16:22.889 cost/bid/ask: 171.60359785 0.0 0.0
+BRK B 10:16:22.890 no bid or no ask when trying to trade
+BRK B 10:16:22.890 cost/bid/ask: 461.4864565 0.0 0.0
+GLD 10:16:22.908 no bid or no ask when trying to trade
+GLD 10:16:22.908 cost/bid/ask: 237.423875 0.0 0.0
+PHO 10:16:23.071 no bid or no ask when trying to trade
+PHO 10:16:23.071 cost/bid/ask: 0.0 0.0 0.0
+SPY 10:16:23.073 no bid or no ask when trying to trade
+SPY 10:16:23.073 cost/bid/ask: 553.8975 0.0 0.0
+SLV 10:16:23.090 no bid or no ask when trying to trade
+SLV 10:16:23.090 cost/bid/ask: 27.57215 0.0 0.0
+UL 10:16:23.219 no bid or no ask when trying to trade
+UL 10:16:23.219 cost/bid/ask: 64.1793867 0.0 0.0
+MRK 10:16:23.224 no bid or no ask when trying to trade
+MRK 10:16:23.224 cost/bid/ask: 111.2340702 0.0 0.0
+UNP 10:16:23.472 no bid or no ask when trying to trade
+UNP 10:16:23.472 cost/bid/ask: 243.21533285 0.0 0.0
+*openOrder* Error 10-14 10:16 orderId:241014053 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:16 orderId:241014052 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:16 orderId:241014058 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:16 orderId:241014059 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:16 orderId:241014073 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:16 orderId:241014074 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:17 orderId:241014082 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:17 orderId:241014083 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:17 orderId:241014088 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:17 orderId:241014089 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+MCD openorders does not contain order MCD 241014063 SELL 6@307.89
+MCD openorders does not contain order MCD 241014064 SELL 6@310.35
+MCD openorders does not contain order MCD 241014065 SELL 6@313.43
+*openOrder* Error 10-14 10:18 orderId:241014063 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 10:18 orderId:241014064 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 10:18 orderId:241014065 errorCode:202 msg:Order Canceled - reason:
+AWK 10:18:30.941 no bid or no ask when trying to trade
+AWK 10:18:30.941 cost/bid/ask: 142.22919805 0.0 0.0
+ADM 10:18:31.177 no bid or no ask when trying to trade
+ADM 10:18:31.177 cost/bid/ask: 0.0 0.0 0.0
+ABT 10:18:31.181 no bid or no ask when trying to trade
+ABT 10:18:31.181 cost/bid/ask: 115.95150425 0.0 0.0
+CL 10:18:31.193 no bid or no ask when trying to trade
+CL 10:18:31.193 cost/bid/ask: 103.30967055 0.0 0.0
+BRK B 10:18:31.347 no bid or no ask when trying to trade
+BRK B 10:18:31.347 cost/bid/ask: 461.4864565 0.0 0.0
+BRK B 10:18:31.350 no bid or no ask when trying to trade
+BRK B 10:18:31.350 cost/bid/ask: 461.4864565 0.0 0.0
+BRK B 10:18:31.350 no bid or no ask when trying to trade
+BRK B 10:18:31.350 cost/bid/ask: 461.4864565 0.0 0.0
+BRK B 10:18:31.351 no bid or no ask when trying to trade
+BRK B 10:18:31.351 cost/bid/ask: 461.4864565 0.0 0.0
+GLD 10:18:32.027 no bid or no ask when trying to trade
+GLD 10:18:32.027 cost/bid/ask: 237.423875 244.66 0.0
+HSBC 10:18:32.033 no bid or no ask when trying to trade
+HSBC 10:18:32.033 cost/bid/ask: 0.0 0.0 0.0
+IP 10:18:32.034 no bid or no ask when trying to trade
+IP 10:18:32.034 cost/bid/ask: 47.5515795 0.0 0.0
+KO 10:18:32.447 no bid or no ask when trying to trade
+KO 10:18:32.447 cost/bid/ask: 70.1633135 0.0 0.0
+JNJ 10:18:32.455 no bid or no ask when trying to trade
+JNJ 10:18:32.455 cost/bid/ask: 162.80862855 0.0 161.97
+KMB 10:18:32.456 no bid or no ask when trying to trade
+KMB 10:18:32.456 cost/bid/ask: 143.2782143 0.0 0.0
+KO 10:18:32.457 no bid or no ask when trying to trade
+KO 10:18:32.457 cost/bid/ask: 70.1633135 0.0 0.0
+KO 10:18:32.459 no bid or no ask when trying to trade
+KO 10:18:32.459 cost/bid/ask: 70.1633135 0.0 0.0
+KO 10:18:32.471 no bid or no ask when trying to trade
+KO 10:18:32.471 cost/bid/ask: 70.1633135 0.0 0.0
+MCD 10:18:32.471 no bid or no ask when trying to trade
+MCD 10:18:32.471 cost/bid/ask: 303.2785111 0.0 0.0
+HON 10:18:32.472 no bid or no ask when trying to trade
+HON 10:18:32.472 cost/bid/ask: 0.0 0.0 0.0
+MRK 10:18:32.472 no bid or no ask when trying to trade
+MRK 10:18:32.472 cost/bid/ask: 111.2340702 0.0 0.0
+MMM 10:18:32.472 no bid or no ask when trying to trade
+MMM 10:18:32.472 cost/bid/ask: 137.5278075 134.67 0.0
+IWM 10:18:32.473 no bid or no ask when trying to trade
+IWM 10:18:32.473 cost/bid/ask: 222.062664 0.0 0.0
+PG 10:18:32.473 no bid or no ask when trying to trade
+PG 10:18:32.473 cost/bid/ask: 171.60359785 0.0 0.0
+PHO 10:18:32.474 no bid or no ask when trying to trade
+PHO 10:18:32.474 cost/bid/ask: 0.0 0.0 0.0
+SLV 10:18:32.475 no bid or no ask when trying to trade
+SLV 10:18:32.475 cost/bid/ask: 27.57215 0.0 0.0
+SPY 10:18:32.664 no bid or no ask when trying to trade
+SPY 10:18:32.664 cost/bid/ask: 553.8975 0.0 582.84
+SPY 10:18:32.675 no bid or no ask when trying to trade
+SPY 10:18:32.675 cost/bid/ask: 553.8975 0.0 582.84
+SPY 10:18:32.676 no bid or no ask when trying to trade
+SPY 10:18:32.676 cost/bid/ask: 553.8975 0.0 582.84
+SPY 10:18:32.678 no bid or no ask when trying to trade
+SPY 10:18:32.678 cost/bid/ask: 553.8975 0.0 582.84
+UL 10:18:32.842 no bid or no ask when trying to trade
+UL 10:18:32.842 cost/bid/ask: 64.1793867 0.0 0.0
+UNP 10:18:32.845 no bid or no ask when trying to trade
+UNP 10:18:32.845 cost/bid/ask: 243.21533285 0.0 0.0
+UNP 10:18:33.095 no bid or no ask when trying to trade
+UNP 10:18:33.095 cost/bid/ask: 243.21533285 0.0 0.0
+UL 10:18:33.096 no bid or no ask when trying to trade
+UL 10:18:33.096 cost/bid/ask: 64.1793867 0.0 0.0
+*openOrder* Error 10-14 10:18 orderId:241014053 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 10:18 orderId:241014054 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 10:18 orderId:241014055 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 10:18 orderId:241014065 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 10:18 orderId:241014066 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+ABT 10:21:22.176 no bid or no ask when trying to trade
+ABT 10:21:22.176 cost/bid/ask: 115.95150425 0.0 0.0
+BRK B 10:21:22.576 no bid or no ask when trying to trade
+BRK B 10:21:22.576 cost/bid/ask: 461.4864565 0.0 0.0
+ADM 10:21:22.581 no bid or no ask when trying to trade
+ADM 10:21:22.581 cost/bid/ask: 0.0 0.0 0.0
+AWK 10:21:22.584 no bid or no ask when trying to trade
+AWK 10:21:22.584 cost/bid/ask: 142.22919805 0.0 0.0
+BRK B 10:21:22.584 no bid or no ask when trying to trade
+BRK B 10:21:22.584 cost/bid/ask: 461.4864565 0.0 0.0
+BRK B 10:21:22.585 no bid or no ask when trying to trade
+BRK B 10:21:22.585 cost/bid/ask: 461.4864565 0.0 0.0
+BRK B 10:21:22.589 no bid or no ask when trying to trade
+BRK B 10:21:22.589 cost/bid/ask: 461.4864565 0.0 0.0
+CL 10:21:22.592 no bid or no ask when trying to trade
+CL 10:21:22.592 cost/bid/ask: 103.30967055 0.0 0.0
+AWK 10:21:22.783 no bid or no ask when trying to trade
+AWK 10:21:22.783 cost/bid/ask: 142.22919805 0.0 0.0
+HON 10:21:22.786 no bid or no ask when trying to trade
+HON 10:21:22.786 cost/bid/ask: 0.0 0.0 0.0
+HSBC 10:21:22.991 no bid or no ask when trying to trade
+HSBC 10:21:22.991 cost/bid/ask: 0.0 0.0 0.0
+IP 10:21:22.992 no bid or no ask when trying to trade
+IP 10:21:22.992 cost/bid/ask: 47.5515795 0.0 0.0
+JNJ 10:21:23.001 no bid or no ask when trying to trade
+JNJ 10:21:23.001 cost/bid/ask: 162.80862855 0.0 0.0
+KMB 10:21:23.004 no bid or no ask when trying to trade
+KMB 10:21:23.004 cost/bid/ask: 143.2782143 0.0 0.0
+IP 10:21:23.181 no bid or no ask when trying to trade
+IP 10:21:23.181 cost/bid/ask: 47.5515795 0.0 0.0
+KO 10:21:23.195 no bid or no ask when trying to trade
+KO 10:21:23.195 cost/bid/ask: 70.1633135 0.0 0.0
+MCD 10:21:23.198 no bid or no ask when trying to trade
+MCD 10:21:23.198 cost/bid/ask: 303.2785111 0.0 0.0
+MMM 10:21:23.200 no bid or no ask when trying to trade
+MMM 10:21:23.200 cost/bid/ask: 137.5278075 0.0 0.0
+MRK 10:21:23.204 no bid or no ask when trying to trade
+MRK 10:21:23.204 cost/bid/ask: 111.2340702 0.0 0.0
+PG 10:21:23.205 no bid or no ask when trying to trade
+PG 10:21:23.205 cost/bid/ask: 171.60359785 0.0 171.89
+PHO 10:21:23.213 no bid or no ask when trying to trade
+PHO 10:21:23.213 cost/bid/ask: 0.0 0.0 0.0
+SLV 10:21:23.214 no bid or no ask when trying to trade
+SLV 10:21:23.214 cost/bid/ask: 27.57215 0.0 0.0
+UL 10:21:23.671 no bid or no ask when trying to trade
+UL 10:21:23.671 cost/bid/ask: 64.1793867 0.0 0.0
+UNP 10:21:23.674 no bid or no ask when trying to trade
+UNP 10:21:23.674 cost/bid/ask: 243.21533285 0.0 0.0
+UNP 10:21:23.907 no bid or no ask when trying to trade
+UNP 10:21:23.907 cost/bid/ask: 243.21533285 0.0 0.0
+*openOrder* Error 10-14 10:21 orderId:241014055 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:21 orderId:241014058 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:21 orderId:241014064 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:21 orderId:241014065 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:21 orderId:241014076 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014080 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014081 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014085 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014086 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014087 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014092 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014094 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014095 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014097 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014099 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014100 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014101 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014104 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014107 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014109 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014110 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014111 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014113 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014114 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014115 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014116 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014117 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014127 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014128 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014131 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:22 orderId:241014132 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*****START***** HKT: 22:27:17 EST: 10-14 10:27
+MCD openorders does not contain order MCD 241014070 SELL 6@311.0
+MCD openorders does not contain order MCD 241014071 SELL 6@314.08
+MCD openorders does not contain order MCD 241014069 SELL 6@308.54
+*openOrder* Error 10-14 10:27 orderId:241014070 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 10:27 orderId:241014071 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 10:27 orderId:241014069 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 10:27 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 10:27 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 10:27 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 10:27 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+ABT 10:27:34.567 no bid or no ask when trying to trade
+ABT 10:27:34.567 cost/bid/ask: 115.95150425 0.0 0.0
+ADM 10:27:34.570 no bid or no ask when trying to trade
+ADM 10:27:34.570 cost/bid/ask: 0.0 0.0 0.0
+MMM 10:27:34.576 no bid or no ask when trying to trade
+MMM 10:27:34.576 cost/bid/ask: 137.5278075 0.0 0.0
+GLD 10:27:34.593 no bid or no ask when trying to trade
+GLD 10:27:34.593 cost/bid/ask: 237.423875 0.0 0.0
+SLV 10:27:34.597 no bid or no ask when trying to trade
+SLV 10:27:34.597 cost/bid/ask: 27.57215 0.0 0.0
+BRK B 10:27:34.599 no bid or no ask when trying to trade
+BRK B 10:27:34.599 cost/bid/ask: 461.4864565 0.0 0.0
+UNP 10:27:34.807 no bid or no ask when trying to trade
+UNP 10:27:34.807 cost/bid/ask: 243.21533285 0.0 0.0
+PHO 10:27:34.813 no bid or no ask when trying to trade
+PHO 10:27:34.813 cost/bid/ask: 0.0 0.0 0.0
+IP 10:27:34.819 no bid or no ask when trying to trade
+IP 10:27:34.819 cost/bid/ask: 47.5515795 0.0 0.0
+HON 10:27:34.821 no bid or no ask when trying to trade
+HON 10:27:34.821 cost/bid/ask: 0.0 0.0 0.0
+KMB 10:27:34.823 no bid or no ask when trying to trade
+KMB 10:27:34.823 cost/bid/ask: 143.2782143 0.0 0.0
+AWK 10:27:34.824 no bid or no ask when trying to trade
+AWK 10:27:34.824 cost/bid/ask: 142.22919805 0.0 0.0
+HSBC 10:27:34.825 no bid or no ask when trying to trade
+HSBC 10:27:34.825 cost/bid/ask: 0.0 0.0 0.0
+*openOrder* Error 10-14 10:27 orderId:241014061 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 10:27 orderId:241014062 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-14 10:27 orderId:241014063 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:28:12 EST: 10-14 10:28
+*openOrder* Error 10-14 10:28 orderId:241014062 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 10:28 orderId:241014063 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*****START***** HKT: 22:49:29 EST: 10-14 10:49:29.256
+*****START***** HKT: 22:51:20 EST: 10-14 10:51:20.035
+MCD openorders does not contain order MCD 241014065 SELL 6@310.7
+MCD openorders does not contain order MCD 241014066 SELL 6@313.77
+MCD openorders does not contain order MCD 241014064 SELL 6@308.24
+*****START***** HKT: 22:52:25 EST: 10-14 10:52:25.957
+MCD openorders does not contain order MCD 241014065 SELL 6@310.7
+MCD openorders does not contain order MCD 241014066 SELL 6@313.77
+*openOrder* Error 10-14 10:52 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 10:52:55.540 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 10:52:59.870 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 10:52 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 10:54 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 10:54:36.619 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 10:54 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 10:54:38.707 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*****START***** HKT: 23:03:07 EST: 10-14 11:03:7.781
+MCD openorders does not contain order MCD 241014065 SELL 6@310.7
+MCD openorders does not contain order MCD 241014066 SELL 6@313.77
+*openOrder* Error 10-14 11:03:10.636 orderId:241014065 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 11:03:10.640 orderId:241014066 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 11:03:43.811 orderId:241014117 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*openOrder* Error 10-14 11:03:43.863 orderId:241014118 errorCode:201 msg:Order rejected - reason:Your order is not accepted. This account cannot short this asset.
+*****START***** HKT: 23:04:19 EST: 10-14 11:04:19.170
+MCD openorders does not contain order MCD 241014097 SELL 4@311.54
+MCD openorders does not contain order MCD 241014098 SELL 4@314.63
+MCD openorders does not contain order MCD 241014096 SELL 4@309.08
+IP openorders does not contain order IP 241014112 SELL 78@49.04
+IP openorders does not contain order IP 241014110 SELL 78@48.18
+IP openorders does not contain order IP 241014111 SELL 78@48.56
+*openOrder* Error 10-14 11:05:45.655 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 11:05:45.658 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 11:06:9.084 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 11:06:9.087 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 11:06:38.485 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:06:38.485 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:06:44.490 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 11:06:44.491 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 11:07:6.715 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 11:07:6.716 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 11:07:6.725 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-14 11:07:6.731 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-14 11:07:6.732 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 11:07:6.734 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 11:07:8.268 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 11:07:8.268 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 11:07:8.577 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 11:07:8.577 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 11:07:8.580 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 11:07:8.581 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 11:07:9.205 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 11:07:9.205 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 11:07:40.287 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds. The following farms are not connected: ushmds; secdefhk.
+*openOrder* Error 10-14 11:07:40.287 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds. The following farms are not connected: ushmds; secdefhk.
+*openOrder* Error 10-14 11:07:45.458 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:07:45.459 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*****START***** HKT: 23:09:24 EST: 10-14 11:09:24.365
+MCD openorders does not contain order MCD 241014097 SELL 4@311.54
+MCD openorders does not contain order MCD 241014098 SELL 4@314.63
+MCD openorders does not contain order MCD 241014096 SELL 4@309.08
+IP openorders does not contain order IP 241014112 SELL 78@49.04
+IP openorders does not contain order IP 241014110 SELL 78@48.18
+IP openorders does not contain order IP 241014111 SELL 78@48.56
+*openOrder* Error 10-14 11:12:34.456 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*****START***** HKT: 23:12:35 EST: 10-14 11:12:35.861
+MCD openorders does not contain order MCD 241014097 SELL 4@311.54
+MCD openorders does not contain order MCD 241014098 SELL 4@314.63
+MCD openorders does not contain order MCD 241014096 SELL 4@309.08
+IP openorders does not contain order IP 241014112 SELL 78@49.04
+IP openorders does not contain order IP 241014110 SELL 78@48.18
+IP openorders does not contain order IP 241014111 SELL 78@48.56
+*openOrder* Error 10-14 11:12:42.271 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:12:42.271 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:26:19.885 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:26:19.885 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:28:57.271 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:28:57.271 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:29:0.179 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:29:0.179 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:38:49.097 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:38:49.098 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:39:30.908 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:39:30.908 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:40:12.791 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:40:12.792 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:51:51.951 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:51:51.951 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 11:52:22.248 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 11:52:22.249 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:10:35.367 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:10:35.370 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:10:58.121 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:10:58.121 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:11:3.931 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:11:3.931 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:12:21.891 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:12:21.893 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:12:25.017 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:12:25.017 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:17:14.084 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:17:14.085 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:17:20.431 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:17:20.432 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:42:50.132 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:42:50.133 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:43:10.945 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:43:10.945 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 12:44:5.316 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 12:44:5.317 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:02:15.396 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:02:15.397 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:02:37.975 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:02:37.975 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:17:13.132 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 13:17:13.132 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 13:17:16.310 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-14 13:17:16.312 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-14 13:17:16.313 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 13:17:16.313 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 13:17:16.318 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 13:17:16.318 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:17:16.318 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 13:17:16.319 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:17:17.874 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 13:17:17.874 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 13:17:18.190 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 13:17:18.194 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 13:17:18.199 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 13:17:18.200 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 13:17:18.882 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 13:17:18.885 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 13:17:19.417 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:17:19.417 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:17:47.137 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds; ushmds. The following farms are not connected: secdefhk.
+*openOrder* Error 10-14 13:17:47.138 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds; ushmds. The following farms are not connected: secdefhk.
+*openOrder* Error 10-14 13:21:30.735 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:21:30.735 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:21:52.373 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:21:52.374 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:22:11.218 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:22:11.219 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:23:9.154 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:23:9.156 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:23:19.764 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:23:19.764 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:28:44.180 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:28:44.180 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:29:4.102 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:29:4.102 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:34:40.606 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:34:40.607 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:35:0.612 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:35:0.612 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:35:34.390 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:35:34.389 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:35:38.765 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:35:38.765 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:42:6.976 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:42:6.976 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:42:31.622 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:42:31.623 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:48:30.557 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 13:48:30.557 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 13:48:48.708 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:48:48.708 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 13:48:51.775 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 13:48:51.776 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 13:48:51.780 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-14 13:48:51.780 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-14 13:48:51.782 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 13:48:51.782 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 13:48:53.304 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 13:48:53.306 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 13:48:53.449 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 13:48:53.449 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 13:48:53.453 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 13:48:53.453 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 13:48:54.379 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 13:48:54.380 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 13:49:1.620 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:49:1.621 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 13:49:27.091 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds; ushmds. The following farms are not connected: secdefhk.
+*openOrder* Error 10-14 13:49:27.092 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds; ushmds. The following farms are not connected: secdefhk.
+*openOrder* Error 10-14 14:01:55.599 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:01:55.600 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:02:13.644 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 14:02:13.645 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 14:06:53.096 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:06:53.096 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:06:55.202 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 14:06:55.202 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 14:08:5.207 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:08:5.207 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:08:26.057 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:08:26.058 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 14:08:35.170 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 14:08:35.170 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 14:14:49.690 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 14:14:49.692 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 14:15:10.152 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 14:15:10.154 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-14 14:15:21.261 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*openOrder* Error 10-14 14:15:21.263 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 5:59:43 EST: 10-14 17:59:43.692
+SLV openorders does not contain order SLV 241014025 SELL 15@28.79
+MCD openorders does not contain order MCD 241014097 SELL 4@311.54
+MCD openorders does not contain order MCD 241014098 SELL 4@314.63
+GLD openorders does not contain order GLD 241014027 SELL 4@246.27
+IP openorders does not contain order IP 241014112 SELL 78@49.04
+SLV openorders does not contain order SLV 241014026 SELL 31@29.02
+IP openorders does not contain order IP 241014111 SELL 78@48.56
+*openOrder* Error 10-14 17:59:49.911 orderId:241014027 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:49.920 orderId:241014025 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:49.924 orderId:241014026 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:49.932 orderId:241014112 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:49.938 orderId:241014111 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:49.948 orderId:241014097 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:49.954 orderId:241014098 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-14 17:59:56.700 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 17:59:57.200 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 17:59:57.700 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 10-14 17:59:58.253 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-14 18:00:8.978 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-14 18:00:8.981 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-14 18:00:9.100 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-14 18:00:9.101 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-14 18:00:34.570 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-14 18:01:13.585 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-14 18:06:9.124 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 10-14 18:08:13.628 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 10-14 19:00:0.258 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002

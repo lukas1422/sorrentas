@@ -5705,3 +5705,1247 @@ p:242.8 rng:0.9% pos:6 delt:1k cost:237.4 fullLot:69 refillP:231.85 costTgt:0.98
 10-10 19:05 242.8 2dP:64.0 1dP:86.0
 2d$:n:1206 max:244.0 [10-8 9:49] min:240.6 [10-8 11:35] rng:1.4% 1Key:[10-8 9:30] last:[10-10 16:57]
 1d$:n:426 max:243.0 [10-10 15:31] min:241.6 [10-10 9:33] rng:0.6% 1Key:[10-10 9:04] last:[10-10 16:57]
+*******************************************
+*STARTS* 10-11 9:01
+updating pos: GLD 10-11 9:01 pos:6 cost:237.42
+POS:6 COST:237.4 DELT:1k
+10-11 9:01 *tradeReport* time: 2024-10-10T15:07:20 SLD execPx:242.9 shares:2 avgPx:242.9
+listOfExecs [orderID: 241011294 time: 2024-10-10T15:07:20 side: SLD shares: 2 price: 242.9]
+10-11 9:01 rng:0.9% costTgt:0.98
+10-11 9:01 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:27.02%
+*Periodic Run* 10-11 9:01 last live feed time: 10-11 9:01 been:0min p:244.21 cost:237.4 p/cost:1.029
+p:244.21 rng:0.9% pos:6 delt:1k cost:237.4 fullLot:68 refillP:231.84 costTgt:0.98 refillP/cost:0.976 refillP/px:0.949
+10-11 9:01 244.21 2dP:101.0 1dP:101.0
+2d$:n:781 max:243.0 [10-11 9:01] min:240.7 [10-9 10:31] rng:1.0% 1Key:[10-9 9:30] last:[10-11 9:01]
+1d$:n<5
+******************CUT**************************
+CUT 10-11 9:30:02 1dP:54.0 2dp:96.0 px244.5 cost:237.42388335 px/Cost:1.0298 reqMargin:1.01 rng:0.0086
+0:241011007 GLD SELL 2 @245.04 9:30
+0: SELL GLD 10-11 9:30 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.55
+1:241011008 GLD SELL 4 @247.0 9:30
+1: SELL GLD 10-11 9:30 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.55
+2024-10-11T09:30:02.442984657 remaining position <= 0, break
+2D$:n:801 max:244.7 [10-11 9:18] min:240.7 [10-9 10:31] rng:1.7% 1Key:[10-9 9:30] last:[10-11 9:30]
+1D$:n:21 max:244.7 [10-11 9:18] min:244.4 [10-11 9:01] rng:0.1% 1Key:[10-11 9:01] last:[10-11 9:30]
+*Periodic Run* 10-11 10:01 last live feed time: 10-11 10:01 been:0min p:244.7 cost:237.4 p/cost:1.031
+p:244.7 rng:0.9% pos:6 delt:1k cost:237.4 fullLot:68 refillP:231.84 costTgt:0.98 refillP/cost:0.976 refillP/px:0.947
+10-11 10:01 *chek orderStatus [241011007=Created, 241011008=Created]
+10-11 10:01 244.7 2dP:93.0 1dP:51.0
+2d$:n:832 max:245.0 [10-11 9:40] min:240.7 [10-9 10:31] rng:1.8% 1Key:[10-9 9:30] last:[10-11 10:01]
+1d$:n:52 max:245.0 [10-11 9:40] min:244.4 [10-11 9:01] rng:0.3% 1Key:[10-11 9:01] last:[10-11 10:01]
+*******************************************
+*STARTS* 10-11 10:26
+updating pos: GLD 10-11 10:26 pos:6 cost:237.42
+POS:6 COST:237.4 DELT:1k
+10-11 10:26 *tradeReport* time: 2024-10-10T15:07:20 SLD execPx:242.9 shares:2 avgPx:242.9
+listOfExecs [orderID: 241011294 time: 2024-10-10T15:07:20 side: SLD shares: 2 price: 242.9]
+10-11 10:26 rng:0.9% costTgt:0.98
+10-11 10:26 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.18%
+*Periodic Run* 10-11 10:26 last live feed time: 10-11 10:26 been:0min p:245.04 cost:237.4 p/cost:1.032
+p:245.04 rng:0.9% pos:6 delt:1k cost:237.4 fullLot:68 refillP:231.84 costTgt:0.98 refillP/cost:0.976 refillP/px:0.946
+10-11 10:26 245.04 2dP:101.0 1dP:101.0
+2d$:n:447 max:245.1 [10-11 9:40] min:241.6 [10-10 9:33] rng:1.4% 1Key:[10-10 9:30] last:[10-11 10:26]
+1d$:n:57 max:245.1 [10-11 9:40] min:244.5 [10-11 9:30] rng:0.2% 1Key:[10-11 9:30] last:[10-11 10:26]
+******************CUT**************************
+CUT 10-11 10:26:38 1dP:85.0 2dp:97.0 px245.05 cost:237.42388335 px/Cost:1.0321 reqMargin:1.01 rng:0.0086
+0:241011068 GLD SELL 2 @245.54 10:26
+0: SELL GLD 10-11 10:26 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:245.05
+1:241011069 GLD SELL 4 @247.5 10:26
+1: SELL GLD 10-11 10:26 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:245.05
+2024-10-11T10:26:38.987218262 remaining position <= 0, break
+2D$:n:447 max:245.1 [10-11 9:40] min:241.6 [10-10 9:33] rng:1.4% 1Key:[10-10 9:30] last:[10-11 10:26]
+1D$:n:57 max:245.1 [10-11 9:40] min:244.5 [10-11 9:30] rng:0.2% 1Key:[10-11 9:30] last:[10-11 10:26]
+*******************************************
+*STARTS* 10-11 10:27
+updating pos: GLD 10-11 10:27 pos:6 cost:237.42
+POS:6 COST:237.4 DELT:1k
+10-11 10:27 *tradeReport* time: 2024-10-10T15:07:20 SLD execPx:242.9 shares:2 avgPx:242.9
+listOfExecs [orderID: 241011294 time: 2024-10-10T15:07:20 side: SLD shares: 2 price: 242.9]
+10-11 10:27 rng:0.9% costTgt:0.98
+10-11 10:27 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.18%
+*Periodic Run* 10-11 10:27 last live feed time: 10-11 10:27 been:0min p:245.06 cost:237.4 p/cost:1.032
+p:245.06 rng:0.9% pos:6 delt:1k cost:237.4 fullLot:68 refillP:231.84 costTgt:0.98 refillP/cost:0.976 refillP/px:0.946
+10-11 10:27 245.06 2dP:101.0 1dP:101.0
+2d$:n:448 max:245.1 [10-11 9:40] min:241.6 [10-10 9:33] rng:1.4% 1Key:[10-10 9:30] last:[10-11 10:27]
+1d$:n:58 max:245.1 [10-11 9:40] min:244.5 [10-11 9:30] rng:0.2% 1Key:[10-11 9:30] last:[10-11 10:27]
+******************CUT**************************
+CUT 10-11 10:27:55 1dP:88.0 2dp:98.0 px245.05 cost:237.42388335 px/Cost:1.0321 reqMargin:1.01 rng:0.0086
+0:241011062 GLD SELL 2 @245.55 10:27
+0: SELL GLD 10-11 10:27 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:245.06
+1:241011063 GLD SELL 4 @247.51 10:27
+1: SELL GLD 10-11 10:27 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:245.06
+2024-10-11T10:27:55.184609184 remaining position <= 0, break
+2D$:n:448 max:245.1 [10-11 9:40] min:241.6 [10-10 9:33] rng:1.4% 1Key:[10-10 9:30] last:[10-11 10:27]
+1D$:n:58 max:245.1 [10-11 9:40] min:244.5 [10-11 9:30] rng:0.2% 1Key:[10-11 9:30] last:[10-11 10:27]
+10-11 10:27 *openOrder* status:Submitted 241011062 SELL 2@245.55
+10-11 10:27 *openOrder* all live orders [241011062 SELL 2@245.55]
+10-11 10:27 *OrderStatus*:Submitted orderId:241011062 filled:0 remaining:2 avgFillPx:0.0 lastFillPx:0.0
+10-11 10:27 *openOrder* status:PreSubmitted 241011063 SELL 4@247.51
+10-11 10:27 *openOrder* all live orders [241011062 SELL 2@245.55, 241011063 SELL 4@247.51]
+10-11 10:27 *OrderStatus*:PreSubmitted orderId:241011063 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-11 10:27 *openOrder* status:Submitted 241011063 SELL 4@247.51
+10-11 10:27 *openOrder* all live orders [241011062 SELL 2@245.55, 241011063 SELL 4@247.51]
+10-11 10:27 *OrderStatus*:Submitted orderId:241011063 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+updating pos: GLD 10-11 11:15 pos:4 cost:237.42
+10-11 11:15 *tradeReport* time: 2024-10-11T11:15:22 SLD execPx:245.55 shares:2 avgPx:245.55
+10-11 11:15 *openOrder* status:Filled 241011062 SELL 2@245.55
+10-11 11:15 *openOrder*:removing order.Status:Filled 241011062 SELL 2@245.55
+10-11 11:15 *openOrder*:after removal.OpenOrders: [241011063]
+10-11 11:15 *openOrder* all live orders [241011063 SELL 4@247.51]
+10-11 11:15 *OrderStatus*:Filled orderId:241011062 filled:2 remaining:0 avgFillPx:245.55 lastFillPx:245.55
+10-11 11:15 *openOrder* status:Filled 241011062 SELL 2@245.55
+10-11 11:15 *openOrder*:removing order.Status:Filled 241011062 SELL 2@245.55
+10-11 11:15 *openOrder*:after removal.OpenOrders: [241011063]
+10-11 11:15 *openOrder* all live orders [241011063 SELL 4@247.51]
+10-11 11:15 *OrderStatus*:Filled orderId:241011062 filled:2 remaining:0 avgFillPx:245.55 lastFillPx:245.55
+computed Pnl:15.8906953
+1.*commission report*:241011062 commission:0.36 realized pnl:15.89 computed Pnl:15.89
+2.*commission report* orderID:241011062 commission: 0.36 realized pnl: 15.89
+updating pos: GLD 10-11 11:15 pos:4 cost:237.42
+updating pos: GLD 10-11 11:15 pos:4 cost:237.42
+updating pos: GLD 10-11 11:20 pos:4 cost:237.42
+*Periodic Run* 10-11 11:27 last live feed time: 10-11 11:27 been:0min p:245.61 cost:237.4 p/cost:1.034
+p:245.61 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 11:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 11:27 *chek openOrders*: [241011063]
+10-11 11:27 245.61 2dP:100.0 1dP:100.0
+2d$:n:508 max:245.6 [10-11 11:25] min:241.6 [10-10 9:33] rng:1.6% 1Key:[10-10 9:30] last:[10-11 11:27]
+1d$:n:118 max:245.6 [10-11 11:25] min:244.5 [10-11 9:30] rng:0.4% 1Key:[10-11 9:30] last:[10-11 11:27]
+*Periodic Run* 10-11 12:27 last live feed time: 10-11 12:27 been:0min p:245.81 cost:237.4 p/cost:1.035
+p:245.81 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.944
+10-11 12:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 12:27 *chek openOrders*: [241011063]
+10-11 12:27 245.81 2dP:100.0 1dP:100.0
+2d$:n:568 max:245.8 [10-11 12:27] min:241.6 [10-10 9:33] rng:1.7% 1Key:[10-10 9:30] last:[10-11 12:27]
+1d$:n:178 max:245.8 [10-11 12:27] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 12:27]
+*Periodic Run* 10-11 13:27 last live feed time: 10-11 13:27 been:0min p:245.62 cost:237.4 p/cost:1.035
+p:245.62 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 13:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 13:27 *chek openOrders*: [241011063]
+10-11 13:27 245.62 2dP:94.0 1dP:81.0
+2d$:n:628 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 13:27]
+1d$:n:238 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 13:27]
+*Periodic Run* 10-11 14:27 last live feed time: 10-11 14:27 been:0min p:245.55 cost:237.4 p/cost:1.034
+p:245.55 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 14:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 14:27 *chek openOrders*: [241011063]
+10-11 14:27 245.55 2dP:92.0 1dP:76.0
+2d$:n:688 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 14:27]
+1d$:n:298 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 14:27]
+*Periodic Run* 10-11 15:27 last live feed time: 10-11 15:27 been:0min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 15:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 15:27 *chek openOrders*: [241011063]
+10-11 15:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:748 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 15:27]
+1d$:n:358 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 15:27]
+*Periodic Run* 10-11 16:27 last live feed time: 10-11 16:22 been:5min p:245.37 cost:237.4 p/cost:1.033
+p:245.37 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.946
+10-11 16:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 16:27 *chek openOrders*: [241011063]
+10-11 16:27 245.37 2dP:88.0 1dP:62.0
+2d$:n:791 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:22]
+1d$:n:401 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:22]
+*Periodic Run* 10-11 17:27 last live feed time: 10-11 16:48 been:39min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 17:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 17:27 *chek openOrders*: [241011063]
+10-11 17:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-11 18:27 last live feed time: 10-11 16:48 been:99min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 18:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 18:27 *chek openOrders*: [241011063]
+10-11 18:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-11 19:27 last live feed time: 10-11 16:48 been:159min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 19:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 19:27 *chek openOrders*: [241011063]
+10-11 19:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-11 20:27 last live feed time: 10-11 16:48 been:219min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 20:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 20:27 *chek openOrders*: [241011063]
+10-11 20:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-11 21:27 last live feed time: 10-11 16:48 been:279min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 21:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 21:27 *chek openOrders*: [241011063]
+10-11 21:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-11 22:27 last live feed time: 10-11 16:48 been:339min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 22:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 22:27 *chek openOrders*: [241011063]
+10-11 22:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-11 23:27 last live feed time: 10-11 16:48 been:399min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-11 23:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-11 23:27 *chek openOrders*: [241011063]
+10-11 23:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 0:27 last live feed time: 10-11 16:48 been:459min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 0:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 0:27 *chek openOrders*: [241011063]
+10-12 0:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 1:27 last live feed time: 10-11 16:48 been:519min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 1:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 1:27 *chek openOrders*: [241011063]
+10-12 1:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 2:27 last live feed time: 10-11 16:48 been:579min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 2:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 2:27 *chek openOrders*: [241011063]
+10-12 2:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 3:27 last live feed time: 10-11 16:48 been:639min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 3:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 3:27 *chek openOrders*: [241011063]
+10-12 3:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 4:27 last live feed time: 10-11 16:48 been:699min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 4:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 4:27 *chek openOrders*: [241011063]
+10-12 4:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 5:27 last live feed time: 10-11 16:48 been:759min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 5:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 5:27 *chek openOrders*: [241011063]
+10-12 5:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 6:27 last live feed time: 10-11 16:48 been:819min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 6:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 6:27 *chek openOrders*: [241011063]
+10-12 6:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*Periodic Run* 10-12 7:27 last live feed time: 10-11 16:48 been:879min p:245.5 cost:237.4 p/cost:1.034
+p:245.5 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.945
+10-12 7:27 *chek orderStatus [241011062=Filled, 241011063=Submitted]
+10-12 7:27 *chek openOrders*: [241011063]
+10-12 7:27 245.5 2dP:91.0 1dP:72.0
+2d$:n:797 max:245.9 [10-11 12:29] min:241.6 [10-10 9:33] rng:1.8% 1Key:[10-10 9:30] last:[10-11 16:48]
+1d$:n:407 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-11 16:48]
+*******************************************
+*STARTS* 10-14 9:35
+updating pos: GLD 10-14 9:35 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+*Periodic Run* 10-14 9:36 last live feed time: 10-14 9:36 been:0min p:245.12 cost:237.4 p/cost:1.032
+p:245.12 rng:0.0% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.947
+10-14 9:36 245.12 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 9:36:14 1dP:100.0 2dp:100.0 px245.14 cost:237.423875 px/Cost:1.0325 reqMargin:1.01 rng:0.0
+0:241014008 GLD SELL 4 @245.64 9:36
+0: SELL GLD 10-14 9:36 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:245.15
+2024-10-14T09:36:14.652296071 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 9:37 rng:0.9% costTgt:0.98
+10-14 9:37 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.23%
+*******************************************
+*STARTS* 10-14 9:52
+updating pos: GLD 10-14 9:52 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+*Periodic Run* 10-14 9:52 last live feed time: 10-14 9:52 been:0min p:245.76 cost:237.4 p/cost:1.035
+p:245.76 rng:0.0% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.944
+10-14 9:52 245.76 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 9:52:51 1dP:100.0 2dp:100.0 px245.75 cost:237.423875 px/Cost:1.0351 reqMargin:1.01 rng:0.0
+0:241014027 GLD SELL 4 @246.27 9:52
+0: SELL GLD 10-14 9:52 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:245.78
+2024-10-14T09:52:51.428361544 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 9:52 *openOrder* status:Submitted 241014027 SELL 4@246.27
+10-14 9:52 *openOrder* all live orders [241014027 SELL 4@246.27]
+10-14 9:52 *OrderStatus*:Submitted orderId:241014027 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 9:53 rng:0.9% costTgt:0.98
+10-14 9:53 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.55%
+*******************************************
+*STARTS* 10-14 10:15
+*Periodic Run* 10-14 10:15 10:15:24 no live feed
+10-14 10:15 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 10-14 10:16
+updating pos: GLD 10-14 10:16 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+*Periodic Run* 10-14 10:16 last live feed time: 10-14 10:16 been:0min p:244.75 cost:237.4 p/cost:1.031
+p:244.75 rng:0.0% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 10:16 244.75 2dP:101.0 1dP:101.0
+2d$:n:437 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-14 10:16]
+1d$:n:47 max:245.8 [10-14 9:49] min:244.8 [10-14 10:16] rng:0.4% 1Key:[10-14 9:30] last:[10-14 10:16]
+10:16:30.727903066 no blocking orders,empty
+10:16:32.497132351 no blocking orders,empty
+10:16:34.555782587 no blocking orders,empty
+10-14 10:16 rng:0.9% costTgt:0.98
+10-14 10:16 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.03%
+10:16:43.007670904 no blocking orders,empty
+10:16:47.997151240 no blocking orders,empty
+10:16:48.749181837 no blocking orders,empty
+10:16:50.499413256 no blocking orders,empty
+10:16:53.256072785 no blocking orders,empty
+10:16:55.420169302 no blocking orders,empty
+10:16:56.672808891 no blocking orders,empty
+10:17:05.616304860 no blocking orders,empty
+10:17:10.225726447 no blocking orders,empty
+10:17:11.728452548 no blocking orders,empty
+10:17:12.482297722 no blocking orders,empty
+10:17:25.021682885 no blocking orders,empty
+10:17:27.260305511 no blocking orders,empty
+10:17:31.765108014 no blocking orders,empty
+10:17:38.003009666 no blocking orders,empty
+10:17:44.007420689 no blocking orders,empty
+10:17:51.280778692 no blocking orders,empty
+*******************************************
+*STARTS* 10-14 10:18
+updating pos: GLD 10-14 10:18 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+10-14 10:18 rng:0.9% costTgt:0.98
+10-14 10:18 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:27.98%
+*Periodic Run* 10-14 10:18 last live feed time: 10-14 10:18 been:0min p:244.62 cost:237.4 p/cost:1.03
+p:244.62 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.949
+10-14 10:18 244.62 2dP:101.0 1dP:101.0
+2d$:n:439 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.5% 1Key:[10-11 9:30] last:[10-14 10:18]
+1d$:n:49 max:245.8 [10-14 9:49] min:244.7 [10-14 10:18] rng:0.4% 1Key:[10-14 9:30] last:[10-14 10:18]
+10:18:39.873041552 no blocking orders,empty
+10:18:40.600474575 no blocking orders,empty
+10:18:46.114923456 no blocking orders,empty
+10:18:51.368346501 no blocking orders,empty
+10:18:52.394374741 no blocking orders,empty
+10:19:09.160844861 no blocking orders,empty
+10:19:09.890925286 no blocking orders,empty
+10:19:10.914565787 no blocking orders,empty
+10:19:14.898940728 no blocking orders,empty
+10:19:17.149740765 no blocking orders,empty
+10:19:19.403242504 no blocking orders,empty
+10:19:21.660960786 no blocking orders,empty
+10:19:22.408264306 no blocking orders,empty
+10:19:26.416201998 no blocking orders,empty
+10:19:27.932609390 no blocking orders,empty
+10:19:28.683860098 no blocking orders,empty
+10:19:31.939777717 no blocking orders,empty
+10:19:32.673908519 no blocking orders,empty
+10:19:37.931251514 no blocking orders,empty
+10:19:38.687555608 no blocking orders,empty
+10:19:43.191642220 no blocking orders,empty
+10:19:47.950910242 no blocking orders,empty
+10:19:49.445435970 no blocking orders,empty
+10:19:56.474586879 no blocking orders,empty
+10:19:57.228152631 no blocking orders,empty
+10:20:00.471639879 no blocking orders,empty
+10:20:02.731852345 no blocking orders,empty
+10:20:03.965298811 no blocking orders,empty
+10:20:04.716439502 no blocking orders,empty
+10:20:06.234332162 no blocking orders,empty
+10:20:11.729425675 no blocking orders,empty
+10:20:12.979625300 no blocking orders,empty
+10:20:13.744337506 no blocking orders,empty
+10:20:15.739552927 no blocking orders,empty
+10:20:17.483548844 no blocking orders,empty
+10:20:18.491991240 no blocking orders,empty
+10:20:19.987880398 no blocking orders,empty
+10:20:22.001836036 no blocking orders,empty
+10:20:22.744191199 no blocking orders,empty
+10:20:24.763649676 no blocking orders,empty
+10:20:26.245661082 no blocking orders,empty
+10:20:27.005424678 no blocking orders,empty
+10:20:28.500678680 no blocking orders,empty
+10:20:30.001833247 no blocking orders,empty
+10:20:32.254944677 no blocking orders,empty
+10:20:33.004914070 no blocking orders,empty
+10:20:38.013292969 no blocking orders,empty
+10:20:41.270911950 no blocking orders,empty
+10:20:42.770580229 no blocking orders,empty
+*******************************************
+*STARTS* 10-14 10:20
+updating pos: GLD 10-14 10:21 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+*Periodic Run* 10-14 10:21 10:21:18 no live feed
+10-14 10:21 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 10:21:39 1dP:100.0 2dp:100.0 px244.72 cost:237.423875 px/Cost:1.0307 reqMargin:1.01 rng:0.0
+0:241014055 GLD SELL 4 @245.21 10:21
+0: SELL GLD 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.72
+2024-10-14T10:21:39.179365230 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:21 *openOrder* status:Inactive 241014055 SELL 4@245.21
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014055 SELL 4@245.21
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014055 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:21 *openOrder* status:Inactive 241014055 SELL 4@245.21
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014055 SELL 4@245.21
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014055 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:21:40 1dP:100.0 2dp:100.0 px244.74 cost:237.423875 px/Cost:1.0308 reqMargin:1.01 rng:0.0
+0:241014058 GLD SELL 4 @245.23 10:21
+0: SELL GLD 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.74
+2024-10-14T10:21:40.944869577 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:21 *openOrder* status:Inactive 241014058 SELL 4@245.23
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014058 SELL 4@245.23
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014058 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:21 *openOrder* status:Inactive 241014058 SELL 4@245.23
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014058 SELL 4@245.23
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014058 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:21:53 1dP:100.0 2dp:100.0 px244.75 cost:237.423875 px/Cost:1.0309 reqMargin:1.01 rng:0.0
+0:241014076 GLD SELL 4 @245.26 10:21
+0: SELL GLD 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.77
+2024-10-14T10:21:53.950721544 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:21 *openOrder* status:Inactive 241014076 SELL 4@245.26
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014076 SELL 4@245.26
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014076 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:21 *openOrder* status:Inactive 241014076 SELL 4@245.26
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014076 SELL 4@245.26
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014076 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 rng:0.9% costTgt:0.98
+10-14 10:22 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:27.96%
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:01 1dP:100.0 2dp:100.0 px244.73 cost:237.423875 px/Cost:1.0308 reqMargin:1.01 rng:0.0086
+0:241014085 GLD SELL 4 @245.22 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.73
+2024-10-14T10:22:01.726106364 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014085 SELL 4@245.22
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014085 SELL 4@245.22
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014085 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014085 SELL 4@245.22
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014085 SELL 4@245.22
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014085 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:05 1dP:100.0 2dp:100.0 px244.74 cost:237.423875 px/Cost:1.0308 reqMargin:1.01 rng:0.0086
+0:241014092 GLD SELL 4 @245.23 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.74
+2024-10-14T10:22:05.712716085 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014092 SELL 4@245.23
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014092 SELL 4@245.23
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014092 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014092 SELL 4@245.23
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014092 SELL 4@245.23
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014092 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive, 241014092=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:07 1dP:100.0 2dp:100.0 px244.76 cost:237.423875 px/Cost:1.0309 reqMargin:1.01 rng:0.0086
+0:241014097 GLD SELL 4 @245.25 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.76
+2024-10-14T10:22:07.728932285 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014097 SELL 4@245.25
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014097 SELL 4@245.25
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014097 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014097 SELL 4@245.25
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014097 SELL 4@245.25
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014097 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive, 241014092=GLD 10-14 10:22 CUTTER Inactive, 241014097=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:08 1dP:100.0 2dp:100.0 px244.79 cost:237.423875 px/Cost:1.031 reqMargin:1.01 rng:0.0086
+0:241014099 GLD SELL 4 @245.29 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.8
+2024-10-14T10:22:08.487185402 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014099 SELL 4@245.29
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014099 SELL 4@245.29
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014099 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014099 SELL 4@245.29
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014099 SELL 4@245.29
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014099 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive, 241014092=GLD 10-14 10:22 CUTTER Inactive, 241014097=GLD 10-14 10:22 CUTTER Inactive, 241014099=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:13 1dP:100.0 2dp:100.0 px244.79 cost:237.423875 px/Cost:1.031 reqMargin:1.01 rng:0.0086
+0:241014104 GLD SELL 4 @245.29 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.8
+2024-10-14T10:22:13.234457801 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014104 SELL 4@245.29
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014104 SELL 4@245.29
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014104 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014104 SELL 4@245.29
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014104 SELL 4@245.29
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014104 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive, 241014092=GLD 10-14 10:22 CUTTER Inactive, 241014097=GLD 10-14 10:22 CUTTER Inactive, 241014099=GLD 10-14 10:22 CUTTER Inactive, 241014104=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:15 1dP:100.0 2dp:100.0 px244.78 cost:237.423875 px/Cost:1.031 reqMargin:1.01 rng:0.0086
+0:241014107 GLD SELL 4 @245.27 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.78
+2024-10-14T10:22:15.756816958 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014107 SELL 4@245.27
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014107 SELL 4@245.27
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014107 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014107 SELL 4@245.27
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014107 SELL 4@245.27
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014107 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive, 241014092=GLD 10-14 10:22 CUTTER Inactive, 241014097=GLD 10-14 10:22 CUTTER Inactive, 241014099=GLD 10-14 10:22 CUTTER Inactive, 241014104=GLD 10-14 10:22 CUTTER Inactive, 241014107=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:17 1dP:100.0 2dp:100.0 px244.77 cost:237.423875 px/Cost:1.0309 reqMargin:1.01 rng:0.0086
+0:241014109 GLD SELL 4 @245.27 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.78
+2024-10-14T10:22:17.482936157 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014109 SELL 4@245.27
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014109 SELL 4@245.27
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014109 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014109 SELL 4@245.27
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014109 SELL 4@245.27
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014109 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014055=GLD 10-14 10:21 CUTTER Inactive, 241014058=GLD 10-14 10:21 CUTTER Inactive, 241014076=GLD 10-14 10:21 CUTTER Inactive, 241014085=GLD 10-14 10:22 CUTTER Inactive, 241014092=GLD 10-14 10:22 CUTTER Inactive, 241014097=GLD 10-14 10:22 CUTTER Inactive, 241014099=GLD 10-14 10:22 CUTTER Inactive, 241014104=GLD 10-14 10:22 CUTTER Inactive, 241014107=GLD 10-14 10:22 CUTTER Inactive, 241014109=GLD 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:18 1dP:100.0 2dp:100.0 px244.76 cost:237.423875 px/Cost:1.0309 reqMargin:1.01 rng:0.0086
+0:241014113 GLD SELL 4 @245.24 10:22
+0: SELL GLD 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:239.8 askPx:244.75
+2024-10-14T10:22:18.223407032 remaining position <= 0, break
+2D$:n:443 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:22]
+1D$:n:53 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:22]
+10-14 10:22 *openOrder* status:Inactive 241014113 SELL 4@245.24
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014113 SELL 4@245.24
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014113 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014113 SELL 4@245.24
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014113 SELL 4@245.24
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014113 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+*******************************************
+*STARTS* 10-14 10:27
+updating pos: GLD 10-14 10:27 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+10-14 10:27 rng:0.9% costTgt:0.98
+10-14 10:27 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.08%
+*Periodic Run* 10-14 10:27 last live feed time: 10-14 10:27 been:0min p:244.84 cost:237.4 p/cost:1.031
+p:244.84 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 10:27 244.84 2dP:101.0 1dP:101.0
+2d$:n:448 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:27]
+1d$:n:58 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:27]
+*******************************************
+*STARTS* 10-14 10:28
+updating pos: GLD 10-14 10:28 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+10-14 10:28 rng:0.9% costTgt:0.98
+10-14 10:28 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.05%
+*Periodic Run* 10-14 10:28 last live feed time: 10-14 10:28 been:0min p:244.82 cost:237.4 p/cost:1.031
+p:244.82 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 10:28 244.82 2dP:101.0 1dP:101.0
+2d$:n:449 max:245.9 [10-11 12:29] min:244.5 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-14 10:28]
+1d$:n:59 max:245.8 [10-14 9:49] min:244.6 [10-14 10:20] rng:0.5% 1Key:[10-14 9:30] last:[10-14 10:28]
+10:30:33.389704930 no blocking orders,empty
+10:30:34.152918430 no blocking orders,empty
+10:30:37.392779295 no blocking orders,empty
+10:30:38.148775043 no blocking orders,empty
+10:30:39.398537335 no blocking orders,empty
+10:30:40.650419106 no blocking orders,empty
+10:30:41.403376948 no blocking orders,empty
+10:30:44.409827990 no blocking orders,empty
+10:30:48.410300133 no blocking orders,empty
+10:30:50.414807233 no blocking orders,empty
+10:32:13.766689428 no blocking orders,empty
+10:32:14.508971862 no blocking orders,empty
+10:32:15.259379284 no blocking orders,empty
+10:32:17.032082441 no blocking orders,empty
+10:32:17.793928271 no blocking orders,empty
+10:32:20.520868044 no blocking orders,empty
+10:32:22.179911838 no blocking orders,empty
+10:32:29.979956005 no blocking orders,empty
+10:32:31.444755294 no blocking orders,empty
+10:32:41.362550128 no blocking orders,empty
+10:32:43.125991321 no blocking orders,empty
+10:32:52.341481313 no blocking orders,empty
+10:32:53.090797129 no blocking orders,empty
+10:32:53.829582418 no blocking orders,empty
+10:32:54.579577567 no blocking orders,empty
+10:33:01.838022440 no blocking orders,empty
+10:33:03.591422532 no blocking orders,empty
+10:33:08.087967293 no blocking orders,empty
+10:33:14.106439351 no blocking orders,empty
+10:33:19.856404089 no blocking orders,empty
+10:33:27.118639537 no blocking orders,empty
+10:33:29.641694513 no blocking orders,empty
+10:33:30.475080463 no blocking orders,empty
+10:33:31.655355072 no blocking orders,empty
+10:33:38.801805835 no blocking orders,empty
+10:33:42.052847914 no blocking orders,empty
+10:33:42.787386176 no blocking orders,empty
+10:33:44.295449094 no blocking orders,empty
+10:33:45.041202401 no blocking orders,empty
+10:39:55.560639554 no blocking orders,empty
+10:39:58.892182905 no blocking orders,empty
+10:40:00.403012176 no blocking orders,empty
+10:40:01.921764026 no blocking orders,empty
+10:40:03.983577001 no blocking orders,empty
+10:40:06.736944678 no blocking orders,empty
+10:40:10.242424075 no blocking orders,empty
+10:40:12.752792165 no blocking orders,empty
+10:40:17.258976666 no blocking orders,empty
+10:40:19.706274293 no blocking orders,empty
+10:40:20.364928251 no blocking orders,empty
+10:40:22.616793975 no blocking orders,empty
+10:40:24.116628484 no blocking orders,empty
+10:40:31.377903283 no blocking orders,empty
+10:40:32.887384621 no blocking orders,empty
+10:40:33.904568886 no blocking orders,empty
+10:40:34.684746584 no blocking orders,empty
+10:40:35.384728940 no blocking orders,empty
+10:40:37.890475257 no blocking orders,empty
+10:40:41.896926133 no blocking orders,empty
+10:40:42.646655175 no blocking orders,empty
+10:40:43.396518543 no blocking orders,empty
+10:40:44.158270142 no blocking orders,empty
+10:40:45.649625279 no blocking orders,empty
+10:40:46.401039328 no blocking orders,empty
+10:40:47.152050408 no blocking orders,empty
+10:40:47.903928310 no blocking orders,empty
+10:40:48.654320720 no blocking orders,empty
+10:40:51.159611810 no blocking orders,empty
+10:40:51.915772615 no blocking orders,empty
+10:44:38.694886883 no blocking orders,empty
+10:44:39.470451254 no blocking orders,empty
+10:44:42.620930777 no blocking orders,empty
+10:45:34.402888735 no blocking orders,empty
+10:45:36.157870905 no blocking orders,empty
+10:45:44.352273773 no blocking orders,empty
+10:45:48.356710932 no blocking orders,empty
+10:45:52.366623777 no blocking orders,empty
+10:46:48.468384839 no blocking orders,empty
+10:46:51.504537862 no blocking orders,empty
+10:47:34.838200242 no blocking orders,empty
+10:47:39.354711639 no blocking orders,empty
+10:47:44.365966647 no blocking orders,empty
+10:47:46.859246255 no blocking orders,empty
+10:47:48.360850145 no blocking orders,empty
+10:47:54.302998743 no blocking orders,empty
+10:48:23.331547705 no blocking orders,empty
+10:48:24.087443614 no blocking orders,empty
+10:48:26.867948693 no blocking orders,empty
+10:48:29.355901656 no blocking orders,empty
+10:48:30.846191103 no blocking orders,empty
+10:48:35.617406184 no blocking orders,empty
+10:48:42.115450272 no blocking orders,empty
+10:48:49.340585900 no blocking orders,empty
+10:48:50.607393001 no blocking orders,empty
+10:49:03.601560279 no blocking orders,empty
+10:49:04.357502482 no blocking orders,empty
+10:49:07.355926755 no blocking orders,empty
+10:49:17.372527502 no blocking orders,empty
+10:49:18.121252915 no blocking orders,empty
+10:49:20.655020553 no blocking orders,empty
+10:49:27.386922485 no blocking orders,empty
+10:49:28.145213640 no blocking orders,empty
+10:49:29.138369470 no blocking orders,empty
+10:49:30.389169656 no blocking orders,empty
+10:49:34.685560569 no blocking orders,empty
+10:49:37.401258689 no blocking orders,empty
+10:49:38.150419984 no blocking orders,empty
+10:49:43.406914529 no blocking orders,empty
+10:49:48.918251822 no blocking orders,empty
+10:49:53.922928482 no blocking orders,empty
+10:50:00.497775459 no blocking orders,empty
+10:50:01.245212986 no blocking orders,empty
+10:50:02.002336840 no blocking orders,empty
+10:50:05.250945429 no blocking orders,empty
+10:50:06.750452989 no blocking orders,empty
+10:50:07.502319666 no blocking orders,empty
+10:50:08.761211210 no blocking orders,empty
+10:50:09.533519188 no blocking orders,empty
+10:50:10.763649662 no blocking orders,empty
+10:50:11.525970076 no blocking orders,empty
+10:50:12.527758769 no blocking orders,empty
+10:50:14.763563034 no blocking orders,empty
+10:50:23.787240334 no blocking orders,empty
+10:50:24.529937262 no blocking orders,empty
+10:50:29.285854081 no blocking orders,empty
+10:50:34.064380935 no blocking orders,empty
+10:50:44.836663819 no blocking orders,empty
+10:50:45.314404702 no blocking orders,empty
+10:50:55.939022403 no blocking orders,empty
+10:51:00.871887754 no blocking orders,empty
+10:51:06.079297944 no blocking orders,empty
+10:51:08.094310175 no blocking orders,empty
+10:51:09.587967178 no blocking orders,empty
+10:51:10.335653035 no blocking orders,empty
+10:51:12.841767872 no blocking orders,empty
+10:51:13.591817383 no blocking orders,empty
+10:51:18.348511823 no blocking orders,empty
+10:51:19.116721053 no blocking orders,empty
+10:51:23.128902881 no blocking orders,empty
+10:51:24.385377938 no blocking orders,empty
+10:51:26.812271790 no blocking orders,empty
+10:51:27.560733214 no blocking orders,empty
+10:51:28.314473038 no blocking orders,empty
+10:51:31.057557120 no blocking orders,empty
+10:51:33.321978499 no blocking orders,empty
+10:51:34.301153624 no blocking orders,empty
+10:51:36.559551439 no blocking orders,empty
+10:51:37.805364353 no blocking orders,empty
+10:51:39.309270537 no blocking orders,empty
+10:51:40.559368968 no blocking orders,empty
+10:51:47.320223062 no blocking orders,empty
+10:51:48.071526763 no blocking orders,empty
+10:51:54.084099430 no blocking orders,empty
+10:51:54.832334185 no blocking orders,empty
+10:51:59.091027824 no blocking orders,empty
+10:52:01.344719016 no blocking orders,empty
+10:52:03.350634250 no blocking orders,empty
+10:52:04.099718960 no blocking orders,empty
+10:52:04.855668044 no blocking orders,empty
+10:52:09.114772273 no blocking orders,empty
+10:52:09.861032928 no blocking orders,empty
+10:52:12.877447126 no blocking orders,empty
+10:52:18.386282535 no blocking orders,empty
+10:52:20.118557904 no blocking orders,empty
+10:52:23.625746185 no blocking orders,empty
+10:52:24.377394555 no blocking orders,empty
+10:52:25.850334756 no blocking orders,empty
+10:52:26.599879663 no blocking orders,empty
+10:52:27.351942051 no blocking orders,empty
+updating pos: GLD 10-14 10:52:28.081 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+10:52:28.107504350 no blocking orders,empty
+10:52:36.635085733 no blocking orders,empty
+10:52:37.391102359 no blocking orders,empty
+10:52:38.134537677 no blocking orders,empty
+10:52:39.172617336 no blocking orders,empty
+10:52:41.376853311 no blocking orders,empty
+10:52:45.629392389 no blocking orders,empty
+10:52:46.378821341 no blocking orders,empty
+10:52:47.130364335 no blocking orders,empty
+10:52:50.888635827 no blocking orders,empty
+10:52:51.638327401 no blocking orders,empty
+10:52:58.264678522 no blocking orders,empty
+10:52:59.014769088 no blocking orders,empty
+10:53:02.522124943 no blocking orders,empty
+10:53:04.275296543 no blocking orders,empty
+10:53:05.027534080 no blocking orders,empty
+10:53:06.527615421 no blocking orders,empty
+10:53:07.278422471 no blocking orders,empty
+10:53:15.540528040 no blocking orders,empty
+10:53:21.050709851 no blocking orders,empty
+10:53:23.956372556 no blocking orders,empty
+10:53:33.472001315 no blocking orders,empty
+10:53:34.224604880 no blocking orders,empty
+10:53:34.980628441 no blocking orders,empty
+10:53:35.724672852 no blocking orders,empty
+10:53:36.992304033 no blocking orders,empty
+10:53:50.749565863 no blocking orders,empty
+10:53:51.500378366 no blocking orders,empty
+10:54:02.204643008 no blocking orders,empty
+10:54:06.461399749 no blocking orders,empty
+10:54:09.213874221 no blocking orders,empty
+10:54:12.221620110 no blocking orders,empty
+10:54:12.971179879 no blocking orders,empty
+10:54:13.726323116 no blocking orders,empty
+10:54:15.220327590 no blocking orders,empty
+10:54:15.974887513 no blocking orders,empty
+10:54:24.483687551 no blocking orders,empty
+10:54:26.006652308 no blocking orders,empty
+10:54:38.255441111 no blocking orders,empty
+10:54:39.006060947 no blocking orders,empty
+10:54:43.262079337 no blocking orders,empty
+10:54:44.013509629 no blocking orders,empty
+10:54:48.769689733 no blocking orders,empty
+10:54:55.043445920 no blocking orders,empty
+10:54:58.309469331 no blocking orders,empty
+10:55:03.040637227 no blocking orders,empty
+10:55:06.294767971 no blocking orders,empty
+10:55:10.453952311 no blocking orders,empty
+10:55:11.955913737 no blocking orders,empty
+10:55:19.465927459 no blocking orders,empty
+10:55:22.720507961 no blocking orders,empty
+10:55:23.472459359 no blocking orders,empty
+10:55:26.730496433 no blocking orders,empty
+10:55:56.834312392 no blocking orders,empty
+10:55:57.583842862 no blocking orders,empty
+10:55:58.336804080 no blocking orders,empty
+10:56:00.339169061 no blocking orders,empty
+10:56:02.589942690 no blocking orders,empty
+10:56:03.342693809 no blocking orders,empty
+10:56:04.094681208 no blocking orders,empty
+10:56:04.843935272 no blocking orders,empty
+10:56:06.597113278 no blocking orders,empty
+10:56:07.368463742 no blocking orders,empty
+10:56:31.675387229 no blocking orders,empty
+10:56:32.425882215 no blocking orders,empty
+10:56:33.175924782 no blocking orders,empty
+10:56:36.936356341 no blocking orders,empty
+10:56:48.805780086 no blocking orders,empty
+10:56:52.562493090 no blocking orders,empty
+10:57:09.585697497 no blocking orders,empty
+10:57:10.839416913 no blocking orders,empty
+10:57:11.588122602 no blocking orders,empty
+10:57:15.442811374 no blocking orders,empty
+10:57:16.195746579 no blocking orders,empty
+10:57:17.947087351 no blocking orders,empty
+10:57:23.203236144 no blocking orders,empty
+10:57:30.486194104 no blocking orders,empty
+10:57:31.968650205 no blocking orders,empty
+10:57:35.720592730 no blocking orders,empty
+10:57:36.478569938 no blocking orders,empty
+10:57:37.224269381 no blocking orders,empty
+10:57:44.081279256 no blocking orders,empty
+10:57:49.338915806 no blocking orders,empty
+10:57:50.089694065 no blocking orders,empty
+10:57:50.839501830 no blocking orders,empty
+10:57:55.095600485 no blocking orders,empty
+10:57:59.120485345 no blocking orders,empty
+10:58:07.365858321 no blocking orders,empty
+10:58:15.356792579 no blocking orders,empty
+10:58:17.871036175 no blocking orders,empty
+10:58:22.618844589 no blocking orders,empty
+10:58:23.871638263 no blocking orders,empty
+10:58:25.371276991 no blocking orders,empty
+10:58:44.655368962 no blocking orders,empty
+10:58:48.893314248 no blocking orders,empty
+10:58:49.646861099 no blocking orders,empty
+10:58:50.384499831 no blocking orders,empty
+10:58:51.129454475 no blocking orders,empty
+10:58:51.875618118 no blocking orders,empty
+10:58:52.627072719 no blocking orders,empty
+10:58:54.128695616 no blocking orders,empty
+10:58:55.632620565 no blocking orders,empty
+10:58:58.885734788 no blocking orders,empty
+10:59:00.396834585 no blocking orders,empty
+10:59:01.140702429 no blocking orders,empty
+10:59:02.143727892 no blocking orders,empty
+10:59:03.892539998 no blocking orders,empty
+10:59:08.901633097 no blocking orders,empty
+10:59:13.156994696 no blocking orders,empty
+10:59:14.658240808 no blocking orders,empty
+10:59:16.240523208 no blocking orders,empty
+10:59:23.246709881 no blocking orders,empty
+10:59:24.752989730 no blocking orders,empty
+10:59:39.276913512 no blocking orders,empty
+10:59:41.525501930 no blocking orders,empty
+10:59:49.758831753 no blocking orders,empty
+10:59:50.512570897 no blocking orders,empty
+10:59:51.768593080 no blocking orders,empty
+10:59:52.519324700 no blocking orders,empty
+10:59:54.017329089 no blocking orders,empty
+11:00:00.528838879 no blocking orders,empty
+11:00:02.030293794 no blocking orders,empty
+11:00:05.785808867 no blocking orders,empty
+11:00:07.284493284 no blocking orders,empty
+11:00:09.791150386 no blocking orders,empty
+11:00:10.541928483 no blocking orders,empty
+11:00:12.047424344 no blocking orders,empty
+11:00:12.793552323 no blocking orders,empty
+11:00:15.051521910 no blocking orders,empty
+11:00:15.827688673 no blocking orders,empty
+11:00:16.801326854 no blocking orders,empty
+11:00:19.806477874 no blocking orders,empty
+11:00:20.556746742 no blocking orders,empty
+11:00:27.067060082 no blocking orders,empty
+11:00:34.076740576 no blocking orders,empty
+11:00:39.833853930 no blocking orders,empty
+11:00:43.839911648 no blocking orders,empty
+11:00:45.091875068 no blocking orders,empty
+11:00:45.841966555 no blocking orders,empty
+11:00:47.595516803 no blocking orders,empty
+11:00:49.098361201 no blocking orders,empty
+11:00:49.848950648 no blocking orders,empty
+11:00:55.609248030 no blocking orders,empty
+11:00:56.358694872 no blocking orders,empty
+11:01:01.115733458 no blocking orders,empty
+11:01:01.867294515 no blocking orders,empty
+11:01:07.376143977 no blocking orders,empty
+11:01:08.133328155 no blocking orders,empty
+11:01:13.135202647 no blocking orders,empty
+11:01:18.251302437 no blocking orders,empty
+11:01:18.996928675 no blocking orders,empty
+11:01:19.996829024 no blocking orders,empty
+11:01:25.004566759 no blocking orders,empty
+11:01:27.756929674 no blocking orders,empty
+11:01:30.512907690 no blocking orders,empty
+11:01:31.267351722 no blocking orders,empty
+11:01:35.021484110 no blocking orders,empty
+11:01:35.772290605 no blocking orders,empty
+11:01:37.785639942 no blocking orders,empty
+11:01:43.281746193 no blocking orders,empty
+11:01:48.786979513 no blocking orders,empty
+11:01:59.178521743 no blocking orders,empty
+11:02:02.185012919 no blocking orders,empty
+11:02:02.935089120 no blocking orders,empty
+11:02:04.938488701 no blocking orders,empty
+11:02:09.443669538 no blocking orders,empty
+11:02:21.384689666 no blocking orders,empty
+11:02:22.136588688 no blocking orders,empty
+11:02:28.668538166 no blocking orders,empty
+11:02:32.902957868 no blocking orders,empty
+11:02:35.905900173 no blocking orders,empty
+11:02:44.690207194 no blocking orders,empty
+11:02:51.179370733 no blocking orders,empty
+11:02:52.773684838 no blocking orders,empty
+11:02:55.276589526 no blocking orders,empty
+11:02:56.777328357 no blocking orders,empty
+*******************************************
+*STARTS* 10-14 11:03:7.806
+updating pos: GLD 10-14 11:03:9.885 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+10-14 11:03:22.071 rng:0.9% costTgt:0.98
+10-14 11:03:22.071 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:27.89%
+*Periodic Run* 10-14 11:03:27.912 last live feed time: 10-14 11:03 been:0min p:244.51 cost:237.4 p/cost:1.03
+p:244.51 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.949
+10-14 11:03:27.921 244.51 2dP:9.0 1dP:9.0
+2d$:n:484 max:245.9 [10-11 12:29] min:244.4 [10-14 10:58] rng:0.6% 1Key:[10-11 9:30] last:[10-14 11:03]
+1d$:n:94 max:245.8 [10-14 9:49] min:244.4 [10-14 10:58] rng:0.6% 1Key:[10-14 9:30] last:[10-14 11:03]
+11:03:29.353292821 no blocking orders,empty
+11:03:39.618079514 no blocking orders,empty
+11:03:40.370768173 no blocking orders,empty
+11:03:41.123282086 no blocking orders,empty
+11:03:42.371674329 no blocking orders,empty
+11:03:44.627543537 no blocking orders,empty
+11:04:14.006534985 no blocking orders,empty
+11:04:16.514450851 no blocking orders,empty
+updating pos: GLD 10-14 11:04:21.274 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+11:04:27.524470969 no blocking orders,empty
+11:05:31.273754723 no blocking orders,empty
+11:05:32.278481779 no blocking orders,empty
+11:05:35.782755515 no blocking orders,empty
+11:05:41.290686739 no blocking orders,empty
+updating pos: GLD 10-14 11:07:10.158 pos:4 cost:237.42
+updating pos: GLD 10-14 11:07:10.187 pos:4 cost:237.42
+11:08:10.000438541 no blocking orders,empty
+11:08:14.521359472 no blocking orders,empty
+11:08:16.509782510 no blocking orders,empty
+11:08:19.262611692 no blocking orders,empty
+11:08:35.288918608 no blocking orders,empty
+11:08:36.807876399 no blocking orders,empty
+11:08:45.298891641 no blocking orders,empty
+11:08:46.049105444 no blocking orders,empty
+11:09:06.395242954 no blocking orders,empty
+11:09:12.402600700 no blocking orders,empty
+updating pos: GLD 10-14 11:09:26.469 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+11:09:31.436678675 no blocking orders,empty
+11:09:33.442871312 no blocking orders,empty
+11:09:37.026989303 no blocking orders,empty
+11:09:37.802586193 no blocking orders,empty
+11:09:39.306291798 no blocking orders,empty
+11:09:41.307795337 no blocking orders,empty
+11:09:42.058698399 no blocking orders,empty
+11:09:43.059083535 no blocking orders,empty
+11:09:46.064055441 no blocking orders,empty
+11:09:50.574745145 no blocking orders,empty
+11:09:52.072618522 no blocking orders,empty
+11:09:52.821964169 no blocking orders,empty
+11:09:53.573269174 no blocking orders,empty
+11:09:54.323790603 no blocking orders,empty
+11:10:00.336407159 no blocking orders,empty
+11:10:01.088003929 no blocking orders,empty
+11:10:03.339076620 no blocking orders,empty
+updating pos: GLD 10-14 11:12:37.962 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+11:22:08.125517109 no blocking orders,empty
+11:22:14.882619771 no blocking orders,empty
+11:22:17.138865924 no blocking orders,empty
+11:22:22.145597195 no blocking orders,empty
+11:22:25.145815010 no blocking orders,empty
+11:22:25.902338141 no blocking orders,empty
+11:22:30.906681524 no blocking orders,empty
+11:22:32.908352863 no blocking orders,empty
+11:22:35.659841120 no blocking orders,empty
+11:22:36.413474968 no blocking orders,empty
+11:22:37.416545755 no blocking orders,empty
+11:22:39.429907318 no blocking orders,empty
+11:22:42.925688746 no blocking orders,empty
+11:22:43.673786494 no blocking orders,empty
+11:22:53.686454210 no blocking orders,empty
+11:23:07.706416716 no blocking orders,empty
+11:23:09.960691086 no blocking orders,empty
+11:23:10.708562512 no blocking orders,empty
+11:23:17.721382544 no blocking orders,empty
+11:23:18.473480860 no blocking orders,empty
+11:23:24.481412805 no blocking orders,empty
+11:23:42.254281330 no blocking orders,empty
+11:23:47.762395351 no blocking orders,empty
+11:23:48.512842379 no blocking orders,empty
+11:24:16.304144739 no blocking orders,empty
+11:24:29.068541020 no blocking orders,empty
+11:24:34.574387260 no blocking orders,empty
+11:24:36.085325262 no blocking orders,empty
+11:24:38.101001599 no blocking orders,empty
+11:24:39.585537691 no blocking orders,empty
+11:24:47.097402982 no blocking orders,empty
+11:24:47.845398619 no blocking orders,empty
+11:24:49.095325194 no blocking orders,empty
+11:24:53.853791992 no blocking orders,empty
+11:24:59.862134815 no blocking orders,empty
+11:25:07.384926278 no blocking orders,empty
+11:25:10.876495220 no blocking orders,empty
+11:25:11.627751143 no blocking orders,empty
+11:25:14.132151410 no blocking orders,empty
+11:25:21.141801488 no blocking orders,empty
+11:25:41.669993435 no blocking orders,empty
+11:25:43.170287686 no blocking orders,empty
+11:25:52.182857798 no blocking orders,empty
+11:25:52.933737485 no blocking orders,empty
+11:25:53.687320493 no blocking orders,empty
+11:25:57.449442429 no blocking orders,empty
+11:26:03.698921608 no blocking orders,empty
+11:26:04.450790802 no blocking orders,empty
+11:26:12.714934022 no blocking orders,empty
+11:26:23.728510535 no blocking orders,empty
+11:26:25.231080895 no blocking orders,empty
+11:26:28.234946089 no blocking orders,empty
+11:26:29.739535563 no blocking orders,empty
+11:26:42.003470833 no blocking orders,empty
+11:27:50.599545869 no blocking orders,empty
+11:27:59.609825766 no blocking orders,empty
+11:28:07.870294013 no blocking orders,empty
+11:28:09.623433055 no blocking orders,empty
+11:28:15.383074448 no blocking orders,empty
+11:28:16.132854718 no blocking orders,empty
+11:28:27.896895968 no blocking orders,empty
+11:28:42.667813575 no blocking orders,empty
+11:28:43.420398460 no blocking orders,empty
+11:28:44.924881773 no blocking orders,empty
+11:28:53.432245365 no blocking orders,empty
+11:28:55.184245399 no blocking orders,empty
+11:28:55.936987722 no blocking orders,empty
+11:28:57.958974108 no blocking orders,empty
+11:29:00.942592501 no blocking orders,empty
+11:29:01.696348188 no blocking orders,empty
+11:29:42.249904658 no blocking orders,empty
+11:29:43.750323724 no blocking orders,empty
+11:30:03.780425410 no blocking orders,empty
+11:30:04.529769547 no blocking orders,empty
+11:30:20.302780842 no blocking orders,empty
+11:30:25.810839504 no blocking orders,empty
+11:30:38.831407784 no blocking orders,empty
+11:30:43.840347660 no blocking orders,empty
+11:30:46.339576538 no blocking orders,empty
+11:30:52.354776575 no blocking orders,empty
+11:30:54.856339120 no blocking orders,empty
+11:30:56.369608577 no blocking orders,empty
+11:31:05.112836042 no blocking orders,empty
+11:31:07.616840333 no blocking orders,empty
+11:41:28.064008235 no blocking orders,empty
+11:41:45.337954046 no blocking orders,empty
+11:41:46.088742013 no blocking orders,empty
+11:44:39.821240699 no blocking orders,empty
+11:44:40.573120363 no blocking orders,empty
+11:45:19.123096403 no blocking orders,empty
+11:46:03.434930662 no blocking orders,empty
+11:46:04.189787609 no blocking orders,empty
+11:46:04.936185759 no blocking orders,empty
+11:46:11.946067088 no blocking orders,empty
+11:46:22.228808835 no blocking orders,empty
+11:46:22.961069190 no blocking orders,empty
+11:46:23.961798794 no blocking orders,empty
+11:46:50.500362696 no blocking orders,empty
+11:46:51.248812599 no blocking orders,empty
+11:46:52.001896782 no blocking orders,empty
+11:47:12.531074161 no blocking orders,empty
+11:47:19.039015964 no blocking orders,empty
+11:47:19.790419078 no blocking orders,empty
+11:47:20.411643444 no blocking orders,empty
+11:47:26.668122269 no blocking orders,empty
+11:47:30.512190109 no blocking orders,empty
+11:47:33.239591378 no blocking orders,empty
+11:47:45.005091462 no blocking orders,empty
+11:53:58.123679219 no blocking orders,empty
+11:53:58.875771480 no blocking orders,empty
+11:54:04.382909290 no blocking orders,empty
+11:54:29.416668709 no blocking orders,empty
+11:54:34.676524273 no blocking orders,empty
+11:54:49.199700147 no blocking orders,empty
+11:54:51.946948634 no blocking orders,empty
+11:55:05.466905937 no blocking orders,empty
+11:55:08.220075408 no blocking orders,empty
+11:55:11.479703470 no blocking orders,empty
+11:55:13.726218900 no blocking orders,empty
+11:55:14.478079574 no blocking orders,empty
+11:55:18.486587085 no blocking orders,empty
+11:55:20.988401194 no blocking orders,empty
+11:55:28.248705875 no blocking orders,empty
+11:55:28.998243200 no blocking orders,empty
+11:55:31.003253271 no blocking orders,empty
+11:55:32.003941946 no blocking orders,empty
+11:55:38.011060846 no blocking orders,empty
+11:55:41.772303530 no blocking orders,empty
+11:55:44.268855313 no blocking orders,empty
+11:55:47.022857663 no blocking orders,empty
+11:55:47.775587355 no blocking orders,empty
+11:55:49.529347842 no blocking orders,empty
+11:55:50.278156959 no blocking orders,empty
+11:55:53.281659085 no blocking orders,empty
+11:55:54.042034911 no blocking orders,empty
+11:55:55.548889107 no blocking orders,empty
+11:55:56.285753445 no blocking orders,empty
+11:55:57.036925320 no blocking orders,empty
+11:55:58.538670406 no blocking orders,empty
+11:56:01.294696087 no blocking orders,empty
+11:56:04.797029348 no blocking orders,empty
+11:56:08.551718560 no blocking orders,empty
+11:56:10.054341317 no blocking orders,empty
+11:56:12.056495840 no blocking orders,empty
+11:56:12.808449846 no blocking orders,empty
+11:56:13.558676384 no blocking orders,empty
+11:56:17.314092541 no blocking orders,empty
+11:56:21.567929854 no blocking orders,empty
+11:56:22.318751813 no blocking orders,empty
+11:56:23.073134624 no blocking orders,empty
+11:56:24.576282811 no blocking orders,empty
+11:56:27.076480905 no blocking orders,empty
+11:56:27.832305188 no blocking orders,empty
+11:56:28.577476052 no blocking orders,empty
+11:56:30.332804235 no blocking orders,empty
+11:56:31.834031796 no blocking orders,empty
+11:56:32.585764796 no blocking orders,empty
+11:56:34.837387908 no blocking orders,empty
+11:56:37.841917823 no blocking orders,empty
+11:56:57.619034244 no blocking orders,empty
+11:57:06.130769015 no blocking orders,empty
+*Periodic Run* 10-14 12:03:27.873 last live feed time: 10-14 12:03 been:0min p:244.45 cost:237.4 p/cost:1.03
+p:244.45 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.95
+10-14 12:03:27.874 244.45 2dP:8.0 1dP:8.0
+2d$:n:544 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 12:03]
+1d$:n:154 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 12:03]
+12:03:37.996418255 no blocking orders,empty
+12:05:00.109039284 no blocking orders,empty
+12:05:01.861827718 no blocking orders,empty
+12:05:13.378403156 no blocking orders,empty
+12:05:31.158866094 no blocking orders,empty
+12:05:35.409033919 no blocking orders,empty
+12:10:49.462052346 no blocking orders,empty
+12:10:50.962967027 no blocking orders,empty
+12:10:58.980364528 no blocking orders,empty
+12:11:06.486505446 no blocking orders,empty
+12:11:07.488023515 no blocking orders,empty
+12:27:28.698404396 no blocking orders,empty
+12:27:33.704703863 no blocking orders,empty
+12:27:36.710184857 no blocking orders,empty
+12:27:43.233471172 no blocking orders,empty
+12:27:43.983574949 no blocking orders,empty
+*Periodic Run* 10-14 13:03:27.868 last live feed time: 10-14 13:03 been:0min p:244.73 cost:237.4 p/cost:1.031
+p:244.73 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 13:03:27.868 244.73 2dP:26.0 1dP:28.0
+2d$:n:604 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 13:03]
+1d$:n:214 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 13:03]
+updating pos: GLD 10-14 13:17:17.055 pos:4 cost:237.42
+updating pos: GLD 10-14 13:17:17.065 pos:4 cost:237.42
+updating pos: GLD 10-14 13:48:56.971 pos:4 cost:237.42
+updating pos: GLD 10-14 13:48:56.975 pos:4 cost:237.42
+*Periodic Run* 10-14 14:03:27.869 last live feed time: 10-14 14:03 been:0min p:244.67 cost:237.4 p/cost:1.031
+p:244.67 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.949
+10-14 14:03:27.869 244.67 2dP:22.0 1dP:24.0
+2d$:n:664 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 14:03]
+1d$:n:274 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 14:03]
+*Periodic Run* 10-14 15:03:27.863 last live feed time: 10-14 14:14 been:48min p:244.73 cost:237.4 p/cost:1.031
+p:244.73 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 15:03:27.863 244.73 2dP:26.0 1dP:28.0
+2d$:n:675 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 14:14]
+1d$:n:285 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 14:14]
+*Periodic Run* 10-14 16:03:27.871 last live feed time: 10-14 14:14 been:108min p:244.73 cost:237.4 p/cost:1.031
+p:244.73 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 16:03:27.871 244.73 2dP:26.0 1dP:28.0
+2d$:n:675 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 14:14]
+1d$:n:285 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 14:14]
+*Periodic Run* 10-14 17:03:27.879 last live feed time: 10-14 14:14 been:168min p:244.73 cost:237.4 p/cost:1.031
+p:244.73 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 17:03:27.880 244.73 2dP:26.0 1dP:28.0
+2d$:n:675 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 14:14]
+1d$:n:285 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 14:14]
+*******************************************
+*STARTS* 10-14 17:59:43.709
+updating pos: GLD 10-14 17:59:45.915 pos:4 cost:237.42
+POS:4 COST:237.4 DELT:1k
+10-14 17:59:46.050 *openOrder* status:Submitted 241014027 SELL 4@246.27
+openOrder does not contain order GLD 241014027 SELL 4@246.27
+10-14 17:59:46.051 *openOrder* all live orders [241014027 SELL 4@246.27]
+10-14 17:59:46.088 *OrderStatus*:Submitted orderId:241014027 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 17:59:49.910 *OrderStatus*:Cancelled orderId:241014027 filled:0 remaining:4 avgFillPx:0.0 lastFillPx:0.0
+10-14 17:59:49.910 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241014027=241014027 SELL 4@246.27}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={241014111=241014111 SELL 78@48.56, 241014112=241014112 SELL 78@49.04}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={241014097=241014097 SELL 4@311.54, 241014098=241014098 SELL 4@314.63}, MMM={}, MRK={}, PG={}, PHO={}, SLV={241014025=241014025 SELL 15@28.79, 241014026=241014026 SELL 31@29.02}, SPY={}, UL={}, UNP={}}
+*Periodic Run* 10-14 18:00:3.852 last live feed time: 10-14 18:00 been:0min p:244.62 cost:237.4 p/cost:1.03
+p:244.62 rng:0.0% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.949
+10-14 18:00:3.853 *chek orderStatus [241014027=Cancelled]
+10-14 18:00:3.854 244.62 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+10-14 18:01:22.535 rng:0.9% costTgt:0.98
+10-14 18:01:22.536 tgtMargin:1.01 tgtPrice:239.8
+ytdReturn:28.19%
+*Periodic Run* 10-14 19:00:3.861 last live feed time: 10-14 18:57 been:2min p:244.91 cost:237.4 p/cost:1.032
+p:244.91 rng:0.9% pos:4 delt:1k cost:237.4 fullLot:68 refillP:232.12 costTgt:0.98 refillP/cost:0.978 refillP/px:0.948
+10-14 19:00:3.861 *chek orderStatus [241014027=Cancelled]
+10-14 19:00:3.861 244.91 2dP:38.0 1dP:40.0
+2d$:n:785 max:245.9 [10-11 12:29] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-11 9:30] last:[10-14 18:57]
+1d$:n:395 max:245.8 [10-14 9:49] min:244.3 [10-14 11:56] rng:0.6% 1Key:[10-14 9:30] last:[10-14 18:57]

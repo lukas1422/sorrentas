@@ -8748,3 +8748,1704 @@ p:28.4 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:590 refillP:26.89 costTgt:0.98 
 10-10 19:05 28.4 2dP:89.0 1dP:95.0
 2d$:n:1206 max:28.5 [10-8 9:47] min:27.5 [10-8 11:36] rng:3.6% 1Key:[10-8 9:30] last:[10-10 16:44]
 1d$:n:426 max:28.4 [10-10 12:17] min:27.9 [10-10 9:20] rng:1.8% 1Key:[10-10 9:04] last:[10-10 16:44]
+*******************************************
+*STARTS* 10-11 9:01
+updating pos: SLV 10-11 9:01 pos:68 cost:27.57
+POS:68 COST:27.6 DELT:2k
+10-11 9:01 *tradeReport* time: 2024-10-10T12:03:52 SLD execPx:28.32 shares:67 avgPx:28.32
+listOfExecs [orderID: 241010025 time: 2024-10-10T12:03:52 side: SLD shares: 67 price: 28.32]
+10-11 9:01 rng:1.8% costTgt:0.98
+10-11 9:01 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:30.3%
+*Periodic Run* 10-11 9:01 last live feed time: 10-11 9:01 been:0min p:28.48 cost:27.6 p/cost:1.033
+p:28.48 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:588 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.944
+10-11 9:01 28.48 2dP:100.0 1dP:100.0
+2d$:n:781 max:28.4 [10-11 9:01] min:27.6 [10-9 9:36] rng:3.1% 1Key:[10-9 9:30] last:[10-11 9:01]
+1d$:n<5
+******************CUT**************************
+CUT 10-11 9:30:01 1dP:64.0 2dp:95.0 px28.6 cost:27.57215 px/Cost:1.0373 reqMargin:1.0147 rng:0.0184
+0:241011004 SLV SELL 22 @28.67 9:30
+0: SELL SLV 10-11 9:30 CUTTER Created target margin:1.01473 cost*target margin:27.98 askPx:28.61
+1:241011005 SLV SELL 22 @28.96 9:30
+1: SELL SLV 10-11 9:30 CUTTER Created target margin:1.01473 cost*target margin:27.98 askPx:28.61
+2:241011006 SLV SELL 24 @29.31 9:30
+2: SELL SLV 10-11 9:30 CUTTER Created target margin:1.01473 cost*target margin:27.98 askPx:28.61
+2D$:n:806 max:28.7 [10-11 9:17] min:27.6 [10-9 9:36] rng:4.0% 1Key:[10-9 9:30] last:[10-11 9:30]
+1D$:n:26 max:28.7 [10-11 9:17] min:28.5 [10-11 9:01] rng:0.5% 1Key:[10-11 9:01] last:[10-11 9:30]
+*Periodic Run* 10-11 10:01 last live feed time: 10-11 10:01 been:0min p:28.62 cost:27.6 p/cost:1.038
+p:28.62 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:585 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.94
+10-11 10:01 *chek orderStatus [241011004=Created, 241011005=Created, 241011006=Created]
+10-11 10:01 28.62 2dP:88.0 1dP:43.0
+2d$:n:837 max:28.8 [10-11 9:40] min:27.6 [10-9 9:36] rng:4.3% 1Key:[10-9 9:30] last:[10-11 10:01]
+1d$:n:57 max:28.8 [10-11 9:40] min:28.5 [10-11 9:01] rng:0.8% 1Key:[10-11 9:01] last:[10-11 10:01]
+*******************************************
+*STARTS* 10-11 10:26
+updating pos: SLV 10-11 10:26 pos:68 cost:27.57
+POS:68 COST:27.6 DELT:2k
+10-11 10:26 *tradeReport* time: 2024-10-10T12:03:52 SLD execPx:28.32 shares:67 avgPx:28.32
+listOfExecs [orderID: 241010025 time: 2024-10-10T12:03:52 side: SLD shares: 67 price: 28.32]
+10-11 10:26 rng:1.8% costTgt:0.98
+10-11 10:26 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:32.14%
+*Periodic Run* 10-11 10:26 last live feed time: 10-11 10:26 been:0min p:28.78 cost:27.6 p/cost:1.044
+p:28.78 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:582 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.934
+10-11 10:26 28.78 2dP:100.0 1dP:99.0
+2d$:n:447 max:28.8 [10-11 9:40] min:27.9 [10-10 9:44] rng:3.0% 1Key:[10-10 9:30] last:[10-11 10:26]
+1d$:n:57 max:28.8 [10-11 9:40] min:28.6 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-11 10:26]
+******************CUT**************************
+CUT 10-11 10:26:32 1dP:99.0 2dp:100.0 px28.79 cost:27.57215 px/Cost:1.0442 reqMargin:1.0147 rng:0.0184
+0:241011061 SLV SELL 22 @28.85 10:26
+0: SELL SLV 10-11 10:26 CUTTER Created target margin:1.01471 cost*target margin:27.98 askPx:28.79
+1:241011062 SLV SELL 22 @29.14 10:26
+1: SELL SLV 10-11 10:26 CUTTER Created target margin:1.01471 cost*target margin:27.98 askPx:28.79
+2:241011063 SLV SELL 24 @29.5 10:26
+2: SELL SLV 10-11 10:26 CUTTER Created target margin:1.01471 cost*target margin:27.98 askPx:28.79
+2D$:n:447 max:28.8 [10-11 9:40] min:27.9 [10-10 9:44] rng:3.0% 1Key:[10-10 9:30] last:[10-11 10:26]
+1D$:n:57 max:28.8 [10-11 9:40] min:28.6 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-11 10:26]
+*******************************************
+*STARTS* 10-11 10:27
+updating pos: SLV 10-11 10:27 pos:68 cost:27.57
+POS:68 COST:27.6 DELT:2k
+10-11 10:27 *tradeReport* time: 2024-10-10T12:03:52 SLD execPx:28.32 shares:67 avgPx:28.32
+listOfExecs [orderID: 241010025 time: 2024-10-10T12:03:52 side: SLD shares: 67 price: 28.32]
+10-11 10:27 rng:1.8% costTgt:0.98
+10-11 10:27 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:32.14%
+*Periodic Run* 10-11 10:27 last live feed time: 10-11 10:27 been:0min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:582 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.935
+10-11 10:27 28.77 2dP:98.0 1dP:90.0
+2d$:n:448 max:28.8 [10-11 9:40] min:27.9 [10-10 9:44] rng:3.0% 1Key:[10-10 9:30] last:[10-11 10:27]
+1d$:n:58 max:28.8 [10-11 9:40] min:28.6 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-11 10:27]
+******************CUT**************************
+CUT 10-11 10:27:56 1dP:90.0 2dp:98.0 px28.8 cost:27.57215 px/Cost:1.0445 reqMargin:1.0147 rng:0.0184
+0:241011065 SLV SELL 22 @28.86 10:27
+0: SELL SLV 10-11 10:27 CUTTER Created target margin:1.01471 cost*target margin:27.98 askPx:28.8
+1:241011066 SLV SELL 22 @29.15 10:27
+1: SELL SLV 10-11 10:27 CUTTER Created target margin:1.01471 cost*target margin:27.98 askPx:28.8
+2:241011067 SLV SELL 24 @29.51 10:27
+2: SELL SLV 10-11 10:27 CUTTER Created target margin:1.01471 cost*target margin:27.98 askPx:28.8
+2D$:n:448 max:28.8 [10-11 9:40] min:27.9 [10-10 9:44] rng:3.0% 1Key:[10-10 9:30] last:[10-11 10:27]
+1D$:n:58 max:28.8 [10-11 9:40] min:28.6 [10-11 9:30] rng:0.6% 1Key:[10-11 9:30] last:[10-11 10:27]
+10-11 10:27 *openOrder* status:Submitted 241011065 SELL 22@28.86
+10-11 10:27 *openOrder* all live orders [241011065 SELL 22@28.86]
+10-11 10:27 *OrderStatus*:Submitted orderId:241011065 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+10-11 10:27 *openOrder* status:PreSubmitted 241011066 SELL 22@29.15
+10-11 10:27 *openOrder* all live orders [241011065 SELL 22@28.86, 241011066 SELL 22@29.15]
+10-11 10:27 *OrderStatus*:PreSubmitted orderId:241011066 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+10-11 10:27 *openOrder* status:PreSubmitted 241011067 SELL 24@29.51
+10-11 10:27 *openOrder* all live orders [241011065 SELL 22@28.86, 241011066 SELL 22@29.15, 241011067 SELL 24@29.51]
+10-11 10:27 *OrderStatus*:PreSubmitted orderId:241011067 filled:0 remaining:24 avgFillPx:0.0 lastFillPx:0.0
+10-11 10:27 *openOrder* status:Submitted 241011066 SELL 22@29.15
+10-11 10:27 *openOrder* all live orders [241011065 SELL 22@28.86, 241011066 SELL 22@29.15, 241011067 SELL 24@29.51]
+10-11 10:27 *OrderStatus*:Submitted orderId:241011066 filled:0 remaining:22 avgFillPx:0.0 lastFillPx:0.0
+10-11 10:27 *openOrder* status:Submitted 241011067 SELL 24@29.51
+10-11 10:27 *openOrder* all live orders [241011065 SELL 22@28.86, 241011066 SELL 22@29.15, 241011067 SELL 24@29.51]
+10-11 10:27 *OrderStatus*:Submitted orderId:241011067 filled:0 remaining:24 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 10-11 11:27 last live feed time: 10-11 11:27 been:0min p:28.8 cost:27.6 p/cost:1.045
+p:28.8 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:582 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.934
+10-11 11:27 *chek orderStatus [241011065=Submitted, 241011066=Submitted, 241011067=Submitted]
+10-11 11:27 *chek openOrders*: [241011065, 241011066, 241011067]
+10-11 11:27 28.8 2dP:99.0 1dP:95.0
+2d$:n:508 max:28.8 [10-11 10:33] min:27.9 [10-10 9:44] rng:3.1% 1Key:[10-10 9:30] last:[10-11 11:27]
+1d$:n:118 max:28.8 [10-11 10:33] min:28.6 [10-11 9:30] rng:0.7% 1Key:[10-11 9:30] last:[10-11 11:27]
+*Periodic Run* 10-11 12:27 last live feed time: 10-11 12:26 been:1min p:28.82 cost:27.6 p/cost:1.045
+p:28.82 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:581 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.933
+10-11 12:27 *chek orderStatus [241011065=Submitted, 241011066=Submitted, 241011067=Submitted]
+10-11 12:27 *chek openOrders*: [241011065, 241011066, 241011067]
+10-11 12:27 28.82 2dP:100.0 1dP:99.0
+2d$:n:564 max:28.8 [10-11 11:59] min:27.9 [10-10 9:44] rng:3.2% 1Key:[10-10 9:30] last:[10-11 12:26]
+1d$:n:174 max:28.8 [10-11 11:59] min:28.6 [10-11 9:30] rng:0.8% 1Key:[10-11 9:30] last:[10-11 12:26]
+*Periodic Run* 10-11 13:27 last live feed time: 10-11 13:27 been:0min p:28.75 cost:27.6 p/cost:1.043
+p:28.75 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:583 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.935
+10-11 13:27 *chek orderStatus [241011065=Submitted, 241011066=Submitted, 241011067=Submitted]
+10-11 13:27 *chek openOrders*: [241011065, 241011066, 241011067]
+10-11 13:27 28.75 2dP:91.0 1dP:63.0
+2d$:n:624 max:28.8 [10-11 12:30] min:27.9 [10-10 9:44] rng:3.2% 1Key:[10-10 9:30] last:[10-11 13:27]
+1d$:n:234 max:28.8 [10-11 12:30] min:28.6 [10-11 9:30] rng:0.8% 1Key:[10-11 9:30] last:[10-11 13:27]
+*Periodic Run* 10-11 14:27 last live feed time: 10-11 14:27 been:0min p:28.76 cost:27.6 p/cost:1.043
+p:28.76 rng:1.8% pos:68 delt:2k cost:27.6 fullLot:582 refillP:26.89 costTgt:0.98 refillP/cost:0.975 refillP/px:0.935
+10-11 14:27 *chek orderStatus [241011065=Submitted, 241011066=Submitted, 241011067=Submitted]
+10-11 14:27 *chek openOrders*: [241011065, 241011066, 241011067]
+10-11 14:27 28.76 2dP:92.0 1dP:67.0
+2d$:n:679 max:28.8 [10-11 12:30] min:27.9 [10-10 9:44] rng:3.2% 1Key:[10-10 9:30] last:[10-11 14:27]
+1d$:n:289 max:28.8 [10-11 12:30] min:28.6 [10-11 9:30] rng:0.8% 1Key:[10-11 9:30] last:[10-11 14:27]
+updating pos: SLV 10-11 15:03 pos:46 cost:27.57
+10-11 15:03 *OrderStatus*:Filled orderId:241011065 filled:22 remaining:0 avgFillPx:28.86 lastFillPx:28.86
+10-11 15:03 *OrderStatus*:Filled deleting finished orders from openOrderMap {241011065=241011065 SELL 22@28.86, 241011067=241011067 SELL 24@29.51, 241011066=241011066 SELL 22@29.15}
+*OrderStatus* remaining openOrders: {241011067=241011067 SELL 24@29.51, 241011066=241011066 SELL 22@29.15}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={241011063=241011063 SELL 4@247.51}, HON={}, HSBC={}, IP={241018237=241018237 SELL 78@49.16, 241018236=241018236 SELL 78@48.52, 241018238=241018238 SELL 78@49.89}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={241011067=241011067 SELL 24@29.51, 241011066=241011066 SELL 22@29.15}, SPY={}, UL={}, UNP={}}
+10-11 15:03 *OrderStatus*:Filled orderId:241011065 filled:22 remaining:0 avgFillPx:28.86 lastFillPx:28.86
+updating pos: SLV 10-11 15:03 pos:46 cost:27.57
+updating pos: SLV 10-11 15:03 pos:46 cost:27.57
+10-11 15:03 *tradeReport* time: 2024-10-11T15:03:33 SLD execPx:28.86 shares:22 avgPx:28.86
+updating pos: SLV 10-11 15:08 pos:46 cost:27.57
+*Periodic Run* 10-11 15:27 last live feed time: 10-11 15:27 been:0min p:28.81 cost:27.6 p/cost:1.045
+p:28.81 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:581 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.935
+10-11 15:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 15:27 *chek openOrders*: [241011066, 241011067]
+10-11 15:27 28.81 2dP:95.0 1dP:80.0
+2d$:n:738 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 15:27]
+1d$:n:348 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 15:27]
+*Periodic Run* 10-11 16:27 last live feed time: 10-11 16:25 been:2min p:28.76 cost:27.6 p/cost:1.043
+p:28.76 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 16:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 16:27 *chek openOrders*: [241011066, 241011067]
+10-11 16:27 28.76 2dP:89.0 1dP:60.0
+2d$:n:780 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:25]
+1d$:n:390 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:25]
+*Periodic Run* 10-11 17:27 last live feed time: 10-11 16:51 been:36min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 17:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 17:27 *chek openOrders*: [241011066, 241011067]
+10-11 17:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-11 18:27 last live feed time: 10-11 16:51 been:96min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 18:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 18:27 *chek openOrders*: [241011066, 241011067]
+10-11 18:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-11 19:27 last live feed time: 10-11 16:51 been:156min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 19:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 19:27 *chek openOrders*: [241011066, 241011067]
+10-11 19:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-11 20:27 last live feed time: 10-11 16:51 been:216min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 20:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 20:27 *chek openOrders*: [241011066, 241011067]
+10-11 20:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-11 21:27 last live feed time: 10-11 16:51 been:276min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 21:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 21:27 *chek openOrders*: [241011066, 241011067]
+10-11 21:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-11 22:27 last live feed time: 10-11 16:51 been:336min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 22:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 22:27 *chek openOrders*: [241011066, 241011067]
+10-11 22:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-11 23:27 last live feed time: 10-11 16:51 been:396min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-11 23:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-11 23:27 *chek openOrders*: [241011066, 241011067]
+10-11 23:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 0:27 last live feed time: 10-11 16:51 been:456min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 0:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 0:27 *chek openOrders*: [241011066, 241011067]
+10-12 0:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 1:27 last live feed time: 10-11 16:51 been:516min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 1:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 1:27 *chek openOrders*: [241011066, 241011067]
+10-12 1:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 2:27 last live feed time: 10-11 16:51 been:576min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 2:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 2:27 *chek openOrders*: [241011066, 241011067]
+10-12 2:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 3:27 last live feed time: 10-11 16:51 been:635min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 3:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 3:27 *chek openOrders*: [241011066, 241011067]
+10-12 3:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 4:27 last live feed time: 10-11 16:51 been:695min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 4:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 4:27 *chek openOrders*: [241011066, 241011067]
+10-12 4:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 5:27 last live feed time: 10-11 16:51 been:755min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 5:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 5:27 *chek openOrders*: [241011066, 241011067]
+10-12 5:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 6:27 last live feed time: 10-11 16:51 been:815min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 6:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 6:27 *chek openOrders*: [241011066, 241011067]
+10-12 6:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*Periodic Run* 10-12 7:27 last live feed time: 10-11 16:51 been:875min p:28.77 cost:27.6 p/cost:1.043
+p:28.77 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:582 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.936
+10-12 7:27 *chek orderStatus [241011065=Filled, 241011066=Submitted, 241011067=Submitted]
+10-12 7:27 *chek openOrders*: [241011066, 241011067]
+10-12 7:27 28.77 2dP:90.0 1dP:64.0
+2d$:n:785 max:28.9 [10-11 15:04] min:27.9 [10-10 9:44] rng:3.3% 1Key:[10-10 9:30] last:[10-11 16:51]
+1d$:n:395 max:28.9 [10-11 15:04] min:28.6 [10-11 9:30] rng:0.9% 1Key:[10-11 9:30] last:[10-11 16:51]
+*******************************************
+*STARTS* 10-14 9:35
+updating pos: SLV 10-14 9:35 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 9:36 9:36:12 no live feed
+10-14 9:36 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 9:36:52 1dP:100.0 2dp:100.0 px28.45 cost:27.57215 px/Cost:1.0318 reqMargin:1.01 rng:0.0
+0:241014009 SLV SELL 15 @28.51 9:36
+0: SELL SLV 10-14 9:36 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.45
+1:241014010 SLV SELL 31 @28.73 9:36
+1: SELL SLV 10-14 9:36 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.45
+2024-10-14T09:36:52.973615341 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 9:37 rng:1.8% costTgt:0.98
+10-14 9:37 tgtMargin:1.0146 tgtPrice:27.98
+ytdReturn:30.58%
+no blocking buy orders: All submitted orders {241014009=SLV 10-14 9:36 CUTTER Created, 241014010=SLV 10-14 9:36 CUTTER Created}
+no blocking buy orders: Active orders: [241014009=SLV 10-14 9:36 CUTTER Created, 241014010=SLV 10-14 9:36 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014009, 241014010]}
+no blocking buy orders: All submitted orders {241014009=SLV 10-14 9:36 CUTTER Created, 241014010=SLV 10-14 9:36 CUTTER Created}
+no blocking buy orders: Active orders: [241014009=SLV 10-14 9:36 CUTTER Created, 241014010=SLV 10-14 9:36 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014009, 241014010]}
+*******************************************
+*STARTS* 10-14 9:52
+updating pos: SLV 10-14 9:52 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 9:52 last live feed time: 10-14 9:52 been:0min p:28.72 cost:27.6 p/cost:1.042
+p:28.72 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:583 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.938
+10-14 9:52 28.72 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 9:52:49 1dP:100.0 2dp:100.0 px28.73 cost:27.57215 px/Cost:1.042 reqMargin:1.01 rng:0.0
+0:241014025 SLV SELL 15 @28.79 9:52
+0: SELL SLV 10-14 9:52 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.73
+1:241014026 SLV SELL 31 @29.02 9:52
+1: SELL SLV 10-14 9:52 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.73
+2024-10-14T09:52:49.425929502 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 9:52 *openOrder* status:Submitted 241014026 SELL 31@29.02
+10-14 9:52 *openOrder* all live orders [241014026 SELL 31@29.02]
+10-14 9:52 *OrderStatus*:Submitted orderId:241014026 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 9:52 *openOrder* status:PreSubmitted 241014025 SELL 15@28.79
+10-14 9:52 *openOrder* all live orders [241014025 SELL 15@28.79, 241014026 SELL 31@29.02]
+10-14 9:52 *OrderStatus*:PreSubmitted orderId:241014025 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 9:52 *openOrder* status:Submitted 241014025 SELL 15@28.79
+10-14 9:52 *openOrder* all live orders [241014025 SELL 15@28.79, 241014026 SELL 31@29.02]
+10-14 9:52 *OrderStatus*:Submitted orderId:241014025 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 9:53 rng:1.8% costTgt:0.98
+10-14 9:53 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:31.86%
+*******************************************
+*STARTS* 10-14 10:15
+*Periodic Run* 10-14 10:15 10:15:24 no live feed
+10-14 10:15 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 10-14 10:16
+updating pos: SLV 10-14 10:16 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 10:16 last live feed time: 10-14 10:16 been:0min p:28.54 cost:27.6 p/cost:1.035
+p:28.54 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:587 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.944
+10-14 10:16 28.54 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 10:16:32 1dP:100.0 2dp:100.0 px28.53 cost:27.57215 px/Cost:1.0347 reqMargin:1.01 rng:0.0
+0:241014052 SLV SELL 15 @28.6 10:16
+0: SELL SLV 10-14 10:16 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+1:241014053 SLV SELL 31 @28.83 10:16
+1: SELL SLV 10-14 10:16 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+2024-10-14T10:16:32.496461027 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:16 *openOrder* status:Inactive 241014053 SELL 31@28.83
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014053 SELL 31@28.83
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014053 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014053 SELL 31@28.83
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014053 SELL 31@28.83
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014053 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014052 SELL 15@28.6
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014052 SELL 15@28.6
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014052 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014052 SELL 15@28.6
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014052 SELL 15@28.6
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014052 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014052=SLV 10-14 10:16 CUTTER Inactive, 241014053=SLV 10-14 10:16 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:16:40 1dP:100.0 2dp:100.0 px28.52 cost:27.57215 px/Cost:1.0344 reqMargin:1.01 rng:0.0
+0:241014058 SLV SELL 15 @28.59 10:16
+0: SELL SLV 10-14 10:16 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.53
+1:241014059 SLV SELL 31 @28.82 10:16
+1: SELL SLV 10-14 10:16 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.53
+2024-10-14T10:16:40.018131824 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:16 *openOrder* status:Inactive 241014058 SELL 15@28.59
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014058 SELL 15@28.59
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014058 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014058 SELL 15@28.59
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014058 SELL 15@28.59
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014058 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014059 SELL 31@28.82
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014059 SELL 31@28.82
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014059 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014059 SELL 31@28.82
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014059 SELL 31@28.82
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014059 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014052=SLV 10-14 10:16 CUTTER Inactive, 241014053=SLV 10-14 10:16 CUTTER Inactive, 241014058=SLV 10-14 10:16 CUTTER Inactive, 241014059=SLV 10-14 10:16 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:16:54 1dP:100.0 2dp:100.0 px28.53 cost:27.57215 px/Cost:1.0347 reqMargin:1.01 rng:0.0
+0:241014073 SLV SELL 15 @28.6 10:16
+0: SELL SLV 10-14 10:16 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+1:241014074 SLV SELL 31 @28.83 10:16
+1: SELL SLV 10-14 10:16 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+2024-10-14T10:16:54.261851389 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:16 *openOrder* status:Inactive 241014073 SELL 15@28.6
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014073 SELL 15@28.6
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014073 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014073 SELL 15@28.6
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014073 SELL 15@28.6
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014073 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014074 SELL 31@28.83
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014074 SELL 31@28.83
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014074 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:16 *openOrder* status:Inactive 241014074 SELL 31@28.83
+10-14 10:16 *openOrder*:removing order.Status:Inactive 241014074 SELL 31@28.83
+10-14 10:16 *openOrder*:after removal.OpenOrders: []
+10-14 10:16 *OrderStatus*:Inactive orderId:241014074 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014052=SLV 10-14 10:16 CUTTER Inactive, 241014053=SLV 10-14 10:16 CUTTER Inactive, 241014058=SLV 10-14 10:16 CUTTER Inactive, 241014059=SLV 10-14 10:16 CUTTER Inactive, 241014073=SLV 10-14 10:16 CUTTER Inactive, 241014074=SLV 10-14 10:16 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:17:01 1dP:100.0 2dp:100.0 px28.54 cost:27.57215 px/Cost:1.0351 reqMargin:1.01 rng:0.0
+0:241014082 SLV SELL 15 @28.6 10:17
+0: SELL SLV 10-14 10:17 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+1:241014083 SLV SELL 31 @28.83 10:17
+1: SELL SLV 10-14 10:17 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+2024-10-14T10:17:01.810435528 remaining position <= 0, break
+2D$:n:438 max:28.9 [10-11 15:04] min:28.4 [10-14 9:36] rng:1.5% 1Key:[10-11 9:30] last:[10-14 10:17]
+1D$:n:48 max:28.7 [10-14 9:49] min:28.4 [10-14 9:36] rng:1.1% 1Key:[10-14 9:30] last:[10-14 10:17]
+10-14 10:17 *openOrder* status:Inactive 241014082 SELL 15@28.6
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014082 SELL 15@28.6
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014082 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 *openOrder* status:Inactive 241014083 SELL 31@28.83
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014083 SELL 31@28.83
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014083 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 *openOrder* status:Inactive 241014082 SELL 15@28.6
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014082 SELL 15@28.6
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014082 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 *openOrder* status:Inactive 241014083 SELL 31@28.83
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014083 SELL 31@28.83
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014083 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 rng:1.8% costTgt:0.98
+10-14 10:17 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:31.04%
+all order finished: {241014052=SLV 10-14 10:16 CUTTER Inactive, 241014053=SLV 10-14 10:16 CUTTER Inactive, 241014058=SLV 10-14 10:16 CUTTER Inactive, 241014059=SLV 10-14 10:16 CUTTER Inactive, 241014073=SLV 10-14 10:16 CUTTER Inactive, 241014074=SLV 10-14 10:16 CUTTER Inactive, 241014082=SLV 10-14 10:17 CUTTER Inactive, 241014083=SLV 10-14 10:17 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:17:07 1dP:100.0 2dp:100.0 px28.53 cost:27.57215 px/Cost:1.0347 reqMargin:1.0147 rng:0.0183
+0:241014088 SLV SELL 15 @28.6 10:17
+0: SELL SLV 10-14 10:17 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.54
+1:241014089 SLV SELL 31 @28.89 10:17
+1: SELL SLV 10-14 10:17 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.54
+2024-10-14T10:17:07.475586323 remaining position <= 0, break
+2D$:n:438 max:28.9 [10-11 15:04] min:28.4 [10-14 9:36] rng:1.5% 1Key:[10-11 9:30] last:[10-14 10:17]
+1D$:n:48 max:28.7 [10-14 9:49] min:28.4 [10-14 9:36] rng:1.1% 1Key:[10-14 9:30] last:[10-14 10:17]
+10-14 10:17 *openOrder* status:Inactive 241014088 SELL 15@28.6
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014088 SELL 15@28.6
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014088 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 *openOrder* status:Inactive 241014089 SELL 31@28.89
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014089 SELL 31@28.89
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014089 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 *openOrder* status:Inactive 241014088 SELL 15@28.6
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014088 SELL 15@28.6
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014088 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:17 *openOrder* status:Inactive 241014089 SELL 31@28.89
+10-14 10:17 *openOrder*:removing order.Status:Inactive 241014089 SELL 31@28.89
+10-14 10:17 *openOrder*:after removal.OpenOrders: []
+10-14 10:17 *OrderStatus*:Inactive orderId:241014089 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+*******************************************
+*STARTS* 10-14 10:18
+updating pos: SLV 10-14 10:18 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 10:18 last live feed time: 10-14 10:18 been:0min p:28.49 cost:27.6 p/cost:1.033
+p:28.49 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:588 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.945
+10-14 10:18 28.49 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 10:18:52 1dP:100.0 2dp:100.0 px28.48 cost:27.57215 px/Cost:1.0329 reqMargin:1.01 rng:0.0
+0:241014065 SLV SELL 15 @28.55 10:18
+0: SELL SLV 10-14 10:18 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.49
+1:241014066 SLV SELL 31 @28.77 10:18
+1: SELL SLV 10-14 10:18 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.49
+2024-10-14T10:18:52.393623574 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:18 *openOrder* status:Inactive 241014066 SELL 31@28.77
+10-14 10:18 *openOrder*:removing order.Status:Inactive 241014066 SELL 31@28.77
+10-14 10:18 *openOrder*:after removal.OpenOrders: []
+10-14 10:18 *OrderStatus*:Inactive orderId:241014066 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:18 *openOrder* status:Inactive 241014066 SELL 31@28.77
+10-14 10:18 *openOrder*:removing order.Status:Inactive 241014066 SELL 31@28.77
+10-14 10:18 *openOrder*:after removal.OpenOrders: []
+10-14 10:18 *OrderStatus*:Inactive orderId:241014066 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:19 rng:1.8% costTgt:0.98
+10-14 10:19 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:30.85%
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+no blocking buy orders: All submitted orders {241014065=SLV 10-14 10:18 CUTTER Created, 241014066=SLV 10-14 10:18 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014065=SLV 10-14 10:18 CUTTER Created]
+active orders grouped by buysell: {SELL=[241014065]}
+*******************************************
+*STARTS* 10-14 10:20
+updating pos: SLV 10-14 10:21 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 10:21 10:21:18 no live feed
+10-14 10:21 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 10:21:45 1dP:100.0 2dp:100.0 px28.52 cost:27.57215 px/Cost:1.0344 reqMargin:1.01 rng:0.0
+0:241014064 SLV SELL 15 @28.58 10:21
+0: SELL SLV 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+1:241014065 SLV SELL 31 @28.81 10:21
+1: SELL SLV 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+2024-10-14T10:21:45.437642788 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:21 *openOrder* status:Inactive 241014064 SELL 15@28.58
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014064 SELL 15@28.58
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014064 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:21 *openOrder* status:Inactive 241014064 SELL 15@28.58
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014064 SELL 15@28.58
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014064 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:21 *openOrder* status:Inactive 241014065 SELL 31@28.81
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014065 SELL 31@28.81
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014065 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:21 *openOrder* status:Inactive 241014065 SELL 31@28.81
+10-14 10:21 *openOrder*:removing order.Status:Inactive 241014065 SELL 31@28.81
+10-14 10:21 *openOrder*:after removal.OpenOrders: []
+10-14 10:21 *OrderStatus*:Inactive orderId:241014065 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:21:58 1dP:100.0 2dp:100.0 px28.53 cost:27.57215 px/Cost:1.0347 reqMargin:1.01 rng:0.0
+0:241014080 SLV SELL 15 @28.59 10:21
+0: SELL SLV 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.53
+1:241014081 SLV SELL 31 @28.82 10:21
+1: SELL SLV 10-14 10:21 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.53
+2024-10-14T10:21:58.249282347 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014080 SELL 15@28.59
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014080 SELL 15@28.59
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014080 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014080 SELL 15@28.59
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014080 SELL 15@28.59
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014080 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014081 SELL 31@28.82
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014081 SELL 31@28.82
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014081 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014081 SELL 31@28.82
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014081 SELL 31@28.82
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014081 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:02 1dP:100.0 2dp:100.0 px28.51 cost:27.57215 px/Cost:1.034 reqMargin:1.01 rng:0.0
+0:241014086 SLV SELL 15 @28.58 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+1:241014087 SLV SELL 31 @28.81 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+2024-10-14T10:22:02.015035001 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014086 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014086 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014086 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014086 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014086 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014086 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014087 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014087 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014087 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014087 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014087 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014087 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:06 1dP:100.0 2dp:100.0 px28.52 cost:27.57215 px/Cost:1.0344 reqMargin:1.01 rng:0.0
+0:241014094 SLV SELL 15 @28.58 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+1:241014095 SLV SELL 31 @28.81 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+2024-10-14T10:22:06.210863813 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014094 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014094 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014094 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014094 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014094 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014094 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014095 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014095 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014095 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014095 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014095 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014095 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive, 241014094=SLV 10-14 10:22 CUTTER Inactive, 241014095=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:09 1dP:100.0 2dp:100.0 px28.53 cost:27.57215 px/Cost:1.0347 reqMargin:1.01 rng:0.0
+0:241014100 SLV SELL 15 @28.6 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+1:241014101 SLV SELL 31 @28.83 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.54
+2024-10-14T10:22:09.007029035 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014100 SELL 15@28.6
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014100 SELL 15@28.6
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014100 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014101 SELL 31@28.83
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014101 SELL 31@28.83
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014101 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014100 SELL 15@28.6
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014100 SELL 15@28.6
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014100 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014101 SELL 31@28.83
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014101 SELL 31@28.83
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014101 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive, 241014094=SLV 10-14 10:22 CUTTER Inactive, 241014095=SLV 10-14 10:22 CUTTER Inactive, 241014100=SLV 10-14 10:22 CUTTER Inactive, 241014101=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:17 1dP:100.0 2dp:100.0 px28.52 cost:27.57215 px/Cost:1.0344 reqMargin:1.01 rng:0.0
+0:241014110 SLV SELL 15 @28.59 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.53
+1:241014111 SLV SELL 31 @28.82 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.53
+2024-10-14T10:22:17.496302994 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014110 SELL 15@28.59
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014110 SELL 15@28.59
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014110 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014111 SELL 31@28.82
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014111 SELL 31@28.82
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014111 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014110 SELL 15@28.59
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014110 SELL 15@28.59
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014110 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014111 SELL 31@28.82
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014111 SELL 31@28.82
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014111 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive, 241014094=SLV 10-14 10:22 CUTTER Inactive, 241014095=SLV 10-14 10:22 CUTTER Inactive, 241014100=SLV 10-14 10:22 CUTTER Inactive, 241014101=SLV 10-14 10:22 CUTTER Inactive, 241014110=SLV 10-14 10:22 CUTTER Inactive, 241014111=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:18 1dP:100.0 2dp:100.0 px28.52 cost:27.57215 px/Cost:1.0344 reqMargin:1.01 rng:0.0
+0:241014114 SLV SELL 15 @28.58 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+1:241014115 SLV SELL 31 @28.81 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+2024-10-14T10:22:18.979765372 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014114 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014114 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014114 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014114 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014114 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014114 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014115 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014115 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014115 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014115 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014115 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014115 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive, 241014094=SLV 10-14 10:22 CUTTER Inactive, 241014095=SLV 10-14 10:22 CUTTER Inactive, 241014100=SLV 10-14 10:22 CUTTER Inactive, 241014101=SLV 10-14 10:22 CUTTER Inactive, 241014110=SLV 10-14 10:22 CUTTER Inactive, 241014111=SLV 10-14 10:22 CUTTER Inactive, 241014114=SLV 10-14 10:22 CUTTER Inactive, 241014115=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:21 1dP:100.0 2dp:100.0 px28.51 cost:27.57215 px/Cost:1.034 reqMargin:1.01 rng:0.0
+0:241014116 SLV SELL 15 @28.58 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+1:241014117 SLV SELL 31 @28.81 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.52
+2024-10-14T10:22:21.233024103 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014116 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014116 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014116 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014116 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014116 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014116 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014117 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014117 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014117 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014117 SELL 31@28.81
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014117 SELL 31@28.81
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014117 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 rng:1.8% costTgt:0.98
+10-14 10:22 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:30.85%
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive, 241014094=SLV 10-14 10:22 CUTTER Inactive, 241014095=SLV 10-14 10:22 CUTTER Inactive, 241014100=SLV 10-14 10:22 CUTTER Inactive, 241014101=SLV 10-14 10:22 CUTTER Inactive, 241014110=SLV 10-14 10:22 CUTTER Inactive, 241014111=SLV 10-14 10:22 CUTTER Inactive, 241014114=SLV 10-14 10:22 CUTTER Inactive, 241014115=SLV 10-14 10:22 CUTTER Inactive, 241014116=SLV 10-14 10:22 CUTTER Inactive, 241014117=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:38 1dP:100.0 2dp:100.0 px28.52 cost:27.57215 px/Cost:1.0344 reqMargin:1.0147 rng:0.0183
+0:241014127 SLV SELL 15 @28.58 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.52
+1:241014128 SLV SELL 31 @28.87 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.52
+2024-10-14T10:22:38.263863566 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014127 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014127 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014127 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014128 SELL 31@28.87
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014128 SELL 31@28.87
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014128 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014127 SELL 15@28.58
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014127 SELL 15@28.58
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014127 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014128 SELL 31@28.87
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014128 SELL 31@28.87
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014128 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+all order finished: {241014064=SLV 10-14 10:21 CUTTER Inactive, 241014065=SLV 10-14 10:21 CUTTER Inactive, 241014080=SLV 10-14 10:21 CUTTER Inactive, 241014081=SLV 10-14 10:21 CUTTER Inactive, 241014086=SLV 10-14 10:22 CUTTER Inactive, 241014087=SLV 10-14 10:22 CUTTER Inactive, 241014094=SLV 10-14 10:22 CUTTER Inactive, 241014095=SLV 10-14 10:22 CUTTER Inactive, 241014100=SLV 10-14 10:22 CUTTER Inactive, 241014101=SLV 10-14 10:22 CUTTER Inactive, 241014110=SLV 10-14 10:22 CUTTER Inactive, 241014111=SLV 10-14 10:22 CUTTER Inactive, 241014114=SLV 10-14 10:22 CUTTER Inactive, 241014115=SLV 10-14 10:22 CUTTER Inactive, 241014116=SLV 10-14 10:22 CUTTER Inactive, 241014117=SLV 10-14 10:22 CUTTER Inactive, 241014127=SLV 10-14 10:22 CUTTER Inactive, 241014128=SLV 10-14 10:22 CUTTER Inactive}
+******************CUT**************************
+CUT 10-14 10:22:41 1dP:100.0 2dp:100.0 px28.53 cost:27.57215 px/Cost:1.0347 reqMargin:1.0147 rng:0.0183
+0:241014131 SLV SELL 15 @28.59 10:22
+0: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.53
+1:241014132 SLV SELL 31 @28.88 10:22
+1: SELL SLV 10-14 10:22 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.53
+2024-10-14T10:22:41.021570708 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:22 *openOrder* status:Inactive 241014131 SELL 15@28.59
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014131 SELL 15@28.59
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014131 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014131 SELL 15@28.59
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014131 SELL 15@28.59
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014131 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014132 SELL 31@28.88
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014132 SELL 31@28.88
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014132 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:22 *openOrder* status:Inactive 241014132 SELL 31@28.88
+10-14 10:22 *openOrder*:removing order.Status:Inactive 241014132 SELL 31@28.88
+10-14 10:22 *openOrder*:after removal.OpenOrders: []
+10-14 10:22 *OrderStatus*:Inactive orderId:241014132 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+*******************************************
+*STARTS* 10-14 10:27
+updating pos: SLV 10-14 10:27 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 10:27 last live feed time: 10-14 10:27 been:0min p:28.57 cost:27.6 p/cost:1.036
+p:28.57 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:586 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.943
+10-14 10:27 28.57 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 10-14 10:28
+updating pos: SLV 10-14 10:28 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 10:28 last live feed time: 10-14 10:28 been:0min p:28.55 cost:27.6 p/cost:1.035
+p:28.55 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:587 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.943
+10-14 10:28 28.55 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-14 10:28:34 1dP:100.0 2dp:100.0 px28.56 cost:27.57215 px/Cost:1.0358 reqMargin:1.01 rng:0.0
+0:241014062 SLV SELL 15 @28.62 10:28
+0: SELL SLV 10-14 10:28 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.56
+1:241014063 SLV SELL 31 @28.85 10:28
+1: SELL SLV 10-14 10:28 CUTTER Created target margin:1.01 cost*target margin:27.85 askPx:28.56
+2024-10-14T10:28:34.597376045 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 10:28 rng:1.8% costTgt:0.98
+10-14 10:28 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:31.08%
+10-14 10:28 *openOrder* status:Inactive 241014062 SELL 15@28.62
+10-14 10:28 *openOrder* all live orders [241014062 SELL 15@28.62]
+10-14 10:28 *OrderStatus*:Inactive orderId:241014062 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:28 *openOrder* status:Inactive 241014062 SELL 15@28.62
+10-14 10:28 *openOrder* all live orders [241014062 SELL 15@28.62]
+10-14 10:28 *OrderStatus*:Inactive orderId:241014062 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:28 *openOrder* status:Inactive 241014063 SELL 31@28.85
+10-14 10:28 *openOrder* all live orders [241014062 SELL 15@28.62, 241014063 SELL 31@28.85]
+10-14 10:28 *OrderStatus*:Inactive orderId:241014063 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 10:28 *openOrder* status:Inactive 241014063 SELL 31@28.85
+10-14 10:28 *openOrder* all live orders [241014062 SELL 15@28.62, 241014063 SELL 31@28.85]
+10-14 10:28 *OrderStatus*:Inactive orderId:241014063 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+updating pos: SLV 10-14 10:52:28.054 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+no blocking buy orders: All submitted orders {241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014062=SLV 10-14 10:28 CUTTER Inactive, 241014063=SLV 10-14 10:28 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014062, 241014063]}
+*******************************************
+*STARTS* 10-14 11:03:7.809
+updating pos: SLV 10-14 11:03:9.881 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+*Periodic Run* 10-14 11:03:27.951 last live feed time: 10-14 11:03 been:0min p:28.45 cost:27.6 p/cost:1.032
+p:28.45 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:589 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.947
+10-14 11:03:27.952 28.45 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+10-14 11:03:42.865 rng:1.8% costTgt:0.98
+10-14 11:03:42.865 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:30.62%
+******************CUT**************************
+CUT 10-14 11:03:43 1dP:100.0 2dp:100.0 px28.44 cost:27.57215 px/Cost:1.0315 reqMargin:1.0147 rng:0.0183
+0:241014117 SLV SELL 15 @28.51 11:03
+0: SELL SLV 10-14 11:03 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.45
+1:241014118 SLV SELL 31 @28.8 11:03
+1: SELL SLV 10-14 11:03 CUTTER Created target margin:1.01467 cost*target margin:27.98 askPx:28.45
+2024-10-14T11:03:43.123539746 remaining position <= 0, break
+2D$:n<5
+1D$:n<5
+10-14 11:03:43.810 *openOrder* status:Inactive 241014117 SELL 15@28.51
+10-14 11:03:43.811 *openOrder* all live orders [241014117 SELL 15@28.51]
+10-14 11:03:43.811 *OrderStatus*:Inactive orderId:241014117 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 11:03:43.811 *openOrder* status:Inactive 241014117 SELL 15@28.51
+10-14 11:03:43.811 *openOrder* all live orders [241014117 SELL 15@28.51]
+10-14 11:03:43.812 *OrderStatus*:Inactive orderId:241014117 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 11:03:43.821 *openOrder* status:Inactive 241014118 SELL 31@28.8
+10-14 11:03:43.822 *openOrder* all live orders [241014117 SELL 15@28.51, 241014118 SELL 31@28.8]
+10-14 11:03:43.822 *OrderStatus*:Inactive orderId:241014118 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 11:03:43.864 *openOrder* status:Inactive 241014118 SELL 31@28.8
+10-14 11:03:43.864 *openOrder* all live orders [241014117 SELL 15@28.51, 241014118 SELL 31@28.8]
+10-14 11:03:43.865 *OrderStatus*:Inactive orderId:241014118 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+updating pos: SLV 10-14 11:04:21.269 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+updating pos: SLV 10-14 11:07:10.167 pos:46 cost:27.57
+updating pos: SLV 10-14 11:07:10.187 pos:46 cost:27.57
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+updating pos: SLV 10-14 11:09:26.465 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+updating pos: SLV 10-14 11:12:37.959 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+no blocking buy orders: All submitted orders {241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive}
+no blocking buy orders: Active orders: [241014117=SLV 10-14 11:03 CUTTER Inactive, 241014118=SLV 10-14 11:03 CUTTER Inactive]
+active orders grouped by buysell: {SELL=[241014117, 241014118]}
+*Periodic Run* 10-14 12:03:27.889 last live feed time: 10-14 12:03 been:0min p:28.39 cost:27.6 p/cost:1.03
+p:28.39 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:590 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.949
+10-14 12:03:27.890 *chek orderStatus [241014117=Inactive, 241014118=Inactive]
+10-14 12:03:27.890 *chek openOrders*: [241014117, 241014118]
+10-14 12:03:27.890 28.39 2dP:15.0 1dP:19.0
+2d$:n:543 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 12:03]
+1d$:n:153 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 12:03]
+*Periodic Run* 10-14 13:03:27.877 last live feed time: 10-14 13:03 been:0min p:28.43 cost:27.6 p/cost:1.031
+p:28.43 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:589 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.947
+10-14 13:03:27.877 *chek orderStatus [241014117=Inactive, 241014118=Inactive]
+10-14 13:03:27.877 *chek openOrders*: [241014117, 241014118]
+10-14 13:03:27.877 28.43 2dP:22.0 1dP:28.0
+2d$:n:599 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 13:03]
+1d$:n:209 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 13:03]
+updating pos: SLV 10-14 13:17:17.056 pos:46 cost:27.57
+updating pos: SLV 10-14 13:17:17.070 pos:46 cost:27.57
+updating pos: SLV 10-14 13:48:56.972 pos:46 cost:27.57
+updating pos: SLV 10-14 13:48:56.976 pos:46 cost:27.57
+*Periodic Run* 10-14 14:03:27.877 last live feed time: 10-14 14:02 been:0min p:28.42 cost:27.6 p/cost:1.031
+p:28.42 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:589 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.948
+10-14 14:03:27.877 *chek orderStatus [241014117=Inactive, 241014118=Inactive]
+10-14 14:03:27.877 *chek openOrders*: [241014117, 241014118]
+10-14 14:03:27.877 28.42 2dP:20.0 1dP:26.0
+2d$:n:653 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 14:02]
+1d$:n:263 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 14:02]
+*Periodic Run* 10-14 15:03:27.871 last live feed time: 10-14 14:14 been:48min p:28.44 cost:27.6 p/cost:1.031
+p:28.44 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:589 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.947
+10-14 15:03:27.871 *chek orderStatus [241014117=Inactive, 241014118=Inactive]
+10-14 15:03:27.871 *chek openOrders*: [241014117, 241014118]
+10-14 15:03:27.871 28.44 2dP:24.0 1dP:31.0
+2d$:n:664 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 14:14]
+1d$:n:274 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 14:14]
+*Periodic Run* 10-14 16:03:27.879 last live feed time: 10-14 14:14 been:108min p:28.44 cost:27.6 p/cost:1.031
+p:28.44 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:589 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.947
+10-14 16:03:27.879 *chek orderStatus [241014117=Inactive, 241014118=Inactive]
+10-14 16:03:27.879 *chek openOrders*: [241014117, 241014118]
+10-14 16:03:27.879 28.44 2dP:24.0 1dP:31.0
+2d$:n:664 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 14:14]
+1d$:n:274 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 14:14]
+*Periodic Run* 10-14 17:03:27.895 last live feed time: 10-14 14:14 been:168min p:28.44 cost:27.6 p/cost:1.031
+p:28.44 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:589 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.947
+10-14 17:03:27.896 *chek orderStatus [241014117=Inactive, 241014118=Inactive]
+10-14 17:03:27.896 *chek openOrders*: [241014117, 241014118]
+10-14 17:03:27.896 28.44 2dP:24.0 1dP:31.0
+2d$:n:664 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 14:14]
+1d$:n:274 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 14:14]
+*******************************************
+*STARTS* 10-14 17:59:43.710
+updating pos: SLV 10-14 17:59:45.899 pos:46 cost:27.57
+POS:46 COST:27.6 DELT:1k
+10-14 17:59:45.985 *openOrder* status:Submitted 241014025 SELL 15@28.79
+openOrder does not contain order SLV 241014025 SELL 15@28.79
+10-14 17:59:46.016 *openOrder* all live orders [241014025 SELL 15@28.79]
+10-14 17:59:46.040 *OrderStatus*:Submitted orderId:241014025 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 17:59:46.113 *openOrder* status:Submitted 241014026 SELL 31@29.02
+openOrder does not contain order SLV 241014026 SELL 31@29.02
+10-14 17:59:46.116 *openOrder* all live orders [241014025 SELL 15@28.79, 241014026 SELL 31@29.02]
+10-14 17:59:46.118 *OrderStatus*:Submitted orderId:241014026 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 17:59:49.917 *OrderStatus*:Cancelled orderId:241014025 filled:0 remaining:15 avgFillPx:0.0 lastFillPx:0.0
+10-14 17:59:49.919 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241014025=241014025 SELL 15@28.79, 241014026=241014026 SELL 31@29.02}
+*OrderStatus* remaining openOrders: {241014026=241014026 SELL 31@29.02}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={241014111=241014111 SELL 78@48.56, 241014112=241014112 SELL 78@49.04}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={241014097=241014097 SELL 4@311.54, 241014098=241014098 SELL 4@314.63}, MMM={}, MRK={}, PG={}, PHO={}, SLV={241014026=241014026 SELL 31@29.02}, SPY={}, UL={}, UNP={}}
+10-14 17:59:49.922 *OrderStatus*:Cancelled orderId:241014026 filled:0 remaining:31 avgFillPx:0.0 lastFillPx:0.0
+10-14 17:59:49.922 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241014026=241014026 SELL 31@29.02}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={241014111=241014111 SELL 78@48.56, 241014112=241014112 SELL 78@49.04}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={241014097=241014097 SELL 4@311.54, 241014098=241014098 SELL 4@314.63}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+*Periodic Run* 10-14 18:00:3.864 last live feed time: 10-14 18:00 been:0min p:28.47 cost:27.6 p/cost:1.033
+p:28.47 rng:0.0% pos:46 delt:1k cost:27.6 fullLot:588 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.946
+10-14 18:00:3.864 *chek orderStatus [241014025=Cancelled, 241014026=Cancelled]
+10-14 18:00:3.865 28.47 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+10-14 18:01:23.854 rng:1.8% costTgt:0.98
+10-14 18:01:23.855 tgtMargin:1.0147 tgtPrice:27.98
+ytdReturn:31.04%
+*Periodic Run* 10-14 19:00:3.880 last live feed time: 10-14 18:48 been:12min p:28.52 cost:27.6 p/cost:1.034
+p:28.52 rng:1.8% pos:46 delt:1k cost:27.6 fullLot:587 refillP:26.93 costTgt:0.98 refillP/cost:0.977 refillP/px:0.944
+10-14 19:00:3.880 *chek orderStatus [241014025=Cancelled, 241014026=Cancelled]
+10-14 19:00:3.880 28.52 2dP:38.0 1dP:49.0
+2d$:n:788 max:28.9 [10-11 15:04] min:28.3 [10-14 11:28] rng:1.9% 1Key:[10-11 9:30] last:[10-14 18:48]
+1d$:n:398 max:28.7 [10-14 9:49] min:28.3 [10-14 11:28] rng:1.5% 1Key:[10-14 9:30] last:[10-14 18:48]

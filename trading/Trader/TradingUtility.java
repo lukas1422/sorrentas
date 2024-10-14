@@ -626,7 +626,7 @@ public class TradingUtility {
     }
 
     public static String usDateTime() {
-        return getESTDateTimeNow().format(MdHmm);
+        return getESTDateTimeNow().format(MdHmmsSSS);
     }
 
     static double round5(double n) {
