@@ -42922,3 +42922,206 @@
 10-14 18:59:1.955 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
 10-14 19:00:0.259 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
 10-14 19:00:0.259 Conn:disconnected
+10-15 8:58:41.063 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
+10-15 8:58:43.074 Conn error ID: -1 code: 504 msg: Not connected 
+10-15 8:58:43.075 Conn error ID: -1 code: 504 msg: Not connected 
+10-15 8:59:6.366 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
+10-15 8:59:8.386 Conn error ID: -1 code: 504 msg: Not connected 
+10-15 9:00:8.369 ****Conn:connected****
+10-15 9:00:8.409 Conn: account list: [U19778287]
+10-15 9:00:8.410 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm.nj 
+10-15 9:00:8.410 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfuture 
+10-15 9:00:8.410 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:cashfarm 
+10-15 9:00:8.410 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+10-15 9:00:8.410 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+10-15 9:00:8.412 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+10-15 9:00:20.293 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
+10-15 9:00:20.300 Conn:disconnected
+10-15 9:00:21.759 Conn error ID: -1 code: 504 msg: Not connected 
+10-15 9:00:21.760 Conn error ID: -1 code: 504 msg: Not connected 
+10-15 9:01:41.369 ****Conn:connected****
+10-15 9:01:41.370 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm.nj 
+10-15 9:01:41.370 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfuture 
+10-15 9:01:41.372 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:cashfarm 
+10-15 9:01:41.372 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+10-15 9:01:41.372 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+10-15 9:01:41.373 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+10-15 9:01:41.411 Conn: account list: [U19778287]
+10-15 9:09:56.007 Conn: account list: [U19778287]
+10-15 9:09:56.048 ****Conn:connected****
+10-15 9:09:56.049 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm.nj 
+10-15 9:09:56.049 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfuture 
+10-15 9:09:56.049 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:cashfarm 
+10-15 9:09:56.049 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+10-15 9:09:56.049 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+10-15 9:09:56.050 Conn error ID: -1 code: 2158 msg: Sec-def data farm connection is OK:secdefil 
+10-15 9:11:56.301 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
+10-15 9:11:56.302 Conn:disconnected
+10-15 9:13:30.212 ****Conn:connected****
+10-15 9:13:30.252 Conn: account list: [U19778287]
+10-15 9:13:30.253 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm.nj 
+10-15 9:13:30.254 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:hfarm 
+10-15 9:13:30.254 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:jfarm 
+10-15 9:13:30.255 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfuture 
+10-15 9:13:30.256 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:cashfarm 
+10-15 9:13:30.260 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:eufarmnj 
+10-15 9:13:30.261 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:usfarm 
+10-15 9:13:30.265 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:euhmds 
+10-15 9:13:30.267 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:apachmds 
+10-15 9:13:30.270 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+10-15 9:13:30.271 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:fundfarm 
+10-15 9:13:30.271 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:13:42.032 Conn error ID: -1 code: 2105 msg: HMDS data farm connection is broken:apachmds 
+10-15 9:13:42.033 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:apachmds 
+10-15 9:13:45.218 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:13:46.844 Conn error ID: -1 code: 2103 msg: Market data farm connection is broken:hfarm 
+10-15 9:13:46.845 Conn error ID: -1 code: 2104 msg: Market data farm connection is OK:hfarm 
+10-15 9:14:36.287 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:15:43.232 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:15:45.186 Conn error ID: -1 code: 2105 msg: HMDS data farm connection is broken:ushmds 
+10-15 9:15:45.213 Conn error ID: 60065 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.213 Conn error ID: 60080 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.213 Conn error ID: 60070 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.214 Conn error ID: 60015 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.214 Conn error ID: 60180 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.214 Conn error ID: 60020 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.215 Conn error ID: 60175 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:45.215 Conn error ID: 60075 code: 165 msg: Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection... 
+10-15 9:15:50.700 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:ushmds 
+10-15 9:15:50.700 Conn error ID: 60065 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.703 Conn error ID: 60080 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.706 Conn error ID: 60070 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.709 Conn error ID: 60015 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.711 Conn error ID: 60180 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.713 Conn error ID: 60020 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.715 Conn error ID: 60175 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:15:50.717 Conn error ID: 60075 code: 165 msg: Historical Market Data Service query message:HMDS server connection was successful. 
+10-15 9:16:58.807 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:18:13.455 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:19:19.019 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:20:26.003 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:21:47.847 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:22:51.931 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:23:56.358 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:25:10.867 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:26:19.246 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:27:22.767 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:28:30.881 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:29:49.443 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:31:14.960 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:32:18.631 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:33:29.143 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:34:45.474 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:35:51.922 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:37:6.623 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:38:6.604 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:39:27.664 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:40:46.909 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:41:56.447 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:43:14.521 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:44:30.236 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:45:39.262 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:46:51.578 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:48:2.799 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:49:26.956 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:50:32.496 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:51:41.921 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:52:47.560 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:53:55.887 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:54:58.463 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:56:2.375 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:57:8.111 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:58:29.001 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 9:59:38.207 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:00:47.948 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:02:4.289 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:03:7.636 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:04:21.886 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:05:38.200 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:06:48.923 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:08:22.924 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:09:29.324 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:10:36.616 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:11:42.804 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:12:54.199 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:13:59.052 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:15:1.101 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:16:11.184 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:17:14.951 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:18:21.625 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:19:25.944 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:20:38.788 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:21:53.432 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:22:59.032 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:24:26.920 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:25:23.788 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:26:28.439 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:27:45.388 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:28:57.648 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:30:17.330 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:31:18.902 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:32:32.526 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:33:36.376 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:34:50.671 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:36:3.446 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:37:9.202 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:38:24.840 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:39:36.776 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:40:41.101 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:41:48.010 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:42:55.319 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:44:17.579 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:45:22.609 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:46:33.323 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:47:44.777 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:48:46.654 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:50:3.852 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:51:7.520 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:52:19.423 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:53:34.893 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:54:37.656 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:55:40.018 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:56:52.449 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:58:8.923 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 10:59:30.421 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:00:49.308 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:02:3.371 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:03:9.773 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:04:12.395 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:05:31.910 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:06:55.020 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:08:6.912 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:09:14.501 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:10:14.949 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:11:30.142 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:12:45.370 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:13:56.134 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:15:16.256 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:16:29.371 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:17:52.106 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:18:58.284 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:20:1.014 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:21:17.475 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:22:28.239 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:23:44.720 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:24:52.461 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:26:12.588 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:27:31.450 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:28:43.705 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:30:5.767 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:31:9.248 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:31:30.513 Conn error ID: -1 code: 2105 msg: HMDS data farm connection is broken:euhmds 
+10-15 11:31:32.725 Conn error ID: -1 code: 2106 msg: HMDS data farm connection is OK:euhmds 
+10-15 11:32:26.572 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:33:28.532 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:34:46.137 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:36:41.567 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:37:13.869 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:38:18.017 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:39:29.812 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:40:46.343 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:42:0.249 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:43:8.795 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:44:18.721 Conn error ID: -1 code: 2157 msg: Sec-def data farm connection is broken:secdefhk 
+10-15 11:45:0.623 Conn error ID: -1 code: 502 msg: Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002 
+10-15 11:45:0.623 Conn:disconnected

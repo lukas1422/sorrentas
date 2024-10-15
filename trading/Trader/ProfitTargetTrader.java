@@ -95,7 +95,7 @@ class ProfitTargetTrader implements LiveHandler,
     private static final int GATEWAY_PORT = 4001;
     private static final int TWS_PORT = 7496;
     //    private static final int PORT_TO_USE = TWS_PORT;
-    private static final int PORT_TO_USE = GATEWAY_PORT;
+    private static final int PORT_TO_USE = TWS_PORT;
 
     private static Map<String, Double> rng = new HashMap<>();
 

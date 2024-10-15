@@ -141,7 +141,7 @@ public class CheckLiveOrders implements LiveHandler,
     private static final int GATEWAY_PORT = 4001;
     private static final int TWS_PORT = 7496;
     //    private static final int PORT_TO_USE = TWS_PORT;
-    private static final int PORT_TO_USE = GATEWAY_PORT;
+    private static final int PORT_TO_USE = TWS_PORT;
 
     private static Map<String, Double> rng = new HashMap<>();
 
@@ -221,7 +221,7 @@ public class CheckLiveOrders implements LiveHandler,
         CountDownLatch l = new CountDownLatch(1);
 
         try {
-            api.connect("127.0.0.1", PORT_TO_USE, 7, "");
+            api.connect("127.0.0.1", PORT_TO_USE, 8, "");
             l.countDown();
             pr("Latch counted down", PORT_TO_USE, getESTDateTimeNow().format(MdHmmss));
         } catch (IllegalStateException ex) {
