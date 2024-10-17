@@ -1240,3 +1240,230 @@ ytdReturn:17.42%
 10-16 22:42:42.656 71.23 2dP:68.0 1dP:59.0
 2d$:n:766 max:71.5 [10-16 10:19] min:70.8 [10-15 15:58] rng:1.0% 1Key:[10-15 9:30] last:[10-16 15:56]
 1d$:n:376 max:71.4 [10-16 10:19] min:70.9 [10-16 9:40] rng:0.7% 1Key:[10-16 9:30] last:[10-16 15:56]
+*******************************************
+*STARTS* 10-17 9:05:25.264
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 10-17 9:05:45.453 9:05:45 no live feed
+10-17 9:05:45.453 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+10-17 9:06:22.940 rng:1.1% costTgt:0.98
+10-17 9:06:22.940 tgtMargin:1.01 tgtPrice:0.0
+ytdReturn:17.02%
+*Periodic Run* 10-17 10:05:45.183 last live feed time: 10-17 9:51 been:14min p:70.84 
+10-17 10:05:45.183 70.84 2dP:11.0 1dP:0.0
+2d$:n:789 max:71.5 [10-16 10:19] min:70.8 [10-15 15:58] rng:1.0% 1Key:[10-15 9:30] last:[10-17 9:51]
+1d$:n:9 max:71.0 [10-17 9:30] min:71.0 [10-17 9:51] rng:0.1% 1Key:[10-17 9:30] last:[10-17 9:51]
+10:10:25.813581688 no blocking orders,empty
+*1Buy*@70.83 10-17 10:10:25 1dp:0.0 2dp:11.0
+cash remaining: 119427.27
+0:241019403 PHO BUY 78 @70.72 10:10 bid is:70.79
+10:10 0: PHO orderID:241019403 tradeID:241019403 BUY 78 @70.72 factor:0.999 PHO 10-17 10:10 ADDER Created
+1:241019404 PHO BUY 78 @70.08 10:10 bid is:70.79
+10:10 1: PHO orderID:241019404 tradeID:241019404 BUY 78 @70.08 factor:0.99 PHO 10-17 10:10 ADDER Created
+1D$:n:10 max:71.0 [10-17 9:30] min:70.9 [10-17 10:10] rng:0.1% 1Key:[10-17 9:30] last:[10-17 10:10]
+2D$:n:790 max:71.5 [10-16 10:19] min:70.8 [10-15 15:58] rng:1.0% 1Key:[10-15 9:30] last:[10-17 10:10]
+10-17 10:10:31.357 *openOrder* status:PreSubmitted 241019404 BUY 78@70.08
+10-17 10:10:31.358 *openOrder* all live orders [241019404 BUY 78@70.08]
+10-17 10:10:31.358 *OrderStatus*:PreSubmitted orderId:241019404 filled:0 remaining:78 avgFillPx:0.0 lastFillPx:0.0
+10-17 10:10:31.379 *openOrder* status:Submitted 241019403 BUY 78@70.72
+10-17 10:10:31.379 *openOrder* all live orders [241019403 BUY 78@70.72, 241019404 BUY 78@70.08]
+10-17 10:10:31.379 *OrderStatus*:Submitted orderId:241019403 filled:0 remaining:78 avgFillPx:0.0 lastFillPx:0.0
+10-17 10:10:31.471 *openOrder* status:Submitted 241019404 BUY 78@70.08
+10-17 10:10:31.471 *openOrder* all live orders [241019403 BUY 78@70.72, 241019404 BUY 78@70.08]
+10-17 10:10:31.471 *OrderStatus*:Submitted orderId:241019404 filled:0 remaining:78 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 10-17 10:16:55.668 pos:1 cost:70.72
+10-17 10:16:55.670 *tradeReport* time: 2024-10-17T10:16:54 BOT execPx:70.72 shares:1 avgPx:70.72
+10-17 10:16:55.674 *openOrder* status:Submitted 241019403 BUY 78@70.72
+10-17 10:16:55.674 *openOrder* all live orders [241019403 BUY 78@70.72, 241019404 BUY 78@70.08]
+10-17 10:16:55.674 *OrderStatus*:Submitted orderId:241019403 filled:1 remaining:77 avgFillPx:70.72 lastFillPx:70.72
+updating pos: PHO 10-17 10:16:55.688 pos:78 cost:70.72
+10-17 10:16:55.690 *tradeReport* time: 2024-10-17T10:16:54 BOT execPx:70.72 shares:77 avgPx:70.72
+10-17 10:16:55.692 *openOrder* status:Filled 241019403 BUY 78@70.72
+10-17 10:16:55.692 *openOrder*:removing order.Status:Filled 241019403 BUY 78@70.72
+10-17 10:16:55.692 *openOrder*:after removal.OpenOrders: [241019404]
+10-17 10:16:55.692 *openOrder* all live orders [241019404 BUY 78@70.08]
+10-17 10:16:55.692 *OrderStatus*:Filled orderId:241019403 filled:78 remaining:0 avgFillPx:70.72 lastFillPx:70.72
+10-17 10:16:55.694 *openOrder* status:Filled 241019403 BUY 78@70.72
+10-17 10:16:55.695 *openOrder*:removing order.Status:Filled 241019403 BUY 78@70.72
+10-17 10:16:55.695 *openOrder*:after removal.OpenOrders: [241019404]
+10-17 10:16:55.695 *openOrder* all live orders [241019404 BUY 78@70.08]
+10-17 10:16:55.695 *OrderStatus*:Filled orderId:241019403 filled:78 remaining:0 avgFillPx:70.72 lastFillPx:70.72
+1.*commission report*:241019403 commission:0.35 
+2.*commission report* orderID:241019403 commission: 0.35 
+10-17 10:16:55.697 *openOrder* status:Filled 241019403 BUY 78@70.72
+10-17 10:16:55.697 *openOrder*:removing order.Status:Filled 241019403 BUY 78@70.72
+10-17 10:16:55.697 *openOrder*:after removal.OpenOrders: [241019404]
+10-17 10:16:55.697 *openOrder* all live orders [241019404 BUY 78@70.08]
+10-17 10:16:55.697 *OrderStatus*:Filled orderId:241019403 filled:78 remaining:0 avgFillPx:70.72 lastFillPx:70.72
+1.*commission report*:241019403 commission:-0.14 
+2.*commission report* orderID:241019403 commission: -0.14 
+updating pos: PHO 10-17 10:16:55.700 pos:78 cost:70.72
+updating pos: PHO 10-17 10:16:55.700 pos:78 cost:70.72
+updating pos: PHO 10-17 10:22:52.269 pos:78 cost:70.72
+updating pos: PHO 10-17 10:22:52.280 pos:78 cost:70.72
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:25:20.870 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:33:07.521 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:35:43.558 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:37:27.840 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:40:55.142 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:41:53.960 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:42:56.649 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T10:43:46.997 no blocking orders 
+*Periodic Run* 10-17 11:05:45.593 last live feed time: 10-17 10:43 been:21min p:70.59 cost:70.7 p/cost:0.998
+p:70.59 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.969
+10-17 11:05:45.594 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 11:05:45.594 *chek openOrders*: [241019404]
+10-17 11:05:45.594 70.59 2dP:0.0 1dP:0.0
+2d$:n:798 max:71.5 [10-16 10:19] min:70.6 [10-17 10:37] rng:1.2% 1Key:[10-15 9:30] last:[10-17 10:43]
+1d$:n:18 max:71.0 [10-17 9:30] min:70.6 [10-17 10:37] rng:0.6% 1Key:[10-17 9:30] last:[10-17 10:43]
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T11:21:33.156 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T11:40:02.707 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T11:47:15.133 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T11:51:13.313 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T11:54:30.572 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T11:58:42.808 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T12:00:52.409 no blocking orders 
+*Periodic Run* 10-17 12:05:46.053 last live feed time: 10-17 12:00 been:4min p:70.58 cost:70.7 p/cost:0.998
+p:70.58 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.969
+10-17 12:05:46.053 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 12:05:46.053 *chek openOrders*: [241019404]
+10-17 12:05:46.053 70.58 2dP:1.0 1dP:2.0
+2d$:n:805 max:71.5 [10-16 10:19] min:70.6 [10-17 11:51] rng:1.2% 1Key:[10-15 9:30] last:[10-17 12:00]
+1d$:n:25 max:71.0 [10-17 9:30] min:70.6 [10-17 11:51] rng:0.6% 1Key:[10-17 9:30] last:[10-17 12:00]
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T12:09:37.595 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T12:19:28.690 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T12:22:04.988 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T12:34:45.560 no blocking orders 
+*Periodic Run* 10-17 13:05:45.650 last live feed time: 10-17 13:04 been:1min p:70.63 cost:70.7 p/cost:0.999
+p:70.63 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.968
+10-17 13:05:45.650 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 13:05:45.650 *chek openOrders*: [241019404]
+10-17 13:05:45.650 70.63 2dP:8.0 1dP:15.0
+2d$:n:810 max:71.5 [10-16 10:19] min:70.6 [10-17 12:22] rng:1.3% 1Key:[10-15 9:30] last:[10-17 13:04]
+1d$:n:30 max:71.0 [10-17 9:30] min:70.6 [10-17 12:22] rng:0.6% 1Key:[10-17 9:30] last:[10-17 13:04]
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T13:31:38.117 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T13:34:51.119 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T13:41:31.447 no blocking orders 
+*Periodic Run* 10-17 14:05:45.647 last live feed time: 10-17 14:04 been:1min p:70.56 cost:70.7 p/cost:0.998
+p:70.56 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.969
+10-17 14:05:45.648 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 14:05:45.648 *chek openOrders*: [241019404]
+10-17 14:05:45.648 70.56 2dP:1.0 1dP:2.0
+2d$:n:818 max:71.5 [10-16 10:19] min:70.6 [10-17 12:22] rng:1.3% 1Key:[10-15 9:30] last:[10-17 14:04]
+1d$:n:38 max:71.0 [10-17 9:30] min:70.6 [10-17 12:22] rng:0.6% 1Key:[10-17 9:30] last:[10-17 14:04]
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T14:13:52.356 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T14:18:23.399 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T14:19:21.527 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T14:30:23.988 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T14:30:55.132 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T14:48:57.891 no blocking orders 
+no blocking buy orders: All submitted orders {241019403=PHO 10-17 10:10 ADDER Filled, 241019404=PHO 10-17 10:10 ADDER Submitted}
+no blocking buy orders: Active orders: [241019404=PHO 10-17 10:10 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241019404]}
+2024-10-17T15:00:33.447 no blocking orders 
+*Periodic Run* 10-17 15:05:45.644 last live feed time: 10-17 15:02 been:3min p:70.6 cost:70.7 p/cost:0.998
+p:70.6 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.969
+10-17 15:05:45.644 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 15:05:45.644 *chek openOrders*: [241019404]
+10-17 15:05:45.644 70.6 2dP:7.0 1dP:14.0
+2d$:n:827 max:71.5 [10-16 10:19] min:70.5 [10-17 14:30] rng:1.3% 1Key:[10-15 9:30] last:[10-17 15:02]
+1d$:n:47 max:71.0 [10-17 9:30] min:70.5 [10-17 14:30] rng:0.7% 1Key:[10-17 9:30] last:[10-17 15:02]
+*Periodic Run* 10-17 16:05:45.648 last live feed time: 10-17 16:00 been:5min p:70.74 cost:70.7 p/cost:1.0
+p:70.74 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+10-17 16:05:45.648 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 16:05:45.648 *chek openOrders*: [241019404]
+10-17 16:05:45.648 70.74 2dP:23.0 1dP:44.0
+2d$:n:843 max:71.5 [10-16 10:19] min:70.5 [10-17 14:30] rng:1.3% 1Key:[10-15 9:30] last:[10-17 16:00]
+1d$:n:63 max:71.0 [10-17 9:30] min:70.5 [10-17 14:30] rng:0.7% 1Key:[10-17 9:30] last:[10-17 16:00]
+*Periodic Run* 10-17 17:05:45.652 last live feed time: 10-17 17:00 been:5min p:70.74 cost:70.7 p/cost:1.0
+p:70.74 rng:1.1% pos:78 delt:6k cost:70.7 fullLot:237 refillP:68.38 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+10-17 17:05:45.652 *chek orderStatus [241019403=Filled, 241019404=Submitted]
+10-17 17:05:45.652 *chek openOrders*: [241019404]
+10-17 17:05:45.652 70.74 2dP:23.0 1dP:44.0
+2d$:n:844 max:71.5 [10-16 10:19] min:70.5 [10-17 14:30] rng:1.3% 1Key:[10-15 9:30] last:[10-17 17:00]
+1d$:n:64 max:71.0 [10-17 9:30] min:70.5 [10-17 14:30] rng:0.7% 1Key:[10-17 9:30] last:[10-17 17:00]
