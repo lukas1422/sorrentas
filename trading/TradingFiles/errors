@@ -20550,3 +20550,97 @@ IP openorders does not contain order IP 241014111 SELL 78@48.56
 *openOrder* Error 10-15 11:31:30.512 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:euhmds
 *openOrder* Error 10-15 11:31:32.725 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:euhmds
 *openOrder* Error 10-15 11:45:0.623 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 19:47:59 EST: 10-16 7:47:59.746
+*openOrder* Error 10-16 8:25:9.889 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:eufarmnj
+*openOrder* Error 10-16 8:25:9.901 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:eufarmnj
+*openOrder* Error 10-16 8:25:10.080 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:fundfarm
+*openOrder* Error 10-16 8:25:10.086 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:fundfarm
+*openOrder* Error 10-16 8:25:10.089 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:euhmds
+*openOrder* Error 10-16 8:25:10.093 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-16 8:25:10.104 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:euhmds
+*openOrder* Error 10-16 8:25:10.140 orderId:-1 errorCode:1100 msg:Connectivity between IB and Trader Workstation has been lost.
+*openOrder* Error 10-16 8:25:10.149 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:jfarm
+*openOrder* Error 10-16 8:25:10.159 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-16 8:25:10.161 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 10-16 8:25:10.168 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfuture
+*openOrder* Error 10-16 8:25:10.180 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-16 8:25:10.183 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 10-16 9:28:22.386 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-16 9:28:22.388 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm.nj
+*openOrder* Error 10-16 9:28:23.780 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:jfarm
+*openOrder* Error 10-16 9:28:23.905 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-16 9:28:25.069 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm.nj
+*openOrder* Error 10-16 9:28:25.104 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:euhmds
+*openOrder* Error 10-16 9:28:25.397 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 10-16 9:28:26.028 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-16 9:28:26.850 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-16 9:28:26.986 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:fundfarm
+*openOrder* Error 10-16 9:28:27.305 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:cashfarm
+*openOrder* Error 10-16 9:28:27.633 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:eufarmnj
+*openOrder* Error 10-16 9:28:28.548 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-16 9:28:44.157 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfuture
+*openOrder* Error 10-16 9:28:56.969 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm.nj; jfarm; usfuture; cashfarm; eufarmnj; usfarm; euhmds; apachmds; fundfarm; ushmds; secdefil. The following farms are not connected: secdefhk.
+*openOrder* Error 10-16 9:28:59.718 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-16 9:28:59.719 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-16 9:29:1.160 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:eufarmnj
+*openOrder* Error 10-16 9:29:1.161 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:eufarmnj
+*openOrder* Error 10-16 9:29:6.574 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:fundfarm
+*openOrder* Error 10-16 9:29:6.574 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:fundfarm
+*openOrder* Error 10-16 9:30:1.310 orderId:241016003 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:1.389 orderId:241016004 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:1.489 orderId:241016005 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:5.842 orderId:241016006 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:5.901 orderId:241016007 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.001 orderId:241016008 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.101 orderId:241016009 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.201 orderId:241016010 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.301 orderId:241016011 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.401 orderId:241016012 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.501 orderId:241016013 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.601 orderId:241016014 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:6.701 orderId:241016015 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:7.449 orderId:241016016 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:7.504 orderId:241016017 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-16 9:30:7.604 orderId:241016018 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 21:31:51 EST: 10-16 9:31:51.784
+*openOrder* Error 10-16 9:33:15.237 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.hfarm
+*openOrder* Error 10-16 9:33:15.238 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.hfarm
+*openOrder* Error 10-16 9:33:15.238 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.jfarm
+*openOrder* Error 10-16 9:33:15.239 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.usfuture
+*openOrder* Error 10-16 9:33:15.239 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.eufarmnj
+*openOrder* Error 10-16 9:33:15.246 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.eufarmnj
+*openOrder* Error 10-16 9:33:15.246 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.usfuture
+*openOrder* Error 10-16 9:33:15.247 orderId:-1 errorCode:2108 msg:Market data farm connection is inactive but should be available upon demand.jfarm
+*openOrder* Error 10-16 11:45:0.652 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 3:42:23 EST: 10-16 15:42:23.985
+JNJ openorders does not contain order JNJ 241016019 SELL 5@165.14
+JNJ openorders does not contain order JNJ 241016020 SELL 7@166.77
+ABT openorders does not contain order ABT 241016011 SELL 21@119.67
+ABT openorders does not contain order ABT 241016012 SELL 21@120.98
+IWM openorders does not contain order IWM 241016009 SELL 9@229.29
+MCD openorders does not contain order MCD 241016005 SELL 2@314.73
+MCD openorders does not contain order MCD 241016006 SELL 2@317.84
+UNP openorders does not contain order UNP 241016034 SELL 15@252.67
+KO openorders does not contain order KO 241016023 SELL 54@71.45
+KO openorders does not contain order KO 241016022 SELL 52@70.75
+*openOrder* Error 10-16 15:42:26.610 orderId:-1 errorCode:1102 msg:Connectivity between IB and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm.nj; hfarm; cashfarm; usfarm; apachmds. The following farms are not connected: secdefhk.
+*openOrder* Error 10-16 15:42:27.867 orderId:241016019 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.872 orderId:241016020 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.887 orderId:241016011 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.892 orderId:241016012 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.898 orderId:241016009 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.903 orderId:241016005 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.910 orderId:241016034 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.915 orderId:241016006 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.917 orderId:241016023 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:27.924 orderId:241016022 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-16 15:42:28.850 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-16 16:31:33.026 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 10-16 16:31:35.356 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 10-16 17:04:5.384 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 10-16 17:04:5.955 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 10-16 17:04:14.828 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 10-16 17:04:25.915 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:cashfarm
+*openOrder* Error 10-16 17:09:7.254 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:cashfarm
+*openOrder* Error 10-16 17:09:9.442 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:cashfarm
+*openOrder* Error 10-16 19:00:0.678 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
