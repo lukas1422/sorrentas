@@ -40,7 +40,7 @@ class ProfitTargetTrader implements LiveHandler,
         , ApiController.IAccountSummaryHandler {
 
     private static volatile double AVAILABLE_CASH = 0.0;
-    private static final double DELTA_TOTAL_LIMIT = 201200;
+    private static final double DELTA_TOTAL_LIMIT = 240000;
     //    private static final double DELTA_LIMIT_EACH = DELTA_TOTAL_LIMIT / 3.0;
     private static final double CURRENT_REFILL_N = 2.0; //refill times now due to limited delta
     private static final double IDEAL_REFILL_N = 20.0; //ideally how many times to refill
@@ -92,10 +92,10 @@ class ProfitTargetTrader implements LiveHandler,
     private static volatile AtomicInteger tradeID = new AtomicInteger(MASTERID + 1);
 //    private static Map<String, Double> baseDeltaMap = new HashMap<>();
 
-    private static final int GATEWAY_PORT = 4001;
+    private static final int GATEWAY_PORT = 4002;
     private static final int TWS_PORT = 7496;
     //    private static final int PORT_TO_USE = TWS_PORT;
-    private static final int PORT_TO_USE = TWS_PORT;
+    private static final int PORT_TO_USE = GATEWAY_PORT;
 
     private static Map<String, Double> rng = new HashMap<>();
 

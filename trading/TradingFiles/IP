@@ -3523,3 +3523,1608 @@ p:46.93 rng:2.3% pos:156 delt:7k cost:47.1 fullLot:357 refillP:45.08 costTgt:0.9
 10-21 21:07:5.692 46.93 2dP:68.0 1dP:96.0
 2d$:n:1143 max:47.5 [10-17 10:00] min:45.7 [10-18 11:46] rng:3.8% 1Key:[10-17 9:30] last:[10-21 17:00]
 1d$:n:363 max:47.0 [10-21 16:29] min:46.4 [10-21 10:34] rng:1.2% 1Key:[10-21 9:07] last:[10-21 17:00]
+*******************************************
+*STARTS* 10-25 9:54:22.193
+updating pos: IP 10-25 9:54:24.430 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+*Periodic Run* 10-25 9:54:42.370 9:54:42 no live feed
+10-25 9:54:42.370 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 10-25 9:57:32.221
+updating pos: IP 10-25 9:57:34.498 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+*Periodic Run* 10-25 9:57:52.492 9:57:52 no live feed
+10-25 9:57:52.493 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+10-25 9:58:37.290 rng:2.3% costTgt:0.977
+10-25 9:58:37.292 tgtMargin:1.018 tgtPrice:47.47
+ytdReturn:34.77%
+******************CUT**************************
+CUT 10-25 9:58:58 1dP:75.0 2dp:65.0 px48.76 cost:46.63067145 px/Cost:1.0457 reqMargin:1.018 rng:0.0226
+0:241025035 IP SELL 11 @48.89 9:58
+0: SELL IP 10-25 9:58 CUTTER Created target margin:1.01804 cost*target margin:47.47 askPx:48.79
+1:241025036 IP SELL 11 @49.52 9:58
+1: SELL IP 10-25 9:58 CUTTER Created target margin:1.01804 cost*target margin:47.47 askPx:48.79
+2:241025037 IP SELL 13 @50.26 9:58
+2: SELL IP 10-25 9:58 CUTTER Created target margin:1.01804 cost*target margin:47.47 askPx:48.79
+2D$:n:419 max:48.9 [10-24 9:30] min:48.4 [10-24 15:19] rng:1.1% 1Key:[10-24 9:30] last:[10-25 9:58]
+1D$:n:29 max:48.8 [10-25 9:30] min:48.5 [10-25 9:38] rng:0.6% 1Key:[10-25 9:30] last:[10-25 9:58]
+10-25 9:59:1.145 *openOrder* status:PreSubmitted 241025036 SELL 11@49.52
+10-25 9:59:1.146 *openOrder* all live orders [241025036 SELL 11@49.52]
+10-25 9:59:1.147 *OrderStatus*:PreSubmitted orderId:241025036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 9:59:1.382 *openOrder* status:PreSubmitted 241025035 SELL 11@48.89
+10-25 9:59:1.383 *openOrder* all live orders [241025035 SELL 11@48.89, 241025036 SELL 11@49.52]
+10-25 9:59:1.386 *OrderStatus*:PreSubmitted orderId:241025035 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 9:59:1.647 *openOrder* status:Submitted 241025037 SELL 13@50.26
+10-25 9:59:1.648 *openOrder* all live orders [241025035 SELL 11@48.89, 241025036 SELL 11@49.52, 241025037 SELL 13@50.26]
+10-25 9:59:1.651 *OrderStatus*:Submitted orderId:241025037 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+10-25 9:59:3.183 *openOrder* status:Submitted 241025035 SELL 11@48.89
+10-25 9:59:3.184 *openOrder* all live orders [241025035 SELL 11@48.89, 241025036 SELL 11@49.52, 241025037 SELL 13@50.26]
+10-25 9:59:3.185 *OrderStatus*:Submitted orderId:241025035 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 9:59:3.437 *openOrder* status:Submitted 241025036 SELL 11@49.52
+10-25 9:59:3.438 *openOrder* all live orders [241025035 SELL 11@48.89, 241025036 SELL 11@49.52, 241025037 SELL 13@50.26]
+10-25 9:59:3.440 *OrderStatus*:Submitted orderId:241025036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 10-25 10:57:52.823 last live feed time: 10-25 10:57 been:0min p:48.62 cost:46.6 p/cost:1.043
+p:48.62 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:344 refillP:45.37 costTgt:0.977 refillP/cost:0.973 refillP/px:0.933
+10-25 10:57:52.823 *chek orderStatus [241025035=Submitted, 241025036=Submitted, 241025037=Submitted]
+10-25 10:57:52.823 *chek openOrders*: [241025035, 241025036, 241025037]
+10-25 10:57:52.824 48.62 2dP:40.0 1dP:26.0
+2d$:n:477 max:48.9 [10-24 9:30] min:48.4 [10-24 15:19] rng:1.1% 1Key:[10-24 9:30] last:[10-25 10:57]
+1d$:n:87 max:48.8 [10-25 9:30] min:48.5 [10-25 9:38] rng:0.6% 1Key:[10-25 9:30] last:[10-25 10:57]
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+*Periodic Run* 10-25 11:57:52.810 last live feed time: 10-25 11:54 been:3min p:48.55 cost:46.6 p/cost:1.041
+p:48.55 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:345 refillP:45.37 costTgt:0.977 refillP/cost:0.973 refillP/px:0.934
+10-25 11:57:52.810 *chek orderStatus [241025035=Submitted, 241025036=Submitted, 241025037=Submitted]
+10-25 11:57:52.810 *chek openOrders*: [241025035, 241025036, 241025037]
+10-25 11:57:52.811 48.55 2dP:26.0 1dP:13.0
+2d$:n:528 max:48.9 [10-24 9:30] min:48.4 [10-24 15:19] rng:1.1% 1Key:[10-24 9:30] last:[10-25 11:54]
+1d$:n:138 max:48.8 [10-25 9:30] min:48.5 [10-25 11:22] rng:0.7% 1Key:[10-25 9:30] last:[10-25 11:54]
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+*Periodic Run* 10-25 12:57:52.746 last live feed time: 10-25 12:57 been:0min p:48.56 cost:46.6 p/cost:1.041
+p:48.56 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:345 refillP:45.37 costTgt:0.977 refillP/cost:0.973 refillP/px:0.934
+10-25 12:57:52.747 *chek orderStatus [241025035=Submitted, 241025036=Submitted, 241025037=Submitted]
+10-25 12:57:52.747 *chek openOrders*: [241025035, 241025036, 241025037]
+10-25 12:57:52.747 48.56 2dP:28.0 1dP:18.0
+2d$:n:576 max:48.9 [10-24 9:30] min:48.4 [10-24 15:19] rng:1.1% 1Key:[10-24 9:30] last:[10-25 12:57]
+1d$:n:186 max:48.8 [10-25 9:30] min:48.5 [10-25 12:04] rng:0.7% 1Key:[10-25 9:30] last:[10-25 12:57]
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+*Periodic Run* 10-25 13:57:52.641 last live feed time: 10-25 13:57 been:0min p:48.4 cost:46.6 p/cost:1.038
+p:48.4 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:346 refillP:45.37 costTgt:0.977 refillP/cost:0.973 refillP/px:0.937
+10-25 13:57:52.642 *chek orderStatus [241025035=Submitted, 241025036=Submitted, 241025037=Submitted]
+10-25 13:57:52.642 *chek openOrders*: [241025035, 241025036, 241025037]
+10-25 13:57:52.642 48.4 2dP:0.0 1dP:0.0
+2d$:n:633 max:48.9 [10-24 9:30] min:48.4 [10-25 13:45] rng:1.1% 1Key:[10-24 9:30] last:[10-25 13:57]
+1d$:n:243 max:48.8 [10-25 9:30] min:48.4 [10-25 13:45] rng:0.9% 1Key:[10-25 9:30] last:[10-25 13:57]
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+no blocking buy orders: All submitted orders {241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted}
+no blocking buy orders: Active orders: [241025035=IP 10-25 9:58 CUTTER Submitted, 241025036=IP 10-25 9:58 CUTTER Submitted, 241025037=IP 10-25 9:58 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241025035, 241025036, 241025037]}
+*******************************************
+*STARTS* 10-25 14:18:8.005
+updating pos: IP 10-25 14:18:10.229 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+10-25 14:18:10.700 *openOrder* status:Submitted 241025037 SELL 13@50.26
+openOrder does not contain order IP 241025037 SELL 13@50.26
+10-25 14:18:10.702 *openOrder* all live orders [241025037 SELL 13@50.26]
+10-25 14:18:10.703 *OrderStatus*:Submitted orderId:241025037 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+10-25 14:18:10.704 *openOrder* status:Submitted 241025036 SELL 11@49.52
+openOrder does not contain order IP 241025036 SELL 11@49.52
+10-25 14:18:10.707 *openOrder* all live orders [241025036 SELL 11@49.52, 241025037 SELL 13@50.26]
+10-25 14:18:10.708 *OrderStatus*:Submitted orderId:241025036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 14:18:10.709 *openOrder* status:Submitted 241025035 SELL 11@48.89
+openOrder does not contain order IP 241025035 SELL 11@48.89
+10-25 14:18:10.711 *openOrder* all live orders [241025035 SELL 11@48.89, 241025036 SELL 11@49.52, 241025037 SELL 13@50.26]
+10-25 14:18:10.712 *OrderStatus*:Submitted orderId:241025035 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 14:18:11.171 *OrderStatus*:Cancelled orderId:241025037 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+10-25 14:18:11.172 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241025037=241025037 SELL 13@50.26, 241025036=241025036 SELL 11@49.52, 241025035=241025035 SELL 11@48.89}
+*OrderStatus* remaining openOrders: {241025036=241025036 SELL 11@49.52, 241025035=241025035 SELL 11@48.89}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={241025036=241025036 SELL 11@49.52, 241025035=241025035 SELL 11@48.89}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+10-25 14:18:11.180 *OrderStatus*:Cancelled orderId:241025036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 14:18:11.181 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241025036=241025036 SELL 11@49.52, 241025035=241025035 SELL 11@48.89}
+*OrderStatus* remaining openOrders: {241025035=241025035 SELL 11@48.89}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={241025035=241025035 SELL 11@48.89}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+10-25 14:18:11.189 *OrderStatus*:Cancelled orderId:241025035 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-25 14:18:11.190 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241025035=241025035 SELL 11@48.89}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+10-25 14:18:16.635 rng:2.3% costTgt:0.977
+10-25 14:18:16.636 tgtMargin:1.0181 tgtPrice:47.47
+ytdReturn:38.28%
+*Periodic Run* 10-25 14:18:28.199 last live feed time: 10-25 14:18 been:0min p:48.33 cost:46.6 p/cost:1.036
+p:48.33 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:346 refillP:45.37 costTgt:0.977 refillP/cost:0.973 refillP/px:0.939
+10-25 14:18:28.202 *chek orderStatus [241025035=Cancelled, 241025036=Cancelled, 241025037=Cancelled]
+10-25 14:18:28.203 48.33 2dP:2.0 1dP:2.0
+2d$:n:679 max:48.9 [10-24 9:30] min:48.3 [10-25 14:03] rng:1.3% 1Key:[10-24 9:30] last:[10-25 14:18]
+1d$:n:289 max:48.8 [10-25 9:30] min:48.3 [10-25 14:03] rng:1.1% 1Key:[10-25 9:30] last:[10-25 14:18]
+all orders finished {241025035=IP 10-25 14:18 UNKNOWN Cancelled, 241025036=IP 10-25 14:18 UNKNOWN Cancelled, 241025037=IP 10-25 14:18 UNKNOWN Cancelled}
+all orders finished {241025035=IP 10-25 14:18 UNKNOWN Cancelled, 241025036=IP 10-25 14:18 UNKNOWN Cancelled, 241025037=IP 10-25 14:18 UNKNOWN Cancelled}
+all orders finished {241025035=IP 10-25 14:18 UNKNOWN Cancelled, 241025036=IP 10-25 14:18 UNKNOWN Cancelled, 241025037=IP 10-25 14:18 UNKNOWN Cancelled}
+all orders finished {241025035=IP 10-25 14:18 UNKNOWN Cancelled, 241025036=IP 10-25 14:18 UNKNOWN Cancelled, 241025037=IP 10-25 14:18 UNKNOWN Cancelled}
+*******************************************
+*STARTS* 10-25 14:19:36.296
+updating pos: IP 10-25 14:19:38.668 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+10-25 14:19:41.820 rng:2.3% costTgt:0.977
+10-25 14:19:41.821 tgtMargin:1.0181 tgtPrice:47.47
+ytdReturn:38.48%
+*Periodic Run* 10-25 14:19:56.667 last live feed time: 10-25 14:19 been:0min p:48.37 cost:46.6 p/cost:1.037
+p:48.37 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:413 refillP:45.4 costTgt:0.977 refillP/cost:0.974 refillP/px:0.939
+10-25 14:19:56.669 48.37 2dP:8.0 1dP:10.0
+2d$:n:680 max:48.9 [10-24 9:30] min:48.3 [10-25 14:03] rng:1.3% 1Key:[10-24 9:30] last:[10-25 14:19]
+1d$:n:290 max:48.8 [10-25 9:30] min:48.3 [10-25 14:03] rng:1.1% 1Key:[10-25 9:30] last:[10-25 14:19]
+updating pos: IP 10-25 14:21:1.635 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+*******************************************
+*STARTS* 10-25 14:22:0.650
+updating pos: IP 10-25 14:22:2.810 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+10-25 14:22:5.584 rng:2.3% costTgt:0.977
+10-25 14:22:5.584 tgtMargin:1.0181 tgtPrice:47.47
+ytdReturn:38.42%
+*Periodic Run* 10-25 14:22:20.825 last live feed time: 10-25 14:22 been:0min p:48.34 cost:46.6 p/cost:1.037
+p:48.34 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:413 refillP:45.4 costTgt:0.977 refillP/cost:0.974 refillP/px:0.939
+10-25 14:22:20.826 48.34 2dP:101.0 1dP:101.0
+2d$:n:683 max:48.9 [10-24 9:30] min:48.3 [10-25 14:03] rng:1.3% 1Key:[10-24 9:30] last:[10-25 14:22]
+1d$:n:293 max:48.8 [10-25 9:30] min:48.3 [10-25 14:03] rng:1.1% 1Key:[10-25 9:30] last:[10-25 14:22]
+updating pos: IP 10-25 14:23:1.406 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+14:23:26.975597 no blocking orders,empty
+14:24:04.558670 no blocking orders,empty
+14:24:32.693900 no blocking orders,empty
+*Periodic Run* 10-25 15:22:20.467 last live feed time: 10-25 15:22 been:0min p:48.58 cost:46.6 p/cost:1.042
+p:48.58 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:411 refillP:45.4 costTgt:0.977 refillP/cost:0.974 refillP/px:0.935
+10-25 15:22:20.468 48.58 2dP:43.0 1dP:50.0
+2d$:n:743 max:48.9 [10-24 9:30] min:48.3 [10-25 14:03] rng:1.3% 1Key:[10-24 9:30] last:[10-25 15:22]
+1d$:n:353 max:48.8 [10-25 9:30] min:48.3 [10-25 14:03] rng:1.1% 1Key:[10-25 9:30] last:[10-25 15:22]
+*Periodic Run* 10-25 16:22:20.277 last live feed time: 10-25 16:07 been:15min p:48.4 cost:46.6 p/cost:1.038
+p:48.4 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:413 refillP:45.4 costTgt:0.977 refillP/cost:0.974 refillP/px:0.938
+10-25 16:22:20.278 48.4 2dP:13.0 1dP:15.0
+2d$:n:780 max:48.9 [10-24 9:30] min:48.3 [10-25 14:03] rng:1.3% 1Key:[10-24 9:30] last:[10-25 16:07]
+1d$:n:390 max:48.8 [10-25 9:30] min:48.3 [10-25 14:03] rng:1.1% 1Key:[10-25 9:30] last:[10-25 16:07]
+*******************************************
+*STARTS* 10-28 10:02:57.629
+updating pos: IP 10-28 10:02:59.929 pos:35 cost:46.63
+POS:35 COST:46.6 DELT:2k
+*Periodic Run* 10-28 10:03:17.876 10:03:17 no live feed
+10-28 10:03:17.877 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 10-28 10:03:38 1dP:100.0 2dp:100.0 px48.7 cost:46.63067145 px/Cost:1.0444 reqMargin:1.01 rng:0.0
+0:241028035 IP SELL 11 @48.81 10:03
+0: SELL IP 10-28 10:03 CUTTER Created target margin:1.01 cost*target margin:47.1 askPx:48.71
+1:241028036 IP SELL 11 @49.2 10:03
+1: SELL IP 10-28 10:03 CUTTER Created target margin:1.01 cost*target margin:47.1 askPx:48.71
+2:241028037 IP SELL 13 @49.68 10:03
+2: SELL IP 10-28 10:03 CUTTER Created target margin:1.01 cost*target margin:47.1 askPx:48.71
+2D$:n<5
+1D$:n<5
+10-28 10:04:23.629 *openOrder* status:PreSubmitted 241028036 SELL 11@49.2
+10-28 10:04:23.630 *openOrder* all live orders [241028036 SELL 11@49.2]
+10-28 10:04:23.631 *OrderStatus*:PreSubmitted orderId:241028036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-28 10:04:23.633 *openOrder* status:PreSubmitted 241028035 SELL 11@48.81
+10-28 10:04:23.634 *openOrder* all live orders [241028035 SELL 11@48.81, 241028036 SELL 11@49.2]
+10-28 10:04:23.635 *OrderStatus*:PreSubmitted orderId:241028035 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-28 10:04:24.072 *openOrder* status:Submitted 241028037 SELL 13@49.68
+10-28 10:04:24.073 *openOrder* all live orders [241028035 SELL 11@48.81, 241028036 SELL 11@49.2, 241028037 SELL 13@49.68]
+10-28 10:04:24.081 *OrderStatus*:Submitted orderId:241028037 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+10-28 10:04:24.107 *openOrder* status:Submitted 241028035 SELL 11@48.81
+10-28 10:04:24.109 *openOrder* all live orders [241028035 SELL 11@48.81, 241028036 SELL 11@49.2, 241028037 SELL 13@49.68]
+10-28 10:04:24.113 *OrderStatus*:Submitted orderId:241028035 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-28 10:04:24.123 *openOrder* status:Submitted 241028036 SELL 11@49.2
+10-28 10:04:24.124 *openOrder* all live orders [241028035 SELL 11@48.81, 241028036 SELL 11@49.2, 241028037 SELL 13@49.68]
+10-28 10:04:24.127 *OrderStatus*:Submitted orderId:241028036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-28 10:04:24.153 rng:2.3% costTgt:0.977
+10-28 10:04:24.154 tgtMargin:1.018 tgtPrice:47.47
+ytdReturn:39.4%
+*Periodic Run* 10-28 11:03:17.956 last live feed time: 10-28 11:03 been:0min p:48.77 cost:46.6 p/cost:1.046
+p:48.77 rng:2.3% pos:35 delt:2k cost:46.6 fullLot:410 refillP:45.4 costTgt:0.977 refillP/cost:0.974 refillP/px:0.931
+10-28 11:03:17.957 *chek orderStatus [241028035=Submitted, 241028036=Submitted, 241028037=Submitted]
+10-28 11:03:17.957 *chek openOrders*: [241028035, 241028036, 241028037]
+10-28 11:03:17.957 48.77 2dP:87.0 1dP:97.0
+2d$:n:484 max:48.8 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:03]
+1d$:n:94 max:48.8 [10-28 11:01] min:48.4 [10-28 9:30] rng:0.7% 1Key:[10-28 9:30] last:[10-28 11:03]
+updating pos: IP 10-28 11:13:50.988 pos:24 cost:46.63
+10-28 11:13:50.999 *tradeReport* time: 2024-10-28T11:13:50 SLD execPx:48.81 shares:11 avgPx:48.81
+10-28 11:13:51.005 *openOrder* status:Filled 241028035 SELL 11@48.81
+10-28 11:13:51.007 *openOrder*:removing order.Status:Filled 241028035 SELL 11@48.81
+10-28 11:13:51.008 *openOrder*:after removal.OpenOrders: [241028036, 241028037]
+10-28 11:13:51.008 *openOrder* all live orders [241028036 SELL 11@49.2, 241028037 SELL 13@49.68]
+10-28 11:13:51.009 *OrderStatus*:Filled orderId:241028035 filled:11 remaining:0 avgFillPx:48.81 lastFillPx:48.81
+10-28 11:13:51.009 *openOrder* status:Filled 241028035 SELL 11@48.81
+10-28 11:13:51.010 *openOrder*:removing order.Status:Filled 241028035 SELL 11@48.81
+10-28 11:13:51.010 *openOrder*:after removal.OpenOrders: [241028036, 241028037]
+10-28 11:13:51.010 *openOrder* all live orders [241028036 SELL 11@49.2, 241028037 SELL 13@49.68]
+10-28 11:13:51.011 *OrderStatus*:Filled orderId:241028035 filled:11 remaining:0 avgFillPx:48.81 lastFillPx:48.81
+computed Pnl:23.616077050000012
+1.*commission report*:241028035 commission:0.36 realized pnl:23.62 computed Pnl:23.62
+2.*commission report* orderID:241028035 commission: 0.36 realized pnl: 23.62
+updating pos: IP 10-28 11:13:51.022 pos:24 cost:46.63
+updating pos: IP 10-28 11:13:51.022 pos:24 cost:46.63
+updating pos: IP 10-28 11:18:0.367 pos:24 cost:46.63
+*Periodic Run* 10-28 12:03:17.896 last live feed time: 10-28 11:22 been:40min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 12:03:17.897 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 12:03:17.898 *chek openOrders*: [241028036, 241028037]
+10-28 12:03:17.898 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 13:03:17.951 last live feed time: 10-28 11:22 been:100min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 13:03:17.952 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 13:03:17.952 *chek openOrders*: [241028036, 241028037]
+10-28 13:03:17.952 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 14:03:18.007 last live feed time: 10-28 11:22 been:160min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 14:03:18.009 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 14:03:18.009 *chek openOrders*: [241028036, 241028037]
+10-28 14:03:18.009 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 15:03:17.724 last live feed time: 10-28 11:22 been:220min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 15:03:17.725 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 15:03:17.725 *chek openOrders*: [241028036, 241028037]
+10-28 15:03:17.725 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 16:03:17.833 last live feed time: 10-28 11:22 been:280min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 16:03:17.833 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 16:03:17.834 *chek openOrders*: [241028036, 241028037]
+10-28 16:03:17.834 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 17:03:17.929 last live feed time: 10-28 11:22 been:340min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 17:03:17.930 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 17:03:17.930 *chek openOrders*: [241028036, 241028037]
+10-28 17:03:17.930 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 18:03:18.042 last live feed time: 10-28 11:22 been:400min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 18:03:18.042 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 18:03:18.043 *chek openOrders*: [241028036, 241028037]
+10-28 18:03:18.043 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*Periodic Run* 10-28 19:03:18.152 last live feed time: 10-28 11:22 been:460min p:48.84 cost:46.6 p/cost:1.047
+p:48.84 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:409 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.931
+10-28 19:03:18.154 *chek orderStatus [241028035=Filled, 241028036=Submitted, 241028037=Submitted]
+10-28 19:03:18.154 *chek openOrders*: [241028036, 241028037]
+10-28 19:03:18.155 48.84 2dP:98.0 1dP:100.0
+2d$:n:502 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.1% 1Key:[10-25 9:30] last:[10-28 11:22]
+1d$:n:112 max:48.8 [10-28 11:22] min:48.4 [10-28 9:30] rng:0.8% 1Key:[10-28 9:30] last:[10-28 11:22]
+*******************************************
+*STARTS* 10-28 19:31:43.492
+updating pos: IP 10-28 19:31:45.843 pos:24 cost:46.63
+POS:24 COST:46.6 DELT:1k
+10-28 19:31:45.941 *openOrder* status:Submitted 241028037 SELL 13@49.68
+openOrder does not contain order IP 241028037 SELL 13@49.68
+10-28 19:31:45.943 *openOrder* all live orders [241028037 SELL 13@49.68]
+10-28 19:31:45.945 *OrderStatus*:Submitted orderId:241028037 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+10-28 19:31:45.948 *openOrder* status:Submitted 241028036 SELL 11@49.2
+openOrder does not contain order IP 241028036 SELL 11@49.2
+10-28 19:31:45.950 *openOrder* all live orders [241028036 SELL 11@49.2, 241028037 SELL 13@49.68]
+10-28 19:31:45.952 *OrderStatus*:Submitted orderId:241028036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-28 19:31:48.754 *OrderStatus*:Cancelled orderId:241028037 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+10-28 19:31:48.756 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241028037=241028037 SELL 13@49.68, 241028036=241028036 SELL 11@49.2}
+*OrderStatus* remaining openOrders: {241028036=241028036 SELL 11@49.2}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={241028036=241028036 SELL 11@49.2}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+10-28 19:31:48.766 *OrderStatus*:Cancelled orderId:241028036 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+10-28 19:31:48.766 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241028036=241028036 SELL 11@49.2}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+*Periodic Run* 10-28 19:32:3.879 last live feed time: 10-28 19:31 been:0min p:48.64 cost:46.6 p/cost:1.043
+p:48.64 rng:0.0% pos:24 delt:1k cost:46.6 fullLot:411 refillP:45.59 costTgt:0.98 refillP/cost:0.978 refillP/px:0.937
+10-28 19:32:3.881 *chek orderStatus [241028036=Cancelled, 241028037=Cancelled]
+10-28 19:32:3.882 48.64 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+*Periodic Run* 10-28 20:32:3.210 last live feed time: 10-28 19:31 been:60min p:48.64 cost:46.6 p/cost:1.043
+p:48.64 rng:0.0% pos:24 delt:1k cost:46.6 fullLot:411 refillP:45.59 costTgt:0.98 refillP/cost:0.978 refillP/px:0.937
+10-28 20:32:3.212 *chek orderStatus [241028036=Cancelled, 241028037=Cancelled]
+10-28 20:32:3.213 48.64 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+*Periodic Run* 10-28 21:32:3.319 last live feed time: 10-28 19:31 been:120min p:48.64 cost:46.6 p/cost:1.043
+p:48.64 rng:0.0% pos:24 delt:1k cost:46.6 fullLot:411 refillP:45.59 costTgt:0.98 refillP/cost:0.978 refillP/px:0.937
+10-28 21:32:3.320 *chek orderStatus [241028036=Cancelled, 241028037=Cancelled]
+10-28 21:32:3.320 48.64 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 10-29 9:21:36.813
+updating pos: IP 10-29 9:21:39.169 pos:24 cost:46.63
+POS:24 COST:46.6 DELT:1k
+10-29 9:21:54.913 rng:2.3% costTgt:0.977
+10-29 9:21:54.915 tgtMargin:1.0181 tgtPrice:47.47
+ytdReturn:39.22%
+*Periodic Run* 10-29 9:21:57.150 last live feed time: 10-29 9:21 been:0min p:48.54 cost:46.6 p/cost:1.041
+p:48.54 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:412 refillP:45.45 costTgt:0.977 refillP/cost:0.975 refillP/px:0.936
+10-29 9:21:57.152 48.54 2dP:101.0 1dP:101.0
+2d$:n:781 max:48.9 [10-25 9:30] min:48.3 [10-28 9:30] rng:1.3% 1Key:[10-25 9:30] last:[10-29 9:21]
+1d$:n<5
+09:31:40.556566 no blocking orders,empty
+09:31:48.549147 no blocking orders,empty
+09:32:13.961509 no blocking orders,empty
+09:32:18.614071 no blocking orders,empty
+09:32:19.603064 no blocking orders,empty
+09:32:27.932711 no blocking orders,empty
+09:32:32.139589 no blocking orders,empty
+09:32:51.151708 no blocking orders,empty
+09:33:01.613638 no blocking orders,empty
+09:33:05.823349 no blocking orders,empty
+09:33:21.660491 no blocking orders,empty
+09:33:34.932992 no blocking orders,empty
+09:33:35.928897 no blocking orders,empty
+09:33:53.645261 no blocking orders,empty
+09:33:58.753830 no blocking orders,empty
+09:34:12.078621 no blocking orders,empty
+09:34:14.125463 no blocking orders,empty
+09:34:23.970222 no blocking orders,empty
+09:34:25.518084 no blocking orders,empty
+09:34:26.203286 no blocking orders,empty
+09:34:37.210853 no blocking orders,empty
+09:34:37.900594 no blocking orders,empty
+09:34:41.293169 no blocking orders,empty
+09:34:41.983284 no blocking orders,empty
+09:34:47.306215 no blocking orders,empty
+09:34:48.541719 no blocking orders,empty
+09:34:58.785344 no blocking orders,empty
+09:35:06.458306 no blocking orders,empty
+09:35:08.977053 no blocking orders,empty
+09:35:10.747267 no blocking orders,empty
+09:35:11.472927 no blocking orders,empty
+09:35:18.706247 no blocking orders,empty
+09:35:23.457022 no blocking orders,empty
+09:35:31.925984 no blocking orders,empty
+09:35:34.874726 no blocking orders,empty
+09:35:38.100388 no blocking orders,empty
+09:35:48.752401 no blocking orders,empty
+09:35:51.616673 no blocking orders,empty
+09:35:53.256259 no blocking orders,empty
+09:36:05.338048 no blocking orders,empty
+09:36:11.047722 no blocking orders,empty
+09:36:15.373117 no blocking orders,empty
+09:36:16.604832 no blocking orders,empty
+09:36:27.656712 no blocking orders,empty
+09:36:32.985878 no blocking orders,empty
+09:36:39.552847 no blocking orders,empty
+09:36:42.278927 no blocking orders,empty
+09:36:44.631092 no blocking orders,empty
+09:36:45.379986 no blocking orders,empty
+09:36:46.191504 no blocking orders,empty
+09:36:54.163603 no blocking orders,empty
+09:36:54.858597 no blocking orders,empty
+09:36:56.586522 no blocking orders,empty
+09:36:57.333741 no blocking orders,empty
+09:36:59.791350 no blocking orders,empty
+09:37:00.411985 no blocking orders,empty
+09:37:15.589918 no blocking orders,empty
+09:37:28.428894 no blocking orders,empty
+09:37:29.170566 no blocking orders,empty
+09:37:33.754307 no blocking orders,empty
+09:37:34.451657 no blocking orders,empty
+09:37:38.122050 no blocking orders,empty
+09:37:38.933577 no blocking orders,empty
+09:37:45.154286 no blocking orders,empty
+09:37:45.960835 no blocking orders,empty
+09:37:58.664760 no blocking orders,empty
+09:38:00.719124 no blocking orders,empty
+09:38:05.927858 no blocking orders,empty
+09:38:17.292700 no blocking orders,empty
+09:38:21.374887 no blocking orders,empty
+09:38:26.198523 no blocking orders,empty
+09:38:29.451455 no blocking orders,empty
+09:38:30.199472 no blocking orders,empty
+09:38:37.165108 no blocking orders,empty
+09:38:48.426375 no blocking orders,empty
+09:38:53.955381 no blocking orders,empty
+*******************************************
+*STARTS* 10-29 9:41:53.894
+updating pos: IP 10-29 9:41:56.119 pos:24 cost:46.63
+POS:24 COST:46.6 DELT:1k
+10-29 9:42:6.321 rng:2.3% costTgt:0.977
+10-29 9:42:6.324 tgtMargin:1.018 tgtPrice:47.47
+ytdReturn:38.11%
+*Periodic Run* 10-29 9:42:14.118 last live feed time: 10-29 9:42 been:0min p:48.25 cost:46.6 p/cost:1.035
+p:48.25 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:414 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.942
+10-29 9:42:14.120 48.25 2dP:3.0 1dP:9.0
+2d$:n:403 max:48.9 [10-28 14:56] min:48.2 [10-29 9:35] rng:1.5% 1Key:[10-28 9:30] last:[10-29 9:42]
+1d$:n:13 max:48.4 [10-29 9:30] min:48.2 [10-29 9:35] rng:0.5% 1Key:[10-29 9:30] last:[10-29 9:42]
+09:42:15.930437 no blocking orders,empty
+09:42:28.091122 no blocking orders,empty
+09:42:59.490619 no blocking orders,empty
+09:43:00.805233 no blocking orders,empty
+09:43:06.600156 no blocking orders,empty
+09:43:07.509005 no blocking orders,empty
+09:43:08.016315 no blocking orders,empty
+09:43:18.193152 no blocking orders,empty
+09:43:26.657823 no blocking orders,empty
+09:43:27.296158 no blocking orders,empty
+09:43:29.319263 no blocking orders,empty
+09:43:30.035369 no blocking orders,empty
+09:43:37.997689 no blocking orders,empty
+09:43:39.088368 no blocking orders,empty
+09:43:54.583498 no blocking orders,empty
+09:43:57.278189 no blocking orders,empty
+09:44:02.805886 no blocking orders,empty
+09:44:17.146536 no blocking orders,empty
+09:44:18.788808 no blocking orders,empty
+09:44:31.317692 no blocking orders,empty
+09:44:32.788038 no blocking orders,empty
+09:44:34.609153 no blocking orders,empty
+09:44:35.273241 no blocking orders,empty
+09:44:36.054060 no blocking orders,empty
+09:44:38.961114 no blocking orders,empty
+09:44:45.926167 no blocking orders,empty
+09:44:46.225384 no blocking orders,empty
+09:44:47.044493 no blocking orders,empty
+09:44:47.729566 no blocking orders,empty
+09:44:50.796453 no blocking orders,empty
+09:44:53.643977 no blocking orders,empty
+09:44:55.143037 no blocking orders,empty
+09:45:01.938251 no blocking orders,empty
+09:45:02.594621 no blocking orders,empty
+09:45:09.234148 no blocking orders,empty
+09:45:28.611438 no blocking orders,empty
+09:45:32.512062 no blocking orders,empty
+updating pos: IP 10-29 9:50:8.507 pos:24 cost:46.63
+*******************************************
+*STARTS* 10-29 9:52:36.632
+updating pos: IP 10-29 9:52:38.996 pos:24 cost:46.63
+POS:24 COST:46.6 DELT:1k
+10-29 9:52:48.950 rng:2.3% costTgt:0.977
+10-29 9:52:48.952 tgtMargin:1.018 tgtPrice:47.47
+ytdReturn:38.71%
+*Periodic Run* 10-29 9:52:57.012 last live feed time: 10-29 9:52 been:0min p:48.4 cost:46.6 p/cost:1.038
+p:48.4 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:413 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.939
+10-29 9:52:57.013 48.4 2dP:28.0 1dP:68.0
+2d$:n:413 max:48.9 [10-28 14:56] min:48.2 [10-29 9:43] rng:1.5% 1Key:[10-28 9:30] last:[10-29 9:52]
+1d$:n:23 max:48.5 [10-29 9:30] min:48.2 [10-29 9:43] rng:0.6% 1Key:[10-29 9:30] last:[10-29 9:52]
+10:13:19.281335 no blocking orders,empty
+10:13:20.715966 no blocking orders,empty
+10:13:28.978935 no blocking orders,empty
+10:17:00.563800 no blocking orders,empty
+10:17:03.201784 no blocking orders,empty
+10:17:15.806178 no blocking orders,empty
+10:17:22.502505 no blocking orders,empty
+10:17:25.451198 no blocking orders,empty
+10:17:30.869088 no blocking orders,empty
+10:17:33.225669 no blocking orders,empty
+10:17:34.050787 no blocking orders,empty
+10:17:39.750437 no blocking orders,empty
+10:17:41.950734 no blocking orders,empty
+10:17:42.950453 no blocking orders,empty
+10:17:54.353746 no blocking orders,empty
+10:18:04.356202 no blocking orders,empty
+10:18:09.550063 no blocking orders,empty
+10:18:11.010659 no blocking orders,empty
+10:18:17.449689 no blocking orders,empty
+10:18:21.410387 no blocking orders,empty
+10:18:25.968392 no blocking orders,empty
+10:18:29.015601 no blocking orders,empty
+10:18:33.453499 no blocking orders,empty
+10:18:43.265434 no blocking orders,empty
+10:18:49.408755 no blocking orders,empty
+10:18:49.603745 no blocking orders,empty
+10:18:58.466006 no blocking orders,empty
+10:18:59.467033 no blocking orders,empty
+10:19:00.366130 no blocking orders,empty
+10:19:13.462033 no blocking orders,empty
+10:19:14.297554 no blocking orders,empty
+10:19:41.399246 no blocking orders,empty
+10:19:41.846732 no blocking orders,empty
+10:19:43.597994 no blocking orders,empty
+10:19:44.070373 no blocking orders,empty
+10:19:59.871234 no blocking orders,empty
+10:20:08.363979 no blocking orders,empty
+10:20:09.168057 no blocking orders,empty
+10:20:09.917045 no blocking orders,empty
+10:20:14.114696 no blocking orders,empty
+10:20:28.344404 no blocking orders,empty
+10:20:38.248852 no blocking orders,empty
+10:20:39.093908 no blocking orders,empty
+10:20:48.244290 no blocking orders,empty
+10:20:53.310977 no blocking orders,empty
+updating pos: IP 10-29 10:21:3.356 pos:24 cost:46.63
+10:21:06.847990 no blocking orders,empty
+10:21:07.294819 no blocking orders,empty
+10:21:13.192552 no blocking orders,empty
+10:21:19.258841 no blocking orders,empty
+10:21:20.444866 no blocking orders,empty
+10:21:30.193552 no blocking orders,empty
+10:21:40.695935 no blocking orders,empty
+10:21:41.503499 no blocking orders,empty
+10:21:43.059389 no blocking orders,empty
+10:21:52.991993 no blocking orders,empty
+10:22:03.760047 no blocking orders,empty
+10:22:05.808411 no blocking orders,empty
+10:22:07.259948 no blocking orders,empty
+10:22:08.062288 no blocking orders,empty
+10:27:38.575398 no blocking orders,empty
+10:27:43.668670 no blocking orders,empty
+10:27:54.677263 no blocking orders,empty
+10:28:05.481506 no blocking orders,empty
+10:28:06.299756 no blocking orders,empty
+10:28:09.221441 no blocking orders,empty
+10:28:18.537279 no blocking orders,empty
+10:28:23.757690 no blocking orders,empty
+10:28:27.854176 no blocking orders,empty
+10:28:28.511317 no blocking orders,empty
+10:28:33.509167 no blocking orders,empty
+10:28:50.390218 no blocking orders,empty
+10:29:08.556489 no blocking orders,empty
+10:29:10.769588 no blocking orders,empty
+10:29:18.598248 no blocking orders,empty
+10:29:28.553993 no blocking orders,empty
+10:29:29.350408 no blocking orders,empty
+10:29:36.978616 no blocking orders,empty
+10:29:39.993530 no blocking orders,empty
+10:29:48.465364 no blocking orders,empty
+10:29:51.777479 no blocking orders,empty
+10:29:55.366780 no blocking orders,empty
+10:30:03.535834 no blocking orders,empty
+10:30:23.564101 no blocking orders,empty
+10:30:49.520535 no blocking orders,empty
+10:30:56.045368 no blocking orders,empty
+10:31:00.997667 no blocking orders,empty
+10:31:19.674808 no blocking orders,empty
+10:31:20.427404 no blocking orders,empty
+10:31:33.054802 no blocking orders,empty
+10:31:33.310271 no blocking orders,empty
+10:31:33.978940 no blocking orders,empty
+10:31:39.128174 no blocking orders,empty
+10:31:58.755007 no blocking orders,empty
+10:32:02.749730 no blocking orders,empty
+10:32:08.482008 no blocking orders,empty
+10:32:09.185064 no blocking orders,empty
+10:33:17.605035 no blocking orders,empty
+10:33:19.780840 no blocking orders,empty
+10:33:20.578085 no blocking orders,empty
+10:33:29.893398 no blocking orders,empty
+10:33:33.557682 no blocking orders,empty
+10:33:34.316536 no blocking orders,empty
+10:33:44.025714 no blocking orders,empty
+10:33:59.385919 no blocking orders,empty
+10:34:01.437487 no blocking orders,empty
+10:34:02.764988 no blocking orders,empty
+10:34:08.300095 no blocking orders,empty
+10:34:08.973302 no blocking orders,empty
+10:34:12.086644 no blocking orders,empty
+10:34:14.984550 no blocking orders,empty
+10:34:22.695851 no blocking orders,empty
+10:34:23.529073 no blocking orders,empty
+10:34:24.578368 no blocking orders,empty
+10:34:32.977104 no blocking orders,empty
+10:34:43.521358 no blocking orders,empty
+10:34:46.595210 no blocking orders,empty
+10:34:48.644466 no blocking orders,empty
+10:34:57.231382 no blocking orders,empty
+10:35:06.319313 no blocking orders,empty
+10:35:08.872400 no blocking orders,empty
+10:35:10.940017 no blocking orders,empty
+10:35:11.681798 no blocking orders,empty
+10:36:19.304533 no blocking orders,empty
+10:36:28.586129 no blocking orders,empty
+10:36:29.461930 no blocking orders,empty
+10:38:03.997388 no blocking orders,empty
+10:38:13.004982 no blocking orders,empty
+10:38:13.753110 no blocking orders,empty
+10:38:16.094072 no blocking orders,empty
+10:38:17.860702 no blocking orders,empty
+10:38:20.204857 no blocking orders,empty
+10:38:20.682085 no blocking orders,empty
+10:38:22.253548 no blocking orders,empty
+10:38:23.276711 no blocking orders,empty
+10:38:31.161481 no blocking orders,empty
+10:38:46.464959 no blocking orders,empty
+10:38:46.992466 no blocking orders,empty
+10:38:54.503945 no blocking orders,empty
+10:38:55.302645 no blocking orders,empty
+10:40:06.881039 no blocking orders,empty
+10:40:19.234605 no blocking orders,empty
+10:40:32.508022 no blocking orders,empty
+10:41:09.752982 no blocking orders,empty
+10:41:11.491502 no blocking orders,empty
+10:41:24.341602 no blocking orders,empty
+10:41:25.559790 no blocking orders,empty
+10:41:25.764063 no blocking orders,empty
+10:41:26.541886 no blocking orders,empty
+10:41:29.858226 no blocking orders,empty
+10:41:35.150771 no blocking orders,empty
+10:41:35.903282 no blocking orders,empty
+10:41:38.455266 no blocking orders,empty
+10:41:42.246222 no blocking orders,empty
+10:41:44.497001 no blocking orders,empty
+10:41:53.842612 no blocking orders,empty
+10:41:56.794784 no blocking orders,empty
+10:42:11.054700 no blocking orders,empty
+10:42:14.398308 no blocking orders,empty
+10:42:17.842010 no blocking orders,empty
+10:42:21.342475 no blocking orders,empty
+10:42:26.157691 no blocking orders,empty
+10:42:27.593321 no blocking orders,empty
+10:42:30.850376 no blocking orders,empty
+10:42:31.602632 no blocking orders,empty
+10:42:36.641848 no blocking orders,empty
+10:42:37.600838 no blocking orders,empty
+10:42:40.804740 no blocking orders,empty
+10:42:54.242405 no blocking orders,empty
+10:42:59.865402 no blocking orders,empty
+10:43:01.253916 no blocking orders,empty
+10:43:10.542635 no blocking orders,empty
+10:43:14.294595 no blocking orders,empty
+10:43:24.042799 no blocking orders,empty
+10:43:26.292958 no blocking orders,empty
+10:43:29.357090 no blocking orders,empty
+10:43:30.542987 no blocking orders,empty
+10:43:31.292780 no blocking orders,empty
+10:43:42.887771 no blocking orders,empty
+10:43:43.545671 no blocking orders,empty
+10:43:47.439481 no blocking orders,empty
+10:43:54.135140 no blocking orders,empty
+10:44:02.833089 no blocking orders,empty
+10:44:13.584078 no blocking orders,empty
+10:44:23.540119 no blocking orders,empty
+10:44:28.332704 no blocking orders,empty
+10:44:28.482432 no blocking orders,empty
+10:44:58.832440 no blocking orders,empty
+10:45:02.432573 no blocking orders,empty
+10:45:12.182617 no blocking orders,empty
+10:45:18.350874 no blocking orders,empty
+10:45:23.397645 no blocking orders,empty
+10:45:36.233035 no blocking orders,empty
+10:45:36.933199 no blocking orders,empty
+10:45:37.782136 no blocking orders,empty
+10:45:38.482888 no blocking orders,empty
+10:45:45.541921 no blocking orders,empty
+10:45:45.951421 no blocking orders,empty
+10:45:53.537255 no blocking orders,empty
+10:45:57.885582 no blocking orders,empty
+10:46:10.147507 no blocking orders,empty
+10:46:14.034741 no blocking orders,empty
+10:46:19.083099 no blocking orders,empty
+10:46:20.087283 no blocking orders,empty
+10:46:33.533843 no blocking orders,empty
+10:46:34.295386 no blocking orders,empty
+10:46:37.542316 no blocking orders,empty
+10:46:39.200948 no blocking orders,empty
+10:46:55.483915 no blocking orders,empty
+10:46:55.893959 no blocking orders,empty
+10:46:56.734651 no blocking orders,empty
+10:47:04.683978 no blocking orders,empty
+10:47:07.985258 no blocking orders,empty
+10:47:50.835216 no blocking orders,empty
+10:47:59.188132 no blocking orders,empty
+10:48:04.199168 no blocking orders,empty
+10:48:05.037957 no blocking orders,empty
+10:48:05.737837 no blocking orders,empty
+10:48:12.388510 no blocking orders,empty
+10:48:16.186526 no blocking orders,empty
+10:48:29.694867 no blocking orders,empty
+10:48:30.386048 no blocking orders,empty
+10:48:37.199924 no blocking orders,empty
+10:48:41.486403 no blocking orders,empty
+10:48:42.986368 no blocking orders,empty
+10:48:43.736141 no blocking orders,empty
+10:48:50.994378 no blocking orders,empty
+10:49:01.543898 no blocking orders,empty
+10:49:02.386498 no blocking orders,empty
+10:49:06.960169 no blocking orders,empty
+10:49:29.296183 no blocking orders,empty
+10:49:47.186732 no blocking orders,empty
+10:49:48.751724 no blocking orders,empty
+10:49:58.593399 no blocking orders,empty
+10:50:11.258453 no blocking orders,empty
+10:50:13.013708 no blocking orders,empty
+10:50:52.648604 no blocking orders,empty
+10:51:05.695365 no blocking orders,empty
+10:51:06.347113 no blocking orders,empty
+10:51:11.689703 no blocking orders,empty
+10:51:23.788663 no blocking orders,empty
+10:51:25.342213 no blocking orders,empty
+10:51:38.739069 no blocking orders,empty
+10:51:55.641705 no blocking orders,empty
+10:51:57.061778 no blocking orders,empty
+10:52:02.596482 no blocking orders,empty
+10:52:11.601042 no blocking orders,empty
+10:52:18.590172 no blocking orders,empty
+10:52:27.089928 no blocking orders,empty
+10:52:33.347588 no blocking orders,empty
+*Periodic Run* 10-29 10:52:56.980 last live feed time: 10-29 10:52 been:0min p:47.86 cost:46.6 p/cost:1.026
+p:47.86 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:417 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.95
+10-29 10:52:56.980 47.86 2dP:1.0 1dP:2.0
+2d$:n:472 max:48.9 [10-28 14:56] min:47.9 [10-29 10:51] rng:2.3% 1Key:[10-28 9:30] last:[10-29 10:52]
+1d$:n:82 max:48.5 [10-29 9:30] min:47.9 [10-29 10:51] rng:1.4% 1Key:[10-29 9:30] last:[10-29 10:52]
+10:53:05.340001 no blocking orders,empty
+10:53:15.266802 no blocking orders,empty
+10:53:24.103625 no blocking orders,empty
+10:53:52.591125 no blocking orders,empty
+10:53:53.291284 no blocking orders,empty
+10:53:58.541129 no blocking orders,empty
+10:54:14.292145 no blocking orders,empty
+10:54:22.742381 no blocking orders,empty
+10:54:23.497420 no blocking orders,empty
+10:54:29.646482 no blocking orders,empty
+10:54:37.792510 no blocking orders,empty
+10:54:46.144589 no blocking orders,empty
+10:55:01.095359 no blocking orders,empty
+10:55:39.592849 no blocking orders,empty
+10:55:41.843028 no blocking orders,empty
+10:55:43.343543 no blocking orders,empty
+10:55:54.245325 no blocking orders,empty
+10:56:04.052712 no blocking orders,empty
+10:56:13.754171 no blocking orders,empty
+10:56:32.643838 no blocking orders,empty
+10:56:35.260956 no blocking orders,empty
+10:56:35.743762 no blocking orders,empty
+10:56:36.343731 no blocking orders,empty
+10:56:53.995014 no blocking orders,empty
+10:56:54.743901 no blocking orders,empty
+10:57:03.545217 no blocking orders,empty
+10:57:06.244494 no blocking orders,empty
+10:57:15.269377 no blocking orders,empty
+10:57:15.844140 no blocking orders,empty
+10:57:23.444414 no blocking orders,empty
+10:57:26.800978 no blocking orders,empty
+10:57:30.546370 no blocking orders,empty
+10:57:32.649296 no blocking orders,empty
+10:57:33.149283 no blocking orders,empty
+10:57:35.811255 no blocking orders,empty
+10:57:36.856888 no blocking orders,empty
+10:57:50.802699 no blocking orders,empty
+10:58:19.345818 no blocking orders,empty
+10:58:22.800741 no blocking orders,empty
+10:58:28.145728 no blocking orders,empty
+10:58:28.612705 no blocking orders,empty
+10:58:44.216257 no blocking orders,empty
+10:59:12.246708 no blocking orders,empty
+10:59:12.996952 no blocking orders,empty
+10:59:54.068432 no blocking orders,empty
+10:59:55.747871 no blocking orders,empty
+10:59:57.120675 no blocking orders,empty
+10:59:59.314970 no blocking orders,empty
+11:00:00.915189 no blocking orders,empty
+11:00:01.567665 no blocking orders,empty
+11:03:27.152617 no blocking orders,empty
+11:03:33.330477 no blocking orders,empty
+11:03:41.431258 no blocking orders,empty
+11:03:58.683095 no blocking orders,empty
+11:04:01.748018 no blocking orders,empty
+11:04:01.933067 no blocking orders,empty
+11:04:07.495836 no blocking orders,empty
+11:04:11.231544 no blocking orders,empty
+11:04:28.332065 no blocking orders,empty
+11:04:55.833070 no blocking orders,empty
+11:04:57.198254 no blocking orders,empty
+11:04:58.483603 no blocking orders,empty
+11:05:31.197365 no blocking orders,empty
+11:05:35.485315 no blocking orders,empty
+11:05:57.785341 no blocking orders,empty
+11:05:58.539539 no blocking orders,empty
+11:06:11.087956 no blocking orders,empty
+11:06:36.160482 no blocking orders,empty
+11:06:36.844396 no blocking orders,empty
+11:06:43.439198 no blocking orders,empty
+11:07:00.386389 no blocking orders,empty
+11:07:22.007586 no blocking orders,empty
+11:07:27.444531 no blocking orders,empty
+11:07:29.288749 no blocking orders,empty
+11:07:35.338600 no blocking orders,empty
+11:07:41.237885 no blocking orders,empty
+11:07:43.098329 no blocking orders,empty
+11:08:03.761210 no blocking orders,empty
+11:08:04.453175 no blocking orders,empty
+11:08:06.750242 no blocking orders,empty
+11:08:08.799381 no blocking orders,empty
+11:08:17.304249 no blocking orders,empty
+11:08:24.290538 no blocking orders,empty
+11:08:29.257086 no blocking orders,empty
+11:08:30.407799 no blocking orders,empty
+11:08:33.792424 no blocking orders,empty
+11:08:47.050492 no blocking orders,empty
+11:08:48.793294 no blocking orders,empty
+11:08:56.340405 no blocking orders,empty
+11:09:01.640360 no blocking orders,empty
+11:09:02.563761 no blocking orders,empty
+11:09:07.643757 no blocking orders,empty
+11:09:09.410106 no blocking orders,empty
+11:09:10.659727 no blocking orders,empty
+11:09:38.891955 no blocking orders,empty
+11:09:56.803021 no blocking orders,empty
+11:10:15.697161 no blocking orders,empty
+11:10:25.243408 no blocking orders,empty
+11:10:25.794984 no blocking orders,empty
+11:10:36.395465 no blocking orders,empty
+11:10:38.995273 no blocking orders,empty
+11:10:39.845004 no blocking orders,empty
+11:10:50.597287 no blocking orders,empty
+11:10:55.716409 no blocking orders,empty
+11:10:58.544764 no blocking orders,empty
+11:11:00.643548 no blocking orders,empty
+11:11:12.818650 no blocking orders,empty
+11:11:20.395942 no blocking orders,empty
+11:11:21.113460 no blocking orders,empty
+11:11:34.597773 no blocking orders,empty
+11:12:02.295193 no blocking orders,empty
+11:12:09.415335 no blocking orders,empty
+11:12:22.352155 no blocking orders,empty
+11:12:23.069163 no blocking orders,empty
+11:12:27.496407 no blocking orders,empty
+11:12:28.255159 no blocking orders,empty
+11:12:35.563507 no blocking orders,empty
+11:12:38.847478 no blocking orders,empty
+11:12:40.798496 no blocking orders,empty
+11:12:56.452397 no blocking orders,empty
+11:13:31.898847 no blocking orders,empty
+11:13:41.849702 no blocking orders,empty
+11:13:55.849488 no blocking orders,empty
+11:13:56.564315 no blocking orders,empty
+11:14:08.351134 no blocking orders,empty
+11:14:08.859198 no blocking orders,empty
+11:14:11.103116 no blocking orders,empty
+11:14:20.951374 no blocking orders,empty
+11:15:01.205479 no blocking orders,empty
+11:15:12.951722 no blocking orders,empty
+11:15:13.503814 no blocking orders,empty
+11:15:18.301533 no blocking orders,empty
+11:15:18.501516 no blocking orders,empty
+11:16:22.014239 no blocking orders,empty
+11:16:54.822401 no blocking orders,empty
+11:16:55.570837 no blocking orders,empty
+11:17:15.865560 no blocking orders,empty
+11:17:16.457250 no blocking orders,empty
+11:17:19.355835 no blocking orders,empty
+11:17:20.067628 no blocking orders,empty
+11:17:28.105978 no blocking orders,empty
+11:17:38.259084 no blocking orders,empty
+11:17:38.930156 no blocking orders,empty
+11:17:50.668479 no blocking orders,empty
+11:17:51.457541 no blocking orders,empty
+11:18:02.058839 no blocking orders,empty
+11:18:03.956571 no blocking orders,empty
+11:18:06.356599 no blocking orders,empty
+11:18:15.557067 no blocking orders,empty
+11:18:16.674802 no blocking orders,empty
+11:18:17.408876 no blocking orders,empty
+11:18:21.314937 no blocking orders,empty
+11:18:23.013675 no blocking orders,empty
+11:18:25.608412 no blocking orders,empty
+11:18:30.531713 no blocking orders,empty
+11:18:31.315016 no blocking orders,empty
+11:18:40.431885 no blocking orders,empty
+11:18:42.860785 no blocking orders,empty
+11:18:47.871034 no blocking orders,empty
+11:18:55.458209 no blocking orders,empty
+11:19:00.508814 no blocking orders,empty
+11:19:01.216748 no blocking orders,empty
+11:19:05.459720 no blocking orders,empty
+11:19:12.910447 no blocking orders,empty
+11:19:14.582596 no blocking orders,empty
+11:19:17.109043 no blocking orders,empty
+11:19:31.969133 no blocking orders,empty
+11:19:32.860488 no blocking orders,empty
+11:19:38.025286 no blocking orders,empty
+11:19:45.969053 no blocking orders,empty
+11:19:48.559884 no blocking orders,empty
+11:19:59.569196 no blocking orders,empty
+11:20:00.410898 no blocking orders,empty
+11:20:20.460341 no blocking orders,empty
+11:20:21.811436 no blocking orders,empty
+11:20:34.481234 no blocking orders,empty
+11:20:35.533500 no blocking orders,empty
+11:20:41.261673 no blocking orders,empty
+11:20:50.483072 no blocking orders,empty
+11:20:52.864404 no blocking orders,empty
+11:20:55.412659 no blocking orders,empty
+11:21:24.262832 no blocking orders,empty
+11:21:42.813039 no blocking orders,empty
+11:21:48.064170 no blocking orders,empty
+11:22:01.665230 no blocking orders,empty
+11:22:12.918974 no blocking orders,empty
+11:22:24.377699 no blocking orders,empty
+11:22:25.233626 no blocking orders,empty
+11:22:49.414883 no blocking orders,empty
+11:22:57.565278 no blocking orders,empty
+11:23:06.271515 no blocking orders,empty
+11:23:12.116115 no blocking orders,empty
+11:23:29.516076 no blocking orders,empty
+11:23:30.568973 no blocking orders,empty
+11:23:38.768965 no blocking orders,empty
+11:23:39.266292 no blocking orders,empty
+11:23:40.466255 no blocking orders,empty
+11:23:45.618155 no blocking orders,empty
+11:23:51.486626 no blocking orders,empty
+11:24:06.867850 no blocking orders,empty
+11:24:07.669053 no blocking orders,empty
+11:24:16.117573 no blocking orders,empty
+11:24:27.887897 no blocking orders,empty
+11:24:29.832820 no blocking orders,empty
+11:24:30.619952 no blocking orders,empty
+11:24:32.535984 no blocking orders,empty
+11:24:34.135328 no blocking orders,empty
+11:24:34.970466 no blocking orders,empty
+11:24:40.670352 no blocking orders,empty
+11:24:52.776606 no blocking orders,empty
+11:24:59.518882 no blocking orders,empty
+11:25:02.118952 no blocking orders,empty
+11:25:14.528034 no blocking orders,empty
+11:25:21.922905 no blocking orders,empty
+11:25:45.328384 no blocking orders,empty
+11:26:10.823056 no blocking orders,empty
+11:26:14.389999 no blocking orders,empty
+11:26:22.996382 no blocking orders,empty
+11:26:37.222028 no blocking orders,empty
+11:26:46.221938 no blocking orders,empty
+11:27:00.578931 no blocking orders,empty
+11:27:19.125697 no blocking orders,empty
+11:27:32.223567 no blocking orders,empty
+11:27:39.482951 no blocking orders,empty
+11:27:49.424023 no blocking orders,empty
+11:28:09.279004 no blocking orders,empty
+11:28:12.025326 no blocking orders,empty
+11:28:14.924652 no blocking orders,empty
+11:28:18.475355 no blocking orders,empty
+11:28:19.835771 no blocking orders,empty
+11:28:28.325105 no blocking orders,empty
+11:29:50.179528 no blocking orders,empty
+11:30:01.077929 no blocking orders,empty
+11:30:11.583202 no blocking orders,empty
+11:30:24.803321 no blocking orders,empty
+11:31:04.297358 no blocking orders,empty
+11:31:10.543722 no blocking orders,empty
+11:31:13.530354 no blocking orders,empty
+11:31:29.288428 no blocking orders,empty
+11:31:31.232548 no blocking orders,empty
+11:31:52.181744 no blocking orders,empty
+11:31:52.938884 no blocking orders,empty
+11:33:18.445717 no blocking orders,empty
+11:33:29.534306 no blocking orders,empty
+11:33:30.141971 no blocking orders,empty
+11:33:37.484360 no blocking orders,empty
+11:35:37.044470 no blocking orders,empty
+11:35:42.638443 no blocking orders,empty
+11:35:53.907279 no blocking orders,empty
+11:36:10.939851 no blocking orders,empty
+11:36:11.689377 no blocking orders,empty
+11:36:31.689932 no blocking orders,empty
+11:37:06.091105 no blocking orders,empty
+11:37:11.108174 no blocking orders,empty
+11:37:16.641922 no blocking orders,empty
+11:37:26.391350 no blocking orders,empty
+11:37:29.312554 no blocking orders,empty
+11:37:30.464634 no blocking orders,empty
+11:37:42.956869 no blocking orders,empty
+11:37:50.201543 no blocking orders,empty
+11:38:05.542718 no blocking orders,empty
+11:38:06.492777 no blocking orders,empty
+11:38:17.742793 no blocking orders,empty
+11:38:37.845708 no blocking orders,empty
+11:38:51.994222 no blocking orders,empty
+11:39:32.545380 no blocking orders,empty
+11:39:55.345915 no blocking orders,empty
+11:39:57.105662 no blocking orders,empty
+11:40:01.596933 no blocking orders,empty
+11:40:02.946828 no blocking orders,empty
+11:40:20.764694 no blocking orders,empty
+11:41:25.570318 no blocking orders,empty
+11:41:26.021545 no blocking orders,empty
+11:41:27.302500 no blocking orders,empty
+11:41:35.705749 no blocking orders,empty
+11:41:57.499979 no blocking orders,empty
+11:41:58.199552 no blocking orders,empty
+11:42:10.949787 no blocking orders,empty
+*Periodic Run* 10-29 11:52:57.104 last live feed time: 10-29 11:52 been:0min p:47.67 cost:46.6 p/cost:1.022
+p:47.67 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:419 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.954
+10-29 11:52:57.105 47.67 2dP:7.0 1dP:10.0
+2d$:n:532 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 11:52]
+1d$:n:142 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 11:52]
+updating pos: IP 10-29 12:10:10.986 pos:24 cost:46.63
+updating pos: IP 10-29 12:50:52.180 pos:24 cost:46.63
+*Periodic Run* 10-29 12:52:57.209 last live feed time: 10-29 12:52 been:0min p:47.77 cost:46.6 p/cost:1.024
+p:47.77 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:418 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.952
+10-29 12:52:57.209 47.77 2dP:14.0 1dP:20.0
+2d$:n:591 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 12:52]
+1d$:n:201 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 12:52]
+*Periodic Run* 10-29 13:52:57.323 last live feed time: 10-29 13:06 been:46min p:47.76 cost:46.6 p/cost:1.024
+p:47.76 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:418 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.952
+10-29 13:52:57.324 47.76 2dP:13.0 1dP:19.0
+2d$:n:605 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 13:06]
+1d$:n:215 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 13:06]
+*Periodic Run* 10-29 14:52:57.237 last live feed time: 10-29 13:06 been:106min p:47.76 cost:46.6 p/cost:1.024
+p:47.76 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:418 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.952
+10-29 14:52:57.238 47.76 2dP:13.0 1dP:19.0
+2d$:n:605 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 13:06]
+1d$:n:215 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 13:06]
+*Periodic Run* 10-29 15:52:57.350 last live feed time: 10-29 13:06 been:166min p:47.76 cost:46.6 p/cost:1.024
+p:47.76 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:418 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.952
+10-29 15:52:57.351 47.76 2dP:13.0 1dP:19.0
+2d$:n:605 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 13:06]
+1d$:n:215 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 13:06]
+*Periodic Run* 10-29 16:52:57.452 last live feed time: 10-29 13:06 been:226min p:47.76 cost:46.6 p/cost:1.024
+p:47.76 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:418 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.952
+10-29 16:52:57.452 47.76 2dP:13.0 1dP:19.0
+2d$:n:605 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 13:06]
+1d$:n:215 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 13:06]
+*Periodic Run* 10-29 17:52:57.560 last live feed time: 10-29 13:06 been:286min p:47.76 cost:46.6 p/cost:1.024
+p:47.76 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:418 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.952
+10-29 17:52:57.561 47.76 2dP:13.0 1dP:19.0
+2d$:n:605 max:48.9 [10-28 14:56] min:47.6 [10-29 11:27] rng:2.9% 1Key:[10-28 9:30] last:[10-29 13:06]
+1d$:n:215 max:48.5 [10-29 9:30] min:47.6 [10-29 11:27] rng:2.0% 1Key:[10-29 9:30] last:[10-29 13:06]
+*******************************************
+*STARTS* 10-29 17:58:4.472
+updating pos: IP 10-29 17:58:6.770 pos:24 cost:46.63
+POS:24 COST:46.6 DELT:1k
+10-29 17:58:15.631 rng:2.3% costTgt:0.977
+10-29 17:58:15.632 tgtMargin:1.0181 tgtPrice:47.47
+ytdReturn:35.35%
+*Periodic Run* 10-29 17:58:24.799 last live feed time: 10-29 17:58 been:0min p:47.29 cost:46.6 p/cost:1.014
+p:47.29 rng:2.3% pos:24 delt:1k cost:46.6 fullLot:422 refillP:45.46 costTgt:0.977 refillP/cost:0.975 refillP/px:0.961
+10-29 17:58:24.801 47.29 2dP:0.0 1dP:0.0
+2d$:n:781 max:48.9 [10-28 14:56] min:47.3 [10-29 15:59] rng:3.5% 1Key:[10-28 9:30] last:[10-29 17:58]
+1d$:n:391 max:48.5 [10-29 9:30] min:47.3 [10-29 15:59] rng:2.6% 1Key:[10-29 9:30] last:[10-29 17:58]

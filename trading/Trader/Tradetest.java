@@ -22,9 +22,9 @@ public class Tradetest implements LiveHandler {
     private static volatile TreeSet<String> targetStockList = new TreeSet<>();
     private static Map<String, Contract> symbolContractMap = new HashMap<>();
 
-    public static final int GATEWAY_PORT = 4001;
+    public static final int GATEWAY_PORT = 4002;
     public static final int TWS_PORT = 7496;
-    public static final int PORT_TO_USE = TWS_PORT;
+    public static final int PORT_TO_USE = GATEWAY_PORT;
 
     //    static Contract tencent = generateHKStockContract("700");
     static Contract stockToTry = generateUSStockContract("WMT");
