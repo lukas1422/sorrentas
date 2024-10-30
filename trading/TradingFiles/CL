@@ -9899,3 +9899,295 @@ p:94.72 rng:1.3% pos:272 delt:26k cost:101.8 fullLot:211 refillP:94.48 costTgt:0
 10-29 17:58:24.775 94.72 2dP:9.0 1dP:19.0
 2d$:n:781 max:96.6 [10-28 10:24] min:94.5 [10-29 9:37] rng:2.1% 1Key:[10-28 9:30] last:[10-29 17:58]
 1d$:n:391 max:95.5 [10-29 9:55] min:94.5 [10-29 9:37] rng:1.0% 1Key:[10-29 9:30] last:[10-29 17:58]
+*******************************************
+*STARTS* 10-29 18:08
+*******************************************
+*STARTS* 10-29 18:13:1.088
+updating pos: CL 10-29 18:13:3.365 pos:272 cost:101.76
+POS:272 COST:101.8 DELT:28k
+10-29 18:13:9.288 rng:1.3% costTgt:0.98
+10-29 18:13:9.289 tgtMargin:1.0108 tgtPrice:102.86
+ytdReturn:21.45%
+*Periodic Run* 10-29 18:13:21.350 last live feed time: 10-29 18:13 been:0min p:94.72 cost:101.8 p/cost:0.931
+p:94.72 rng:1.3% pos:272 delt:26k cost:101.8 fullLot:211 refillP:94.48 costTgt:0.98 refillP/cost:0.928 refillP/px:0.997
+10-29 18:13:21.353 94.72 2dP:101.0 1dP:101.0
+2d$:n:781 max:96.6 [10-28 10:24] min:94.5 [10-29 9:37] rng:2.1% 1Key:[10-28 9:30] last:[10-29 18:13]
+1d$:n:391 max:95.5 [10-29 9:55] min:94.5 [10-29 9:37] rng:1.0% 1Key:[10-29 9:30] last:[10-29 18:13]
+*******************************************
+*STARTS* 10-29 18:22:10.391
+*******************************************
+*STARTS* 10-30 7:07:11.958
+updating pos: CL 10-30 7:07:14.434 pos:272 cost:101.76
+POS:272 COST:101.8 DELT:28k
+*Periodic Run* 10-30 7:07:32.283 7:07:32 no live feed
+10-30 7:07:32.285 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+10-30 7:08:36.382 rng:1.3% costTgt:0.98
+10-30 7:08:36.383 tgtMargin:1.0108 tgtPrice:102.86
+ytdReturn:21.45%
+*Periodic Run* 10-30 8:07:32.222 last live feed time: 10-30 8:04 been:2min p:94.75 cost:101.8 p/cost:0.931
+p:94.75 rng:1.3% pos:272 delt:26k cost:101.8 fullLot:211 refillP:94.48 costTgt:0.98 refillP/cost:0.928 refillP/px:0.997
+10-30 8:07:32.223 94.75 2dP:11.0 1dP:100.0
+2d$:n:782 max:96.6 [10-28 10:24] min:94.5 [10-29 9:37] rng:2.1% 1Key:[10-28 9:30] last:[10-30 8:04]
+1d$:n<5
+*Periodic Run* 10-30 9:07:32.223 last live feed time: 10-30 8:36 been:31min p:94.7 cost:101.8 p/cost:0.931
+p:94.7 rng:1.3% pos:272 delt:26k cost:101.8 fullLot:211 refillP:94.48 costTgt:0.98 refillP/cost:0.928 refillP/px:0.998
+10-30 9:07:32.224 94.7 2dP:9.0 1dP:47.0
+2d$:n:785 max:96.6 [10-28 10:24] min:94.5 [10-29 9:37] rng:2.2% 1Key:[10-28 9:30] last:[10-30 8:36]
+1d$:n:5 max:94.7 [10-30 8:34] min:94.7 [10-30 8:35] rng:-0.1% 1Key:[10-30 7:08] last:[10-30 8:36]
+09:30:26.942751 no blocking orders,empty
+*REFILL*@94.41 10-30 9:30:26 delta:26k 1dp:0.0 2dp:0.0 cost:101.8 px/cost:0.9277 refillPx:94.48 avgRng:0.0135
+0:241030037 CL BUY 70 @94.32 9:30 bid is:94.41
+9:30 0: CL orderID:241030037 tradeID:241030037 BUY 70 @94.32 factor:0.999 CL 10-30 9:30 ADDER Created
+1:241030038 CL BUY 70 @93.39 9:30 bid is:94.41
+9:30 1: CL orderID:241030038 tradeID:241030038 BUY 70 @93.39 factor:0.9892363500059855 CL 10-30 9:30 ADDER Created
+1D$:n:6 max:94.7 [10-30 8:34] min:94.7 [10-30 9:30] rng:0.0% 1Key:[10-30 7:08] last:[10-30 9:30]
+2D$:n:786 max:96.6 [10-28 10:24] min:94.5 [10-30 9:30] rng:2.2% 1Key:[10-28 9:30] last:[10-30 9:30]
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Created, 241030038=CL 10-30 9:30 ADDER Created}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Created, 241030038=CL 10-30 9:30 ADDER Created]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:27.684 no blocking orders 
+10-30 9:30:27.790 *openOrder* status:Submitted 241030037 BUY 70@94.32
+10-30 9:30:27.795 *openOrder* all live orders [241030037 BUY 70@94.32]
+10-30 9:30:27.798 *OrderStatus*:Submitted orderId:241030037 filled:0 remaining:70 avgFillPx:0.0 lastFillPx:0.0
+10-30 9:30:27.991 *openOrder* status:PreSubmitted 241030038 BUY 70@93.39
+10-30 9:30:27.992 *openOrder* all live orders [241030037 BUY 70@94.32, 241030038 BUY 70@93.39]
+10-30 9:30:27.993 *OrderStatus*:PreSubmitted orderId:241030038 filled:0 remaining:70 avgFillPx:0.0 lastFillPx:0.0
+10-30 9:30:28.769 *openOrder* status:Submitted 241030038 BUY 70@93.39
+10-30 9:30:28.770 *openOrder* all live orders [241030037 BUY 70@94.32, 241030038 BUY 70@93.39]
+10-30 9:30:28.770 *OrderStatus*:Submitted orderId:241030038 filled:0 remaining:70 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:29.664 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:44.431 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:47.434 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:48.191 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:54.195 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:56.709 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:57.464 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:30:59.470 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:00.207 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:00.972 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:04.961 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:05.713 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:07.213 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:07.965 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:14.993 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:15.727 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:20.734 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:23.738 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:26.010 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:32.552 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030037=CL 10-30 9:30 ADDER Submitted, 241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030037, 241030038]}
+2024-10-30T09:31:35.527 no blocking orders 
+updating pos: CL 10-30 9:31:39.898 pos:342 cost:100.24
+10-30 9:31:39.977 *tradeReport* time: 2024-10-30T09:31:39 BOT execPx:94.32 shares:70 avgPx:94.32
+10-30 9:31:40.192 *openOrder* status:Filled 241030037 BUY 70@94.32
+10-30 9:31:40.193 *openOrder*:removing order.Status:Filled 241030037 BUY 70@94.32
+10-30 9:31:40.194 *openOrder*:after removal.OpenOrders: [241030038]
+10-30 9:31:40.195 *openOrder* all live orders [241030038 BUY 70@93.39]
+10-30 9:31:40.195 *OrderStatus*:Filled orderId:241030037 filled:70 remaining:0 avgFillPx:94.32 lastFillPx:94.32
+10-30 9:31:40.196 *openOrder* status:Filled 241030037 BUY 70@94.32
+10-30 9:31:40.197 *openOrder*:removing order.Status:Filled 241030037 BUY 70@94.32
+10-30 9:31:40.197 *openOrder*:after removal.OpenOrders: [241030038]
+10-30 9:31:40.197 *openOrder* all live orders [241030038 BUY 70@93.39]
+10-30 9:31:40.198 *OrderStatus*:Filled orderId:241030037 filled:70 remaining:0 avgFillPx:94.32 lastFillPx:94.32
+1.*commission report*:241030037 commission:0.28 
+2.*commission report* orderID:241030037 commission: 0.28 
+updating pos: CL 10-30 9:31:40.202 pos:342 cost:100.24
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:31:40.203 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:31:40.547 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:31:42.534 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:02.807 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:05.058 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:08.059 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:10.821 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:15.157 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:17.813 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:18.579 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:24.334 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:25.087 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:27.589 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:38.107 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:44.150 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:44.158 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:45.410 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:46.120 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:32:56.133 no blocking orders 
+no blocking buy orders: All submitted orders {241030037=CL 10-30 9:30 ADDER Filled, 241030038=CL 10-30 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241030038=CL 10-30 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241030038]}
+2024-10-30T09:33:01.393 no blocking orders 
+*Periodic Run* 10-30 10:07:32.078 last live feed time: 10-30 9:33 been:34min p:94.25 cost:100.2 p/cost:0.94
+p:94.25 rng:1.3% pos:342 delt:32k cost:100.2 fullLot:212 refillP:91.77 costTgt:0.98 refillP/cost:0.915 refillP/px:0.974
+10-30 10:07:32.080 *chek orderStatus [241030037=Filled, 241030038=Submitted]
+10-30 10:07:32.101 *chek openOrders*: [241030038]
+10-30 10:07:32.102 94.25 2dP:0.0 1dP:0.0
+2d$:n:789 max:96.6 [10-28 10:24] min:94.3 [10-30 9:32] rng:2.4% 1Key:[10-28 9:30] last:[10-30 9:33]
+1d$:n:9 max:94.7 [10-30 8:34] min:94.3 [10-30 9:32] rng:0.4% 1Key:[10-30 7:08] last:[10-30 9:33]
+*******************************************
+*STARTS* 10-30 10:12:20.654
+updating pos: CL 10-30 10:12:22.810 pos:342 cost:100.24
+POS:342 COST:100.2 DELT:34k
+10-30 10:12:22.914 *openOrder* status:Submitted 241030038 BUY 70@93.39
+openOrder does not contain order CL 241030038 BUY 70@93.39
+10-30 10:12:22.916 *openOrder* all live orders [241030038 BUY 70@93.39]
+10-30 10:12:22.917 *OrderStatus*:Submitted orderId:241030038 filled:0 remaining:70 avgFillPx:0.0 lastFillPx:0.0
+10-30 10:12:23.100 *tradeReport* time: 2024-10-30T09:31:39 BOT execPx:94.32 shares:70 avgPx:94.32
+listOfExecs [orderID: 241030037 time: 2024-10-30T09:31:39 side: BOT shares: 70 price: 94.32]
+10-30 10:12:23.870 *OrderStatus*:Cancelled orderId:241030038 filled:0 remaining:70 avgFillPx:0.0 lastFillPx:0.0
+10-30 10:12:23.871 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241030038=241030038 BUY 70@93.39}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={241030005=241030005 SELL 4@261.87, 241030004=241030004 SELL 3@259.31, 241030003=241030003 SELL 3@257.25}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+*Periodic Run* 10-30 10:12:40.795 last live feed time: 10-30 10:12 been:0min p:94.2 cost:100.2 p/cost:0.94
+p:94.2 rng:0.0% pos:342 delt:32k cost:100.2 fullLot:212 refillP:91.77 costTgt:0.98 refillP/cost:0.915 refillP/px:0.974
+10-30 10:12:40.797 *chek orderStatus [241030038=Cancelled]
+10-30 10:12:40.803 94.2 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+10-30 10:12:41.601 rng:1.3% costTgt:0.98
+10-30 10:12:41.602 tgtMargin:1.0107 tgtPrice:101.32
+ytdReturn:20.76%
+*******************************************
+*STARTS* 10-30 10:13:31.132
+updating pos: CL 10-30 10:13:33.369 pos:342 cost:100.24
+POS:342 COST:100.2 DELT:34k
+10-30 10:13:33.542 *tradeReport* time: 2024-10-30T09:31:39 BOT execPx:94.32 shares:70 avgPx:94.32
+listOfExecs [orderID: 241030037 time: 2024-10-30T09:31:39 side: BOT shares: 70 price: 94.32]
+10-30 10:13:39.998 rng:1.3% costTgt:0.98
+10-30 10:13:39.999 tgtMargin:1.0107 tgtPrice:101.32
+ytdReturn:20.76%
+*Periodic Run* 10-30 10:13:51.357 last live feed time: 10-30 10:13 been:0min p:94.17 cost:100.2 p/cost:0.939
+p:94.17 rng:1.3% pos:342 delt:32k cost:100.2 fullLot:212 refillP:91.77 costTgt:0.98 refillP/cost:0.915 refillP/px:0.974
+10-30 10:13:51.359 94.17 2dP:101.0 1dP:101.0
+2d$:n:434 max:95.5 [10-29 9:55] min:94.2 [10-30 10:08] rng:1.4% 1Key:[10-29 9:30] last:[10-30 10:13]
+1d$:n:44 max:94.6 [10-30 9:30] min:94.2 [10-30 10:08] rng:0.4% 1Key:[10-30 9:30] last:[10-30 10:13]
+10:14:01.222761 no blocking orders,empty
+10:14:06.032985 no blocking orders,empty
+10:14:22.984776 no blocking orders,empty
+10:14:30.097970 no blocking orders,empty
+10:14:32.351328 no blocking orders,empty
+10:14:47.096961 no blocking orders,empty
+10:15:00.248582 no blocking orders,empty
+10:15:06.505742 no blocking orders,empty
+10:15:25.787699 no blocking orders,empty
+10:15:28.034848 no blocking orders,empty
+10:15:29.798516 no blocking orders,empty

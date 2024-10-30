@@ -20972,3 +20972,39 @@ UNP openorders does not contain order UNP 241029318 SELL 9@236.24
 *openOrder* Error 10-29 17:58:7.608 orderId:241029029 errorCode:202 msg:Order Canceled - reason:
 *openOrder* Error 10-29 17:58:7.612 orderId:241029319 errorCode:202 msg:Order Canceled - reason:
 *openOrder* Error 10-29 17:58:7.618 orderId:241029318 errorCode:202 msg:Order Canceled - reason:
+*****START***** HKT: 6:13:01 EST: 10-29 18:13:1.044
+*openOrder* Error 10-29 18:13:6.440 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-29 18:13:39.371 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 10-29 18:14:11.666 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 10-29 18:14:12.231 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-29 18:14:12.233 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*****START***** HKT: 6:22:10 EST: 10-29 18:22:10.311
+*****START***** HKT: 19:07:11 EST: 10-30 7:07:11.852
+*openOrder* Error 10-30 7:08:33.974 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-30 7:15:33.974 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*****START***** HKT: 22:12:20 EST: 10-30 10:12:20.601
+UNP openorders does not contain order UNP 241030158 SELL 6@235.48
+UNP openorders does not contain order UNP 241030159 SELL 7@237.96
+CL openorders does not contain order CL 241030038 BUY 70@93.39
+GLD openorders does not contain order GLD 241030005 SELL 4@261.87
+GLD openorders does not contain order GLD 241030003 SELL 3@257.25
+GLD openorders does not contain order GLD 241030004 SELL 3@259.31
+*openOrder* Error 10-30 10:12:23.857 orderId:241030158 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-30 10:12:23.869 orderId:241030159 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-30 10:12:23.876 orderId:241030038 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-30 10:12:23.901 orderId:241030005 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-30 10:12:23.906 orderId:241030003 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-30 10:12:23.911 orderId:241030004 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 10-30 10:12:25.970 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-30 10:12:47.060 orderId:241030049 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:47.061 orderId:241030050 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:47.062 orderId:241030051 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:49.298 orderId:241030052 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:49.299 orderId:241030053 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:49.300 orderId:241030054 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:50.316 orderId:241030056 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:50.317 orderId:241030057 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:50.406 orderId:241030058 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:56.305 orderId:241030063 errorCode:103 msg:Duplicate order id
+*openOrder* Error 10-30 10:12:56.306 orderId:241030064 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:13:31 EST: 10-30 10:13:31.033
