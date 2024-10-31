@@ -3433,3 +3433,1210 @@ ytdReturn:25.37%
 10-30 10:13:51.378 46.6 2dP:100.0 1dP:100.0
 2d$:n<5
 1d$:n<5
+*******************************************
+*STARTS* 10-31 8:44:59.827
+POS:0 COST:0.0 DELT:0k
+*Periodic Run* 10-31 8:45:20.088 8:45:20 no live feed
+10-31 8:45:20.089 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+10-31 8:45:40.861 rng:1.0% costTgt:0.98
+10-31 8:45:40.862 tgtMargin:1.01 tgtPrice:0.0
+ytdReturn:24.37%
+09:31:45.265614 no blocking orders,empty
+*1Buy*@46.37 10-31 9:31:45 1dp:0.0 2dp:19.0
+cash remaining: 46288.89
+0:241031010 HSBC BUY 143 @46.32 9:31 bid is:46.37
+9:31 0: HSBC orderID:241031010 tradeID:241031010 BUY 143 @46.32 factor:0.999 HSBC 10-31 9:31 ADDER Created
+1:241031011 HSBC BUY 143 @45.91 9:31 bid is:46.37
+9:31 1: HSBC orderID:241031011 tradeID:241031011 BUY 143 @45.91 factor:0.99 HSBC 10-31 9:31 ADDER Created
+1D$:n:10 max:46.5 [10-31 9:00] min:46.5 [10-31 9:31] rng:0.2% 1Key:[10-31 8:45] last:[10-31 9:31]
+2D$:n:790 max:47.2 [10-29 10:24] min:46.2 [10-30 13:36] rng:2.3% 1Key:[10-29 9:30] last:[10-31 9:31]
+10-31 9:31:45.870 *openOrder* status:Submitted 241031010 BUY 143@46.32
+10-31 9:31:45.871 *openOrder* all live orders [241031010 BUY 143@46.32]
+10-31 9:31:45.872 *OrderStatus*:Submitted orderId:241031010 filled:0 remaining:143 avgFillPx:0.0 lastFillPx:0.0
+10-31 9:31:46.096 *openOrder* status:Submitted 241031011 BUY 143@45.91
+10-31 9:31:46.097 *openOrder* all live orders [241031010 BUY 143@46.32, 241031011 BUY 143@45.91]
+10-31 9:31:46.099 *OrderStatus*:Submitted orderId:241031011 filled:0 remaining:143 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:32:17.100 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:33:28.728 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:33:32.211 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:34:16.125 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:34:21.741 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:34:38.325 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:34:52.040 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:34:53.162 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:35:02.984 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:35:06.469 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:35:31.181 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:35:41.463 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:36:05.615 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:36:07.504 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:36:14.748 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:36:17.596 no blocking orders 
+updating pos: HSBC 10-31 9:36:23.382 pos:100 cost:46.32
+10-31 9:36:23.384 *tradeReport* time: 2024-10-31T09:36:23 BOT execPx:46.32 shares:100 avgPx:46.32
+10-31 9:36:23.388 *openOrder* status:Submitted 241031010 BUY 143@46.32
+10-31 9:36:23.388 *openOrder* all live orders [241031010 BUY 143@46.32, 241031011 BUY 143@45.91]
+10-31 9:36:23.389 *OrderStatus*:Submitted orderId:241031010 filled:100 remaining:43 avgFillPx:46.32 lastFillPx:46.32
+10-31 9:36:23.390 *openOrder* status:Submitted 241031010 BUY 143@46.32
+10-31 9:36:23.390 *openOrder* all live orders [241031010 BUY 143@46.32, 241031011 BUY 143@45.91]
+10-31 9:36:23.390 *OrderStatus*:Submitted orderId:241031010 filled:100 remaining:43 avgFillPx:46.32 lastFillPx:46.32
+1.*commission report*:241031010 commission:0.26 
+2.*commission report* orderID:241031010 commission: 0.26 
+updating pos: HSBC 10-31 9:36:23.392 pos:100 cost:46.32
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031010=HSBC 10-31 9:31 ADDER Submitted, 241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031010, 241031011]}
+2024-10-31T09:36:23.592 no blocking orders 
+updating pos: HSBC 10-31 9:36:23.689 pos:143 cost:46.32
+10-31 9:36:23.691 *tradeReport* time: 2024-10-31T09:36:23 BOT execPx:46.32 shares:43 avgPx:46.32
+10-31 9:36:23.695 *openOrder* status:Filled 241031010 BUY 143@46.32
+10-31 9:36:23.696 *openOrder*:removing order.Status:Filled 241031010 BUY 143@46.32
+10-31 9:36:23.696 *openOrder*:after removal.OpenOrders: [241031011]
+10-31 9:36:23.696 *openOrder* all live orders [241031011 BUY 143@45.91]
+10-31 9:36:23.697 *OrderStatus*:Filled orderId:241031010 filled:143 remaining:0 avgFillPx:46.32 lastFillPx:46.32
+10-31 9:36:23.697 *openOrder* status:Filled 241031010 BUY 143@46.32
+10-31 9:36:23.698 *openOrder*:removing order.Status:Filled 241031010 BUY 143@46.32
+10-31 9:36:23.698 *openOrder*:after removal.OpenOrders: [241031011]
+10-31 9:36:23.698 *openOrder* all live orders [241031011 BUY 143@45.91]
+10-31 9:36:23.699 *OrderStatus*:Filled orderId:241031010 filled:143 remaining:0 avgFillPx:46.32 lastFillPx:46.32
+1.*commission report*:241031010 commission:0.11 
+2.*commission report* orderID:241031010 commission: 0.11 
+updating pos: HSBC 10-31 9:36:23.700 pos:143 cost:46.32
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:36:50.566 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:38:04.739 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:38:23.263 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:38:37.997 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:39:05.323 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:39:26.409 no blocking orders 
+updating pos: HSBC 10-31 9:39:51.313 pos:143 cost:46.32
+updating pos: HSBC 10-31 9:39:51.318 pos:143 cost:46.32
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:39:56.633 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:40:59.328 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:41:54.546 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:43:09.710 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:43:36.258 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:43:56.715 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:44:37.413 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:44:48.875 no blocking orders 
+*Periodic Run* 10-31 9:45:22.206 last live feed time: 10-31 9:44 been:0min p:46.3 cost:46.3 p/cost:1.0
+p:46.3 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:431 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.967
+10-31 9:45:22.207 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 9:45:22.211 *chek openOrders*: [241031011]
+10-31 9:45:22.211 46.3 2dP:10.0 1dP:0.0
+2d$:n:801 max:47.2 [10-29 10:24] min:46.2 [10-30 13:36] rng:2.3% 1Key:[10-29 9:30] last:[10-31 9:44]
+1d$:n:21 max:46.5 [10-31 9:00] min:46.3 [10-31 9:43] rng:0.5% 1Key:[10-31 8:45] last:[10-31 9:44]
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:45:38.076 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:45:38.732 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:46:22.491 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:46:26.933 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:47:04.453 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:47:16.669 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:47:56.955 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:48:02.585 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:48:08.552 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:49:02.868 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:49:15.135 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:49:45.544 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:50:12.665 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:50:25.261 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:50:34.060 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:50:40.345 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:50:40.813 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:50:49.021 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:52:16.551 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:54:34.060 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:55:00.158 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:55:47.546 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:56:18.555 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:56:28.230 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:56:33.288 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:56:44.896 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:56:57.769 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:57:14.636 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:57:26.609 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:57:48.587 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T09:57:51.101 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:00:30.832 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:01:58.749 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:02:10.414 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:02:32.870 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:02:35.389 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:02:39.222 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:02:51.914 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:04:00.586 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:04:26.381 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:04:48.689 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:05:19.655 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:05:21.153 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:05:35.694 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:05:55.200 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:05:55.950 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:32.759 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:33.598 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:43.781 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:45.872 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:48.301 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:49.158 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:06:56.555 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:07:14.469 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:07:32.950 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:07:35.610 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:07:49.901 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:08:06.414 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:08:11.433 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:08:25.980 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:08:40.220 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:08:44.079 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:09:26.298 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:09:43.812 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:09:46.448 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:09:47.945 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:10:05.847 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:10:11.856 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:10:47.920 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:10:51.089 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:11:04.496 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:11:16.168 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:11:24.145 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:11:36.938 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:12:09.316 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:12:53.180 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:12:56.194 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:12:58.690 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:12:59.445 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:13:04.464 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:13:05.269 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:13:07.221 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:13:27.988 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:13:58.480 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:14:07.386 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:14:41.568 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:14:55.488 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:15:02.859 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:15:04.090 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:15:18.769 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:15:22.613 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:15:32.335 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:15:42.826 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:16:10.208 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:16:17.675 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:16:26.471 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:17:13.190 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:23:02.732 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:23:45.631 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:24:00.577 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:24:31.183 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:25:41.233 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:28:48.262 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:29:30.946 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:31:07.558 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:31:10.514 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:31:11.234 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:31:22.299 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:31:27.521 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:32:09.064 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:32:09.889 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:36:28.102 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:37:21.220 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:37:52.844 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:38:09.450 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:38:21.217 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:38:37.245 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:38:51.387 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:39:18.914 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:39:52.894 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:40:06.399 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:40:14.292 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:40:17.731 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:40:33.930 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:41:54.282 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:42:42.684 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:43:51.204 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:43:52.481 no blocking orders 
+*Periodic Run* 10-31 10:45:22.414 last live feed time: 10-31 10:44 been:0min p:46.03 cost:46.3 p/cost:0.994
+p:46.03 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:434 refillP:44.79 costTgt:0.98 refillP/cost:0.967 refillP/px:0.973
+10-31 10:45:22.415 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 10:45:22.415 *chek openOrders*: [241031011]
+10-31 10:45:22.416 46.03 2dP:3.0 1dP:6.0
+2d$:n:856 max:47.2 [10-29 10:24] min:46.0 [10-31 10:13] rng:2.7% 1Key:[10-29 9:30] last:[10-31 10:44]
+1d$:n:76 max:46.5 [10-31 9:00] min:46.0 [10-31 10:13] rng:1.2% 1Key:[10-31 8:45] last:[10-31 10:44]
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:45:33.391 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:45:52.879 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:46:01.890 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:46:18.012 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:46:27.429 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:46:43.396 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:47:15.455 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:47:22.921 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:47:36.511 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:48:08.231 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:48:34.017 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:48:40.577 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:49:03.404 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:49:08.108 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:49:41.615 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:51:21.881 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:51:31.024 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:52:05.201 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:52:15.338 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:52:16.122 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:53:10.882 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:54:48.333 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:55:09.875 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:55:21.973 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:55:44.157 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:56:37.729 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:57:18.338 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:57:57.694 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:58:57.722 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:59:23.101 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:59:56.026 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T10:59:58.532 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:00:10.389 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:00:18.674 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:00:56.127 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:01:32.773 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:02:00.093 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:02:04.908 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:02:19.853 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:02:20.670 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:02:30.830 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:02:55.162 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:03:16.969 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:03:34.876 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:03:35.684 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:03:47.454 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:03:48.141 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:03:54.150 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:04:17.753 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:04:32.211 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:05:06.771 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:05:14.257 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:05:31.531 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:05:53.277 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:06:22.324 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:07:06.384 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:07:11.890 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:07:17.465 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:09:13.459 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:09:56.509 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:10:05.524 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:10:13.100 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:10:55.663 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:11:34.772 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:12:09.692 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:12:19.996 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:13:11.579 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:14:17.692 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:14:40.206 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:14:53.411 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:14:56.920 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:15:01.295 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:16:17.778 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:16:56.034 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:16:56.838 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:17:25.595 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:18:02.236 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:18:03.476 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:18:04.181 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:19:32.505 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:19:40.687 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:19:50.526 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:20:09.725 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:20:28.502 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:20:35.870 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:20:36.513 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:21:42.902 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:21:56.715 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:21:57.376 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:22:09.705 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:23:11.932 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:23:12.646 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:23:25.242 no blocking orders 
+*Periodic Run* 10-31 11:45:22.493 last live feed time: 10-31 11:44 been:0min p:46.03 cost:46.3 p/cost:0.994
+p:46.03 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:434 refillP:44.79 costTgt:0.98 refillP/cost:0.967 refillP/px:0.973
+10-31 11:45:22.494 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 11:45:22.494 *chek openOrders*: [241031011]
+10-31 11:45:22.495 46.03 2dP:7.0 1dP:15.0
+2d$:n:915 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 11:44]
+1d$:n:135 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 11:44]
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:50:39.683 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:50:58.211 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:51:22.870 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:52:01.077 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:52:21.624 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:52:38.074 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:52:49.862 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:53:02.131 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:53:07.670 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:54:51.011 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:55:24.049 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:57:08.193 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:57:27.012 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:57:36.481 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:58:10.029 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T11:58:10.778 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T12:00:00.425 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T12:00:23.898 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T12:01:01.224 no blocking orders 
+no blocking buy orders: All submitted orders {241031010=HSBC 10-31 9:31 ADDER Filled, 241031011=HSBC 10-31 9:31 ADDER Submitted}
+no blocking buy orders: Active orders: [241031011=HSBC 10-31 9:31 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031011]}
+2024-10-31T12:01:09.465 no blocking orders 
+*Periodic Run* 10-31 12:45:22.249 last live feed time: 10-31 12:42 been:2min p:46.17 cost:46.3 p/cost:0.997
+p:46.17 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:433 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.97
+10-31 12:45:22.251 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 12:45:22.251 *chek openOrders*: [241031011]
+10-31 12:45:22.251 46.17 2dP:18.0 1dP:38.0
+2d$:n:967 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 12:42]
+1d$:n:187 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 12:42]
+*Periodic Run* 10-31 13:45:22.356 last live feed time: 10-31 13:45 been:0min p:46.13 cost:46.3 p/cost:0.996
+p:46.13 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:433 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.971
+10-31 13:45:22.357 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 13:45:22.357 *chek openOrders*: [241031011]
+10-31 13:45:22.357 46.13 2dP:15.0 1dP:31.0
+2d$:n:1005 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 13:45]
+1d$:n:225 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 13:45]
+*Periodic Run* 10-31 14:45:21.222 last live feed time: 10-31 14:45 been:0min p:46.21 cost:46.3 p/cost:0.998
+p:46.21 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:432 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.969
+10-31 14:45:21.223 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 14:45:21.223 *chek openOrders*: [241031011]
+10-31 14:45:21.224 46.21 2dP:21.0 1dP:44.0
+2d$:n:1045 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 14:45]
+1d$:n:265 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 14:45]
+*Periodic Run* 10-31 15:45:21.004 last live feed time: 10-31 15:43 been:2min p:46.24 cost:46.3 p/cost:0.998
+p:46.24 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:432 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.968
+10-31 15:45:21.005 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 15:45:21.005 *chek openOrders*: [241031011]
+10-31 15:45:21.005 46.24 2dP:23.0 1dP:49.0
+2d$:n:1081 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 15:43]
+1d$:n:301 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 15:43]
+10-31 16:00:3.235 *openOrder* status:Submitted 241031011 BUY 143@45.91
+10-31 16:00:3.236 *openOrder* all live orders [241031011 BUY 143@45.91]
+10-31 16:00:3.237 *OrderStatus*:Submitted orderId:241031011 filled:0 remaining:143 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 10-31 16:45:20.794 last live feed time: 10-31 15:59 been:45min p:46.13 cost:46.3 p/cost:0.996
+p:46.13 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:433 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.971
+10-31 16:45:20.796 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 16:45:20.796 *chek openOrders*: [241031011]
+10-31 16:45:20.796 46.13 2dP:15.0 1dP:31.0
+2d$:n:1095 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 15:59]
+1d$:n:315 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 15:59]
+*Periodic Run* 10-31 17:45:20.593 last live feed time: 10-31 15:59 been:105min p:46.13 cost:46.3 p/cost:0.996
+p:46.13 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:433 refillP:44.78 costTgt:0.98 refillP/cost:0.967 refillP/px:0.971
+10-31 17:45:20.595 *chek orderStatus [241031010=Filled, 241031011=Submitted]
+10-31 17:45:20.595 *chek openOrders*: [241031011]
+10-31 17:45:20.595 46.13 2dP:15.0 1dP:31.0
+2d$:n:1095 max:47.2 [10-29 10:24] min:45.9 [10-31 11:03] rng:2.8% 1Key:[10-29 9:30] last:[10-31 15:59]
+1d$:n:315 max:46.5 [10-31 9:00] min:45.9 [10-31 11:03] rng:1.3% 1Key:[10-31 8:45] last:[10-31 15:59]

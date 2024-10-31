@@ -4081,3 +4081,39 @@ CL 1.*commission report*:241030037 commission:0.28
 CL *********************
 *****START***** HKT: 22:12:20 EST: 10-30 10:12:20.601
 *****START***** HKT: 22:13:31 EST: 10-30 10:13:31.032
+IP 10-30 10:15:53.175 *openOrder* FILLED 241030054 SELL 8@48.88
+IP 10-30 10:15:53.179 *OrderStatus*: filled:241030054
+IP 1.*commission report*:241030054 commission:0.35 realized pnl:17.64 computed Pnl:17.64
+IP *********************
+UNP 10-30 10:16:21.115 *openOrder* FILLED 241030050 SELL 4@234.59
+UNP 10-30 10:16:21.117 *OrderStatus*: filled:241030050
+UNP 1.*commission report*:241030050 commission:0.37 realized pnl:18.53 computed Pnl:18.53
+UNP *********************
+*****START***** HKT: 20:44:59 EST: 10-31 8:44:59.672
+IP 10-31 9:30:4.089 *openOrder* FILLED 241031005 SELL 16@52.65
+IP 10-31 9:30:4.099 *OrderStatus*: filled:241031005
+IP 1.*commission report*:241031005 commission:0.41 realized pnl:98.12 computed Pnl:98.12
+IP *********************
+MRK 10-31 9:30:34.191 *openOrder* FILLED 241031003 BUY 66@100.78
+MRK 10-31 9:30:34.193 *OrderStatus*: filled:241031003
+MRK 1.*commission report*:241031003 commission:0.29 
+MRK *********************
+MRK 10-31 9:34:38.841 *openOrder* FILLED 241031004 BUY 66@99.53
+MRK 10-31 9:34:38.843 *OrderStatus*: filled:241031004
+MRK 1.*commission report*:241031004 commission:0.29 
+MRK *********************
+UL 10-31 9:36:0.713 *openOrder* FILLED 241031006 BUY 109@60.86
+UL 10-31 9:36:0.715 *OrderStatus*: filled:241031006
+UL 1.*commission report*:241031006 commission:0.28 
+UL *********************
+HSBC 1.*commission report*:241031010 commission:0.26 
+HSBC *********************
+HSBC 10-31 9:36:23.695 *openOrder* FILLED 241031010 BUY 143@46.32
+HSBC 10-31 9:36:23.697 *OrderStatus*: filled:241031010
+HSBC 1.*commission report*:241031010 commission:0.11 
+HSBC *********************
+UNP 10-31 10:32:20.853 *openOrder* FILLED 241031016 SELL 3@233.45
+UNP 10-31 10:32:20.858 *OrderStatus*: filled:241031016
+UNP 1.*commission report*:241031016 commission:0.37 realized pnl:10.39 computed Pnl:10.39
+UNP *********************
+PG 10-31 15:36:30.313 *OrderStatus*: filled:241031008

@@ -21008,3 +21008,27 @@ GLD openorders does not contain order GLD 241030004 SELL 3@259.31
 *openOrder* Error 10-30 10:12:56.305 orderId:241030063 errorCode:103 msg:Duplicate order id
 *openOrder* Error 10-30 10:12:56.306 orderId:241030064 errorCode:103 msg:Duplicate order id
 *****START***** HKT: 22:13:31 EST: 10-30 10:13:31.033
+*openOrder* Error 10-30 10:20:26.128 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*****START***** HKT: 20:44:59 EST: 10-31 8:44:59.673
+*openOrder* Error 10-31 8:45:9.645 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 10-31 8:50:48.577 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 10-31 8:52:9.664 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-10-31T11:00:00.368 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T11:03:03.454 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T11:03:04.844 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T11:03:09.589 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T11:04:03.665 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:00:02.678 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:00:03.399 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:01:07.573 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:02:07.127 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:03:00.614 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:03:01.478 Adder: ytd < -10% cannot trade:-0.2107731665719158
+ADM 2024-10-31T12:03:03.417 Adder: ytd < -10% cannot trade:-0.2107731665719158
+*openOrder* Error 10-31 12:16:28.939 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-31 12:16:32.490 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 10-31 12:16:56.064 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 10-31 12:16:57.669 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 10-31 14:30:53.708 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 10-31 14:30:55.037 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+commission report issue tradekey:00012e18.67239e51.01 report:ID:00012e18.67239e51.01.01 commission:0.312177 curr:USD pnl:1.7976931348623157E308 yield:1.7976931348623157E308 yieldRedemption:0

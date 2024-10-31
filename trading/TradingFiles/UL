@@ -3249,3 +3249,386 @@ p:61.84 rng:0.0% pos:173 delt:11k cost:64.2 fullLot:323 refillP:61.52 costTgt:0.
 10-30 10:13:56.690 rng:0.9% costTgt:0.98
 10-30 10:13:56.691 tgtMargin:1.01 tgtPrice:64.82
 ytdReturn:30.8%
+*******************************************
+*STARTS* 10-31 8:44:59.770
+updating pos: UL 10-31 8:45:2.118 pos:173 cost:64.18
+POS:173 COST:64.2 DELT:11k
+*Periodic Run* 10-31 8:45:20.127 8:45:20 no live feed
+10-31 8:45:20.128 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+10-31 8:45:48.621 rng:0.9% costTgt:0.98
+10-31 8:45:48.621 tgtMargin:1.01 tgtPrice:64.82
+ytdReturn:30.32%
+09:30:01.064364 no blocking orders,empty
+*REFILL*@60.92 10-31 9:30:01 delta:11k 1dp:0.0 2dp:0.0 cost:64.2 px/cost:0.9492 refillPx:61.54 avgRng:0.0085
+0:241031006 UL BUY 109 @60.86 9:30 bid is:60.93
+9:30 0: UL orderID:241031006 tradeID:241031006 BUY 109 @60.86 factor:0.999 UL 10-31 9:30 ADDER Created
+1:241031007 UL BUY 109 @60.31 9:30 bid is:60.93
+9:30 1: UL orderID:241031007 tradeID:241031007 BUY 109 @60.31 factor:0.99 UL 10-31 9:30 ADDER Created
+1D$:n:9 max:61.0 [10-31 8:47] min:61.0 [10-31 9:30] rng:0.0% 1Key:[10-31 8:45] last:[10-31 9:30]
+2D$:n:789 max:62.5 [10-29 10:26] min:61.0 [10-31 9:30] rng:2.4% 1Key:[10-29 9:30] last:[10-31 9:30]
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Created, 241031007=UL 10-31 9:30 ADDER Created}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Created, 241031007=UL 10-31 9:30 ADDER Created]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:01.851 no blocking orders 
+10-31 9:30:4.113 *openOrder* status:PreSubmitted 241031006 BUY 109@60.86
+10-31 9:30:4.114 *openOrder* all live orders [241031006 BUY 109@60.86]
+10-31 9:30:4.114 *OrderStatus*:PreSubmitted orderId:241031006 filled:0 remaining:109 avgFillPx:0.0 lastFillPx:0.0
+10-31 9:30:4.117 *openOrder* status:Submitted 241031007 BUY 109@60.31
+10-31 9:30:4.117 *openOrder* all live orders [241031006 BUY 109@60.86, 241031007 BUY 109@60.31]
+10-31 9:30:4.118 *OrderStatus*:Submitted orderId:241031007 filled:0 remaining:109 avgFillPx:0.0 lastFillPx:0.0
+10-31 9:30:4.121 *openOrder* status:Submitted 241031006 BUY 109@60.86
+10-31 9:30:4.122 *openOrder* all live orders [241031006 BUY 109@60.86, 241031007 BUY 109@60.31]
+10-31 9:30:4.123 *OrderStatus*:Submitted orderId:241031006 filled:0 remaining:109 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:09.425 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:10.157 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:13.209 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:24.177 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:24.934 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:25.691 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:28.932 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:30:33.256 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:02.514 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:04.036 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:05.971 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:07.002 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:08.530 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:17.224 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:19.481 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:26.337 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:31.244 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:39.850 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:45.779 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:49.162 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:31:57.544 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:32:08.533 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:32:28.554 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:32:49.945 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:33:06.864 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:33:08.159 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:33:17.480 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:33:58.717 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:34:04.247 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:34:11.510 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:34:22.259 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:34:30.543 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:34:35.731 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:34:41.022 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:35:24.996 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031006=UL 10-31 9:30 ADDER Submitted, 241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031006, 241031007]}
+2024-10-31T09:35:32.055 no blocking orders 
+updating pos: UL 10-31 9:36:0.705 pos:282 cost:62.9
+10-31 9:36:0.708 *tradeReport* time: 2024-10-31T09:36 BOT execPx:60.86 shares:109 avgPx:60.86
+10-31 9:36:0.712 *openOrder* status:Filled 241031006 BUY 109@60.86
+10-31 9:36:0.713 *openOrder*:removing order.Status:Filled 241031006 BUY 109@60.86
+10-31 9:36:0.714 *openOrder*:after removal.OpenOrders: [241031007]
+10-31 9:36:0.714 *openOrder* all live orders [241031007 BUY 109@60.31]
+10-31 9:36:0.715 *OrderStatus*:Filled orderId:241031006 filled:109 remaining:0 avgFillPx:60.86 lastFillPx:60.86
+10-31 9:36:0.715 *openOrder* status:Filled 241031006 BUY 109@60.86
+10-31 9:36:0.716 *openOrder*:removing order.Status:Filled 241031006 BUY 109@60.86
+10-31 9:36:0.716 *openOrder*:after removal.OpenOrders: [241031007]
+10-31 9:36:0.716 *openOrder* all live orders [241031007 BUY 109@60.31]
+10-31 9:36:0.717 *OrderStatus*:Filled orderId:241031006 filled:109 remaining:0 avgFillPx:60.86 lastFillPx:60.86
+1.*commission report*:241031006 commission:0.28 
+2.*commission report* orderID:241031006 commission: 0.28 
+updating pos: UL 10-31 9:36:0.718 pos:282 cost:62.9
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:00.726 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:01.524 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:18.620 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:40.386 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:41.230 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:52.899 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:53.720 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:36:54.444 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:00.071 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:05.175 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:09.848 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:11.689 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:37.014 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:42.384 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:37:53.991 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:08.728 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:09.755 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:18.284 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:18.974 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:30.330 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:52.530 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:56.325 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:38:57.034 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:15.697 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:20.368 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:44.418 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:45.980 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:46.574 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:47.331 no blocking orders 
+updating pos: UL 10-31 9:39:51.313 pos:282 cost:62.9
+updating pos: UL 10-31 9:39:51.317 pos:282 cost:62.9
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:53.085 no blocking orders 
+no blocking buy orders: All submitted orders {241031006=UL 10-31 9:30 ADDER Filled, 241031007=UL 10-31 9:30 ADDER Submitted}
+no blocking buy orders: Active orders: [241031007=UL 10-31 9:30 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241031007]}
+2024-10-31T09:39:54.450 no blocking orders 
+*Periodic Run* 10-31 9:45:22.243 last live feed time: 10-31 9:45 been:0min p:60.96 cost:62.9 p/cost:0.969
+p:60.96 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:328 refillP:59.48 costTgt:0.98 refillP/cost:0.946 refillP/px:0.976
+10-31 9:45:22.244 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 9:45:22.245 *chek openOrders*: [241031007]
+10-31 9:45:22.245 60.96 2dP:9.0 1dP:85.0
+2d$:n:804 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 9:45]
+1d$:n:24 max:61.0 [10-31 8:47] min:60.8 [10-31 9:38] rng:0.3% 1Key:[10-31 8:45] last:[10-31 9:45]
+*Periodic Run* 10-31 10:45:22.451 last live feed time: 10-31 10:45 been:0min p:61.01 cost:62.9 p/cost:0.97
+p:61.01 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:327 refillP:59.47 costTgt:0.98 refillP/cost:0.946 refillP/px:0.975
+10-31 10:45:22.452 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 10:45:22.452 *chek openOrders*: [241031007]
+10-31 10:45:22.452 61.01 2dP:12.0 1dP:69.0
+2d$:n:864 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 10:45]
+1d$:n:84 max:61.1 [10-31 10:17] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 10:45]
+*Periodic Run* 10-31 11:45:22.529 last live feed time: 10-31 11:45 been:0min p:60.94 cost:62.9 p/cost:0.969
+p:60.94 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:328 refillP:59.48 costTgt:0.98 refillP/cost:0.946 refillP/px:0.976
+10-31 11:45:22.530 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 11:45:22.530 *chek openOrders*: [241031007]
+10-31 11:45:22.530 60.94 2dP:8.0 1dP:46.0
+2d$:n:922 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 11:45]
+1d$:n:142 max:61.1 [10-31 10:17] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 11:45]
+*Periodic Run* 10-31 12:45:22.294 last live feed time: 10-31 12:45 been:0min p:61.06 cost:62.9 p/cost:0.971
+p:61.06 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:327 refillP:59.47 costTgt:0.98 refillP/cost:0.946 refillP/px:0.974
+10-31 12:45:22.295 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 12:45:22.295 *chek openOrders*: [241031007]
+10-31 12:45:22.296 61.06 2dP:16.0 1dP:86.0
+2d$:n:978 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 12:45]
+1d$:n:198 max:61.1 [10-31 10:17] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 12:45]
+*Periodic Run* 10-31 13:45:22.396 last live feed time: 10-31 13:45 been:0min p:61.01 cost:62.9 p/cost:0.97
+p:61.01 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:327 refillP:59.47 costTgt:0.98 refillP/cost:0.946 refillP/px:0.975
+10-31 13:45:22.397 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 13:45:22.397 *chek openOrders*: [241031007]
+10-31 13:45:22.398 61.01 2dP:12.0 1dP:67.0
+2d$:n:1021 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 13:45]
+1d$:n:241 max:61.1 [10-31 12:49] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 13:45]
+*Periodic Run* 10-31 14:45:21.264 last live feed time: 10-31 14:45 been:0min p:61.01 cost:62.9 p/cost:0.97
+p:61.01 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:327 refillP:59.47 costTgt:0.98 refillP/cost:0.946 refillP/px:0.975
+10-31 14:45:21.265 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 14:45:21.266 *chek openOrders*: [241031007]
+10-31 14:45:21.266 61.01 2dP:12.0 1dP:67.0
+2d$:n:1069 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 14:45]
+1d$:n:289 max:61.1 [10-31 12:49] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 14:45]
+*Periodic Run* 10-31 15:45:21.039 last live feed time: 10-31 15:45 been:0min p:60.93 cost:62.9 p/cost:0.969
+p:60.93 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:328 refillP:59.48 costTgt:0.98 refillP/cost:0.946 refillP/px:0.976
+10-31 15:45:21.040 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 15:45:21.040 *chek openOrders*: [241031007]
+10-31 15:45:21.040 60.93 2dP:8.0 1dP:41.0
+2d$:n:1119 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 15:45]
+1d$:n:339 max:61.1 [10-31 12:49] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 15:45]
+10-31 16:00:0.916 *openOrder* status:Submitted 241031007 BUY 109@60.31
+10-31 16:00:0.916 *openOrder* all live orders [241031007 BUY 109@60.31]
+10-31 16:00:0.917 *OrderStatus*:Submitted orderId:241031007 filled:0 remaining:109 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 10-31 16:45:20.834 last live feed time: 10-31 15:59 been:45min p:60.91 cost:62.9 p/cost:0.968
+p:60.91 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:328 refillP:59.48 costTgt:0.98 refillP/cost:0.946 refillP/px:0.976
+10-31 16:45:20.835 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 16:45:20.835 *chek openOrders*: [241031007]
+10-31 16:45:20.835 60.91 2dP:6.0 1dP:34.0
+2d$:n:1133 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 15:59]
+1d$:n:353 max:61.1 [10-31 12:49] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 15:59]
+*Periodic Run* 10-31 17:45:20.632 last live feed time: 10-31 15:59 been:105min p:60.91 cost:62.9 p/cost:0.968
+p:60.91 rng:0.9% pos:282 delt:17k cost:62.9 fullLot:328 refillP:59.48 costTgt:0.98 refillP/cost:0.946 refillP/px:0.976
+10-31 17:45:20.633 *chek orderStatus [241031006=Filled, 241031007=Submitted]
+10-31 17:45:20.633 *chek openOrders*: [241031007]
+10-31 17:45:20.633 60.91 2dP:6.0 1dP:34.0
+2d$:n:1133 max:62.5 [10-29 10:26] min:60.8 [10-31 9:38] rng:2.7% 1Key:[10-29 9:30] last:[10-31 15:59]
+1d$:n:353 max:61.1 [10-31 12:49] min:60.8 [10-31 9:38] rng:0.5% 1Key:[10-31 8:45] last:[10-31 15:59]
