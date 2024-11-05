@@ -4117,3 +4117,25 @@ UNP 10-31 10:32:20.858 *OrderStatus*: filled:241031016
 UNP 1.*commission report*:241031016 commission:0.37 realized pnl:10.39 computed Pnl:10.39
 UNP *********************
 PG 10-31 15:36:30.313 *OrderStatus*: filled:241031008
+*****START***** HKT: 21:12:23 EST: 11-1 9:12:23.940
+UNP 11-1 9:36:16.063 *openOrder* FILLED 241101006 SELL 2@233.78
+UNP 11-1 9:36:16.077 *OrderStatus*: filled:241101006
+UNP 1.*commission report*:241101006 commission:0.36 realized pnl:7.47 computed Pnl:7.47
+UNP *********************
+SLV 11-1 10:21:48.889 *openOrder* FILLED 241101011 BUY 222@29.86
+SLV 11-1 10:21:48.892 *OrderStatus*: filled:241101011
+SLV 1.*commission report*:241101011 commission:0.48 
+SLV *********************
+KO 11-1 11:56:59.331 *openOrder* FILLED 241101013 BUY 102@65.01
+KO 11-1 11:56:59.334 *OrderStatus*: filled:241101013
+KO 1.*commission report*:241101013 commission:0.26 
+KO *********************
+*****START***** HKT: 21:20:01 EST: 11-4 8:20:1.403
+ABT 11-4 9:33:7.982 *openOrder* FILLED 241104006 SELL 4@120.1
+ABT 11-4 9:33:7.986 *OrderStatus*: filled:241104006
+ABT 1.*commission report*:241104006 commission:0.36 realized pnl:19.14 computed Pnl:19.14
+ABT *********************
+JNJ 11-4 11:57:54.362 *openOrder* FILLED 241104031 BUY 42@158.2
+JNJ 11-4 11:57:54.364 *OrderStatus*: filled:241104031
+JNJ 1.*commission report*:241104031 commission:0.31 
+JNJ *********************
