@@ -4806,3 +4806,678 @@ p:46.64 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:428 refillP:44.78 costTgt:0.9
 11-4 20:20:21.789 46.64 2dP:60.0 1dP:0.0
 2d$:n:1071 max:47.1 [11-4 9:32] min:45.9 [10-31 11:06] rng:2.5% 1Key:[10-31 9:30] last:[11-4 16:00]
 1d$:n:291 max:47.1 [11-4 9:32] min:46.7 [11-4 15:59] rng:1.0% 1Key:[11-4 8:20] last:[11-4 16:00]
+*******************************************
+*STARTS* 11-5 8:17:38.132
+updating pos: HSBC 11-5 8:17:40.438 pos:143 cost:46.32
+POS:143 COST:46.3 DELT:7k
+*Periodic Run* 11-5 8:17:58.424 last live feed time: 11-5 8:17 been:0min p:46.92 cost:46.3 p/cost:1.013
+p:46.92 rng:0.0% pos:143 delt:7k cost:46.3 fullLot:426 refillP:44.77 costTgt:0.98 refillP/cost:0.967 refillP/px:0.954
+11-5 8:17:58.426 46.92 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+11-5 8:18:11.269 rng:1.0% costTgt:0.98
+11-5 8:18:11.271 tgtMargin:1.01 tgtPrice:46.79
+ytdReturn:25.48%
+*Periodic Run* 11-5 9:17:57.719 last live feed time: 11-5 9:12 been:5min p:46.94 cost:46.3 p/cost:1.013
+p:46.94 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:426 refillP:44.77 costTgt:0.98 refillP/cost:0.967 refillP/px:0.954
+11-5 9:17:57.721 46.94 2dP:84.0 1dP:100.0
+2d$:n:784 max:47.1 [11-4 9:32] min:46.1 [11-1 14:20] rng:2.1% 1Key:[11-1 9:30] last:[11-5 9:12]
+1d$:n<5
+******************CUT**************************
+CUT 11-5 9:30:00 1dP:100.0 2dp:89.0 px46.98 cost:46.32255035 px/Cost:1.0142 reqMargin:1.01 rng:0.0103
+0:241105003 HSBC SELL 47 @47.09 9:30
+0: SELL HSBC 11-5 9:30 CUTTER Created target margin:1.01 cost*target margin:46.79 askPx:47.0
+1:241105004 HSBC SELL 47 @47.47 9:30
+1: SELL HSBC 11-5 9:30 CUTTER Created target margin:1.01 cost*target margin:46.79 askPx:47.0
+2:241105005 HSBC SELL 49 @47.94 9:30
+2: SELL HSBC 11-5 9:30 CUTTER Created target margin:1.01 cost*target margin:46.79 askPx:47.0
+2D$:n:787 max:47.1 [11-4 9:32] min:46.1 [11-1 14:20] rng:2.1% 1Key:[11-1 9:30] last:[11-5 9:30]
+1D$:n:7 max:47.0 [11-5 9:28] min:46.9 [11-5 9:00] rng:0.0% 1Key:[11-5 8:17] last:[11-5 9:30]
+11-5 9:30:5.320 *openOrder* status:PreSubmitted 241105004 SELL 47@47.47
+11-5 9:30:5.320 *openOrder* all live orders [241105004 SELL 47@47.47]
+11-5 9:30:5.320 *OrderStatus*:PreSubmitted orderId:241105004 filled:0 remaining:47 avgFillPx:0.0 lastFillPx:0.0
+11-5 9:30:7.187 *openOrder* status:PreSubmitted 241105003 SELL 47@47.09
+11-5 9:30:7.188 *openOrder* all live orders [241105003 SELL 47@47.09, 241105004 SELL 47@47.47]
+11-5 9:30:7.189 *OrderStatus*:PreSubmitted orderId:241105003 filled:0 remaining:47 avgFillPx:0.0 lastFillPx:0.0
+11-5 9:30:7.190 *openOrder* status:Submitted 241105005 SELL 49@47.94
+11-5 9:30:7.191 *openOrder* all live orders [241105003 SELL 47@47.09, 241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 9:30:7.192 *OrderStatus*:Submitted orderId:241105005 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+11-5 9:30:7.214 *openOrder* status:Submitted 241105003 SELL 47@47.09
+11-5 9:30:7.215 *openOrder* all live orders [241105003 SELL 47@47.09, 241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 9:30:7.216 *OrderStatus*:Submitted orderId:241105003 filled:0 remaining:47 avgFillPx:0.0 lastFillPx:0.0
+11-5 9:30:7.515 *openOrder* status:Submitted 241105004 SELL 47@47.47
+11-5 9:30:7.516 *openOrder* all live orders [241105003 SELL 47@47.09, 241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 9:30:7.517 *OrderStatus*:Submitted orderId:241105004 filled:0 remaining:47 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 11-5 10:17:57.719 last live feed time: 11-5 10:17 been:0min p:46.98 cost:46.3 p/cost:1.014
+p:46.98 rng:1.0% pos:143 delt:7k cost:46.3 fullLot:425 refillP:44.77 costTgt:0.98 refillP/cost:0.967 refillP/px:0.953
+11-5 10:17:57.721 *chek orderStatus [241105003=Submitted, 241105004=Submitted, 241105005=Submitted]
+11-5 10:17:57.721 *chek openOrders*: [241105003, 241105004, 241105005]
+11-5 10:17:57.721 46.98 2dP:88.0 1dP:54.0
+2d$:n:827 max:47.1 [11-4 9:32] min:46.1 [11-1 14:20] rng:2.1% 1Key:[11-1 9:30] last:[11-5 10:17]
+1d$:n:47 max:47.0 [11-5 9:37] min:46.9 [11-5 9:53] rng:0.3% 1Key:[11-5 8:17] last:[11-5 10:17]
+updating pos: HSBC 11-5 10:24:1.058 pos:96 cost:46.32
+11-5 10:24:1.066 *tradeReport* time: 2024-11-05T10:24 SLD execPx:47.09 shares:47 avgPx:47.09
+11-5 10:24:1.073 *openOrder* status:Filled 241105003 SELL 47@47.09
+11-5 10:24:1.074 *openOrder*:removing order.Status:Filled 241105003 SELL 47@47.09
+11-5 10:24:1.075 *openOrder*:after removal.OpenOrders: [241105004, 241105005]
+11-5 10:24:1.075 *openOrder* all live orders [241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 10:24:1.075 *OrderStatus*:Filled orderId:241105003 filled:47 remaining:0 avgFillPx:47.09 lastFillPx:47.09
+11-5 10:24:1.076 *openOrder* status:Filled 241105003 SELL 47@47.09
+11-5 10:24:1.077 *openOrder*:removing order.Status:Filled 241105003 SELL 47@47.09
+11-5 10:24:1.077 *openOrder*:after removal.OpenOrders: [241105004, 241105005]
+11-5 10:24:1.078 *openOrder* all live orders [241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 10:24:1.078 *OrderStatus*:Filled orderId:241105003 filled:47 remaining:0 avgFillPx:47.09 lastFillPx:47.09
+computed Pnl:35.69529055000015
+1.*commission report*:241105003 commission:0.37 realized pnl:35.7 computed Pnl:35.7
+2.*commission report* orderID:241105003 commission: 0.37 realized pnl: 35.7
+updating pos: HSBC 11-5 10:24:1.083 pos:96 cost:46.32
+updating pos: HSBC 11-5 10:24:1.084 pos:96 cost:46.32
+updating pos: HSBC 11-5 10:29:2.483 pos:96 cost:46.32
+updating pos: HSBC 11-5 10:29:2.486 pos:96 cost:46.32
+*Periodic Run* 11-5 11:17:57.827 last live feed time: 11-5 11:17 been:0min p:47.22 cost:46.3 p/cost:1.019
+p:47.22 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.952
+11-5 11:17:57.828 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 11:17:57.828 *chek openOrders*: [241105004, 241105005]
+11-5 11:17:57.829 47.22 2dP:96.0 1dP:88.0
+2d$:n:880 max:47.3 [11-5 11:12] min:46.1 [11-1 14:20] rng:2.5% 1Key:[11-1 9:30] last:[11-5 11:17]
+1d$:n:100 max:47.3 [11-5 11:12] min:46.9 [11-5 9:53] rng:0.8% 1Key:[11-5 8:17] last:[11-5 11:17]
+*Periodic Run* 11-5 12:17:57.934 last live feed time: 11-5 12:17 been:0min p:47.32 cost:46.3 p/cost:1.022
+p:47.32 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:422 refillP:44.97 costTgt:0.98 refillP/cost:0.971 refillP/px:0.95
+11-5 12:17:57.935 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 12:17:57.935 *chek openOrders*: [241105004, 241105005]
+11-5 12:17:57.935 47.32 2dP:99.0 1dP:97.0
+2d$:n:918 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.6% 1Key:[11-1 9:30] last:[11-5 12:17]
+1d$:n:138 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 12:17]
+*Periodic Run* 11-5 13:17:57.698 last live feed time: 11-5 13:15 been:2min p:47.31 cost:46.3 p/cost:1.021
+p:47.31 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:422 refillP:44.97 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 13:17:57.698 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 13:17:57.698 *chek openOrders*: [241105004, 241105005]
+11-5 13:17:57.699 47.31 2dP:97.0 1dP:93.0
+2d$:n:945 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 13:15]
+1d$:n:165 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 13:15]
+*Periodic Run* 11-5 14:17:57.800 last live feed time: 11-5 14:14 been:3min p:47.31 cost:46.3 p/cost:1.021
+p:47.31 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:422 refillP:44.97 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 14:17:57.801 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 14:17:57.801 *chek openOrders*: [241105004, 241105005]
+11-5 14:17:57.801 47.31 2dP:97.0 1dP:93.0
+2d$:n:979 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 14:14]
+1d$:n:199 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 14:14]
+*Periodic Run* 11-5 15:17:57.912 last live feed time: 11-5 15:16 been:1min p:47.26 cost:46.3 p/cost:1.02
+p:47.26 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.952
+11-5 15:17:57.912 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 15:17:57.913 *chek openOrders*: [241105004, 241105005]
+11-5 15:17:57.913 47.26 2dP:93.0 1dP:81.0
+2d$:n:1004 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 15:16]
+1d$:n:224 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 15:16]
+11-5 16:00:4.697 *openOrder* status:Submitted 241105005 SELL 49@47.94
+11-5 16:00:4.698 *openOrder* all live orders [241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 16:00:4.699 *OrderStatus*:Submitted orderId:241105005 filled:0 remaining:49 avgFillPx:0.0 lastFillPx:0.0
+11-5 16:00:4.701 *openOrder* status:Submitted 241105004 SELL 47@47.47
+11-5 16:00:4.702 *openOrder* all live orders [241105004 SELL 47@47.47, 241105005 SELL 49@47.94]
+11-5 16:00:4.703 *OrderStatus*:Submitted orderId:241105004 filled:0 remaining:47 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 11-5 16:17:58.030 last live feed time: 11-5 16:00 been:17min p:47.27 cost:46.3 p/cost:1.02
+p:47.27 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 16:17:58.031 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 16:17:58.031 *chek openOrders*: [241105004, 241105005]
+11-5 16:17:58.032 47.27 2dP:94.0 1dP:84.0
+2d$:n:1033 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 16:00]
+1d$:n:253 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 16:00]
+*Periodic Run* 11-5 17:17:58.127 last live feed time: 11-5 16:00 been:77min p:47.27 cost:46.3 p/cost:1.02
+p:47.27 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 17:17:58.128 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 17:17:58.128 *chek openOrders*: [241105004, 241105005]
+11-5 17:17:58.128 47.27 2dP:94.0 1dP:84.0
+2d$:n:1033 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 16:00]
+1d$:n:253 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 16:00]
+*Periodic Run* 11-5 18:17:57.841 last live feed time: 11-5 16:00 been:137min p:47.27 cost:46.3 p/cost:1.02
+p:47.27 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 18:17:57.842 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 18:17:57.843 *chek openOrders*: [241105004, 241105005]
+11-5 18:17:57.843 47.27 2dP:94.0 1dP:84.0
+2d$:n:1033 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 16:00]
+1d$:n:253 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 16:00]
+*Periodic Run* 11-5 19:17:57.944 last live feed time: 11-5 16:00 been:197min p:47.27 cost:46.3 p/cost:1.02
+p:47.27 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 19:17:57.946 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 19:17:57.946 *chek openOrders*: [241105004, 241105005]
+11-5 19:17:57.946 47.27 2dP:94.0 1dP:84.0
+2d$:n:1033 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 16:00]
+1d$:n:253 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 16:00]
+*Periodic Run* 11-5 20:17:58.055 last live feed time: 11-5 16:00 been:257min p:47.27 cost:46.3 p/cost:1.02
+p:47.27 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 20:17:58.056 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 20:17:58.056 *chek openOrders*: [241105004, 241105005]
+11-5 20:17:58.056 47.27 2dP:94.0 1dP:84.0
+2d$:n:1033 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 16:00]
+1d$:n:253 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 16:00]
+*Periodic Run* 11-5 21:17:58.159 last live feed time: 11-5 16:00 been:317min p:47.27 cost:46.3 p/cost:1.02
+p:47.27 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:423 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.951
+11-5 21:17:58.160 *chek orderStatus [241105003=Filled, 241105004=Submitted, 241105005=Submitted]
+11-5 21:17:58.160 *chek openOrders*: [241105004, 241105005]
+11-5 21:17:58.160 47.27 2dP:94.0 1dP:84.0
+2d$:n:1033 max:47.3 [11-5 11:34] min:46.1 [11-1 14:20] rng:2.7% 1Key:[11-1 9:30] last:[11-5 16:00]
+1d$:n:253 max:47.3 [11-5 11:34] min:46.9 [11-5 9:53] rng:0.9% 1Key:[11-5 8:17] last:[11-5 16:00]
+*******************************************
+*STARTS* 11-6 8:26:32.744
+updating pos: HSBC 11-6 8:26:35.064 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+*Periodic Run* 11-6 8:26:53.072 last live feed time: 11-6 8:26 been:0min p:47.08 cost:46.3 p/cost:1.016
+p:47.08 rng:0.0% pos:96 delt:5k cost:46.3 fullLot:424 refillP:44.97 costTgt:0.98 refillP/cost:0.971 refillP/px:0.955
+11-6 8:26:53.075 47.08 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+11-6 8:27:19.681 rng:1.0% costTgt:0.98
+11-6 8:27:19.682 tgtMargin:1.01 tgtPrice:46.78
+ytdReturn:27.17%
+*Periodic Run* 11-6 9:26:53.026 last live feed time: 11-6 9:10 been:16min p:46.97 cost:46.3 p/cost:1.014
+p:46.97 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:425 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.958
+11-6 9:26:53.027 46.97 2dP:45.0 1dP:6.0
+2d$:n:789 max:47.3 [11-5 11:34] min:46.7 [11-4 15:59] rng:1.5% 1Key:[11-4 9:30] last:[11-6 9:10]
+1d$:n:9 max:47.0 [11-6 8:26] min:47.0 [11-6 9:00] rng:0.1% 1Key:[11-6 8:26] last:[11-6 9:10]
+09:32:17.841691 no blocking orders,empty
+09:32:33.367737 no blocking orders,empty
+09:32:36.120651 no blocking orders,empty
+09:32:40.739492 no blocking orders,empty
+09:32:49.006421 no blocking orders,empty
+09:33:04.101518 no blocking orders,empty
+09:33:04.949926 no blocking orders,empty
+09:33:14.977056 no blocking orders,empty
+09:33:18.631173 no blocking orders,empty
+09:33:20.883002 no blocking orders,empty
+09:33:27.896277 no blocking orders,empty
+09:33:55.530732 no blocking orders,empty
+09:34:16.384772 no blocking orders,empty
+09:34:17.636022 no blocking orders,empty
+09:34:19.140331 no blocking orders,empty
+09:34:22.400713 no blocking orders,empty
+09:34:26.403882 no blocking orders,empty
+09:34:27.169041 no blocking orders,empty
+09:34:30.754231 no blocking orders,empty
+09:34:31.415213 no blocking orders,empty
+09:34:32.166378 no blocking orders,empty
+09:35:26.026610 no blocking orders,empty
+*******************************************
+*STARTS* 11-6 9:36:13.738
+updating pos: HSBC 11-6 9:36:15.891 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+*Periodic Run* 11-6 9:36:33.888 9:36:33 no live feed
+11-6 9:36:33.888 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+11-6 9:36:35.049 rng:1.0% costTgt:0.98
+11-6 9:36:35.050 tgtMargin:1.01 tgtPrice:46.78
+ytdReturn:25.96%
+*******************************************
+*STARTS* 11-6 9:37:17.133
+updating pos: HSBC 11-6 9:37:19.282 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+*Periodic Run* 11-6 9:37:37.296 last live feed time: 11-6 9:37 been:0min p:46.88 cost:46.3 p/cost:1.012
+p:46.88 rng:0.0% pos:96 delt:5k cost:46.3 fullLot:426 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.959
+11-6 9:37:37.298 46.88 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 11-6 9:37:37 1dP:100.0 2dp:100.0 px46.86 cost:46.32055415 px/Cost:1.0116 reqMargin:1.01 rng:0.0
+0:241106016 HSBC SELL 32 @46.96 9:37
+0: SELL HSBC 11-6 9:37 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.87
+1:241106017 HSBC SELL 32 @47.34 9:37
+1: SELL HSBC 11-6 9:37 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.87
+2:241106018 HSBC SELL 32 @47.81 9:37
+2: SELL HSBC 11-6 9:37 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.87
+2D$:n<5
+1D$:n<5
+11-6 9:37:39.212 *openOrder* status:PreSubmitted 241106017 SELL 32@47.34
+11-6 9:37:39.213 *openOrder* all live orders [241106017 SELL 32@47.34]
+11-6 9:37:39.215 *OrderStatus*:PreSubmitted orderId:241106017 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:37:39.218 *openOrder* status:PreSubmitted 241106018 SELL 32@47.81
+11-6 9:37:39.218 *openOrder* all live orders [241106017 SELL 32@47.34, 241106018 SELL 32@47.81]
+11-6 9:37:39.219 *OrderStatus*:PreSubmitted orderId:241106018 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:37:39.219 *openOrder* status:Submitted 241106016 SELL 32@46.96
+11-6 9:37:39.220 *openOrder* all live orders [241106016 SELL 32@46.96, 241106017 SELL 32@47.34, 241106018 SELL 32@47.81]
+11-6 9:37:39.221 *OrderStatus*:Submitted orderId:241106016 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:37:39.463 *openOrder* status:Submitted 241106017 SELL 32@47.34
+11-6 9:37:39.464 *openOrder* all live orders [241106016 SELL 32@46.96, 241106017 SELL 32@47.34, 241106018 SELL 32@47.81]
+11-6 9:37:39.465 *OrderStatus*:Submitted orderId:241106017 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:37:40.212 *openOrder* status:Submitted 241106018 SELL 32@47.81
+11-6 9:37:40.213 *openOrder* all live orders [241106016 SELL 32@46.96, 241106017 SELL 32@47.34, 241106018 SELL 32@47.81]
+11-6 9:37:40.214 *OrderStatus*:Submitted orderId:241106018 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:38:28.653 rng:1.0% costTgt:0.98
+11-6 9:38:28.654 tgtMargin:1.01 tgtPrice:46.78
+ytdReturn:25.96%
+*******************************************
+*STARTS* 11-6 9:39:49.861
+updating pos: HSBC 11-6 9:39:52.053 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+11-6 9:39:52.167 *openOrder* status:Submitted 241106016 SELL 32@46.96
+openOrder does not contain order HSBC 241106016 SELL 32@46.96
+11-6 9:39:52.170 *openOrder* all live orders [241106016 SELL 32@46.96]
+11-6 9:39:52.171 *OrderStatus*:Submitted orderId:241106016 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:39:52.173 *openOrder* status:Submitted 241106017 SELL 32@47.34
+openOrder does not contain order HSBC 241106017 SELL 32@47.34
+11-6 9:39:52.176 *openOrder* all live orders [241106016 SELL 32@46.96, 241106017 SELL 32@47.34]
+11-6 9:39:52.177 *OrderStatus*:Submitted orderId:241106017 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:39:52.178 *openOrder* status:Submitted 241106018 SELL 32@47.81
+openOrder does not contain order HSBC 241106018 SELL 32@47.81
+11-6 9:39:52.181 *openOrder* all live orders [241106016 SELL 32@46.96, 241106017 SELL 32@47.34, 241106018 SELL 32@47.81]
+11-6 9:39:52.182 *OrderStatus*:Submitted orderId:241106018 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:39:52.943 *OrderStatus*:Cancelled orderId:241106016 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:39:52.944 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241106018=241106018 SELL 32@47.81, 241106016=241106016 SELL 32@46.96, 241106017=241106017 SELL 32@47.34}
+*OrderStatus* remaining openOrders: {241106018=241106018 SELL 32@47.81, 241106017=241106017 SELL 32@47.34}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={241106022=241106022 SELL 6@470.12}, CL={}, GLD={}, HON={}, HSBC={241106018=241106018 SELL 32@47.81, 241106017=241106017 SELL 32@47.34}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+11-6 9:39:53.711 *OrderStatus*:Cancelled orderId:241106017 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:39:53.712 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241106018=241106018 SELL 32@47.81, 241106017=241106017 SELL 32@47.34}
+*OrderStatus* remaining openOrders: {241106018=241106018 SELL 32@47.81}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={241106018=241106018 SELL 32@47.81}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+11-6 9:39:53.715 *OrderStatus*:Cancelled orderId:241106018 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:39:53.717 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241106018=241106018 SELL 32@47.81}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+*Periodic Run* 11-6 9:40:10.081 last live feed time: 11-6 9:40 been:0min p:46.9 cost:46.3 p/cost:1.013
+p:46.9 rng:0.0% pos:96 delt:5k cost:46.3 fullLot:426 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.959
+11-6 9:40:10.083 *chek orderStatus [241106016=Cancelled, 241106017=Cancelled, 241106018=Cancelled]
+11-6 9:40:10.084 46.9 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+all order finished: {241106016=HSBC 11-6 9:39 UNKNOWN Cancelled, 241106017=HSBC 11-6 9:39 UNKNOWN Cancelled, 241106018=HSBC 11-6 9:39 UNKNOWN Cancelled}
+******************CUT**************************
+CUT 11-6 9:40:11 1dP:100.0 2dp:100.0 px46.89 cost:46.32055415 px/Cost:1.0123 reqMargin:1.01 rng:0.0
+0:241106022 HSBC SELL 32 @46.99 9:40
+0: SELL HSBC 11-6 9:40 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.9
+1:241106023 HSBC SELL 32 @47.37 9:40
+1: SELL HSBC 11-6 9:40 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.9
+2:241106024 HSBC SELL 32 @47.84 9:40
+2: SELL HSBC 11-6 9:40 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.9
+2D$:n<5
+1D$:n<5
+11-6 9:40:18.538 rng:1.0% costTgt:0.98
+11-6 9:40:18.539 tgtMargin:1.01 tgtPrice:46.78
+ytdReturn:26.12%
+*******************************************
+*STARTS* 11-6 9:41:37.714
+updating pos: HSBC 11-6 9:41:39.828 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+*******************************************
+*STARTS* 11-6 9:41:56.409
+updating pos: HSBC 11-6 9:41:58.536 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+*Periodic Run* 11-6 9:42:16.577 last live feed time: 11-6 9:42 been:0min p:46.87 cost:46.3 p/cost:1.012
+p:46.87 rng:0.0% pos:96 delt:4k cost:46.3 fullLot:426 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.96
+11-6 9:42:16.580 46.87 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 11-6 9:42:26 1dP:100.0 2dp:100.0 px46.86 cost:46.32055415 px/Cost:1.0116 reqMargin:1.01 rng:0.0
+0:241106033 HSBC SELL 32 @46.95 9:42
+0: SELL HSBC 11-6 9:42 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.86
+1:241106034 HSBC SELL 32 @47.33 9:42
+1: SELL HSBC 11-6 9:42 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.86
+2:241106035 HSBC SELL 32 @47.8 9:42
+2: SELL HSBC 11-6 9:42 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.86
+2D$:n<5
+1D$:n<5
+11-6 9:42:26.851 *openOrder* status:Submitted 241106033 SELL 32@46.95
+11-6 9:42:26.852 *openOrder* all live orders [241106033 SELL 32@46.95]
+11-6 9:42:26.856 *OrderStatus*:Submitted orderId:241106033 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:27.165 *openOrder* status:PreSubmitted 241106035 SELL 32@47.8
+11-6 9:42:27.166 *openOrder* all live orders [241106033 SELL 32@46.95, 241106035 SELL 32@47.8]
+11-6 9:42:27.167 *OrderStatus*:PreSubmitted orderId:241106035 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:27.188 *openOrder* status:Submitted 241106034 SELL 32@47.33
+11-6 9:42:27.189 *openOrder* all live orders [241106033 SELL 32@46.95, 241106034 SELL 32@47.33, 241106035 SELL 32@47.8]
+11-6 9:42:27.190 *OrderStatus*:Submitted orderId:241106034 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:27.325 *openOrder* status:Submitted 241106035 SELL 32@47.8
+11-6 9:42:27.326 *openOrder* all live orders [241106033 SELL 32@46.95, 241106034 SELL 32@47.33, 241106035 SELL 32@47.8]
+11-6 9:42:27.329 *OrderStatus*:Submitted orderId:241106035 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+*******************************************
+*STARTS* 11-6 9:42:34.496
+updating pos: HSBC 11-6 9:42:36.848 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+11-6 9:42:36.909 *openOrder* status:Submitted 241106033 SELL 32@46.95
+openOrder does not contain order HSBC 241106033 SELL 32@46.95
+11-6 9:42:36.943 *openOrder* all live orders [241106033 SELL 32@46.95]
+11-6 9:42:36.954 *OrderStatus*:Submitted orderId:241106033 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:37.010 *openOrder* status:Submitted 241106034 SELL 32@47.33
+openOrder does not contain order HSBC 241106034 SELL 32@47.33
+11-6 9:42:37.015 *openOrder* all live orders [241106033 SELL 32@46.95, 241106034 SELL 32@47.33]
+11-6 9:42:37.017 *OrderStatus*:Submitted orderId:241106034 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:37.020 *openOrder* status:Submitted 241106035 SELL 32@47.8
+openOrder does not contain order HSBC 241106035 SELL 32@47.8
+11-6 9:42:37.027 *openOrder* all live orders [241106033 SELL 32@46.95, 241106034 SELL 32@47.33, 241106035 SELL 32@47.8]
+11-6 9:42:37.029 *OrderStatus*:Submitted orderId:241106035 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:37.624 *OrderStatus*:Cancelled orderId:241106033 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:37.625 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241106034=241106034 SELL 32@47.33, 241106035=241106035 SELL 32@47.8, 241106033=241106033 SELL 32@46.95}
+*OrderStatus* remaining openOrders: {241106034=241106034 SELL 32@47.33, 241106035=241106035 SELL 32@47.8}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={241106040=241106040 SELL 29@218.44, 241106038=241106038 SELL 27@214.59, 241106039=241106039 SELL 27@216.3}, HSBC={241106034=241106034 SELL 32@47.33, 241106035=241106035 SELL 32@47.8}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+11-6 9:42:37.639 *OrderStatus*:Cancelled orderId:241106034 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:37.640 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241106034=241106034 SELL 32@47.33, 241106035=241106035 SELL 32@47.8}
+*OrderStatus* remaining openOrders: {241106035=241106035 SELL 32@47.8}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={241106040=241106040 SELL 29@218.44, 241106038=241106038 SELL 27@214.59, 241106039=241106039 SELL 27@216.3}, HSBC={241106035=241106035 SELL 32@47.8}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+11-6 9:42:37.656 *OrderStatus*:Cancelled orderId:241106035 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:42:37.657 *OrderStatus*:Cancelled deleting finished orders from openOrderMap {241106035=241106035 SELL 32@47.8}
+*OrderStatus* remaining openOrders: {}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={241106040=241106040 SELL 29@218.44, 241106038=241106038 SELL 27@214.59, 241106039=241106039 SELL 27@216.3}, HSBC={}, IP={}, IWM={}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={}, SPY={}, UL={}, UNP={}}
+*Periodic Run* 11-6 9:42:54.888 last live feed time: 11-6 9:42 been:0min p:46.91 cost:46.3 p/cost:1.013
+p:46.91 rng:0.0% pos:96 delt:5k cost:46.3 fullLot:426 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.959
+11-6 9:42:54.890 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled]
+11-6 9:42:54.891 46.91 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+all order finished: {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled}
+******************CUT**************************
+CUT 11-6 9:43:08 1dP:100.0 2dp:100.0 px46.9 cost:46.32055415 px/Cost:1.0125 reqMargin:1.01 rng:0.0
+0:241106042 HSBC SELL 32 @47.0 9:43
+0: SELL HSBC 11-6 9:43 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.91
+1:241106043 HSBC SELL 32 @47.38 9:43
+1: SELL HSBC 11-6 9:43 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.91
+2:241106044 HSBC SELL 32 @47.85 9:43
+2: SELL HSBC 11-6 9:43 CUTTER Created target margin:1.01 cost*target margin:46.78 askPx:46.91
+2D$:n<5
+1D$:n<5
+11-6 9:43:9.545 *openOrder* status:Submitted 241106042 SELL 32@47.0
+11-6 9:43:9.545 *openOrder* all live orders [241106042 SELL 32@47.0]
+11-6 9:43:9.546 *OrderStatus*:Submitted orderId:241106042 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:43:9.872 *openOrder* status:Submitted 241106043 SELL 32@47.38
+11-6 9:43:9.873 *openOrder* all live orders [241106042 SELL 32@47.0, 241106043 SELL 32@47.38]
+11-6 9:43:9.874 *OrderStatus*:Submitted orderId:241106043 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:43:9.875 *openOrder* status:Submitted 241106044 SELL 32@47.85
+11-6 9:43:9.875 *openOrder* all live orders [241106042 SELL 32@47.0, 241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 9:43:9.876 *OrderStatus*:Submitted orderId:241106044 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:43:19.902 rng:1.0% costTgt:0.98
+11-6 9:43:19.905 tgtMargin:1.01 tgtPrice:46.78
+ytdReturn:26.07%
+updating pos: HSBC 11-6 9:44:2.822 pos:96 cost:46.32
+POS:96 COST:46.3 DELT:4k
+11-6 9:44:3.255 *openOrder* status:Submitted 241106042 SELL 32@47.0
+openOrder does not contain order HSBC 241106042 SELL 32@47.0
+11-6 9:44:3.258 *openOrder* all live orders [241106042 SELL 32@47.0]
+11-6 9:44:3.302 *OrderStatus*:Submitted orderId:241106042 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:44:3.304 *openOrder* status:Submitted 241106043 SELL 32@47.38
+openOrder does not contain order HSBC 241106043 SELL 32@47.38
+11-6 9:44:3.310 *openOrder* all live orders [241106042 SELL 32@47.0, 241106043 SELL 32@47.38]
+11-6 9:44:3.320 *OrderStatus*:Submitted orderId:241106043 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 9:44:3.322 *openOrder* status:Submitted 241106044 SELL 32@47.85
+openOrder does not contain order HSBC 241106044 SELL 32@47.85
+11-6 9:44:3.332 *openOrder* all live orders [241106042 SELL 32@47.0, 241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 9:44:3.335 *OrderStatus*:Submitted orderId:241106044 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+no blocking buy orders: All submitted orders {241106033=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106034=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106035=HSBC 11-6 9:42 UNKNOWN Cancelled, 241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted}
+no blocking buy orders: Active orders: [241106042=HSBC 11-6 9:43 CUTTER Submitted, 241106043=HSBC 11-6 9:43 CUTTER Submitted, 241106044=HSBC 11-6 9:43 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241106042, 241106043, 241106044]}
+*Periodic Run* 11-6 10:42:54.675 last live feed time: 11-6 10:42 been:0min p:46.92 cost:46.3 p/cost:1.013
+p:46.92 rng:1.0% pos:96 delt:5k cost:46.3 fullLot:426 refillP:44.98 costTgt:0.98 refillP/cost:0.971 refillP/px:0.959
+11-6 10:42:54.676 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Submitted, 241106043=Submitted, 241106044=Submitted]
+11-6 10:42:54.676 *chek openOrders*: [241106042, 241106043, 241106044]
+11-6 10:42:54.677 46.92 2dP:44.0 1dP:84.0
+2d$:n:463 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 10:42]
+1d$:n:73 max:47.0 [11-6 9:30] min:46.6 [11-6 9:55] rng:0.8% 1Key:[11-6 9:30] last:[11-6 10:42]
+11-6 10:55:5.589 *openOrder* status:Submitted 241106042 SELL 32@47.0
+11-6 10:55:5.591 *openOrder* all live orders [241106042 SELL 32@47.0, 241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 10:55:5.591 *OrderStatus*:Submitted orderId:241106042 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+updating pos: HSBC 11-6 10:55:5.592 pos:64 cost:46.32
+11-6 10:55:5.595 *tradeReport* time: 2024-11-06T10:55:05 SLD execPx:47.004 shares:32 avgPx:47.004
+11-6 10:55:5.600 *openOrder* status:Filled 241106042 SELL 32@47.0
+11-6 10:55:5.601 *openOrder*:removing order.Status:Filled 241106042 SELL 32@47.0
+11-6 10:55:5.601 *openOrder*:after removal.OpenOrders: [241106043, 241106044]
+11-6 10:55:5.602 *openOrder* all live orders [241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 10:55:5.603 *OrderStatus*:Filled orderId:241106042 filled:32 remaining:0 avgFillPx:47.004 lastFillPx:47.004
+11-6 10:55:5.604 *openOrder* status:Filled 241106042 SELL 32@47.0
+11-6 10:55:5.604 *openOrder*:removing order.Status:Filled 241106042 SELL 32@47.0
+11-6 10:55:5.605 *openOrder*:after removal.OpenOrders: [241106043, 241106044]
+11-6 10:55:5.605 *openOrder* all live orders [241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 10:55:5.606 *OrderStatus*:Filled orderId:241106042 filled:32 remaining:0 avgFillPx:47.004 lastFillPx:47.004
+computed Pnl:21.464179199999943
+1.*commission report*:241106042 commission:0.41 realized pnl:21.46 computed Pnl:21.46
+2.*commission report* orderID:241106042 commission: 0.41 realized pnl: 21.46
+updating pos: HSBC 11-6 10:55:5.608 pos:64 cost:46.32
+updating pos: HSBC 11-6 10:55:5.609 pos:64 cost:46.32
+updating pos: HSBC 11-6 10:59:41.442 pos:64 cost:46.32
+*Periodic Run* 11-6 11:42:54.739 last live feed time: 11-6 11:42 been:0min p:47.02 cost:46.3 p/cost:1.015
+p:47.02 rng:1.0% pos:64 delt:3k cost:46.3 fullLot:425 refillP:45.12 costTgt:0.98 refillP/cost:0.974 refillP/px:0.959
+11-6 11:42:54.740 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Filled, 241106043=Submitted, 241106044=Submitted]
+11-6 11:42:54.740 *chek openOrders*: [241106043, 241106044]
+11-6 11:42:54.741 47.02 2dP:57.0 1dP:89.0
+2d$:n:517 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 11:42]
+1d$:n:127 max:47.1 [11-6 10:59] min:46.6 [11-6 9:55] rng:1.0% 1Key:[11-6 9:30] last:[11-6 11:42]
+*Periodic Run* 11-6 12:42:54.799 last live feed time: 11-6 12:39 been:3min p:47.02 cost:46.3 p/cost:1.015
+p:47.02 rng:1.0% pos:64 delt:3k cost:46.3 fullLot:425 refillP:45.12 costTgt:0.98 refillP/cost:0.974 refillP/px:0.959
+11-6 12:42:54.799 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Filled, 241106043=Submitted, 241106044=Submitted]
+11-6 12:42:54.799 *chek openOrders*: [241106043, 241106044]
+11-6 12:42:54.800 47.02 2dP:57.0 1dP:89.0
+2d$:n:554 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 12:39]
+1d$:n:164 max:47.1 [11-6 10:59] min:46.6 [11-6 9:55] rng:1.0% 1Key:[11-6 9:30] last:[11-6 12:39]
+*Periodic Run* 11-6 13:42:54.867 last live feed time: 11-6 13:42 been:0min p:47.08 cost:46.3 p/cost:1.016
+p:47.08 rng:1.0% pos:64 delt:3k cost:46.3 fullLot:424 refillP:45.11 costTgt:0.98 refillP/cost:0.974 refillP/px:0.958
+11-6 13:42:54.868 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Filled, 241106043=Submitted, 241106044=Submitted]
+11-6 13:42:54.868 *chek openOrders*: [241106043, 241106044]
+11-6 13:42:54.869 47.08 2dP:65.0 1dP:95.0
+2d$:n:592 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 13:42]
+1d$:n:202 max:47.1 [11-6 13:20] min:46.6 [11-6 9:55] rng:1.1% 1Key:[11-6 9:30] last:[11-6 13:42]
+*Periodic Run* 11-6 14:42:54.681 last live feed time: 11-6 14:42 been:0min p:47.06 cost:46.3 p/cost:1.016
+p:47.06 rng:1.0% pos:64 delt:3k cost:46.3 fullLot:424 refillP:45.11 costTgt:0.98 refillP/cost:0.974 refillP/px:0.959
+11-6 14:42:54.682 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Filled, 241106043=Submitted, 241106044=Submitted]
+11-6 14:42:54.682 *chek openOrders*: [241106043, 241106044]
+11-6 14:42:54.682 47.06 2dP:62.0 1dP:89.0
+2d$:n:627 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 14:42]
+1d$:n:237 max:47.1 [11-6 13:20] min:46.6 [11-6 9:55] rng:1.1% 1Key:[11-6 9:30] last:[11-6 14:42]
+*Periodic Run* 11-6 15:42:54.778 last live feed time: 11-6 15:41 been:1min p:47.03 cost:46.3 p/cost:1.015
+p:47.03 rng:1.0% pos:64 delt:3k cost:46.3 fullLot:425 refillP:45.12 costTgt:0.98 refillP/cost:0.974 refillP/px:0.959
+11-6 15:42:54.780 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Filled, 241106043=Submitted, 241106044=Submitted]
+11-6 15:42:54.780 *chek openOrders*: [241106043, 241106044]
+11-6 15:42:54.780 47.03 2dP:58.0 1dP:83.0
+2d$:n:667 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 15:41]
+1d$:n:277 max:47.1 [11-6 13:20] min:46.6 [11-6 9:55] rng:1.1% 1Key:[11-6 9:30] last:[11-6 15:41]
+11-6 16:00:4.397 *openOrder* status:Submitted 241106043 SELL 32@47.38
+11-6 16:00:4.398 *openOrder* all live orders [241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 16:00:4.400 *OrderStatus*:Submitted orderId:241106043 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+11-6 16:00:4.400 *openOrder* status:Submitted 241106044 SELL 32@47.85
+11-6 16:00:4.401 *openOrder* all live orders [241106043 SELL 32@47.38, 241106044 SELL 32@47.85]
+11-6 16:00:4.401 *OrderStatus*:Submitted orderId:241106044 filled:0 remaining:32 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 11-6 16:42:54.888 last live feed time: 11-6 15:59 been:42min p:47.04 cost:46.3 p/cost:1.016
+p:47.04 rng:1.0% pos:64 delt:3k cost:46.3 fullLot:425 refillP:45.12 costTgt:0.98 refillP/cost:0.974 refillP/px:0.959
+11-6 16:42:54.889 *chek orderStatus [241106033=Cancelled, 241106034=Cancelled, 241106035=Cancelled, 241106042=Filled, 241106043=Submitted, 241106044=Submitted]
+11-6 16:42:54.889 *chek openOrders*: [241106043, 241106044]
+11-6 16:42:54.890 47.04 2dP:60.0 1dP:85.0
+2d$:n:682 max:47.3 [11-5 11:34] min:46.6 [11-6 9:55] rng:1.6% 1Key:[11-5 9:30] last:[11-6 15:59]
+1d$:n:292 max:47.1 [11-6 13:20] min:46.6 [11-6 9:55] rng:1.1% 1Key:[11-6 9:30] last:[11-6 15:59]

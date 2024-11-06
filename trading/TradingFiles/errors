@@ -21061,3 +21061,137 @@ ADM 2024-11-01T14:04:09.490 Adder: ytd < -10% cannot trade:-0.21532120523024445
 *openOrder* Error 11-4 14:27:5.040 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 11-4 14:27:5.757 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 *openOrder* Error 11-4 18:00:0.546 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:17:37 EST: 11-5 8:17:37.953
+*openOrder* Error 11-5 8:17:49.686 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-5 8:24:49.732 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-5 14:22:31.272 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-5 14:22:32.302 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-5 14:23:4.353 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-5 14:23:5.185 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-5 18:00:0.421 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:26:32 EST: 11-6 8:26:32.673
+*openOrder* Error 11-6 8:26:42.998 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-6 8:26:44.289 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 11-6 8:26:44.291 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 11-6 8:26:44.498 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-6 8:26:44.501 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-6 8:32:44.320 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-6 8:34:43.042 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-6 9:30:0.446 orderId:241106003 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:0.515 orderId:241106004 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:0.615 orderId:241106005 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:0.715 orderId:241106007 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:0.815 orderId:241106008 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:0.915 orderId:241106009 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:3.193 orderId:241106013 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:3.193 orderId:241106014 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:3.284 orderId:241106015 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:3.384 orderId:241106016 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:30:3.484 orderId:241106017 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:35:48.086 orderId:241106429 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:35:48.087 orderId:241106430 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:35:48.182 orderId:241106431 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:36:13 EST: 11-6 9:36:13.696
+*openOrder* Error 11-6 9:36:20.018 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*****START***** HKT: 22:37:17 EST: 11-6 9:37:17.082
+BRK B openorders does not contain order BRK B 241106009 SELL 4@462.63
+BRK B openorders does not contain order BRK B 241106010 SELL 4@466.33
+BRK B openorders does not contain order BRK B 241106011 SELL 6@470.94
+IWM openorders does not contain order IWM 241106012 SELL 3@235.19
+IWM openorders does not contain order IWM 241106013 SELL 3@237.07
+IWM openorders does not contain order IWM 241106014 SELL 3@239.41
+*openOrder* Error 11-6 9:37:20.460 orderId:241106012 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:37:20.468 orderId:241106009 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:37:20.477 orderId:241106013 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:37:20.487 orderId:241106014 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:37:20.492 orderId:241106010 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:37:20.498 orderId:241106011 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:37:37.474 orderId:241106010 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:37:37.476 orderId:241106011 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:37:37.557 orderId:241106012 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:37:37.657 orderId:241106013 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:37:37.757 orderId:241106014 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:39:49 EST: 11-6 9:39:49.814
+ABT openorders does not contain order ABT 241106027 SELL 7@119.38
+BRK B openorders does not contain order BRK B 241106020 SELL 4@461.82
+BRK B openorders does not contain order BRK B 241106021 SELL 4@465.51
+BRK B openorders does not contain order BRK B 241106022 SELL 6@470.12
+ABT openorders does not contain order ABT 241106026 SELL 3@118.44
+IWM openorders does not contain order IWM 241106015 SELL 3@239.68
+HSBC openorders does not contain order HSBC 241106016 SELL 32@46.96
+HSBC openorders does not contain order HSBC 241106017 SELL 32@47.34
+HSBC openorders does not contain order HSBC 241106018 SELL 32@47.81
+*openOrder* Error 11-6 9:39:52.921 orderId:241106027 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:52.929 orderId:241106026 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:52.933 orderId:241106020 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:52.938 orderId:241106021 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:52.942 orderId:241106015 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:52.945 orderId:241106016 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:52.949 orderId:241106022 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:53.714 orderId:241106017 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:39:53.718 orderId:241106018 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:40:10.361 orderId:241106013 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:10.453 orderId:241106014 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:10.553 orderId:241106015 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:10.794 orderId:241106016 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:10.794 orderId:241106017 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:11.068 orderId:241106019 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:11.069 orderId:241106020 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:11.071 orderId:241106021 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:11.547 orderId:241106022 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:11.547 orderId:241106023 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:11.548 orderId:241106024 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:40:12.799 orderId:241106027 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:41:37 EST: 11-6 9:41:37.674
+BRK B openorders does not contain order BRK B 241106028 SELL 4@465.61
+BRK B openorders does not contain order BRK B 241106029 SELL 6@470.22
+*openOrder* Error 11-6 9:41:40.778 orderId:241106028 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:41:40.807 orderId:241106029 errorCode:202 msg:Order Canceled - reason:
+*****START***** HKT: 22:41:56 EST: 11-6 9:41:56.351
+*openOrder* Error 11-6 9:42:17.097 orderId:241106015 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:17.098 orderId:241106016 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:17.099 orderId:241106017 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:18.581 orderId:241106020 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:18.582 orderId:241106021 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:18.583 orderId:241106022 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:19.328 orderId:241106024 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-6 9:42:19.328 orderId:241106025 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:42:34 EST: 11-6 9:42:34.273
+HSBC openorders does not contain order HSBC 241106033 SELL 32@46.95
+HON openorders does not contain order HON 241106040 SELL 29@218.44
+HSBC openorders does not contain order HSBC 241106034 SELL 32@47.33
+HSBC openorders does not contain order HSBC 241106035 SELL 32@47.8
+HON openorders does not contain order HON 241106038 SELL 27@214.59
+HON openorders does not contain order HON 241106039 SELL 27@216.3
+*openOrder* Error 11-6 9:42:37.629 orderId:241106033 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:42:37.654 orderId:241106034 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:42:37.660 orderId:241106035 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:42:37.666 orderId:241106040 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:42:37.672 orderId:241106038 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-6 9:42:37.680 orderId:241106039 errorCode:202 msg:Order Canceled - reason:
+*****START***** HKT: 22:44:00 EST: 11-6 9:44:0.531
+IWM openorders does not contain order IWM 241106015 SELL 3@235.24
+IWM openorders does not contain order IWM 241106016 SELL 3@237.12
+IWM openorders does not contain order IWM 241106017 SELL 3@239.47
+ABT openorders does not contain order ABT 241106027 SELL 7@118.73
+HON openorders does not contain order HON 241106028 SELL 27@214.63
+HON openorders does not contain order HON 241106029 SELL 27@216.34
+HON openorders does not contain order HON 241106030 SELL 29@218.48
+BRK B openorders does not contain order BRK B 241106019 SELL 4@462.92
+BRK B openorders does not contain order BRK B 241106020 SELL 4@466.62
+BRK B openorders does not contain order BRK B 241106021 SELL 6@471.24
+ABT openorders does not contain order ABT 241106026 SELL 3@117.79
+HSBC openorders does not contain order HSBC 241106042 SELL 32@47.0
+HSBC openorders does not contain order HSBC 241106043 SELL 32@47.38
+HSBC openorders does not contain order HSBC 241106044 SELL 32@47.85
+*openOrder* Error 11-6 10:17:50.857 orderId:-1 errorCode:2148 msg:ALERT: The total cash in your account is less than HKD 800. This notification is just a warning letting you  know that your cash balance was less than 800 HKD. The purpose of this notification is so that you take  precaution to avoid incurring a negative cash balance. Though you may not be actively trading, there will be  monthly minimum activity fees as well as market data fees, if you are subscribed. If these monthly fees cause  your cash balance to become negative, we do not issue margin calls and your account will be subject to forced  liquidations. To ensure continued compliance, please consider depositing additional funds to increase equity  and/or closing or hedging positions to lessen exposure. Further note that funds in transit or subject to a  credit hold are not considered when liquidating positions. Please let us know if you have any further  questions.  Account: U19778287
+commission report issue tradekey:00012df0.672b79a3.01 report:ID:00012df0.672b79a3.01.01 commission:0.399001 curr:USD pnl:70.939456 yield:1.7976931348623157E308 yieldRedemption:0
+commission report issue tradekey:00010129.672be8e1.01 report:ID:00010129.672be8e1.01.01 commission:0.354586 curr:USD pnl:4.702919 yield:1.7976931348623157E308 yieldRedemption:0
+commission report issue tradekey:00010129.672be8e2.01 report:ID:00010129.672be8e2.01.01 commission:0.112535 curr:USD pnl:131.382591 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-6 14:16:9.434 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-6 14:16:10.915 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-6 14:16:42.542 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-6 14:16:43.317 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-6 14:23:53.579 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-6 14:23:54.272 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+commission report issue tradekey:00010279.672ba4db.01 report:ID:00010279.672ba4db.01.01 commission:0.366475 curr:USD pnl:44.805525 yield:1.7976931348623157E308 yieldRedemption:0
