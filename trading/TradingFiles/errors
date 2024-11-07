@@ -21195,3 +21195,18 @@ commission report issue tradekey:00010129.672be8e2.01 report:ID:00010129.672be8e
 *openOrder* Error 11-6 14:23:53.579 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 11-6 14:23:54.272 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 commission report issue tradekey:00010279.672ba4db.01 report:ID:00010279.672ba4db.01.01 commission:0.366475 curr:USD pnl:44.805525 yield:1.7976931348623157E308 yieldRedemption:0
+*****START***** HKT: 20:56:46 EST: 11-7 7:56:46.947
+*openOrder* Error 11-7 7:56:54.756 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-7 7:58:1.120 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 11-7 7:58:1.143 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 11-7 7:58:6.502 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-7 7:58:6.503 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 11-7 8:02:32.617 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-7 8:05:6.531 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:00010129.672ce51c.01 report:ID:00010129.672ce51c.01.01 commission:0.389429 curr:USD pnl:103.118733 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-7 14:15:39.795 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-7 14:15:41.397 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-7 14:22:53.660 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-7 14:22:55.372 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-7 14:23:26.559 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-7 14:23:27.222 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
