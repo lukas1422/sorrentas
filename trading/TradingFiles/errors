@@ -21210,3 +21210,127 @@ commission report issue tradekey:00010129.672ce51c.01 report:ID:00010129.672ce51
 *openOrder* Error 11-7 14:22:55.372 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 *openOrder* Error 11-7 14:23:26.559 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 11-7 14:23:27.222 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 20:15:07 EST: 11-8 7:15:7.555
+*openOrder* Error 11-8 7:15:18.015 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-8 7:22:18.059 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-8 8:03:35.872 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 11-8 8:03:38.327 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-8 8:03:41.186 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 11-8 8:03:41.197 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 11-8 8:03:41.547 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 11-8 8:04:8.710 orderId:-1 errorCode:1102 msg:Connectivity between IBKR and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 11-8 8:35:8.778 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 11-8 8:35:11.434 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-8 8:35:14.558 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 11-8 8:35:14.566 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 11-8 8:35:14.681 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 11-8 8:35:41.773 orderId:-1 errorCode:1102 msg:Connectivity between IBKR and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 11-8 8:47:24.740 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-8 8:47:29.747 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-8 8:47:34.885 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-8 8:47:43.352 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 11-8 8:47:43.368 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 11-8 8:47:43.569 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 11-8 9:24:59.551 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 11-8 9:25:2.503 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-8 9:25:5.430 orderId:-1 errorCode:2158 msg:Sec-def data farm connection is OK:secdefil
+*openOrder* Error 11-8 9:25:5.439 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 11-8 9:25:5.906 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 11-8 9:25:32.948 orderId:-1 errorCode:1102 msg:Connectivity between IBKR and Trader Workstation has been restored - data maintained. The following farms are connected: usfarm; secdefil. The following farms are not connected: ushmds.
+*openOrder* Error 11-8 16:00:2.986 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 6:01:19 EST: 11-8 17:01:19.374
+HON openorders does not contain order HON 241108010 SELL 8@222.36
+MMM openorders does not contain order MMM 241108006 SELL 25@137.21
+MMM openorders does not contain order MMM 241108005 SELL 25@135.43
+*openOrder* Error 11-8 17:01:22.810 orderId:241108010 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-8 17:01:22.831 orderId:241108006 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-8 17:01:22.836 orderId:241108005 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 11-8 17:08:13.586 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*****START***** HKT: 21:25:25 EST: 11-11 8:25:25.847
+*openOrder* Error 11-11 8:25:50.388 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-11 8:27:58.215 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-11 8:33:41.015 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:00010168.673266d7.01 report:ID:00010168.673266d7.01.01 commission:0.357145 curr:USD pnl:25.863597 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-11 17:53:42.905 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-11 17:53:52.016 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*****START***** HKT: 22:06:11 EST: 11-12 9:06:11.628
+*openOrder* Error 11-12 9:06:25.118 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-12 9:08:17.538 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-12 9:14:25.177 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-12 14:21:58.671 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-12 14:21:59.426 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 22:10:58 EST: 11-13 9:10:58.840
+*openOrder* Error 11-13 9:11:11.939 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-13 9:12:30.096 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 11-13 9:12:30.114 orderId:60090 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 11-13 9:12:34.848 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-13 9:12:34.849 orderId:60090 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 11-13 9:16:48.109 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-13 9:19:34.871 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-13 14:08:54.152 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-13 14:08:55.557 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-13 14:16:39.361 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-13 14:16:40.011 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-13 14:23:0.160 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-13 14:23:0.831 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 22:27:56 EST: 11-14 9:27:56.968
+*openOrder* Error 11-14 9:28:7.309 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 11-14 9:28:7.311 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 11-14 9:28:8.006 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-14 9:28:13.145 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-14 9:28:13.147 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-14 9:30:36.947 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 11-14 9:30:36.977 orderId:60015 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 11-14 9:30:44.275 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-14 9:35:5.471 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-14 9:37:42.446 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-14 14:26:5.322 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-14 14:26:7.134 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-14 18:00:0.869 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 22:28:41 EST: 11-15 9:28:41.822
+*openOrder* Error 11-15 9:28:53.444 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-15 9:30:44.772 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 11-15 9:30:44.802 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 11-15 9:30:44.803 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 11-15 9:30:49.074 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-15 9:30:49.076 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 11-15 9:32:19.163 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 11-15 9:32:45.691 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-15 9:32:45.718 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-15 9:32:45.719 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 11-15 9:32:45.722 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 11-15 9:32:47.199 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 11-15 9:32:47.442 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-15 9:32:47.457 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 11-15 9:32:48.318 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 11-15 9:32:51.282 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-15 9:33:18.308 orderId:-1 errorCode:1102 msg:Connectivity between IBKR and Trader Workstation has been restored - data maintained. The following farms are connected: hfarm; usfarm; apachmds; ushmds. The following farms are not connected: secdefhk.
+*openOrder* Error 11-15 9:38:47.236 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-15 9:38:51.321 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:0002258e.673768b4.01 report:ID:0002258e.673768b4.01.01 commission:0.411783 curr:USD pnl:19.757935 yield:1.7976931348623157E308 yieldRedemption:0
+commission report issue tradekey:00030e5e.677ed1c2.01 report:ID:00030e5e.677ed1c2.01.01 commission:0.059817 curr:USD pnl:19.563631 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-15 14:24:53.446 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-15 14:24:55.513 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-15 16:02:18.884 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 11-15 16:02:52.367 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 11-15 16:02:52.886 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 11-15 16:02:52.887 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-15 16:02:55.898 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:15:42 EST: 11-18 8:15:42.775
+*openOrder* Error 11-18 8:15:50.448 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-18 8:20:36.968 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-18 8:23:50.483 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+MRK 2024-11-18T12:00:00.061 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:00:00.970 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:00:01.721 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:00:06.309 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:00:06.978 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:00:07.729 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:00:08.561 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:01:00.555 Adder: ytd < -10% cannot trade:-0.11658411300678773
+MRK 2024-11-18T12:01:05.312 Adder: ytd < -10% cannot trade:-0.11658411300678773
+commission report issue tradekey:00012e0e.673b407b.01 report:ID:00012e0e.673b407b.01.01 commission:0.374059 curr:USD pnl:85.516058 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-18 14:22:54.740 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-18 14:22:56.141 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-18 14:23:27.747 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-18 14:23:28.568 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
