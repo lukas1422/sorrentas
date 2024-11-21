@@ -4327,3 +4327,25 @@ PG 11-18 14:35:53.756 *openOrder* FILLED 241118007 SELL 7@171.2
 PG 11-18 14:35:53.759 *OrderStatus*: filled:241118007
 PG 1.*commission report*:241118007 commission:0.37 realized pnl:68.4 computed Pnl:68.4
 PG *********************
+*****START***** HKT: 22:02:05 EST: 11-19 9:02:5.474
+HSBC 11-19 9:45:8.451 *openOrder* FILLED 241119004 SELL 16@45.8
+HSBC 11-19 9:45:8.455 *OrderStatus*: filled:241119004
+HSBC 1.*commission report*:241119004 commission:0.35 realized pnl:0.79 computed Pnl:17.85
+HSBC *********************
+HSBC 1.*commission report*:241119004 commission:0.01 realized pnl:17.05 computed Pnl:18.19
+HSBC *********************
+HSBC 11-19 11:15:57.441 *OrderStatus*: filled:241119005
+PG 11-19 12:33:1.958 *openOrder* FILLED 241119009 SELL 2@171.08
+PG 11-19 12:33:1.960 *OrderStatus*: filled:241119009
+PG 1.*commission report*:241119009 commission:0.36 realized pnl:11.33 computed Pnl:11.33
+PG *********************
+*****START***** HKT: 22:35:07 EST: 11-20 9:35:7.882
+PG 11-20 9:59:59.216 *openOrder* FILLED 241120012 SELL 5@170.34
+PG 11-20 9:59:59.219 *OrderStatus*: filled:241120012
+PG 1.*commission report*:241120012 commission:0.37 realized pnl:25.14 computed Pnl:25.14
+PG *********************
+MCD 11-20 10:17:14.189 *openOrder* FILLED 241120033 BUY 23@288.39
+MCD 11-20 10:17:14.192 *OrderStatus*: filled:241120033
+MCD 1.*commission report*:241120033 commission:0.33 
+MCD *********************
+HSBC 11-20 15:40:0.221 *OrderStatus*: filled:241120028
