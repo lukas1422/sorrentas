@@ -21461,3 +21461,24 @@ SLV 2024-11-21T12:04:00.902 Adder: ytd < -10% cannot trade:-1.0
 SLV 2024-11-21T12:04:09.249 Adder: ytd < -10% cannot trade:-1.0
 *openOrder* Error 11-21 14:16:23.263 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 11-21 14:16:27.682 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 22:19:57 EST: 11-25 9:19:57.532
+*openOrder* Error 11-25 9:20:9.014 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-25 9:25:53.697 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-25 9:28:9.020 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-25 12:01:42.856 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-25 12:01:44.105 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+commission report issue tradekey:00012e19.67449634.01 report:ID:00012e19.67449634.01.01 commission:0.356427 curr:USD pnl:11.114523 yield:1.7976931348623157E308 yieldRedemption:0
+commission report issue tradekey:00012e19.67449635.01 report:ID:00012e19.67449635.01.01 commission:0.030851 curr:USD pnl:57.323899 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-25 14:16:9.637 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-25 14:16:10.677 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 22:02:19 EST: 11-26 9:02:19.585
+*openOrder* Error 11-26 9:02:29.612 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-26 9:03:35.149 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 11-26 9:03:35.174 orderId:60005 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 11-26 9:03:37.221 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-26 9:07:50.916 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-26 9:09:37.250 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:00012e17.6745c5bc.01 report:ID:00012e17.6745c5bc.01.01 commission:0.353101 curr:USD pnl:3.789699 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 11-26 14:31:2.968 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-26 14:31:4.257 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 11-26 18:00:0.309 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002

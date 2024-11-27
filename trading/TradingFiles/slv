@@ -10949,3 +10949,1995 @@ ytdReturn:40.68%
 10-21 21:07:5.700 30.87 2dP:86.0 1dP:47.0
 2d$:n:1252 max:31.2 [10-21 9:09] min:28.6 [10-17 12:32] rng:9.2% 1Key:[10-17 9:30] last:[10-21 18:54]
 1d$:n:472 max:31.2 [10-21 9:09] min:30.5 [10-21 11:23] rng:2.3% 1Key:[10-21 9:07] last:[10-21 18:54]
+*******************************************
+*STARTS* 11-25 9:19:57.604
+updating pos: SLV 11-25 9:19:59.988 pos:541 cost:29.11
+POS:541 COST:29.1 DELT:16k
+*Periodic Run* 11-25 9:20:18.008 9:20:18 no live feed
+11-25 9:20:18.009 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+11-25 9:20:50.832 rng:1.8% costTgt:0.98
+11-25 9:20:50.833 tgtMargin:1.0146 tgtPrice:29.54
+ytdReturn:30.72%
+09:37:21.324616 no blocking orders,empty
+*REFILL*@27.61 11-25 9:37:21 delta:15k 1dp:0.0 2dp:0.0 cost:29.1 px/cost:0.9484 refillPx:27.66 avgRng:0.0182
+0:241125515 SLV BUY 241 @27.57 9:37 bid is:27.6
+9:37 0: SLV orderID:241125515 tradeID:241125515 BUY 241 @27.57 factor:0.999 SLV 11-25 9:37 ADDER Created
+1:241125516 SLV BUY 241 @27.2 9:37 bid is:27.6
+9:37 1: SLV orderID:241125516 tradeID:241125516 BUY 241 @27.2 factor:0.9854372411015515 SLV 11-25 9:37 ADDER Created
+1D$:n:18 max:27.7 [11-25 9:29] min:27.6 [11-25 9:37] rng:0.4% 1Key:[11-25 9:20] last:[11-25 9:37]
+2D$:n:798 max:28.5 [11-22 10:42] min:27.6 [11-25 9:37] rng:3.3% 1Key:[11-21 9:30] last:[11-25 9:37]
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Created, 241125516=SLV 11-25 9:37 ADDER Created}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Created, 241125516=SLV 11-25 9:37 ADDER Created]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:22.074 no blocking orders 
+11-25 9:37:22.368 *openOrder* status:Submitted 241125515 BUY 241@27.57
+11-25 9:37:22.369 *openOrder* all live orders [241125515 BUY 241@27.57]
+11-25 9:37:22.370 *OrderStatus*:Submitted orderId:241125515 filled:0 remaining:241 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Created}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Created]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:22.826 no blocking orders 
+11-25 9:37:23.109 *openOrder* status:Submitted 241125516 BUY 241@27.2
+11-25 9:37:23.109 *openOrder* all live orders [241125515 BUY 241@27.57, 241125516 BUY 241@27.2]
+11-25 9:37:23.110 *OrderStatus*:Submitted orderId:241125516 filled:0 remaining:241 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:25.685 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:28.085 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:32.952 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:33.674 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:36.597 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:38.103 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:43.859 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:45.445 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:47.120 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:52.204 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:57.015 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:37:57.690 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:42:18.358 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:42:19.891 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:42:24.316 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:43:41.134 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:43:45.067 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:43:49.536 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:43:51.037 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:43:57.319 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:43:58.050 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:01.302 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:02.854 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:03.880 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:04.560 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:05.309 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:10.569 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:12.119 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:14.073 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:16.326 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:18.417 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:21.180 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:22.588 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:28.656 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:30.099 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:31.626 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:33.103 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:33.853 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:38.612 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:46.125 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:51.131 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:56.204 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:57.739 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:44:59.394 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:01.733 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:07.877 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:10.336 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:18.542 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:19.292 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:21.599 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:31.531 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T09:45:36.635 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:38.089 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:39.816 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:40.548 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:47.059 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:48.125 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:50.313 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:54.268 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125515=SLV 11-25 9:37 ADDER Submitted, 241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125515, 241125516]}
+2024-11-25T10:00:58.194 no blocking orders 
+updating pos: SLV 11-25 10:01:1.872 pos:782 cost:28.64
+11-25 10:01:1.877 *tradeReport* time: 2024-11-25T10:01:01 BOT execPx:27.57 shares:241 avgPx:27.57
+11-25 10:01:1.881 *openOrder* status:Filled 241125515 BUY 241@27.57
+11-25 10:01:1.883 *openOrder*:removing order.Status:Filled 241125515 BUY 241@27.57
+11-25 10:01:1.884 *openOrder*:after removal.OpenOrders: [241125516]
+11-25 10:01:1.884 *openOrder* all live orders [241125516 BUY 241@27.2]
+11-25 10:01:1.885 *OrderStatus*:Filled orderId:241125515 filled:241 remaining:0 avgFillPx:27.57 lastFillPx:27.57
+11-25 10:01:1.885 *openOrder* status:Filled 241125515 BUY 241@27.57
+11-25 10:01:1.885 *openOrder*:removing order.Status:Filled 241125515 BUY 241@27.57
+11-25 10:01:1.886 *openOrder*:after removal.OpenOrders: [241125516]
+11-25 10:01:1.886 *openOrder* all live orders [241125516 BUY 241@27.2]
+11-25 10:01:1.887 *OrderStatus*:Filled orderId:241125515 filled:241 remaining:0 avgFillPx:27.57 lastFillPx:27.57
+1.*commission report*:241125515 commission:0.52 
+2.*commission report* orderID:241125515 commission: 0.52 
+updating pos: SLV 11-25 10:01:1.888 pos:782 cost:28.64
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:02.420 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:04.928 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:13.599 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:22.122 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:25.151 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:28.164 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:32.977 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:42.478 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:43.229 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:47.713 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:50.470 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:01:54.933 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:04.519 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:07.487 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:19.162 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:20.571 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:22.643 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:26.637 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:28.173 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:37.186 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:41.352 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:46.109 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:54.662 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:56.743 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:02:59.170 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:11.592 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:15.178 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:17.088 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:19.341 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:20.194 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:21.936 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:25.416 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:26.102 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:26.853 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:42.627 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:45.530 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:51.540 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:52.293 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:54.041 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:03:55.626 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:01.302 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:03.002 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:05.866 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:07.712 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:08.389 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:09.254 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:13.394 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:14.145 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:15.899 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:18.404 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:30.955 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:38.687 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:39.435 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:40.275 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:40.937 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:41.709 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:43.961 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:04:47.699 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:00.040 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:02.972 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:09.734 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:10.588 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:13.557 no blocking orders 
+updating pos: SLV 11-25 10:05:18.107 pos:782 cost:28.64
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:23.591 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:26.765 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:31.263 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:33.558 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:39.775 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:40.526 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:42.531 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:52.572 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:05:53.908 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:10:38.074 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:10:48.493 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:10:49.338 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:11:31.414 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:11:45.331 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:11:46.639 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:11:54.003 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:00.264 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:01.329 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:02.016 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:04.771 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:07.885 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:08.600 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:19.291 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:23.296 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:24.549 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:27.496 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:40.016 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:54.270 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:12:55.091 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:00.623 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:01.338 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:02.026 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:03.026 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:03.795 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:07.034 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:07.893 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:15.878 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:40.327 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:43.331 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:44.081 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:46.333 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:48.945 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:52.093 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:13:54.173 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:14:06.614 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:14:08.366 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:14:14.135 no blocking orders 
+*Periodic Run* 11-25 10:20:18.071 last live feed time: 11-25 10:20 been:0min p:27.6 cost:28.6 p/cost:0.964
+p:27.6 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:724 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.972
+11-25 10:20:18.073 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 10:20:18.073 *chek openOrders*: [241125516]
+11-25 10:20:18.073 27.6 2dP:6.0 1dP:32.0
+2d$:n:841 max:28.5 [11-22 10:42] min:27.5 [11-25 10:03] rng:3.7% 1Key:[11-21 9:30] last:[11-25 10:20]
+1d$:n:61 max:27.7 [11-25 9:29] min:27.5 [11-25 10:03] rng:0.7% 1Key:[11-25 9:20] last:[11-25 10:20]
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:48:19.865 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:48:23.601 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:48:29.861 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:48:33.746 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:18.233 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:26.903 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:32.263 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:33.696 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:36.235 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:36.986 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:37.792 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:51.007 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:52.340 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:57.516 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:58.375 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:49:59.017 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:02.061 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:03.605 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:05.025 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:05.851 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:09.532 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:11.381 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:16.400 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:33.666 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:34.523 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:35.241 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:42.867 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:47.836 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:50.983 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:52.549 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:56.755 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:58.589 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:50:59.505 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:51:03.094 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:51:10.366 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:51:24.695 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:51:25.946 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:51:37.880 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:00.388 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:01.465 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:03.142 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:27.810 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:37.409 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:42.221 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:44.425 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:52:45.837 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:05.058 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:07.310 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:09.236 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:13.494 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:16.498 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:17.249 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:25.341 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:26.665 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:53:40.530 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:00.158 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:04.453 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:14.494 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:15.204 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:20.939 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:24.159 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:24.933 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:35.112 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:38.450 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:43.780 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:45.619 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:46.336 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:54.121 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:54:55.546 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:05.485 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:06.146 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:08.400 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:17.571 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:23.888 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:25.453 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:29.396 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:35.489 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:36.159 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:36.910 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:39.291 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:49.161 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:55.919 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:55:56.686 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:01.178 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:05.182 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:13.688 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:16.890 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:19.145 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:19.895 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:33.422 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:37.751 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:39.590 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:44.072 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:50.834 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:51.585 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:52.395 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:53.087 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:56:59.153 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:04.352 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:05.400 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:08.581 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:09.257 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:11.260 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:12.011 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:12.763 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:13.592 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:15.766 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:19.272 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:34.380 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:37.296 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:38.047 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:57:38.799 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:00.391 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:05.101 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:08.896 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:10.684 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:19.819 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:23.816 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:25.814 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:37.818 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:40.571 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:49.924 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:53.566 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:56.319 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:58:57.903 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:01.896 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:13.876 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:21.386 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:26.893 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:36.001 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:38.409 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:42.291 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:43.849 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:53.199 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:53.858 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T10:59:54.632 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:00.628 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:08.968 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:12.635 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:14.640 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:15.391 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:16.367 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:17.161 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:38.432 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:45.191 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:46.445 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:00:51.236 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:01:00.249 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:01:11.025 no blocking orders 
+*Periodic Run* 11-25 11:20:18.058 last live feed time: 11-25 11:19 been:0min p:27.5 cost:28.6 p/cost:0.96
+p:27.5 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:727 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.976
+11-25 11:20:18.060 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 11:20:18.060 *chek openOrders*: [241125516]
+11-25 11:20:18.061 27.5 2dP:6.0 1dP:21.0
+2d$:n:900 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.0% 1Key:[11-21 9:30] last:[11-25 11:19]
+1d$:n:120 max:27.7 [11-25 9:29] min:27.4 [11-25 10:57] rng:1.1% 1Key:[11-25 9:20] last:[11-25 11:19]
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:24:40.129 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:24:45.231 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:24:46.732 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:24:47.984 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:24:52.774 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:00.415 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:02.360 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:08.401 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:09.594 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:12.357 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:14.612 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:20.893 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:21.638 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:22.437 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:27.881 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:29.919 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:31.954 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:37.281 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:40.555 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:41.474 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:43.322 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:51.250 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:53.274 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T11:25:56.019 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:16:28.204 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:06.306 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:12.042 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:13.211 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:23.881 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:25.626 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:30.821 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:34.326 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:35.077 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:45.937 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:18:49.117 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:19:04.844 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:19:06.096 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:19:06.846 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:19:32.161 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:19:34.661 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:19:48.917 no blocking orders 
+*Periodic Run* 11-25 12:20:18.170 last live feed time: 11-25 12:20 been:0min p:27.45 cost:28.6 p/cost:0.959
+p:27.45 rng:1.8% pos:782 delt:21k cost:28.6 fullLot:728 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.978
+11-25 12:20:18.171 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 12:20:18.171 *chek openOrders*: [241125516]
+11-25 12:20:18.171 27.45 2dP:1.0 1dP:5.0
+2d$:n:961 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.0% 1Key:[11-21 9:30] last:[11-25 12:20]
+1d$:n:181 max:27.7 [11-25 9:29] min:27.4 [11-25 10:57] rng:1.1% 1Key:[11-25 9:20] last:[11-25 12:20]
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:20:18.256 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:20:22.093 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:20:24.264 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:20:25.064 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:20:27.267 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:20:59.946 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:21:04.796 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:21:19.592 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:21:25.688 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:22:25.081 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:22:59.079 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:23:01.640 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:23:13.928 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:23:23.146 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:23:54.280 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:23:57.694 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:24:03.351 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:24:10.967 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:24:31.858 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:24:34.930 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:24:55.999 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:26:14.672 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:26:15.491 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:26:25.525 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:26:32.797 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:27:32.403 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:27:45.505 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:27:55.415 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:23.673 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:26.928 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:32.687 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:35.442 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:36.604 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:37.320 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:43.320 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:28:44.900 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:29:08.762 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:29:24.938 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:29:26.986 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:29:32.352 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:29:45.106 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:29:55.454 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:05.534 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:06.274 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:26.861 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:29.116 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:32.370 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:40.205 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:30:40.862 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:31:04.651 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:31:22.190 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:31:31.919 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:34:20.407 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:34:28.567 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:34:33.585 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:35:06.986 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:35:11.244 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:35:14.748 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:35:47.803 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:35:54.380 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:37:47.640 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:38:39.729 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:39:23.899 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:39:34.618 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:39:37.928 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:39:46.223 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:39:50.159 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:40:06.501 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:41:10.092 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:42:21.618 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:42:28.379 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:42:50.449 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:43:40.188 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:43:45.594 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:43:48.772 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:44:49.985 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:45:47.926 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:45:50.336 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:46:13.873 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:46:16.126 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:46:46.621 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:46:47.373 no blocking orders 
+no blocking buy orders: All submitted orders {241125515=SLV 11-25 9:37 ADDER Filled, 241125516=SLV 11-25 9:37 ADDER Submitted}
+no blocking buy orders: Active orders: [241125516=SLV 11-25 9:37 ADDER Submitted]
+active orders grouped by buysell: {BUY=[241125516]}
+2024-11-25T12:46:48.374 no blocking orders 
+*Periodic Run* 11-25 13:20:17.983 last live feed time: 11-25 13:20 been:0min p:27.5 cost:28.6 p/cost:0.96
+p:27.5 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:727 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.976
+11-25 13:20:17.985 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 13:20:17.990 *chek openOrders*: [241125516]
+11-25 13:20:17.990 27.5 2dP:7.0 1dP:25.0
+2d$:n:1018 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-21 9:30] last:[11-25 13:20]
+1d$:n:238 max:27.7 [11-25 9:29] min:27.4 [11-25 10:57] rng:1.2% 1Key:[11-25 9:20] last:[11-25 13:20]
+*Periodic Run* 11-25 14:20:17.803 last live feed time: 11-25 14:18 been:1min p:27.62 cost:28.6 p/cost:0.964
+p:27.62 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:724 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.971
+11-25 14:20:17.803 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 14:20:17.804 *chek openOrders*: [241125516]
+11-25 14:20:17.804 27.62 2dP:18.0 1dP:63.0
+2d$:n:1074 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-21 9:30] last:[11-25 14:18]
+1d$:n:294 max:27.7 [11-25 9:29] min:27.4 [11-25 10:57] rng:1.2% 1Key:[11-25 9:20] last:[11-25 14:18]
+*Periodic Run* 11-25 15:20:17.855 last live feed time: 11-25 15:20 been:0min p:27.66 cost:28.6 p/cost:0.966
+p:27.66 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:723 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.97
+11-25 15:20:17.856 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 15:20:17.857 *chek openOrders*: [241125516]
+11-25 15:20:17.857 27.66 2dP:21.0 1dP:76.0
+2d$:n:1132 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-21 9:30] last:[11-25 15:20]
+1d$:n:352 max:27.7 [11-25 9:29] min:27.4 [11-25 10:57] rng:1.2% 1Key:[11-25 9:20] last:[11-25 15:20]
+*Periodic Run* 11-25 16:20:17.476 last live feed time: 11-25 16:19 been:0min p:27.64 cost:28.6 p/cost:0.965
+p:27.64 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:723 refillP:26.83 costTgt:0.98 refillP/cost:0.937 refillP/px:0.971
+11-25 16:20:17.477 *chek orderStatus [241125515=Filled, 241125516=Submitted]
+11-25 16:20:17.477 *chek openOrders*: [241125516]
+11-25 16:20:17.477 27.64 2dP:20.0 1dP:69.0
+2d$:n:1175 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-21 9:30] last:[11-25 16:19]
+1d$:n:395 max:27.7 [11-25 9:29] min:27.4 [11-25 10:57] rng:1.2% 1Key:[11-25 9:20] last:[11-25 16:19]
+*******************************************
+*STARTS* 11-26 9:02:19.633
+updating pos: SLV 11-26 9:02:22.272 pos:782 cost:28.64
+POS:782 COST:28.6 DELT:22k
+*Periodic Run* 11-26 9:02:39.949 last live feed time: 11-26 9:02 been:0min p:27.83 cost:28.6 p/cost:0.972
+p:27.83 rng:0.0% pos:782 delt:22k cost:28.6 fullLot:718 refillP:26.82 costTgt:0.98 refillP/cost:0.936 refillP/px:0.964
+11-26 9:02:39.951 27.83 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+11-26 9:03:23.420 rng:1.8% costTgt:0.98
+11-26 9:03:23.422 tgtMargin:1.0145 tgtPrice:29.05
+ytdReturn:26.86%
+09:40:41.849900 no blocking orders,empty
+09:40:42.600444 no blocking orders,empty
+09:40:44.603329 no blocking orders,empty
+09:40:47.106198 no blocking orders,empty
+09:40:47.858373 no blocking orders,empty
+09:40:50.862546 no blocking orders,empty
+09:40:52.616137 no blocking orders,empty
+09:40:54.117166 no blocking orders,empty
+09:40:56.372199 no blocking orders,empty
+09:40:57.122433 no blocking orders,empty
+09:40:57.954609 no blocking orders,empty
+09:41:00.377020 no blocking orders,empty
+09:41:01.127015 no blocking orders,empty
+09:41:01.953988 no blocking orders,empty
+09:41:03.483776 no blocking orders,empty
+09:41:04.917108 no blocking orders,empty
+09:41:06.146004 no blocking orders,empty
+09:41:06.888115 no blocking orders,empty
+09:41:11.896575 no blocking orders,empty
+09:41:13.398011 no blocking orders,empty
+09:41:23.247777 no blocking orders,empty
+09:41:27.671269 no blocking orders,empty
+09:41:31.747380 no blocking orders,empty
+09:41:33.693021 no blocking orders,empty
+09:41:43.946335 no blocking orders,empty
+09:41:46.951307 no blocking orders,empty
+09:41:49.769754 no blocking orders,empty
+09:41:51.458096 no blocking orders,empty
+09:41:54.717586 no blocking orders,empty
+09:42:01.224286 no blocking orders,empty
+09:42:04.482710 no blocking orders,empty
+09:42:05.232496 no blocking orders,empty
+09:42:08.736671 no blocking orders,empty
+09:42:11.741563 no blocking orders,empty
+09:42:19.241300 no blocking orders,empty
+09:42:23.492729 no blocking orders,empty
+09:42:27.841349 no blocking orders,empty
+09:42:29.999088 no blocking orders,empty
+09:42:43.605278 no blocking orders,empty
+09:42:44.267404 no blocking orders,empty
+09:42:49.850999 no blocking orders,empty
+09:42:57.036380 no blocking orders,empty
+09:43:03.548373 no blocking orders,empty
+09:43:11.866794 no blocking orders,empty
+09:43:13.065095 no blocking orders,empty
+09:43:19.075120 no blocking orders,empty
+09:43:19.827319 no blocking orders,empty
+*Periodic Run* 11-26 10:02:39.898 last live feed time: 11-26 10:02 been:0min p:27.7 cost:28.6 p/cost:0.967
+p:27.7 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:722 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.968
+11-26 10:02:39.899 27.7 2dP:25.0 1dP:35.0
+2d$:n:831 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 10:02]
+1d$:n:51 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 10:02]
+*Periodic Run* 11-26 11:02:39.890 last live feed time: 11-26 11:02 been:0min p:27.76 cost:28.6 p/cost:0.969
+p:27.76 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:720 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.966
+11-26 11:02:39.891 27.76 2dP:30.0 1dP:63.0
+2d$:n:890 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 11:02]
+1d$:n:110 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 11:02]
+*Periodic Run* 11-26 12:02:39.922 last live feed time: 11-26 12:01 been:0min p:27.78 cost:28.6 p/cost:0.97
+p:27.78 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:719 refillP:26.82 costTgt:0.98 refillP/cost:0.936 refillP/px:0.965
+11-26 12:02:39.923 27.78 2dP:32.0 1dP:72.0
+2d$:n:946 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 12:01]
+1d$:n:166 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 12:01]
+*Periodic Run* 11-26 13:02:39.946 last live feed time: 11-26 13:02 been:0min p:27.75 cost:28.6 p/cost:0.969
+p:27.75 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:720 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.967
+11-26 13:02:39.948 27.75 2dP:29.0 1dP:58.0
+2d$:n:1000 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 13:02]
+1d$:n:220 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 13:02]
+13:35:00.965221 no blocking orders,empty
+13:35:59.172361 no blocking orders,empty
+13:36:15.719981 no blocking orders,empty
+13:36:24.526361 no blocking orders,empty
+13:36:54.018071 no blocking orders,empty
+13:36:59.343009 no blocking orders,empty
+13:37:05.520589 no blocking orders,empty
+13:37:10.607608 no blocking orders,empty
+13:38:19.880853 no blocking orders,empty
+13:38:28.391134 no blocking orders,empty
+13:38:30.393594 no blocking orders,empty
+13:39:22.810865 no blocking orders,empty
+13:40:57.850523 no blocking orders,empty
+*Periodic Run* 11-26 14:02:39.893 last live feed time: 11-26 14:02 been:0min p:27.7 cost:28.6 p/cost:0.967
+p:27.7 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:722 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.968
+11-26 14:02:39.895 27.7 2dP:25.0 1dP:38.0
+2d$:n:1057 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 14:02]
+1d$:n:277 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 14:02]
+*Periodic Run* 11-26 15:02:39.675 last live feed time: 11-26 15:02 been:0min p:27.78 cost:28.6 p/cost:0.97
+p:27.78 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:719 refillP:26.82 costTgt:0.98 refillP/cost:0.936 refillP/px:0.965
+11-26 15:02:39.676 27.78 2dP:32.0 1dP:74.0
+2d$:n:1113 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 15:02]
+1d$:n:333 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 15:02]
+*Periodic Run* 11-26 16:02:39.891 last live feed time: 11-26 16:02 been:0min p:27.79 cost:28.6 p/cost:0.97
+p:27.79 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:719 refillP:26.82 costTgt:0.98 refillP/cost:0.936 refillP/px:0.965
+11-26 16:02:39.892 27.79 2dP:33.0 1dP:78.0
+2d$:n:1169 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 16:02]
+1d$:n:389 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 16:02]
+*Periodic Run* 11-26 17:02:39.994 last live feed time: 11-26 16:57 been:5min p:27.75 cost:28.6 p/cost:0.969
+p:27.75 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:720 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.967
+11-26 17:02:39.996 27.75 2dP:29.0 1dP:60.0
+2d$:n:1185 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 16:57]
+1d$:n:405 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 16:57]
+*Periodic Run* 11-26 18:02:39.985 last live feed time: 11-26 17:47 been:15min p:27.74 cost:28.6 p/cost:0.969
+p:27.74 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:720 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.967
+11-26 18:02:39.986 27.74 2dP:29.0 1dP:56.0
+2d$:n:1188 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 17:47]
+1d$:n:408 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 17:47]
+*Periodic Run* 11-26 19:02:40.206 last live feed time: 11-26 17:47 been:75min p:27.74 cost:28.6 p/cost:0.969
+p:27.74 rng:1.8% pos:782 delt:22k cost:28.6 fullLot:720 refillP:26.82 costTgt:0.98 refillP/cost:0.937 refillP/px:0.967
+11-26 19:02:40.207 27.74 2dP:29.0 1dP:56.0
+2d$:n:1188 max:28.5 [11-22 10:42] min:27.4 [11-25 10:57] rng:4.1% 1Key:[11-22 9:30] last:[11-26 17:47]
+1d$:n:408 max:27.8 [11-26 9:26] min:27.6 [11-26 9:41] rng:0.8% 1Key:[11-26 9:02] last:[11-26 17:47]
