@@ -21482,3 +21482,23 @@ commission report issue tradekey:00012e17.6745c5bc.01 report:ID:00012e17.6745c5b
 *openOrder* Error 11-26 14:31:2.968 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 11-26 14:31:4.257 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 *openOrder* Error 11-26 18:00:0.309 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 22:18:03 EST: 11-27 9:18:3.206
+*openOrder* Error 11-27 9:18:14.953 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 11-27 9:24:54.089 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 11-27 9:26:14.939 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 11-27 9:30:0.532 orderId:241127003 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:0.603 orderId:241127004 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:0.703 orderId:241127005 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:0.803 orderId:241127006 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:0.915 orderId:241127007 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:1.003 orderId:241127008 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:1.176 orderId:241127011 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:1.177 orderId:241127012 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:30:1.274 orderId:241127013 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:33:43.298 orderId:241127245 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:33:43.300 orderId:241127246 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 9:33:43.300 orderId:241127247 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 12:08:43.755 orderId:241133434 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 12:08:43.854 orderId:241133435 errorCode:103 msg:Duplicate order id
+*openOrder* Error 11-27 14:22:32.425 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 11-27 14:22:33.604 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
