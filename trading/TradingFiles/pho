@@ -1970,3 +1970,1379 @@ p:71.54 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98
 11-27 17:18:22.795 71.54 2dP:26.0 1dP:5.0
 2d$:n:872 max:72.3 [11-25 14:16] min:71.3 [11-26 10:11] rng:1.3% 1Key:[11-25 9:30] last:[11-27 16:00]
 1d$:n:92 max:72.0 [11-27 9:43] min:71.5 [11-27 14:34] rng:0.7% 1Key:[11-27 9:30] last:[11-27 16:00]
+*******************************************
+*STARTS* 11-29 8:34:37.133
+updating pos: PHO 11-29 8:34:39.449 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+*Periodic Run* 11-29 8:34:57.444 8:34:57 no live feed
+11-29 8:34:57.445 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+11-29 8:35:38.360 rng:1.1% costTgt:0.98
+11-29 8:35:38.361 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:17.92%
+******************CUT**************************
+CUT 11-29 9:32:27 1dP:100.0 2dp:71.0 px72.01 cost:70.71814855 px/Cost:1.0183 reqMargin:1.01 rng:0.011
+0:241129167 PHO SELL 11 @72.15 9:32
+0: SELL PHO 11-29 9:32 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:72.01
+1:241129168 PHO SELL 11 @72.73 9:32
+1: SELL PHO 11-29 9:32 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:72.01
+2:241129169 PHO SELL 13 @73.45 9:32
+2: SELL PHO 11-29 9:32 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:72.01
+2D$:n:782 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 9:32]
+1D$:n<5
+*Periodic Run* 11-29 9:34:57.463 last live feed time: 11-29 9:32 been:2min p:72.01 cost:70.7 p/cost:1.018
+p:72.01 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.957
+11-29 9:34:57.463 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 9:34:57.464 72.01 2dP:94.0 1dP:100.0
+2d$:n:782 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 9:32]
+1d$:n<5
+*Periodic Run* 11-29 10:34:57.397 last live feed time: 11-29 10:28 been:6min p:71.85 cost:70.7 p/cost:1.016
+p:71.85 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.96
+11-29 10:34:57.398 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 10:34:57.398 71.85 2dP:73.0 1dP:68.0
+2d$:n:799 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 10:28]
+1d$:n:19 max:71.9 [11-29 9:32] min:71.8 [11-29 10:13] rng:0.2% 1Key:[11-29 9:30] last:[11-29 10:28]
+*Periodic Run* 11-29 11:34:57.433 last live feed time: 11-29 11:31 been:3min p:71.86 cost:70.7 p/cost:1.016
+p:71.86 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.959
+11-29 11:34:57.434 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 11:34:57.435 71.86 2dP:74.0 1dP:66.0
+2d$:n:819 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 11:31]
+1d$:n:39 max:71.9 [11-29 9:32] min:71.7 [11-29 10:13] rng:0.2% 1Key:[11-29 9:30] last:[11-29 11:31]
+*Periodic Run* 11-29 12:34:57.545 last live feed time: 11-29 12:30 been:4min p:71.93 cost:70.7 p/cost:1.017
+p:71.93 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.959
+11-29 12:34:57.546 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 12:34:57.546 71.93 2dP:83.0 1dP:100.0
+2d$:n:832 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 12:30]
+1d$:n:52 max:71.9 [11-29 9:32] min:71.7 [11-29 10:13] rng:0.2% 1Key:[11-29 9:30] last:[11-29 12:30]
+*Periodic Run* 11-29 13:34:57.405 last live feed time: 11-29 12:59 been:34min p:71.76 cost:70.7 p/cost:1.015
+p:71.76 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.961
+11-29 13:34:57.406 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 13:34:57.406 71.76 2dP:61.0 1dP:8.0
+2d$:n:840 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 12:59]
+1d$:n:60 max:72.0 [11-29 9:32] min:71.7 [11-29 10:13] rng:0.3% 1Key:[11-29 9:30] last:[11-29 12:59]
+*Periodic Run* 11-29 14:34:57.493 last live feed time: 11-29 12:59 been:94min p:71.76 cost:70.7 p/cost:1.015
+p:71.76 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.961
+11-29 14:34:57.495 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 14:34:57.496 71.76 2dP:61.0 1dP:8.0
+2d$:n:840 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 12:59]
+1d$:n:60 max:72.0 [11-29 9:32] min:71.7 [11-29 10:13] rng:0.3% 1Key:[11-29 9:30] last:[11-29 12:59]
+*Periodic Run* 11-29 15:34:57.521 last live feed time: 11-29 12:59 been:154min p:71.76 cost:70.7 p/cost:1.015
+p:71.76 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.961
+11-29 15:34:57.522 *chek orderStatus [241129167=Created, 241129168=Created, 241129169=Created]
+11-29 15:34:57.523 71.76 2dP:61.0 1dP:8.0
+2d$:n:840 max:72.1 [11-27 9:43] min:71.3 [11-26 10:11] rng:1.1% 1Key:[11-26 9:30] last:[11-29 12:59]
+1d$:n:60 max:72.0 [11-29 9:32] min:71.7 [11-29 10:13] rng:0.3% 1Key:[11-29 9:30] last:[11-29 12:59]
+*******************************************
+*STARTS* 12-2 8:34:44.149
+updating pos: PHO 12-2 8:34:46.465 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+*Periodic Run* 12-2 8:35:4.469 8:35:04 no live feed
+12-2 8:35:4.469 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-2 8:35:53.902 rng:1.1% costTgt:0.98
+12-2 8:35:53.904 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:18.28%
+updating pos: PHO 12-2 8:38:1.391 pos:35 cost:70.72
+updating pos: PHO 12-2 8:42:55.906 pos:35 cost:70.72
+updating pos: PHO 12-2 8:47:59.487 pos:35 cost:70.72
+updating pos: PHO 12-2 8:52:54.132 pos:35 cost:70.72
+updating pos: PHO 12-2 8:58:3.345 pos:35 cost:70.72
+updating pos: PHO 12-2 9:03:6.545 pos:35 cost:70.72
+updating pos: PHO 12-2 9:07:57.217 pos:35 cost:70.72
+updating pos: PHO 12-2 9:13:1.398 pos:35 cost:70.72
+updating pos: PHO 12-2 9:18:1.033 pos:35 cost:70.72
+updating pos: PHO 12-2 9:22:57.074 pos:35 cost:70.72
+updating pos: PHO 12-2 9:27:43.634 pos:35 cost:70.72
+******************CUT**************************
+CUT 12-2 9:30:01 1dP:100.0 2dp:63.0 px71.91 cost:70.71814855 px/Cost:1.0169 reqMargin:1.01 rng:0.011
+0:241202004 PHO SELL 11 @72.05 9:30
+0: SELL PHO 12-2 9:30 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:71.91
+1:241202005 PHO SELL 11 @72.63 9:30
+1: SELL PHO 12-2 9:30 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:71.91
+2:241202006 PHO SELL 13 @73.35 9:30
+2: SELL PHO 12-2 9:30 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:71.91
+2D$:n:601 max:72.1 [11-27 9:43] min:71.5 [11-27 14:34] rng:0.8% 1Key:[11-27 9:30] last:[12-2 9:30]
+1D$:n<5
+12-2 9:30:4.654 *openOrder* status:PreSubmitted 241202005 SELL 11@72.63
+12-2 9:30:4.655 *openOrder* all live orders [241202005 SELL 11@72.63]
+12-2 9:30:4.656 *OrderStatus*:PreSubmitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:30:4.707 *openOrder* status:PreSubmitted 241202004 SELL 11@72.05
+12-2 9:30:4.708 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63]
+12-2 9:30:4.713 *OrderStatus*:PreSubmitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:30:4.716 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:30:4.717 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:30:4.718 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:30:4.923 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:30:4.924 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:30:4.925 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:30:5.172 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:30:5.173 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:30:5.174 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:33:0.130 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:33:0.131 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:33:0.132 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:33:0.133 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:33:0.134 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:33:0.134 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:33:0.137 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:33:0.137 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:33:0.138 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 9:33:0.151 pos:35 cost:70.72
+*Periodic Run* 12-2 9:35:4.435 last live feed time: 12-2 9:35 been:0min p:71.6 cost:70.7 p/cost:1.012
+p:71.6 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 9:35:4.436 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 9:35:4.436 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 9:35:4.437 71.6 2dP:16.0 1dP:100.0
+2d$:n:604 max:72.1 [11-27 9:43] min:71.5 [11-27 14:34] rng:0.8% 1Key:[11-27 9:30] last:[12-2 9:35]
+1d$:n<5
+12-2 9:37:58.374 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:37:58.375 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:37:58.376 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:37:58.380 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:37:58.380 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:37:58.381 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:37:58.383 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:37:58.384 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:37:58.385 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 9:37:59.693 pos:35 cost:70.72
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+12-2 9:42:56.232 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:42:56.235 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:42:56.235 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:42:56.236 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:42:56.236 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:42:56.237 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:42:56.242 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:42:56.243 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:42:56.244 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 9:42:56.257 pos:35 cost:70.72
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+12-2 9:47:57.383 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:47:57.384 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:47:57.385 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:47:57.386 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:47:57.387 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:47:57.388 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:47:57.390 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:47:57.391 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:47:57.392 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 9:47:57.408 pos:35 cost:70.72
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+12-2 9:52:52.601 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:52:52.603 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:52:52.603 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:52:52.604 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:52:52.604 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:52:52.605 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:52:52.605 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:52:52.606 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:52:52.606 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 9:52:52.623 pos:35 cost:70.72
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+12-2 9:57:45.098 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 9:57:45.099 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:57:45.099 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:57:45.102 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 9:57:45.103 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:57:45.105 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 9:57:45.108 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 9:57:45.108 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 9:57:45.109 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 9:57:45.125 pos:35 cost:70.72
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+12-2 10:03:1.935 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:03:1.935 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:03:1.936 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:03:1.938 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:03:1.939 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:03:1.940 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:03:1.941 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:03:1.942 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:03:1.943 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:03:1.954 pos:35 cost:70.72
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+12-2 10:08:4.515 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:08:4.516 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:08:4.516 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:08:5.216 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:08:5.216 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:08:5.217 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:08:5.220 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:08:5.221 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:08:5.222 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:08:5.234 pos:35 cost:70.72
+12-2 10:13:1.487 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:13:1.487 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:13:1.488 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:13:1.492 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:13:1.493 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:13:1.494 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:13:1.495 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:13:1.495 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:13:1.496 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:13:1.508 pos:35 cost:70.72
+updating pos: PHO 12-2 10:17:58.509 pos:35 cost:70.72
+12-2 10:17:58.528 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:17:58.529 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:17:58.530 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:17:58.531 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:17:58.531 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:17:58.532 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:17:58.536 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:17:58.536 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:17:58.537 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted}
+no blocking buy orders: Active orders: [241202004=PHO 12-2 9:30 CUTTER Submitted, 241202005=PHO 12-2 9:30 CUTTER Submitted, 241202006=PHO 12-2 9:30 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[241202004, 241202005, 241202006]}
+updating pos: PHO 12-2 10:22:53.886 pos:35 cost:70.72
+12-2 10:22:53.899 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:22:53.899 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:22:53.900 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:22:53.902 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:22:53.903 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:22:53.904 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:22:53.906 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:22:53.907 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:22:53.908 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:27:41.650 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:27:41.651 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:27:41.652 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:27:41.655 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:27:41.655 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:27:41.656 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:27:41.658 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:27:41.659 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:27:41.659 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:27:41.671 pos:35 cost:70.72
+12-2 10:33:3.024 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:33:3.024 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:33:3.025 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:33:3.026 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:33:3.027 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:33:3.028 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:33:3.029 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:33:3.032 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:33:3.033 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:33:3.712 pos:35 cost:70.72
+*Periodic Run* 12-2 10:35:4.479 last live feed time: 12-2 10:24 been:11min p:71.31 cost:70.7 p/cost:1.008
+p:71.31 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:280 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.967
+12-2 10:35:4.480 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 10:35:4.480 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 10:35:4.480 71.31 2dP:12.0 1dP:26.0
+2d$:n:619 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 10:24]
+1d$:n:19 max:71.6 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.6% 1Key:[12-2 9:30] last:[12-2 10:24]
+updating pos: PHO 12-2 10:37:59.428 pos:35 cost:70.72
+12-2 10:38:0.094 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:38:0.095 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:38:0.095 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:38:0.097 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:38:0.098 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:38:0.098 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:38:0.102 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:38:0.102 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:38:0.103 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:42:57.987 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:42:57.987 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:42:57.988 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:42:57.990 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:42:57.991 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:42:57.991 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:42:57.994 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:42:57.995 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:42:57.996 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:42:58.004 pos:35 cost:70.72
+12-2 10:48:1.259 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:48:1.260 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:48:1.261 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:48:1.264 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:48:1.265 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:48:1.266 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:48:1.271 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:48:1.272 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:48:1.275 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:48:1.285 pos:35 cost:70.72
+12-2 10:52:55.147 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:52:55.148 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:52:55.148 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:52:55.152 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:52:55.152 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:52:55.153 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:52:55.157 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:52:55.158 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:52:55.159 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:52:55.168 pos:35 cost:70.72
+12-2 10:57:47.309 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 10:57:47.309 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:57:47.311 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:57:47.315 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 10:57:47.316 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:57:47.316 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 10:57:47.321 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 10:57:47.323 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 10:57:47.323 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 10:57:47.342 pos:35 cost:70.72
+12-2 11:03:0.588 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:03:0.589 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:03:0.590 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:03:0.592 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:03:0.593 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:03:0.593 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:03:0.594 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:03:0.595 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:03:0.595 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:03:0.603 pos:35 cost:70.72
+12-2 11:08:2.598 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:08:2.599 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:08:2.600 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:08:2.602 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:08:2.602 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:08:2.603 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:08:2.605 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:08:2.606 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:08:2.606 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:08:2.615 pos:35 cost:70.72
+updating pos: PHO 12-2 11:12:57.701 pos:35 cost:70.72
+12-2 11:12:57.713 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:12:57.714 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:12:57.714 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:12:57.716 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:12:57.717 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:12:57.718 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:12:57.720 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:12:57.720 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:12:57.721 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:17:58.067 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:17:58.068 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:17:58.068 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:17:58.069 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:17:58.070 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:17:58.071 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:17:58.073 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:17:58.073 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:17:58.074 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:17:58.393 pos:35 cost:70.72
+12-2 11:22:50.229 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:22:50.230 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:22:50.230 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:22:50.232 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:22:50.232 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:22:50.233 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:22:50.234 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:22:50.234 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:22:50.235 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:22:50.245 pos:35 cost:70.72
+12-2 11:28:0.716 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:28:0.717 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:28:0.718 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:28:0.718 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:28:0.719 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:28:0.720 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:28:0.722 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:28:0.723 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:28:0.727 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:28:0.742 pos:35 cost:70.72
+12-2 11:33:1.494 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:33:1.495 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:33:1.496 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:33:1.497 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:33:1.498 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:33:1.498 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:33:1.499 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:33:1.500 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:33:1.501 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:33:1.511 pos:35 cost:70.72
+*Periodic Run* 12-2 11:35:4.589 last live feed time: 12-2 11:34 been:0min p:71.52 cost:70.7 p/cost:1.011
+p:71.52 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.964
+12-2 11:35:4.590 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 11:35:4.590 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 11:35:4.591 71.52 2dP:37.0 1dP:79.0
+2d$:n:636 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 11:34]
+1d$:n:36 max:71.6 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.6% 1Key:[12-2 9:30] last:[12-2 11:34]
+12-2 11:38:1.982 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:38:1.986 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:38:1.988 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:38:1.990 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:38:1.991 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:38:1.992 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:38:1.993 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:38:1.993 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:38:1.994 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:38:2.006 pos:35 cost:70.72
+12-2 11:42:58.299 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:42:58.300 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:42:58.302 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:42:58.304 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:42:58.305 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:42:58.306 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:42:58.308 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:42:58.309 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:42:58.310 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:42:58.322 pos:35 cost:70.72
+12-2 11:47:58.312 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:47:58.312 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:47:58.313 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:47:58.314 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:47:58.315 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:47:58.316 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:47:58.317 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:47:58.318 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:47:58.318 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:47:58.328 pos:35 cost:70.72
+12-2 11:52:53.452 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:52:53.453 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:52:53.454 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:52:53.456 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:52:53.456 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:52:53.458 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:52:53.460 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:52:53.461 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:52:53.462 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:52:53.472 pos:35 cost:70.72
+12-2 11:58:1.583 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 11:58:1.584 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:58:1.586 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:58:1.587 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 11:58:1.588 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:58:1.589 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 11:58:1.590 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 11:58:1.590 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 11:58:1.591 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 11:58:1.600 pos:35 cost:70.72
+12-2 12:03:1.296 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:03:1.298 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:03:1.300 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:03:1.301 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:03:1.301 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:03:1.302 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:03:1.303 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:03:1.303 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:03:1.304 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:03:1.314 pos:35 cost:70.72
+12-2 12:07:58.708 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:07:58.710 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:07:58.712 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:07:58.713 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:07:58.713 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:07:58.714 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:07:58.716 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:07:58.717 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:07:58.718 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:07:58.728 pos:35 cost:70.72
+12-2 12:13:3.175 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:13:3.176 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:13:3.177 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:13:3.178 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:13:3.178 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:13:3.179 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:13:3.181 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:13:3.182 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:13:3.182 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:13:3.822 pos:35 cost:70.72
+12-2 12:17:58.065 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:17:58.066 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:17:58.066 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:17:58.068 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:17:58.068 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:17:58.069 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:17:58.072 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:17:58.072 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:17:58.074 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:17:58.376 pos:35 cost:70.72
+12-2 12:22:48.481 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:22:48.482 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:22:48.482 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:22:48.485 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:22:48.485 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:22:48.486 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:22:48.491 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:22:48.491 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:22:48.492 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:22:48.505 pos:35 cost:70.72
+12-2 12:28:1.343 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:28:1.347 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:28:1.348 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:28:1.350 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:28:1.351 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:28:1.352 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:28:1.353 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:28:1.353 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:28:1.354 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:28:1.369 pos:35 cost:70.72
+12-2 12:33:1.270 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:33:1.270 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:33:1.271 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:33:1.278 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:33:1.278 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:33:1.279 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:33:1.280 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:33:1.280 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:33:1.281 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:33:1.288 pos:35 cost:70.72
+*Periodic Run* 12-2 12:35:4.271 last live feed time: 12-2 12:31 been:3min p:71.47 cost:70.7 p/cost:1.011
+p:71.47 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.965
+12-2 12:35:4.272 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 12:35:4.272 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 12:35:4.272 71.47 2dP:31.0 1dP:66.0
+2d$:n:653 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 12:31]
+1d$:n:53 max:71.6 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.6% 1Key:[12-2 9:30] last:[12-2 12:31]
+12-2 12:38:0.005 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:38:0.007 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:38:0.008 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:38:0.009 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:38:0.010 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:38:0.011 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:38:0.011 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:38:0.012 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:38:0.012 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:38:0.024 pos:35 cost:70.72
+12-2 12:42:57.764 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:42:57.766 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:42:57.767 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:42:57.767 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:42:57.767 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:42:57.768 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:42:57.770 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:42:57.770 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:42:57.771 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:42:57.783 pos:35 cost:70.72
+updating pos: PHO 12-2 12:47:56.242 pos:35 cost:70.72
+12-2 12:47:56.252 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:47:56.253 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:47:56.254 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:47:56.255 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:47:56.255 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:47:56.256 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:47:56.258 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:47:56.258 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:47:56.259 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:52:48.580 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:52:48.581 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:52:48.582 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:52:48.586 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:52:48.587 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:52:48.587 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:52:48.589 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:52:48.589 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:52:48.590 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 12:52:48.606 pos:35 cost:70.72
+updating pos: PHO 12-2 12:58:0.048 pos:35 cost:70.72
+12-2 12:58:0.085 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 12:58:0.086 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:58:0.089 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:58:0.092 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 12:58:0.093 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:58:0.094 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 12:58:0.096 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 12:58:0.096 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 12:58:0.097 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:02:59.035 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:02:59.035 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:02:59.036 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:02:59.038 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:02:59.039 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:02:59.039 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:02:59.041 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:02:59.041 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:02:59.042 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:02:59.052 pos:35 cost:70.72
+12-2 13:08:0.549 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:08:0.550 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:08:0.550 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:08:0.552 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:08:0.552 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:08:0.553 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:08:0.555 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:08:0.555 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:08:0.556 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:08:0.563 pos:35 cost:70.72
+12-2 13:13:1.482 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:13:1.482 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:13:1.483 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:13:1.484 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:13:1.484 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:13:1.485 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:13:1.486 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:13:1.487 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:13:1.487 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:13:1.499 pos:35 cost:70.72
+12-2 13:17:56.393 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:17:56.394 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:17:56.395 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:17:56.395 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:17:56.396 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:17:56.397 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:17:56.397 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:17:56.398 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:17:56.399 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:17:56.415 pos:35 cost:70.72
+12-2 13:22:47.057 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:22:47.057 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:22:47.058 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:22:47.059 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:22:47.060 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:22:47.061 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:22:47.062 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:22:47.063 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:22:47.063 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:22:47.072 pos:35 cost:70.72
+12-2 13:28:1.233 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:28:1.234 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:28:1.234 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:28:1.235 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:28:1.235 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:28:1.236 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:28:1.237 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:28:1.237 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:28:1.239 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:28:1.250 pos:35 cost:70.72
+12-2 13:32:59.305 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:32:59.306 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:32:59.307 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:32:59.308 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:32:59.308 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:32:59.309 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:32:59.310 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:32:59.311 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:32:59.311 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:32:59.325 pos:35 cost:70.72
+*Periodic Run* 12-2 13:35:4.385 last live feed time: 12-2 13:26 been:8min p:71.54 cost:70.7 p/cost:1.012
+p:71.54 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.964
+12-2 13:35:4.387 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 13:35:4.387 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 13:35:4.387 71.54 2dP:39.0 1dP:80.0
+2d$:n:664 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 13:26]
+1d$:n:64 max:71.6 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.6% 1Key:[12-2 9:30] last:[12-2 13:26]
+12-2 13:37:58.533 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:37:58.534 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:37:58.535 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:37:58.536 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:37:58.537 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:37:58.539 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:37:58.540 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:37:58.541 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:37:58.541 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:37:58.550 pos:35 cost:70.72
+12-2 13:42:57.692 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:42:57.693 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:42:57.694 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:42:57.695 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:42:57.696 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:42:57.697 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:42:57.697 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:42:57.698 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:42:57.698 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:42:57.708 pos:35 cost:70.72
+12-2 13:47:56.599 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:47:56.599 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:47:56.600 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:47:56.601 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:47:56.602 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:47:56.603 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:47:56.604 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:47:56.605 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:47:56.606 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:47:56.617 pos:35 cost:70.72
+12-2 13:52:46.427 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:52:46.427 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:52:46.428 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:52:46.430 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:52:46.431 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:52:46.432 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:52:46.436 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:52:46.437 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:52:46.439 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:52:46.455 pos:35 cost:70.72
+12-2 13:58:0.461 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 13:58:0.462 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:58:0.463 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:58:0.464 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 13:58:0.464 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:58:0.465 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 13:58:0.466 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 13:58:0.467 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 13:58:0.467 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 13:58:0.478 pos:35 cost:70.72
+12-2 14:02:59.602 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:02:59.604 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:02:59.604 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:02:59.605 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:02:59.605 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:02:59.606 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:02:59.606 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:02:59.607 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:02:59.608 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:02:59.624 pos:35 cost:70.72
+12-2 14:07:58.522 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:07:58.522 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:07:58.523 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:07:58.525 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:07:58.525 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:07:58.526 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:07:58.527 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:07:58.528 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:07:58.529 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:07:58.537 pos:35 cost:70.72
+12-2 14:12:56.553 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:12:56.554 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:12:56.554 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:12:56.555 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:12:56.556 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:12:56.556 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:12:56.557 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:12:56.558 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:12:56.558 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:12:56.567 pos:35 cost:70.72
+12-2 14:17:56.457 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:17:56.458 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:17:56.459 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:17:56.460 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:17:56.460 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:17:56.461 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:17:56.462 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:17:56.462 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:17:56.463 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:17:56.472 pos:35 cost:70.72
+12-2 14:22:44.818 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:22:44.818 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:22:44.819 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:22:44.821 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:22:44.821 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:22:44.822 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:22:44.823 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:22:44.824 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:22:44.826 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:22:44.833 pos:35 cost:70.72
+12-2 14:27:59.713 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:27:59.713 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:27:59.714 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:27:59.715 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:27:59.716 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:27:59.718 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:27:59.719 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:27:59.720 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:27:59.721 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:27:59.728 pos:35 cost:70.72
+12-2 14:32:59.042 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:32:59.043 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:32:59.044 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:32:59.045 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:32:59.046 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:32:59.047 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:32:59.049 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:32:59.049 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:32:59.050 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:32:59.062 pos:35 cost:70.72
+*Periodic Run* 12-2 14:35:4.495 last live feed time: 12-2 14:33 been:1min p:71.6 cost:70.7 p/cost:1.012
+p:71.6 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 14:35:4.496 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 14:35:4.496 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 14:35:4.497 71.6 2dP:46.0 1dP:88.0
+2d$:n:677 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 14:33]
+1d$:n:77 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.6% 1Key:[12-2 9:30] last:[12-2 14:33]
+12-2 14:37:58.474 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:37:58.475 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:37:58.476 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:37:58.477 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:37:58.478 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:37:58.479 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:37:58.481 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:37:58.481 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:37:58.482 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:37:58.493 pos:35 cost:70.72
+12-2 14:42:56.843 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:42:56.844 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:42:56.845 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:42:56.845 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:42:56.846 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:42:56.846 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:42:56.847 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:42:56.848 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:42:56.848 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:42:56.886 pos:35 cost:70.72
+12-2 14:47:55.903 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:47:55.904 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:47:55.905 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:47:55.907 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:47:55.908 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:47:55.908 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:47:55.910 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:47:55.911 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:47:55.912 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:47:55.930 pos:35 cost:70.72
+12-2 14:52:43.240 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:52:43.241 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:52:43.241 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:52:43.242 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:52:43.243 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:52:43.243 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:52:43.244 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:52:43.245 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:52:43.245 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:52:43.254 pos:35 cost:70.72
+12-2 14:57:59.261 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 14:57:59.261 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:57:59.262 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:57:59.264 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 14:57:59.265 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:57:59.265 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 14:57:59.267 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 14:57:59.268 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 14:57:59.268 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 14:57:59.277 pos:35 cost:70.72
+12-2 15:02:58.314 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:02:58.315 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:02:58.316 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:02:58.317 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:02:58.318 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:02:58.318 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:02:58.320 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:02:58.320 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:02:58.322 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:02:58.330 pos:35 cost:70.72
+12-2 15:07:57.622 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:07:57.623 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:07:57.623 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:07:57.624 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:07:57.625 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:07:57.625 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:07:57.627 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:07:57.628 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:07:57.629 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:07:57.639 pos:35 cost:70.72
+12-2 15:12:56.808 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:12:56.809 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:12:56.810 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:12:56.810 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:12:56.811 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:12:56.811 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:12:56.813 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:12:56.813 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:12:56.814 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:12:56.825 pos:35 cost:70.72
+12-2 15:17:56.275 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:17:56.276 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:17:56.276 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:17:56.277 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:17:56.277 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:17:56.278 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:17:56.279 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:17:56.280 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:17:56.280 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:17:56.293 pos:35 cost:70.72
+12-2 15:22:43.504 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:22:43.505 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:22:43.506 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:22:43.508 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:22:43.509 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:22:43.509 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:22:43.511 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:22:43.511 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:22:43.512 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:22:43.527 pos:35 cost:70.72
+12-2 15:27:59.959 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:27:59.960 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:27:59.961 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:27:59.961 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:27:59.962 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:27:59.962 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:27:59.963 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:27:59.963 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:27:59.964 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:27:59.979 pos:35 cost:70.72
+12-2 15:32:58.850 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:32:58.851 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:32:58.852 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:32:58.853 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:32:58.854 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:32:58.855 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:32:58.856 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:32:58.856 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:32:58.857 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:32:58.870 pos:35 cost:70.72
+*Periodic Run* 12-2 15:35:4.601 last live feed time: 12-2 15:32 been:2min p:71.68 cost:70.7 p/cost:1.014
+p:71.68 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.962
+12-2 15:35:4.601 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 15:35:4.601 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 15:35:4.602 71.68 2dP:55.0 1dP:93.0
+2d$:n:689 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 15:32]
+1d$:n:89 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.7% 1Key:[12-2 9:30] last:[12-2 15:32]
+12-2 15:37:57.686 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:37:57.688 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:37:57.688 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:37:57.691 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:37:57.692 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:37:57.693 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:37:57.693 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:37:57.694 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:37:57.694 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:37:57.703 pos:35 cost:70.72
+12-2 15:42:57.234 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:42:57.236 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:42:57.236 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:42:57.237 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:42:57.237 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:42:57.238 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:42:57.240 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:42:57.241 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:42:57.241 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:42:57.251 pos:35 cost:70.72
+12-2 15:47:56.550 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:47:56.551 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:47:56.552 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:47:56.552 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:47:56.553 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:47:56.554 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:47:56.556 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:47:56.557 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:47:56.557 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:47:56.563 pos:35 cost:70.72
+12-2 15:52:43.772 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:52:43.774 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:52:43.776 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:52:43.777 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:52:43.778 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:52:43.778 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:52:43.779 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:52:43.779 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:52:43.780 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:52:43.786 pos:35 cost:70.72
+12-2 15:57:59.539 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 15:57:59.540 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:57:59.540 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:57:59.542 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 15:57:59.542 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:57:59.542 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 15:57:59.543 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 15:57:59.544 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 15:57:59.545 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 15:57:59.550 pos:35 cost:70.72
+12-2 16:02:59.189 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:02:59.189 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:02:59.190 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:02:59.191 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:02:59.191 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:02:59.191 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:02:59.192 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:02:59.193 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:02:59.193 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:02:59.199 pos:35 cost:70.72
+12-2 16:07:58.722 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:07:58.723 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:07:58.723 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:07:58.724 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:07:58.725 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:07:58.726 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:07:58.727 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:07:58.727 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:07:58.728 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:07:58.734 pos:35 cost:70.72
+12-2 16:12:57.767 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:12:57.768 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:12:57.768 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:12:57.769 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:12:57.770 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:12:57.770 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:12:57.771 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:12:57.771 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:12:57.772 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:12:57.780 pos:35 cost:70.72
+12-2 16:17:56.810 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:17:56.810 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:17:56.811 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:17:56.812 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:17:56.813 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:17:56.814 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:17:56.815 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:17:56.816 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:17:56.817 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:17:56.823 pos:35 cost:70.72
+12-2 16:22:44.836 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:22:44.837 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:22:44.837 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:22:44.838 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:22:44.839 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:22:44.840 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:22:44.841 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:22:44.841 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:22:44.842 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:22:44.848 pos:35 cost:70.72
+12-2 16:28:0.254 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:28:0.255 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:28:0.256 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:28:0.256 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:28:0.256 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:28:0.257 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:28:0.257 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:28:0.258 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:28:0.259 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:28:0.265 pos:35 cost:70.72
+12-2 16:32:59.480 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:32:59.480 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:32:59.481 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:32:59.482 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:32:59.482 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:32:59.483 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:32:59.484 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:32:59.485 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:32:59.486 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:32:59.494 pos:35 cost:70.72
+*Periodic Run* 12-2 16:35:4.702 last live feed time: 12-2 16:00 been:35min p:71.62 cost:70.7 p/cost:1.013
+p:71.62 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 16:35:4.702 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 16:35:4.703 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 16:35:4.703 71.62 2dP:48.0 1dP:77.0
+2d$:n:706 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 16:00]
+1d$:n:106 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.8% 1Key:[12-2 9:30] last:[12-2 16:00]
+12-2 16:37:58.804 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:37:58.805 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:37:58.806 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:37:58.807 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:37:58.807 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:37:58.807 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:37:58.808 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:37:58.809 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:37:58.809 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:37:58.816 pos:35 cost:70.72
+12-2 16:42:57.937 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:42:57.940 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:42:57.940 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:42:57.941 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:42:57.942 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:42:57.942 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:42:57.943 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:42:57.944 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:42:57.944 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:42:57.955 pos:35 cost:70.72
+12-2 16:47:57.140 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:47:57.141 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:47:57.141 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:47:57.142 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:47:57.143 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:47:57.144 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:47:57.147 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:47:57.148 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:47:57.148 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:47:57.156 pos:35 cost:70.72
+12-2 16:52:44.295 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:52:44.296 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:52:44.296 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:52:44.298 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:52:44.299 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:52:44.300 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:52:44.301 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:52:44.301 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:52:44.302 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:52:44.310 pos:35 cost:70.72
+12-2 16:58:0.622 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 16:58:0.623 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:58:0.623 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:58:0.624 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 16:58:0.624 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:58:0.625 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 16:58:0.626 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 16:58:0.627 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 16:58:0.627 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 16:58:0.636 pos:35 cost:70.72
+12-2 17:02:58.762 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:02:58.764 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:02:58.765 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:02:58.765 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:02:58.765 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:02:58.766 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:02:58.767 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:02:58.767 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:02:58.768 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:02:58.780 pos:35 cost:70.72
+12-2 17:07:59.128 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:07:59.130 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:07:59.131 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:07:59.131 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:07:59.132 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:07:59.132 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:07:59.134 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:07:59.135 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:07:59.136 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:07:59.151 pos:35 cost:70.72
+12-2 17:12:58.253 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:12:58.255 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:12:58.256 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:12:58.257 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:12:58.257 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:12:58.258 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:12:58.259 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:12:58.259 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:12:58.260 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:12:58.268 pos:35 cost:70.72
+12-2 17:17:57.666 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:17:57.667 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:17:57.668 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:17:57.668 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:17:57.669 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:17:57.669 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:17:57.670 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:17:57.671 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:17:57.671 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:17:57.678 pos:35 cost:70.72
+12-2 17:22:45.317 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:22:45.318 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:22:45.318 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:22:45.319 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:22:45.319 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:22:45.320 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:22:45.320 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:22:45.321 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:22:45.321 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:22:45.329 pos:35 cost:70.72
+12-2 17:28:0.723 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:28:0.724 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:28:0.725 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:28:0.726 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:28:0.726 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:28:0.726 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:28:0.727 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:28:0.728 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:28:0.728 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:28:0.735 pos:35 cost:70.72
+12-2 17:32:59.991 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:32:59.992 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:32:59.993 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:32:59.993 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:32:59.993 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:32:59.994 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:32:59.994 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:32:59.995 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:32:59.995 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:33:0.009 pos:35 cost:70.72
+*Periodic Run* 12-2 17:35:4.528 last live feed time: 12-2 16:00 been:95min p:71.62 cost:70.7 p/cost:1.013
+p:71.62 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 17:35:4.529 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 17:35:4.529 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 17:35:4.529 71.62 2dP:48.0 1dP:77.0
+2d$:n:706 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 16:00]
+1d$:n:106 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.8% 1Key:[12-2 9:30] last:[12-2 16:00]
+12-2 17:37:58.977 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:37:58.978 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:37:58.978 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:37:58.981 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:37:58.981 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:37:58.982 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:37:58.982 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:37:58.983 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:37:58.983 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:37:58.994 pos:35 cost:70.72
+12-2 17:42:59.089 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:42:59.090 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:42:59.090 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:42:59.091 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:42:59.092 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:42:59.092 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:42:59.093 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:42:59.094 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:42:59.095 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:42:59.105 pos:35 cost:70.72
+12-2 17:47:57.842 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:47:57.844 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:47:57.844 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:47:57.845 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:47:57.845 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:47:57.846 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:47:57.846 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:47:57.846 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:47:57.847 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:47:57.858 pos:35 cost:70.72
+12-2 17:52:45.496 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:52:45.497 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:52:45.497 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:52:45.498 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:52:45.498 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:52:45.499 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:52:45.500 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:52:45.500 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:52:45.501 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:52:45.512 pos:35 cost:70.72
+12-2 17:58:1.320 *openOrder* status:Submitted 241202006 SELL 13@73.35
+12-2 17:58:1.322 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:58:1.323 *OrderStatus*:Submitted orderId:241202006 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:58:1.324 *openOrder* status:Submitted 241202005 SELL 11@72.63
+12-2 17:58:1.324 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:58:1.325 *OrderStatus*:Submitted orderId:241202005 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-2 17:58:1.325 *openOrder* status:Submitted 241202004 SELL 11@72.05
+12-2 17:58:1.325 *openOrder* all live orders [241202004 SELL 11@72.05, 241202005 SELL 11@72.63, 241202006 SELL 13@73.35]
+12-2 17:58:1.326 *OrderStatus*:Submitted orderId:241202004 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+updating pos: PHO 12-2 17:58:1.339 pos:35 cost:70.72
+*Periodic Run* 12-2 18:35:4.526 last live feed time: 12-2 16:00 been:155min p:71.62 cost:70.7 p/cost:1.013
+p:71.62 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 18:35:4.527 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 18:35:4.527 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 18:35:4.527 71.62 2dP:48.0 1dP:77.0
+2d$:n:706 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 16:00]
+1d$:n:106 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.8% 1Key:[12-2 9:30] last:[12-2 16:00]
+*Periodic Run* 12-2 19:35:4.414 last live feed time: 12-2 16:00 been:215min p:71.62 cost:70.7 p/cost:1.013
+p:71.62 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 19:35:4.415 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 19:35:4.416 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 19:35:4.416 71.62 2dP:48.0 1dP:77.0
+2d$:n:706 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 16:00]
+1d$:n:106 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.8% 1Key:[12-2 9:30] last:[12-2 16:00]
+*Periodic Run* 12-2 20:35:4.486 last live feed time: 12-2 16:00 been:275min p:71.62 cost:70.7 p/cost:1.013
+p:71.62 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:279 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.963
+12-2 20:35:4.486 *chek orderStatus [241202004=Submitted, 241202005=Submitted, 241202006=Submitted]
+12-2 20:35:4.487 *chek openOrders*: [241202004, 241202005, 241202006]
+12-2 20:35:4.487 71.62 2dP:48.0 1dP:77.0
+2d$:n:706 max:72.1 [11-27 9:43] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-27 9:30] last:[12-2 16:00]
+1d$:n:106 max:71.7 [12-2 9:30] min:71.2 [12-2 10:04] rng:0.8% 1Key:[12-2 9:30] last:[12-2 16:00]
+*******************************************
+*STARTS* 12-3 8:12:57.154
+updating pos: PHO 12-3 8:12:59.501 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+*Periodic Run* 12-3 8:13:17.513 8:13:17 no live feed
+12-3 8:13:17.514 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-3 8:13:56.595 rng:1.1% costTgt:0.98
+12-3 8:13:56.597 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:18.05%
+*Periodic Run* 12-3 9:13:17.358 9:13:17 no live feed
+12-3 9:13:17.359 0.0 2dP:60.0 1dP:100.0
+2d$:n:600 max:72.0 [11-29 9:32] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-29 9:30] last:[12-2 15:59]
+1d$:n<5
+******************CUT**************************
+CUT 12-3 9:30:00 1dP:100.0 2dp:60.0 px72.0 cost:70.71814855 px/Cost:1.0181 reqMargin:1.01 rng:0.011
+0:241203010 PHO SELL 11 @72.54 9:30
+0: SELL PHO 12-3 9:30 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:72.4
+1:241203011 PHO SELL 11 @73.12 9:30
+1: SELL PHO 12-3 9:30 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:72.4
+2:241203012 PHO SELL 13 @73.85 9:30
+2: SELL PHO 12-3 9:30 CUTTER Created target margin:1.01 cost*target margin:71.43 askPx:72.4
+2D$:n:601 max:72.0 [11-29 9:32] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-29 9:30] last:[12-3 9:30]
+1D$:n<5
+12-3 9:30:5.292 *openOrder* status:PreSubmitted 241203011 SELL 11@73.12
+12-3 9:30:5.293 *openOrder* all live orders [241203011 SELL 11@73.12]
+12-3 9:30:5.294 *OrderStatus*:PreSubmitted orderId:241203011 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-3 9:30:5.295 *openOrder* status:PreSubmitted 241203012 SELL 13@73.85
+12-3 9:30:5.296 *openOrder* all live orders [241203011 SELL 11@73.12, 241203012 SELL 13@73.85]
+12-3 9:30:5.297 *OrderStatus*:PreSubmitted orderId:241203012 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+12-3 9:30:5.302 *openOrder* status:Submitted 241203010 SELL 11@72.54
+12-3 9:30:5.303 *openOrder* all live orders [241203010 SELL 11@72.54, 241203011 SELL 11@73.12, 241203012 SELL 13@73.85]
+12-3 9:30:5.304 *OrderStatus*:Submitted orderId:241203010 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-3 9:30:5.312 *openOrder* status:Submitted 241203011 SELL 11@73.12
+12-3 9:30:5.313 *openOrder* all live orders [241203010 SELL 11@72.54, 241203011 SELL 11@73.12, 241203012 SELL 13@73.85]
+12-3 9:30:5.314 *OrderStatus*:Submitted orderId:241203011 filled:0 remaining:11 avgFillPx:0.0 lastFillPx:0.0
+12-3 9:30:5.320 *openOrder* status:Submitted 241203012 SELL 13@73.85
+12-3 9:30:5.321 *openOrder* all live orders [241203010 SELL 11@72.54, 241203011 SELL 11@73.12, 241203012 SELL 13@73.85]
+12-3 9:30:5.322 *OrderStatus*:Submitted orderId:241203012 filled:0 remaining:13 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 12-3 10:13:17.279 last live feed time: 12-3 10:12 been:1min p:71.87 cost:70.7 p/cost:1.016
+p:71.87 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.959
+12-3 10:13:17.280 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 10:13:17.280 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 10:13:17.281 71.87 2dP:84.0 1dP:100.0
+2d$:n:615 max:72.0 [12-3 9:30] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-29 9:30] last:[12-3 10:12]
+1d$:n:15 max:71.8 [12-3 9:30] min:71.7 [12-3 9:57] rng:0.2% 1Key:[12-3 9:30] last:[12-3 10:12]
+*Periodic Run* 12-3 11:13:17.282 last live feed time: 12-3 11:12 been:0min p:71.76 cost:70.7 p/cost:1.015
+p:71.76 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.961
+12-3 11:13:17.283 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 11:13:17.284 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 11:13:17.284 71.76 2dP:71.0 1dP:34.0
+2d$:n:635 max:72.0 [12-3 9:30] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-29 9:30] last:[12-3 11:12]
+1d$:n:35 max:71.9 [12-3 9:30] min:71.7 [12-3 9:57] rng:0.2% 1Key:[12-3 9:30] last:[12-3 11:12]
+*Periodic Run* 12-3 12:13:16.986 last live feed time: 12-3 12:11 been:2min p:71.78 cost:70.7 p/cost:1.015
+p:71.78 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.961
+12-3 12:13:16.987 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 12:13:16.987 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 12:13:16.988 71.78 2dP:73.0 1dP:47.0
+2d$:n:648 max:72.0 [12-3 9:30] min:71.2 [12-2 10:04] rng:1.2% 1Key:[11-29 9:30] last:[12-3 12:11]
+1d$:n:48 max:71.9 [12-3 9:30] min:71.7 [12-3 9:57] rng:0.3% 1Key:[12-3 9:30] last:[12-3 12:11]
+*Periodic Run* 12-3 13:13:17.133 last live feed time: 12-3 13:12 been:1min p:72.01 cost:70.7 p/cost:1.018
+p:72.01 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.957
+12-3 13:13:17.134 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 13:13:17.135 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 13:13:17.135 72.01 2dP:95.0 1dP:88.0
+2d$:n:664 max:72.1 [12-3 9:30] min:71.2 [12-2 10:04] rng:1.3% 1Key:[11-29 9:30] last:[12-3 13:12]
+1d$:n:64 max:72.1 [12-3 9:30] min:71.7 [12-3 9:57] rng:0.5% 1Key:[12-3 9:30] last:[12-3 13:12]
+*Periodic Run* 12-3 14:13:17.212 last live feed time: 12-3 14:13 been:0min p:71.93 cost:70.7 p/cost:1.017
+p:71.93 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:278 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.959
+12-3 14:13:17.214 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 14:13:17.214 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 14:13:17.214 71.93 2dP:86.0 1dP:66.0
+2d$:n:682 max:72.1 [12-3 9:30] min:71.2 [12-2 10:04] rng:1.3% 1Key:[11-29 9:30] last:[12-3 14:13]
+1d$:n:82 max:72.1 [12-3 9:30] min:71.7 [12-3 9:57] rng:0.5% 1Key:[12-3 9:30] last:[12-3 14:13]
+*Periodic Run* 12-3 15:13:17.315 last live feed time: 12-3 15:08 been:5min p:72.2 cost:70.7 p/cost:1.021
+p:72.2 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.955
+12-3 15:13:17.316 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 15:13:17.316 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 15:13:17.316 72.2 2dP:100.0 1dP:100.0
+2d$:n:701 max:72.2 [12-3 9:30] min:71.2 [12-2 10:04] rng:1.4% 1Key:[11-29 9:30] last:[12-3 15:08]
+1d$:n:101 max:72.2 [12-3 9:30] min:71.7 [12-3 9:57] rng:0.7% 1Key:[12-3 9:30] last:[12-3 15:08]
+*Periodic Run* 12-3 16:13:17.423 last live feed time: 12-3 16:00 been:13min p:72.14 cost:70.7 p/cost:1.02
+p:72.14 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.956
+12-3 16:13:17.425 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 16:13:17.425 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 16:13:17.426 72.14 2dP:92.0 1dP:84.0
+2d$:n:715 max:72.2 [12-3 15:28] min:71.2 [12-2 10:04] rng:1.5% 1Key:[11-29 9:30] last:[12-3 16:00]
+1d$:n:115 max:72.2 [12-3 15:28] min:71.7 [12-3 9:57] rng:0.7% 1Key:[12-3 9:30] last:[12-3 16:00]
+*Periodic Run* 12-3 17:13:17.538 last live feed time: 12-3 16:00 been:73min p:72.14 cost:70.7 p/cost:1.02
+p:72.14 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.956
+12-3 17:13:17.538 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 17:13:17.539 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 17:13:17.539 72.14 2dP:92.0 1dP:84.0
+2d$:n:715 max:72.2 [12-3 15:28] min:71.2 [12-2 10:04] rng:1.5% 1Key:[11-29 9:30] last:[12-3 16:00]
+1d$:n:115 max:72.2 [12-3 15:28] min:71.7 [12-3 9:57] rng:0.7% 1Key:[12-3 9:30] last:[12-3 16:00]
+*Periodic Run* 12-3 18:13:17.079 last live feed time: 12-3 16:00 been:133min p:72.14 cost:70.7 p/cost:1.02
+p:72.14 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.956
+12-3 18:13:17.080 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 18:13:17.080 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 18:13:17.080 72.14 2dP:92.0 1dP:84.0
+2d$:n:715 max:72.2 [12-3 15:28] min:71.2 [12-2 10:04] rng:1.5% 1Key:[11-29 9:30] last:[12-3 16:00]
+1d$:n:115 max:72.2 [12-3 15:28] min:71.7 [12-3 9:57] rng:0.7% 1Key:[12-3 9:30] last:[12-3 16:00]
+*Periodic Run* 12-3 19:13:17.432 last live feed time: 12-3 16:00 been:193min p:72.14 cost:70.7 p/cost:1.02
+p:72.14 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.956
+12-3 19:13:17.434 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 19:13:17.434 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 19:13:17.434 72.14 2dP:92.0 1dP:84.0
+2d$:n:715 max:72.2 [12-3 15:28] min:71.2 [12-2 10:04] rng:1.5% 1Key:[11-29 9:30] last:[12-3 16:00]
+1d$:n:115 max:72.2 [12-3 15:28] min:71.7 [12-3 9:57] rng:0.7% 1Key:[12-3 9:30] last:[12-3 16:00]
+*Periodic Run* 12-3 20:13:17.531 last live feed time: 12-3 16:00 been:253min p:72.14 cost:70.7 p/cost:1.02
+p:72.14 rng:1.1% pos:35 delt:3k cost:70.7 fullLot:277 refillP:68.95 costTgt:0.98 refillP/cost:0.975 refillP/px:0.956
+12-3 20:13:17.532 *chek orderStatus [241203010=Submitted, 241203011=Submitted, 241203012=Submitted]
+12-3 20:13:17.533 *chek openOrders*: [241203010, 241203011, 241203012]
+12-3 20:13:17.533 72.14 2dP:92.0 1dP:84.0
+2d$:n:715 max:72.2 [12-3 15:28] min:71.2 [12-2 10:04] rng:1.5% 1Key:[11-29 9:30] last:[12-3 16:00]
+1d$:n:115 max:72.2 [12-3 15:28] min:71.7 [12-3 9:57] rng:0.7% 1Key:[12-3 9:30] last:[12-3 16:00]
