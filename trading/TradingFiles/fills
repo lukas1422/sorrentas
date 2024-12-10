@@ -4426,3 +4426,30 @@ ABT 12-2 15:35:2.444 *OrderStatus*: filled:241202015
 ABT 1.*commission report*:241202015 commission:0.25 
 ABT *********************
 *****START***** HKT: 21:12:57 EST: 12-3 8:12:57.083
+*****START***** HKT: 21:09:23 EST: 12-4 8:09:23.850
+*****START***** HKT: 21:24:45 EST: 12-5 8:24:45.096
+*****START***** HKT: 21:25:50 EST: 12-5 8:25:50.024
+KMB 12-5 15:49:58.435 *openOrder* FILLED 241213283 SELL 12@138.34
+KMB 12-5 15:49:58.440 *OrderStatus*: filled:241213283
+KMB 1.*commission report*:241213283 commission:0.39 realized pnl:21.72 computed Pnl:21.72
+KMB *********************
+*****START***** HKT: 21:47:14 EST: 12-6 8:47:14.262
+*****START***** HKT: 21:45:42 EST: 12-9 8:45:42.965
+PG 12-9 9:35:55.849 *openOrder* FILLED 241209013 BUY 38@172.88
+PG 12-9 9:35:55.851 *OrderStatus*: filled:241209013
+PG 1.*commission report*:241209013 commission:0.31 
+PG *********************
+PG 1.*commission report*:241209013 commission:-0.03 
+PG *********************
+GLD 12-9 9:43:40.829 *openOrder* FILLED 241209003 SELL 7@246.75
+GLD 12-9 9:43:40.832 *OrderStatus*: filled:241209003
+GLD 1.*commission report*:241209003 commission:0.39 realized pnl:30.47 computed Pnl:30.47
+GLD *********************
+SLV 12-9 9:46:36.924 *openOrder* FILLED 241209007 SELL 260@29.29
+SLV 12-9 9:46:36.928 *OrderStatus*: filled:241209007
+SLV 1.*commission report*:241209007 commission:0.81 realized pnl:168.75 computed Pnl:168.75
+SLV *********************
+IP 12-9 9:53:39.420 *openOrder* FILLED 241209091 BUY 117@56.44
+IP 12-9 9:53:39.421 *OrderStatus*: filled:241209091
+IP 1.*commission report*:241209091 commission:0.3 
+IP *********************

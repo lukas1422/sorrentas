@@ -11516,3 +11516,1838 @@ p:244.0 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.9
 12-3 20:13:17.488 244.0 2dP:31.0 1dP:35.0
 2d$:n:1056 max:245.8 [11-29 11:24] min:243.2 [12-2 13:23] rng:1.1% 1Key:[11-29 9:30] last:[12-3 17:43]
 1d$:n:456 max:245.1 [12-3 9:31] min:243.4 [12-3 10:20] rng:0.7% 1Key:[12-3 8:13] last:[12-3 17:43]
+*******************************************
+*STARTS* 12-4 8:09:23.904
+updating pos: GLD 12-4 8:09:26.237 pos:23 cost:242.34
+POS:23 COST:242.3 DELT:6k
+*Periodic Run* 12-4 8:09:44.248 last live feed time: 12-4 8:09 been:0min p:243.0 cost:242.3 p/cost:1.003
+p:243.0 rng:0.0% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.966
+12-4 8:09:44.251 243.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-4 8:09:55.312 rng:0.8% costTgt:0.98
+12-4 8:09:55.313 tgtMargin:1.01 tgtPrice:244.77
+ytdReturn:27.6%
+*Periodic Run* 12-4 9:09:44.251 last live feed time: 12-4 9:09 been:0min p:244.57 cost:242.3 p/cost:1.009
+p:244.57 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.96
+12-4 9:09:44.252 244.57 2dP:74.0 1dP:99.0
+2d$:n:803 max:245.1 [12-3 9:31] min:243.2 [12-4 8:09] rng:0.8% 1Key:[12-2 9:30] last:[12-4 9:09]
+1d$:n:23 max:244.6 [12-4 9:05] min:243.6 [12-4 8:09] rng:0.4% 1Key:[12-4 8:09] last:[12-4 9:09]
+******************CUT**************************
+CUT 12-4 9:30:01 1dP:100.0 2dp:93.0 px244.95 cost:242.34162175 px/Cost:1.0108 reqMargin:1.01 rng:0.0084
+0:241204009 GLD SELL 7 @245.44 9:30
+0: SELL GLD 12-4 9:30 CUTTER Created target margin:1.01 cost*target margin:244.77 askPx:244.95
+1:241204010 GLD SELL 7 @247.4 9:30
+1: SELL GLD 12-4 9:30 CUTTER Created target margin:1.01 cost*target margin:244.77 askPx:244.95
+2:241204011 GLD SELL 9 @249.85 9:30
+2: SELL GLD 12-4 9:30 CUTTER Created target margin:1.01 cost*target margin:244.77 askPx:244.95
+2D$:n:819 max:245.1 [12-3 9:31] min:243.2 [12-4 8:09] rng:0.8% 1Key:[12-2 9:30] last:[12-4 9:30]
+1D$:n:39 max:244.9 [12-4 9:29] min:243.6 [12-4 8:09] rng:0.5% 1Key:[12-4 8:09] last:[12-4 9:30]
+12-4 9:30:5.381 *openOrder* status:Submitted 241204011 SELL 9@249.85
+12-4 9:30:5.382 *openOrder* all live orders [241204011 SELL 9@249.85]
+12-4 9:30:5.386 *OrderStatus*:Submitted orderId:241204011 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+12-4 9:30:5.710 *openOrder* status:PreSubmitted 241204009 SELL 7@245.44
+12-4 9:30:5.713 *openOrder* all live orders [241204009 SELL 7@245.44, 241204011 SELL 9@249.85]
+12-4 9:30:5.716 *OrderStatus*:PreSubmitted orderId:241204009 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+12-4 9:30:5.738 *openOrder* status:Submitted 241204010 SELL 7@247.4
+12-4 9:30:5.738 *openOrder* all live orders [241204009 SELL 7@245.44, 241204010 SELL 7@247.4, 241204011 SELL 9@249.85]
+12-4 9:30:5.740 *OrderStatus*:Submitted orderId:241204010 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+12-4 9:30:5.883 *openOrder* status:Submitted 241204009 SELL 7@245.44
+12-4 9:30:5.884 *openOrder* all live orders [241204009 SELL 7@245.44, 241204010 SELL 7@247.4, 241204011 SELL 9@249.85]
+12-4 9:30:5.884 *OrderStatus*:Submitted orderId:241204009 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 12-4 10:09:44.313 last live feed time: 12-4 10:09 been:0min p:244.65 cost:242.3 p/cost:1.01
+p:244.65 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.96
+12-4 10:09:44.314 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 10:09:44.324 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 10:09:44.325 244.65 2dP:79.0 1dP:77.0
+2d$:n:858 max:245.1 [12-3 9:31] min:243.2 [12-4 8:09] rng:0.8% 1Key:[12-2 9:30] last:[12-4 10:09]
+1d$:n:78 max:245.0 [12-4 9:31] min:243.6 [12-4 8:09] rng:0.6% 1Key:[12-4 8:09] last:[12-4 10:09]
+*Periodic Run* 12-4 11:09:44.389 last live feed time: 12-4 11:09 been:0min p:245.02 cost:242.3 p/cost:1.011
+p:245.02 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.958
+12-4 11:09:44.390 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 11:09:44.390 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 11:09:44.391 245.02 2dP:88.0 1dP:85.0
+2d$:n:918 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 11:09]
+1d$:n:138 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 11:09]
+*Periodic Run* 12-4 12:09:44.465 last live feed time: 12-4 12:09 been:0min p:244.65 cost:242.3 p/cost:1.01
+p:244.65 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.96
+12-4 12:09:44.466 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 12:09:44.467 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 12:09:44.467 244.65 2dP:71.0 1dP:63.0
+2d$:n:978 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 12:09]
+1d$:n:198 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 12:09]
+*Periodic Run* 12-4 13:09:44.192 last live feed time: 12-4 13:08 been:0min p:244.84 cost:242.3 p/cost:1.01
+p:244.84 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.959
+12-4 13:09:44.193 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 13:09:44.194 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 13:09:44.194 244.84 2dP:80.0 1dP:75.0
+2d$:n:1037 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 13:08]
+1d$:n:257 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 13:08]
+*Periodic Run* 12-4 14:09:44.297 last live feed time: 12-4 14:08 been:1min p:244.76 cost:242.3 p/cost:1.01
+p:244.76 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.959
+12-4 14:09:44.298 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 14:09:44.299 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 14:09:44.299 244.76 2dP:76.0 1dP:70.0
+2d$:n:1096 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 14:08]
+1d$:n:316 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 14:08]
+*Periodic Run* 12-4 15:09:44.414 last live feed time: 12-4 15:09 been:0min p:244.73 cost:242.3 p/cost:1.01
+p:244.73 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.959
+12-4 15:09:44.416 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 15:09:44.417 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 15:09:44.418 244.73 2dP:75.0 1dP:68.0
+2d$:n:1157 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 15:09]
+1d$:n:377 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 15:09]
+*Periodic Run* 12-4 16:09:44.517 last live feed time: 12-4 16:09 been:0min p:244.74 cost:242.3 p/cost:1.01
+p:244.74 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.959
+12-4 16:09:44.519 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 16:09:44.520 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 16:09:44.520 244.74 2dP:75.0 1dP:69.0
+2d$:n:1213 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 16:09]
+1d$:n:433 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 16:09]
+*Periodic Run* 12-4 17:09:44.624 last live feed time: 12-4 16:57 been:12min p:244.58 cost:242.3 p/cost:1.009
+p:244.58 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.96
+12-4 17:09:44.625 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 17:09:44.625 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 17:09:44.625 244.58 2dP:67.0 1dP:59.0
+2d$:n:1224 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 16:57]
+1d$:n:444 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 16:57]
+*Periodic Run* 12-4 18:09:44.734 last live feed time: 12-4 17:44 been:25min p:244.5 cost:242.3 p/cost:1.009
+p:244.5 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.96
+12-4 18:09:44.735 *chek orderStatus [241204009=Submitted, 241204010=Submitted, 241204011=Submitted]
+12-4 18:09:44.735 *chek openOrders*: [241204009, 241204010, 241204011]
+12-4 18:09:44.736 244.5 2dP:64.0 1dP:54.0
+2d$:n:1230 max:245.3 [12-4 10:42] min:243.2 [12-4 8:09] rng:0.9% 1Key:[12-2 9:30] last:[12-4 17:44]
+1d$:n:450 max:245.3 [12-4 10:42] min:243.6 [12-4 8:09] rng:0.7% 1Key:[12-4 8:09] last:[12-4 17:44]
+*******************************************
+*STARTS* 12-5 8:24:45.220
+updating pos: GLD 12-5 8:24:47.633 pos:23 cost:242.34
+POS:23 COST:242.3 DELT:6k
+*Periodic Run* 12-5 8:25:5.619 last live feed time: 12-5 8:25 been:0min p:244.55 cost:242.3 p/cost:1.009
+p:244.55 rng:0.0% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.96
+12-5 8:25:5.621 244.55 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+*******************************************
+*STARTS* 12-5 8:25:50.083
+updating pos: GLD 12-5 8:25:52.311 pos:23 cost:242.34
+POS:23 COST:242.3 DELT:6k
+*Periodic Run* 12-5 8:26:10.302 last live feed time: 12-5 8:26 been:0min p:244.28 cost:242.3 p/cost:1.008
+p:244.28 rng:0.0% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.961
+12-5 8:26:10.304 244.28 2dP:100.0 1dP:100.0
+2d$:n<5
+1d$:n<5
+12-5 8:26:24.119 rng:0.8% costTgt:0.98
+12-5 8:26:24.119 tgtMargin:1.01 tgtPrice:244.77
+ytdReturn:27.99%
+*Periodic Run* 12-5 9:26:10.249 last live feed time: 12-5 9:24 been:1min p:244.16 cost:242.3 p/cost:1.008
+p:244.16 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:81 refillP:234.74 costTgt:0.98 refillP/cost:0.969 refillP/px:0.961
+12-5 9:26:10.251 244.16 2dP:41.0 1dP:2.0
+2d$:n:803 max:245.3 [12-4 10:42] min:243.4 [12-3 10:20] rng:0.8% 1Key:[12-3 9:30] last:[12-5 9:24]
+1d$:n:23 max:244.5 [12-5 8:30] min:244.2 [12-5 9:23] rng:0.1% 1Key:[12-5 8:26] last:[12-5 9:24]
+09:58:28.303548 no blocking orders,empty
+09:58:31.615934 no blocking orders,empty
+09:58:33.060981 no blocking orders,empty
+09:58:36.065335 no blocking orders,empty
+09:58:37.818844 no blocking orders,empty
+09:58:48.410224 no blocking orders,empty
+09:58:52.842018 no blocking orders,empty
+09:58:56.352344 no blocking orders,empty
+09:59:02.439626 no blocking orders,empty
+09:59:04.692402 no blocking orders,empty
+09:59:08.619203 no blocking orders,empty
+09:59:09.710527 no blocking orders,empty
+09:59:10.370458 no blocking orders,empty
+09:59:13.125572 no blocking orders,empty
+09:59:13.877075 no blocking orders,empty
+09:59:14.628457 no blocking orders,empty
+09:59:15.650057 no blocking orders,empty
+09:59:22.139601 no blocking orders,empty
+09:59:22.890695 no blocking orders,empty
+09:59:23.739540 no blocking orders,empty
+09:59:24.392668 no blocking orders,empty
+09:59:29.654172 no blocking orders,empty
+09:59:30.504535 no blocking orders,empty
+09:59:33.406908 no blocking orders,empty
+09:59:34.158445 no blocking orders,empty
+09:59:35.661376 no blocking orders,empty
+09:59:36.163689 no blocking orders,empty
+09:59:39.667705 no blocking orders,empty
+09:59:42.171369 no blocking orders,empty
+09:59:51.686611 no blocking orders,empty
+09:59:52.437030 no blocking orders,empty
+09:59:58.197605 no blocking orders,empty
+09:59:59.197560 no blocking orders,empty
+09:59:59.949457 no blocking orders,empty
+10:00:03.063174 no blocking orders,empty
+10:00:09.463920 no blocking orders,empty
+10:00:10.232358 no blocking orders,empty
+10:00:11.009551 no blocking orders,empty
+10:00:11.716665 no blocking orders,empty
+10:00:14.019561 no blocking orders,empty
+10:00:15.044172 no blocking orders,empty
+10:00:23.748440 no blocking orders,empty
+10:00:25.738998 no blocking orders,empty
+10:00:31.998597 no blocking orders,empty
+10:00:32.749373 no blocking orders,empty
+10:00:35.832946 no blocking orders,empty
+10:00:38.007324 no blocking orders,empty
+10:00:38.761230 no blocking orders,empty
+10:00:39.825245 no blocking orders,empty
+10:00:40.511920 no blocking orders,empty
+10:00:41.263017 no blocking orders,empty
+10:00:42.285819 no blocking orders,empty
+10:00:43.517136 no blocking orders,empty
+10:00:47.774372 no blocking orders,empty
+10:00:49.349397 no blocking orders,empty
+10:00:51.295199 no blocking orders,empty
+10:00:52.114494 no blocking orders,empty
+10:00:52.831911 no blocking orders,empty
+10:00:53.533612 no blocking orders,empty
+10:00:54.535006 no blocking orders,empty
+10:00:56.626002 no blocking orders,empty
+10:00:58.290346 no blocking orders,empty
+10:00:59.042184 no blocking orders,empty
+10:00:59.896571 no blocking orders,empty
+10:01:00.613629 no blocking orders,empty
+10:01:02.560314 no blocking orders,empty
+10:01:03.379923 no blocking orders,empty
+10:01:04.050646 no blocking orders,empty
+10:01:04.800172 no blocking orders,empty
+10:01:05.631724 no blocking orders,empty
+10:01:06.348408 no blocking orders,empty
+10:01:10.809409 no blocking orders,empty
+10:01:12.311903 no blocking orders,empty
+10:01:15.817766 no blocking orders,empty
+10:01:16.588439 no blocking orders,empty
+10:01:17.407603 no blocking orders,empty
+10:01:18.072049 no blocking orders,empty
+10:01:21.915104 no blocking orders,empty
+10:01:22.585272 no blocking orders,empty
+10:01:25.394885 no blocking orders,empty
+10:01:26.082343 no blocking orders,empty
+10:01:32.341857 no blocking orders,empty
+10:01:33.844207 no blocking orders,empty
+10:01:39.603366 no blocking orders,empty
+10:01:42.189663 no blocking orders,empty
+10:01:44.860974 no blocking orders,empty
+10:01:45.612576 no blocking orders,empty
+10:01:46.363067 no blocking orders,empty
+10:01:47.866666 no blocking orders,empty
+10:01:49.119150 no blocking orders,empty
+10:01:49.978087 no blocking orders,empty
+10:01:50.690324 no blocking orders,empty
+10:01:51.373850 no blocking orders,empty
+10:01:52.225500 no blocking orders,empty
+10:01:52.942096 no blocking orders,empty
+10:01:53.626602 no blocking orders,empty
+10:01:57.447554 no blocking orders,empty
+10:01:58.134589 no blocking orders,empty
+10:01:58.983555 no blocking orders,empty
+10:01:59.637492 no blocking orders,empty
+10:02:00.417606 no blocking orders,empty
+10:02:03.182080 no blocking orders,empty
+10:02:03.894082 no blocking orders,empty
+10:02:05.395431 no blocking orders,empty
+10:02:06.972172 no blocking orders,empty
+10:02:07.649937 no blocking orders,empty
+10:03:08.499036 no blocking orders,empty
+10:03:13.328950 no blocking orders,empty
+10:03:15.581353 no blocking orders,empty
+10:03:19.015316 no blocking orders,empty
+10:03:19.780629 no blocking orders,empty
+10:03:20.599256 no blocking orders,empty
+10:03:23.055902 no blocking orders,empty
+10:03:23.875661 no blocking orders,empty
+10:03:24.524230 no blocking orders,empty
+10:03:32.887903 no blocking orders,empty
+10:03:33.610109 no blocking orders,empty
+10:03:34.833423 no blocking orders,empty
+10:03:38.045055 no blocking orders,empty
+10:03:40.363784 no blocking orders,empty
+10:03:41.801273 no blocking orders,empty
+10:03:43.305030 no blocking orders,empty
+10:03:51.818890 no blocking orders,empty
+10:03:53.164951 no blocking orders,empty
+10:03:53.822775 no blocking orders,empty
+10:03:54.573905 no blocking orders,empty
+10:03:56.076534 no blocking orders,empty
+10:04:03.405015 no blocking orders,empty
+10:04:06.346132 no blocking orders,empty
+10:04:09.454647 no blocking orders,empty
+10:04:10.101992 no blocking orders,empty
+10:04:10.879607 no blocking orders,empty
+10:04:11.856409 no blocking orders,empty
+10:04:15.692662 no blocking orders,empty
+10:04:16.361234 no blocking orders,empty
+10:04:17.125951 no blocking orders,empty
+10:04:18.616097 no blocking orders,empty
+10:04:29.133209 no blocking orders,empty
+10:04:30.643676 no blocking orders,empty
+10:04:31.462400 no blocking orders,empty
+10:04:33.006323 no blocking orders,empty
+10:04:34.944200 no blocking orders,empty
+10:04:38.733663 no blocking orders,empty
+10:04:42.919541 no blocking orders,empty
+10:04:43.750947 no blocking orders,empty
+10:04:44.407062 no blocking orders,empty
+10:04:53.991348 no blocking orders,empty
+10:04:55.534084 no blocking orders,empty
+10:04:57.268593 no blocking orders,empty
+10:04:59.431275 no blocking orders,empty
+10:05:03.690272 no blocking orders,empty
+10:05:04.442523 no blocking orders,empty
+10:05:05.773846 no blocking orders,empty
+10:05:07.306319 no blocking orders,empty
+10:05:08.022707 no blocking orders,empty
+10:05:08.696249 no blocking orders,empty
+10:05:14.957853 no blocking orders,empty
+10:05:20.716760 no blocking orders,empty
+10:05:26.043701 no blocking orders,empty
+10:05:26.725669 no blocking orders,empty
+10:05:32.801925 no blocking orders,empty
+10:05:34.236508 no blocking orders,empty
+10:05:35.238147 no blocking orders,empty
+10:05:43.502821 no blocking orders,empty
+10:05:51.542216 no blocking orders,empty
+10:05:54.019194 no blocking orders,empty
+10:05:56.275124 no blocking orders,empty
+10:05:58.278131 no blocking orders,empty
+10:05:59.029896 no blocking orders,empty
+10:05:59.780260 no blocking orders,empty
+10:06:00.533043 no blocking orders,empty
+10:06:01.375175 no blocking orders,empty
+10:06:03.787525 no blocking orders,empty
+10:06:07.291797 no blocking orders,empty
+10:06:08.132126 no blocking orders,empty
+10:06:10.045983 no blocking orders,empty
+10:06:14.553057 no blocking orders,empty
+10:06:16.055518 no blocking orders,empty
+10:06:16.875676 no blocking orders,empty
+10:06:26.323263 no blocking orders,empty
+10:06:28.407557 no blocking orders,empty
+10:06:30.579059 no blocking orders,empty
+10:06:31.331239 no blocking orders,empty
+10:06:35.837534 no blocking orders,empty
+10:06:36.599520 no blocking orders,empty
+10:06:38.341805 no blocking orders,empty
+10:06:40.696802 no blocking orders,empty
+10:06:42.599389 no blocking orders,empty
+10:06:46.430850 no blocking orders,empty
+10:06:55.134870 no blocking orders,empty
+10:06:55.954383 no blocking orders,empty
+10:07:04.146343 no blocking orders,empty
+10:07:06.885367 no blocking orders,empty
+10:07:29.420078 no blocking orders,empty
+10:07:31.174608 no blocking orders,empty
+10:07:31.963425 no blocking orders,empty
+10:07:33.235786 no blocking orders,empty
+10:07:34.677784 no blocking orders,empty
+10:07:39.271198 no blocking orders,empty
+10:07:39.936483 no blocking orders,empty
+10:07:40.704420 no blocking orders,empty
+10:07:42.958216 no blocking orders,empty
+10:07:44.206176 no blocking orders,empty
+10:07:47.949035 no blocking orders,empty
+10:09:09.181760 no blocking orders,empty
+10:09:10.580277 no blocking orders,empty
+10:09:11.434357 no blocking orders,empty
+10:09:12.151144 no blocking orders,empty
+10:09:12.833580 no blocking orders,empty
+10:09:13.592272 no blocking orders,empty
+10:09:18.122894 no blocking orders,empty
+10:09:18.909618 no blocking orders,empty
+10:09:24.439871 no blocking orders,empty
+10:09:26.355286 no blocking orders,empty
+10:09:27.204577 no blocking orders,empty
+10:09:29.977191 no blocking orders,empty
+10:09:31.364248 no blocking orders,empty
+10:09:35.872457 no blocking orders,empty
+10:09:39.880983 no blocking orders,empty
+10:09:43.134416 no blocking orders,empty
+10:09:46.140158 no blocking orders,empty
+10:09:46.945419 no blocking orders,empty
+10:09:47.994154 no blocking orders,empty
+10:09:49.433115 no blocking orders,empty
+10:09:50.146183 no blocking orders,empty
+10:09:50.961974 no blocking orders,empty
+10:09:57.926351 no blocking orders,empty
+10:09:58.745443 no blocking orders,empty
+10:10:01.510265 no blocking orders,empty
+10:10:02.022501 no blocking orders,empty
+10:10:02.665743 no blocking orders,empty
+10:10:20.192757 no blocking orders,empty
+10:10:33.562466 no blocking orders,empty
+10:10:34.963687 no blocking orders,empty
+10:10:35.716966 no blocking orders,empty
+10:10:40.116402 no blocking orders,empty
+10:10:40.705489 no blocking orders,empty
+10:10:41.550115 no blocking orders,empty
+10:10:44.234597 no blocking orders,empty
+10:10:45.963183 no blocking orders,empty
+10:10:52.974208 no blocking orders,empty
+10:10:58.548790 no blocking orders,empty
+10:10:59.235217 no blocking orders,empty
+10:11:00.093740 no blocking orders,empty
+10:11:00.738652 no blocking orders,empty
+10:11:07.357121 no blocking orders,empty
+10:11:08.072539 no blocking orders,empty
+10:11:12.008609 no blocking orders,empty
+10:11:13.507968 no blocking orders,empty
+10:11:15.011991 no blocking orders,empty
+10:11:16.265654 no blocking orders,empty
+10:11:17.086189 no blocking orders,empty
+10:11:19.336734 no blocking orders,empty
+10:11:22.025107 no blocking orders,empty
+10:11:22.773599 no blocking orders,empty
+10:11:23.646192 no blocking orders,empty
+10:11:24.866476 no blocking orders,empty
+10:11:28.347969 no blocking orders,empty
+10:11:30.785729 no blocking orders,empty
+10:11:41.660920 no blocking orders,empty
+10:11:44.558957 no blocking orders,empty
+10:11:45.346921 no blocking orders,empty
+10:11:47.395228 no blocking orders,empty
+10:11:53.071605 no blocking orders,empty
+10:11:58.330284 no blocking orders,empty
+10:12:00.585717 no blocking orders,empty
+10:12:01.425382 no blocking orders,empty
+10:12:03.839970 no blocking orders,empty
+10:12:04.590771 no blocking orders,empty
+10:12:05.592164 no blocking orders,empty
+10:12:06.443482 no blocking orders,empty
+10:12:08.847661 no blocking orders,empty
+10:12:10.437059 no blocking orders,empty
+10:12:12.353204 no blocking orders,empty
+10:12:13.200987 no blocking orders,empty
+10:12:14.431498 no blocking orders,empty
+10:12:21.870532 no blocking orders,empty
+10:12:23.443237 no blocking orders,empty
+10:12:28.971264 no blocking orders,empty
+10:12:31.887193 no blocking orders,empty
+10:12:36.242076 no blocking orders,empty
+10:12:38.895147 no blocking orders,empty
+10:12:39.724311 no blocking orders,empty
+10:12:40.397059 no blocking orders,empty
+10:12:45.405402 no blocking orders,empty
+10:12:46.155921 no blocking orders,empty
+10:12:46.996413 no blocking orders,empty
+10:12:48.428961 no blocking orders,empty
+10:12:53.240989 no blocking orders,empty
+10:12:59.180830 no blocking orders,empty
+10:13:00.681068 no blocking orders,empty
+10:13:01.953074 no blocking orders,empty
+10:13:05.186149 no blocking orders,empty
+10:13:12.948386 no blocking orders,empty
+10:13:13.702812 no blocking orders,empty
+10:13:17.715562 no blocking orders,empty
+10:13:18.534397 no blocking orders,empty
+10:13:21.962247 no blocking orders,empty
+10:13:23.553802 no blocking orders,empty
+10:13:24.216200 no blocking orders,empty
+10:13:24.986567 no blocking orders,empty
+10:13:25.805298 no blocking orders,empty
+10:13:29.724419 no blocking orders,empty
+10:13:33.230205 no blocking orders,empty
+10:13:36.047546 no blocking orders,empty
+10:13:41.492242 no blocking orders,empty
+10:13:45.570761 no blocking orders,empty
+10:13:51.257747 no blocking orders,empty
+10:13:52.021484 no blocking orders,empty
+10:13:53.014512 no blocking orders,empty
+10:14:01.775018 no blocking orders,empty
+10:14:04.279880 no blocking orders,empty
+10:14:08.286001 no blocking orders,empty
+10:14:13.793848 no blocking orders,empty
+10:14:22.639405 no blocking orders,empty
+10:14:23.308807 no blocking orders,empty
+10:14:27.657639 no blocking orders,empty
+10:14:28.449437 no blocking orders,empty
+10:14:36.668419 no blocking orders,empty
+10:14:39.835953 no blocking orders,empty
+10:14:44.092603 no blocking orders,empty
+10:14:44.853240 no blocking orders,empty
+10:14:46.704230 no blocking orders,empty
+10:14:51.353740 no blocking orders,empty
+10:14:51.926891 no blocking orders,empty
+10:15:01.450209 no blocking orders,empty
+10:15:18.451236 no blocking orders,empty
+10:15:19.150453 no blocking orders,empty
+10:15:20.782371 no blocking orders,empty
+10:15:23.286556 no blocking orders,empty
+10:15:24.788933 no blocking orders,empty
+10:15:29.045500 no blocking orders,empty
+10:15:29.797356 no blocking orders,empty
+10:15:30.800959 no blocking orders,empty
+10:15:34.684359 no blocking orders,empty
+10:15:36.472152 no blocking orders,empty
+10:15:38.010430 no blocking orders,empty
+10:15:39.749876 no blocking orders,empty
+10:15:42.695998 no blocking orders,empty
+10:15:46.715229 no blocking orders,empty
+10:15:50.296586 no blocking orders,empty
+10:15:50.956980 no blocking orders,empty
+10:15:52.209387 no blocking orders,empty
+10:16:02.073824 no blocking orders,empty
+10:16:03.609460 no blocking orders,empty
+10:16:05.350847 no blocking orders,empty
+10:16:11.352903 no blocking orders,empty
+10:16:17.362426 no blocking orders,empty
+10:16:18.662788 no blocking orders,empty
+10:16:20.199439 no blocking orders,empty
+10:16:22.621467 no blocking orders,empty
+10:16:24.123326 no blocking orders,empty
+10:16:25.421983 no blocking orders,empty
+10:16:29.882677 no blocking orders,empty
+10:16:31.743327 no blocking orders,empty
+10:16:35.457744 no blocking orders,empty
+10:16:40.649816 no blocking orders,empty
+10:16:42.403142 no blocking orders,empty
+10:16:44.656512 no blocking orders,empty
+10:16:51.432740 no blocking orders,empty
+10:16:53.169005 no blocking orders,empty
+10:17:00.036974 no blocking orders,empty
+10:17:00.750873 no blocking orders,empty
+10:17:08.693825 no blocking orders,empty
+10:17:09.454835 no blocking orders,empty
+10:17:10.274437 no blocking orders,empty
+10:17:16.206062 no blocking orders,empty
+10:17:18.466694 no blocking orders,empty
+10:17:22.972575 no blocking orders,empty
+10:17:27.581474 no blocking orders,empty
+10:19:51.048529 no blocking orders,empty
+10:19:58.747911 no blocking orders,empty
+10:20:03.712952 no blocking orders,empty
+10:20:08.974670 no blocking orders,empty
+10:20:10.474456 no blocking orders,empty
+10:20:11.475995 no blocking orders,empty
+10:20:15.231813 no blocking orders,empty
+10:20:19.004256 no blocking orders,empty
+10:20:19.823315 no blocking orders,empty
+10:20:20.491490 no blocking orders,empty
+10:20:22.744353 no blocking orders,empty
+10:20:24.841048 no blocking orders,empty
+10:20:25.498158 no blocking orders,empty
+10:20:27.094334 no blocking orders,empty
+10:22:48.513571 no blocking orders,empty
+10:22:51.671857 no blocking orders,empty
+10:22:54.974002 no blocking orders,empty
+10:22:57.021424 no blocking orders,empty
+10:22:57.682433 no blocking orders,empty
+10:22:59.686286 no blocking orders,empty
+10:23:03.771896 no blocking orders,empty
+10:23:04.694700 no blocking orders,empty
+10:23:07.459156 no blocking orders,empty
+10:23:08.286181 no blocking orders,empty
+10:23:16.212757 no blocking orders,empty
+10:23:19.235568 no blocking orders,empty
+10:23:21.221827 no blocking orders,empty
+10:24:29.333466 no blocking orders,empty
+10:24:38.187955 no blocking orders,empty
+10:24:44.103829 no blocking orders,empty
+10:24:45.605920 no blocking orders,empty
+10:24:46.380208 no blocking orders,empty
+10:24:47.200214 no blocking orders,empty
+10:24:47.916193 no blocking orders,empty
+10:24:48.942125 no blocking orders,empty
+10:24:49.614225 no blocking orders,empty
+10:25:03.638542 no blocking orders,empty
+10:25:07.477874 no blocking orders,empty
+10:25:09.393816 no blocking orders,empty
+10:25:10.240227 no blocking orders,empty
+10:25:10.895602 no blocking orders,empty
+10:25:13.218556 no blocking orders,empty
+10:25:18.159325 no blocking orders,empty
+10:25:25.498277 no blocking orders,empty
+10:25:26.920182 no blocking orders,empty
+10:25:28.173977 no blocking orders,empty
+10:25:28.924377 no blocking orders,empty
+10:25:34.512980 no blocking orders,empty
+10:25:36.251089 no blocking orders,empty
+10:25:37.275062 no blocking orders,empty
+10:25:43.695188 no blocking orders,empty
+10:25:44.445873 no blocking orders,empty
+10:26:00.974647 no blocking orders,empty
+10:26:02.477523 no blocking orders,empty
+10:26:07.236690 no blocking orders,empty
+*Periodic Run* 12-5 10:26:8.130 last live feed time: 12-5 10:26 been:0min p:243.32 cost:242.3 p/cost:1.004
+p:243.32 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.965
+12-5 10:26:8.131 243.32 2dP:3.0 1dP:5.0
+2d$:n:863 max:245.3 [12-4 10:42] min:243.3 [12-5 10:13] rng:0.8% 1Key:[12-3 9:30] last:[12-5 10:26]
+1d$:n:83 max:244.5 [12-5 8:30] min:243.3 [12-5 10:13] rng:0.5% 1Key:[12-5 8:26] last:[12-5 10:26]
+10:26:13.495803 no blocking orders,empty
+10:26:14.498497 no blocking orders,empty
+10:26:15.249690 no blocking orders,empty
+10:26:16.751042 no blocking orders,empty
+10:26:17.521809 no blocking orders,empty
+10:26:19.506187 no blocking orders,empty
+10:26:20.256854 no blocking orders,empty
+10:26:25.264343 no blocking orders,empty
+10:26:29.607356 no blocking orders,empty
+10:26:35.544528 no blocking orders,empty
+10:26:36.361876 no blocking orders,empty
+10:26:38.615300 no blocking orders,empty
+10:26:41.389682 no blocking orders,empty
+10:26:42.042122 no blocking orders,empty
+10:26:45.547075 no blocking orders,empty
+10:26:46.398020 no blocking orders,empty
+10:26:47.114249 no blocking orders,empty
+10:26:48.650549 no blocking orders,empty
+10:26:50.807374 no blocking orders,empty
+10:26:51.628439 no blocking orders,empty
+10:26:52.308455 no blocking orders,empty
+10:26:55.813543 no blocking orders,empty
+10:27:01.656320 no blocking orders,empty
+10:27:04.076826 no blocking orders,empty
+10:27:12.589428 no blocking orders,empty
+10:27:13.339858 no blocking orders,empty
+10:27:22.978858 no blocking orders,empty
+10:27:23.878389 no blocking orders,empty
+10:27:26.949813 no blocking orders,empty
+10:27:31.620664 no blocking orders,empty
+10:27:41.888591 no blocking orders,empty
+10:27:42.638972 no blocking orders,empty
+10:27:43.390469 no blocking orders,empty
+10:27:45.144181 no blocking orders,empty
+10:27:48.398084 no blocking orders,empty
+10:27:50.195150 no blocking orders,empty
+10:27:50.905995 no blocking orders,empty
+10:27:51.733647 no blocking orders,empty
+10:27:52.405005 no blocking orders,empty
+10:27:53.164681 no blocking orders,empty
+10:27:54.408705 no blocking orders,empty
+10:27:55.159731 no blocking orders,empty
+10:27:56.911818 no blocking orders,empty
+10:27:59.722356 no blocking orders,empty
+10:28:01.262624 no blocking orders,empty
+10:28:01.971695 no blocking orders,empty
+10:28:08.161188 no blocking orders,empty
+10:28:08.935405 no blocking orders,empty
+10:28:10.437131 no blocking orders,empty
+10:28:12.729488 no blocking orders,empty
+10:28:15.484 no blocking orders,empty
+10:28:17.537119 no blocking orders,empty
+10:28:20.814789 no blocking orders,empty
+10:28:21.492969 no blocking orders,empty
+10:28:23.746508 no blocking orders,empty
+10:28:25.319465 no blocking orders,empty
+10:28:25.999888 no blocking orders,empty
+10:28:27.502749 no blocking orders,empty
+10:28:30.508473 no blocking orders,empty
+10:28:31.258125 no blocking orders,empty
+10:28:33.819510 no blocking orders,empty
+10:28:34.513725 no blocking orders,empty
+10:28:36.015832 no blocking orders,empty
+10:28:37.608907 no blocking orders,empty
+10:28:39.861062 no blocking orders,empty
+10:28:44.530295 no blocking orders,empty
+10:28:45.280896 no blocking orders,empty
+10:28:46.110097 no blocking orders,empty
+10:28:47.645720 no blocking orders,empty
+10:28:51.125839 no blocking orders,empty
+10:28:59.758731 no blocking orders,empty
+10:29:01.621158 no blocking orders,empty
+10:29:06.128362 no blocking orders,empty
+10:29:10.637968 no blocking orders,empty
+10:29:12.139972 no blocking orders,empty
+10:29:13.641633 no blocking orders,empty
+10:29:14.393296 no blocking orders,empty
+10:29:20.905409 no blocking orders,empty
+10:29:22.459685 no blocking orders,empty
+10:29:24.465366 no blocking orders,empty
+10:29:29.629412 no blocking orders,empty
+10:29:32.379172 no blocking orders,empty
+10:29:33.215727 no blocking orders,empty
+10:29:33.879795 no blocking orders,empty
+10:29:34.631867 no blocking orders,empty
+10:29:35.382728 no blocking orders,empty
+10:29:36.132904 no blocking orders,empty
+10:29:36.899940 no blocking orders,empty
+10:29:43.144133 no blocking orders,empty
+10:29:43.965621 no blocking orders,empty
+10:29:52.260199 no blocking orders,empty
+10:29:58.672838 no blocking orders,empty
+10:29:59.924253 no blocking orders,empty
+10:30:02.193806 no blocking orders,empty
+10:30:03.930097 no blocking orders,empty
+10:30:05.777897 no blocking orders,empty
+10:30:07.725369 no blocking orders,empty
+10:30:12.947640 no blocking orders,empty
+10:30:13.765562 no blocking orders,empty
+10:30:15.448950 no blocking orders,empty
+10:30:17.042311 no blocking orders,empty
+10:30:19.455620 no blocking orders,empty
+10:30:21.710159 no blocking orders,empty
+10:30:22.469658 no blocking orders,empty
+10:30:24.965637 no blocking orders,empty
+10:30:26.566010 no blocking orders,empty
+10:30:27.219452 no blocking orders,empty
+10:30:33.326118 no blocking orders,empty
+10:30:35.270301 no blocking orders,empty
+10:30:36.089867 no blocking orders,empty
+10:30:37.830335 no blocking orders,empty
+10:30:38.491845 no blocking orders,empty
+10:30:44.002806 no blocking orders,empty
+10:30:52.658637 no blocking orders,empty
+10:30:53.395665 no blocking orders,empty
+10:30:54.626852 no blocking orders,empty
+10:30:55.338194 no blocking orders,empty
+10:31:02.598190 no blocking orders,empty
+10:31:16.120999 no blocking orders,empty
+10:31:30.642509 no blocking orders,empty
+10:31:33.396689 no blocking orders,empty
+10:31:34.261573 no blocking orders,empty
+10:31:34.970940 no blocking orders,empty
+10:31:36.651685 no blocking orders,empty
+10:31:42.910871 no blocking orders,empty
+10:31:43.983087 no blocking orders,empty
+10:31:45.928522 no blocking orders,empty
+10:31:54.681873 no blocking orders,empty
+10:31:58.216809 no blocking orders,empty
+10:31:58.937369 no blocking orders,empty
+10:31:59.753380 no blocking orders,empty
+10:32:00.265571 no blocking orders,empty
+10:32:02.946697 no blocking orders,empty
+10:32:05.285182 no blocking orders,empty
+10:32:05.947973 no blocking orders,empty
+10:32:19.319588 no blocking orders,empty
+10:32:20.721344 no blocking orders,empty
+10:32:22.223276 no blocking orders,empty
+10:32:22.976193 no blocking orders,empty
+10:32:26.583655 no blocking orders,empty
+10:33:13.762738 no blocking orders,empty
+10:33:14.765174 no blocking orders,empty
+10:33:15.532256 no blocking orders,empty
+10:33:16.351841 no blocking orders,empty
+10:33:17.784880 no blocking orders,empty
+10:33:23.779407 no blocking orders,empty
+10:33:25.362627 no blocking orders,empty
+10:33:27.033827 no blocking orders,empty
+10:33:32.796376 no blocking orders,empty
+10:33:35.548231 no blocking orders,empty
+10:33:36.298198 no blocking orders,empty
+10:33:37.147017 no blocking orders,empty
+10:33:46.065491 no blocking orders,empty
+10:33:46.816951 no blocking orders,empty
+10:33:49.070740 no blocking orders,empty
+10:33:52.090379 no blocking orders,empty
+10:33:58.865827 no blocking orders,empty
+10:34:05.340149 no blocking orders,empty
+10:34:53.635229 no blocking orders,empty
+10:34:55.321254 no blocking orders,empty
+10:34:56.072014 no blocking orders,empty
+10:34:56.913222 no blocking orders,empty
+10:34:58.577113 no blocking orders,empty
+10:34:59.679542 no blocking orders,empty
+10:35:01.119560 no blocking orders,empty
+10:35:07.360081 no blocking orders,empty
+10:35:09.916794 no blocking orders,empty
+10:35:14.855723 no blocking orders,empty
+10:35:31.381340 no blocking orders,empty
+10:35:32.140164 no blocking orders,empty
+10:35:34.381655 no blocking orders,empty
+10:35:36.958675 no blocking orders,empty
+10:35:38.888827 no blocking orders,empty
+10:35:44.647737 no blocking orders,empty
+10:38:08.636929 no blocking orders,empty
+10:38:13.299452 no blocking orders,empty
+10:38:22.632714 no blocking orders,empty
+10:38:26.138314 no blocking orders,empty
+10:38:29.194802 no blocking orders,empty
+10:38:29.911430 no blocking orders,empty
+10:38:42.278199 no blocking orders,empty
+10:38:54.048337 no blocking orders,empty
+10:38:58.552198 no blocking orders,empty
+10:39:01.055250 no blocking orders,empty
+10:39:08.067979 no blocking orders,empty
+10:39:11.899847 no blocking orders,empty
+10:39:12.575421 no blocking orders,empty
+10:39:13.535393 no blocking orders,empty
+10:39:16.300218 no blocking orders,empty
+10:39:16.983218 no blocking orders,empty
+10:39:27.769601 no blocking orders,empty
+10:39:33.094737 no blocking orders,empty
+10:39:33.759576 no blocking orders,empty
+10:39:41.668394 no blocking orders,empty
+10:39:49.787022 no blocking orders,empty
+10:39:52.186037 no blocking orders,empty
+10:39:55.009600 no blocking orders,empty
+10:39:57.262256 no blocking orders,empty
+10:40:16.821733 no blocking orders,empty
+10:40:17.475085 no blocking orders,empty
+10:40:23.736808 no blocking orders,empty
+10:40:35.057451 no blocking orders,empty
+10:40:48.023972 no blocking orders,empty
+10:40:48.873074 no blocking orders,empty
+10:40:50.614487 no blocking orders,empty
+10:41:06.554371 no blocking orders,empty
+10:41:07.408974 no blocking orders,empty
+10:41:09.058718 no blocking orders,empty
+10:41:18.673234 no blocking orders,empty
+10:41:19.326681 no blocking orders,empty
+10:41:25.944911 no blocking orders,empty
+10:41:29.092416 no blocking orders,empty
+10:41:30.596662 no blocking orders,empty
+10:41:32.190923 no blocking orders,empty
+10:41:33.112569 no blocking orders,empty
+10:41:34.600048 no blocking orders,empty
+10:41:37.927261 no blocking orders,empty
+10:41:44.115070 no blocking orders,empty
+10:41:54.131075 no blocking orders,empty
+10:41:59.890567 no blocking orders,empty
+10:42:01.643437 no blocking orders,empty
+10:42:02.451400 no blocking orders,empty
+10:42:04.399761 no blocking orders,empty
+10:42:07.151789 no blocking orders,empty
+10:42:08.750181 no blocking orders,empty
+10:42:09.406303 no blocking orders,empty
+10:42:19.671295 no blocking orders,empty
+10:42:22.268020 no blocking orders,empty
+10:42:23.680200 no blocking orders,empty
+10:42:30.054908 no blocking orders,empty
+10:42:30.693324 no blocking orders,empty
+10:42:33.018156 no blocking orders,empty
+10:42:53.806026 no blocking orders,empty
+10:43:02.305191 no blocking orders,empty
+10:43:02.991864 no blocking orders,empty
+10:43:09.502722 no blocking orders,empty
+10:43:14.491990 no blocking orders,empty
+10:43:15.208612 no blocking orders,empty
+10:43:16.027387 no blocking orders,empty
+10:43:16.744770 no blocking orders,empty
+10:43:17.461181 no blocking orders,empty
+10:43:18.430698 no blocking orders,empty
+10:43:20.023509 no blocking orders,empty
+10:43:28.196124 no blocking orders,empty
+10:43:28.945508 no blocking orders,empty
+10:43:35.791946 no blocking orders,empty
+10:43:38.556673 no blocking orders,empty
+10:43:41.737319 no blocking orders,empty
+10:43:43.219234 no blocking orders,empty
+10:43:48.284668 no blocking orders,empty
+10:43:48.978125 no blocking orders,empty
+10:43:49.821014 no blocking orders,empty
+10:43:51.232487 no blocking orders,empty
+10:43:52.234624 no blocking orders,empty
+10:43:58.320599 no blocking orders,empty
+10:43:59.346866 no blocking orders,empty
+10:44:00.065018 no blocking orders,empty
+10:44:03.502105 no blocking orders,empty
+10:44:09.761663 no blocking orders,empty
+10:44:15.020429 no blocking orders,empty
+10:44:17.525859 no blocking orders,empty
+10:44:19.627051 no blocking orders,empty
+10:44:20.530273 no blocking orders,empty
+10:44:22.035153 no blocking orders,empty
+10:44:30.892030 no blocking orders,empty
+10:44:36.806953 no blocking orders,empty
+10:44:37.644540 no blocking orders,empty
+10:44:38.808979 no blocking orders,empty
+10:44:43.317354 no blocking orders,empty
+10:44:44.067629 no blocking orders,empty
+10:44:46.821024 no blocking orders,empty
+10:44:51.672882 no blocking orders,empty
+10:44:52.329329 no blocking orders,empty
+10:44:55.334572 no blocking orders,empty
+10:44:59.089104 no blocking orders,empty
+10:44:59.840319 no blocking orders,empty
+10:45:00.591075 no blocking orders,empty
+10:45:01.342044 no blocking orders,empty
+10:45:03.848058 no blocking orders,empty
+10:45:06.930916 no blocking orders,empty
+*Periodic Run* 12-5 11:26:8.223 last live feed time: 12-5 11:26 been:0min p:243.62 cost:242.3 p/cost:1.005
+p:243.62 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.964
+12-5 11:26:8.224 243.62 2dP:29.0 1dP:43.0
+2d$:n:923 max:245.3 [12-4 10:42] min:243.0 [12-5 10:42] rng:1.0% 1Key:[12-3 9:30] last:[12-5 11:26]
+1d$:n:143 max:244.5 [12-5 8:30] min:243.0 [12-5 10:42] rng:0.6% 1Key:[12-5 8:26] last:[12-5 11:26]
+11:54:29.541321 no blocking orders,empty
+11:54:31.999353 no blocking orders,empty
+11:54:35.441166 no blocking orders,empty
+11:54:41.727119 no blocking orders,empty
+11:54:44.705902 no blocking orders,empty
+11:54:51.046162 no blocking orders,empty
+11:54:51.762563 no blocking orders,empty
+11:54:52.967531 no blocking orders,empty
+11:54:57.292736 no blocking orders,empty
+11:55:08.557007 no blocking orders,empty
+11:55:12.744593 no blocking orders,empty
+11:55:25.515477 no blocking orders,empty
+11:55:36.280986 no blocking orders,empty
+11:55:37.783104 no blocking orders,empty
+11:55:38.868813 no blocking orders,empty
+11:55:39.535632 no blocking orders,empty
+11:55:41.289662 no blocking orders,empty
+11:55:57.915921 no blocking orders,empty
+11:56:00.884820 no blocking orders,empty
+11:56:02.423244 no blocking orders,empty
+11:56:03.174202 no blocking orders,empty
+11:56:11.228260 no blocking orders,empty
+11:56:13.438224 no blocking orders,empty
+11:56:15.692039 no blocking orders,empty
+11:56:16.442867 no blocking orders,empty
+11:56:17.193936 no blocking orders,empty
+11:56:19.700040 no blocking orders,empty
+11:56:20.547208 no blocking orders,empty
+11:56:21.265465 no blocking orders,empty
+11:56:22.953046 no blocking orders,empty
+11:56:23.704160 no blocking orders,empty
+11:56:24.541481 no blocking orders,empty
+11:56:25.974766 no blocking orders,empty
+11:56:28.711302 no blocking orders,empty
+11:56:31.811461 no blocking orders,empty
+11:56:33.348268 no blocking orders,empty
+11:56:43.075760 no blocking orders,empty
+11:56:44.816430 no blocking orders,empty
+11:56:49.527799 no blocking orders,empty
+11:56:50.199973 no blocking orders,empty
+11:56:54.960499 no blocking orders,empty
+11:56:59.467341 no blocking orders,empty
+11:57:00.218118 no blocking orders,empty
+11:57:02.220844 no blocking orders,empty
+12:08:15.362557 no blocking orders,empty
+12:08:16.865891 no blocking orders,empty
+12:08:18.367555 no blocking orders,empty
+12:08:22.392942 no blocking orders,empty
+12:09:44.701943 no blocking orders,empty
+12:09:51.961558 no blocking orders,empty
+12:09:53.224351 no blocking orders,empty
+12:09:54.556102 no blocking orders,empty
+12:09:59.220770 no blocking orders,empty
+12:10:01.476891 no blocking orders,empty
+12:10:06.232852 no blocking orders,empty
+12:10:07.561824 no blocking orders,empty
+12:10:22.306665 no blocking orders,empty
+12:10:27.405389 no blocking orders,empty
+12:10:32.051095 no blocking orders,empty
+12:10:45.320399 no blocking orders,empty
+12:10:49.326557 no blocking orders,empty
+12:10:51.580183 no blocking orders,empty
+12:10:56.202840 no blocking orders,empty
+12:10:56.802560 no blocking orders,empty
+12:11:20.932376 no blocking orders,empty
+12:11:28.051183 no blocking orders,empty
+12:11:49.554881 no blocking orders,empty
+12:11:50.246316 no blocking orders,empty
+12:11:52.498720 no blocking orders,empty
+12:11:56.229955 no blocking orders,empty
+12:12:03.562827 no blocking orders,empty
+12:12:05.742244 no blocking orders,empty
+12:12:08.097475 no blocking orders,empty
+12:12:11.749751 no blocking orders,empty
+12:12:12.751630 no blocking orders,empty
+12:12:13.518016 no blocking orders,empty
+12:12:14.254609 no blocking orders,empty
+12:12:15.004673 no blocking orders,empty
+12:12:16.591283 no blocking orders,empty
+12:12:19.510565 no blocking orders,empty
+12:12:21.095708 no blocking orders,empty
+12:12:22.276769 no blocking orders,empty
+12:12:24.884519 no blocking orders,empty
+12:12:25.503968 no blocking orders,empty
+12:12:27.533283 no blocking orders,empty
+12:12:29.037137 no blocking orders,empty
+12:12:29.799818 no blocking orders,empty
+12:12:35.739273 no blocking orders,empty
+12:12:37.139423 no blocking orders,empty
+12:12:38.892166 no blocking orders,empty
+12:12:39.735208 no blocking orders,empty
+12:12:40.395802 no blocking orders,empty
+12:12:41.166460 no blocking orders,empty
+12:12:42.146682 no blocking orders,empty
+12:12:43.899574 no blocking orders,empty
+12:12:44.650179 no blocking orders,empty
+12:12:46.151741 no blocking orders,empty
+12:12:50.907452 no blocking orders,empty
+12:12:51.713823 no blocking orders,empty
+12:12:52.738122 no blocking orders,empty
+12:12:55.664102 no blocking orders,empty
+12:12:56.415248 no blocking orders,empty
+12:12:58.680822 no blocking orders,empty
+12:13:00.170997 no blocking orders,empty
+12:13:00.930678 no blocking orders,empty
+12:13:01.749958 no blocking orders,empty
+12:13:04.675987 no blocking orders,empty
+12:13:07.281519 no blocking orders,empty
+12:13:09.021084 no blocking orders,empty
+12:13:11.434703 no blocking orders,empty
+12:13:12.194595 no blocking orders,empty
+12:13:15.786187 no blocking orders,empty
+12:13:17.007708 no blocking orders,empty
+12:13:17.693320 no blocking orders,empty
+12:13:18.543414 no blocking orders,empty
+12:13:19.444577 no blocking orders,empty
+12:13:20.284902 no blocking orders,empty
+12:13:28.957478 no blocking orders,empty
+12:13:29.708782 no blocking orders,empty
+12:13:32.573123 no blocking orders,empty
+12:13:33.213650 no blocking orders,empty
+12:13:33.963907 no blocking orders,empty
+12:13:37.469247 no blocking orders,empty
+12:13:37.969884 no blocking orders,empty
+12:13:43.477161 no blocking orders,empty
+12:13:46.482662 no blocking orders,empty
+12:13:48.343730 no blocking orders,empty
+12:13:49.265558 no blocking orders,empty
+12:13:51.988088 no blocking orders,empty
+12:13:54.078923 no blocking orders,empty
+12:13:54.743079 no blocking orders,empty
+12:13:55.493339 no blocking orders,empty
+12:13:58.585903 no blocking orders,empty
+12:13:59.249612 no blocking orders,empty
+12:14:00.250171 no blocking orders,empty
+12:14:03.503691 no blocking orders,empty
+12:14:04.256240 no blocking orders,empty
+12:14:05.506796 no blocking orders,empty
+12:14:07.759410 no blocking orders,empty
+12:14:10.012043 no blocking orders,empty
+12:14:12.767741 no blocking orders,empty
+12:14:15.019349 no blocking orders,empty
+12:14:16.521993 no blocking orders,empty
+12:14:25.533312 no blocking orders,empty
+12:14:27.535728 no blocking orders,empty
+12:14:32.542389 no blocking orders,empty
+12:14:33.417860 no blocking orders,empty
+12:14:34.794293 no blocking orders,empty
+12:14:38.800407 no blocking orders,empty
+12:14:39.648041 no blocking orders,empty
+12:14:45.810447 no blocking orders,empty
+12:14:46.561072 no blocking orders,empty
+12:14:47.634350 no blocking orders,empty
+12:14:49.173218 no blocking orders,empty
+12:14:59.578864 no blocking orders,empty
+12:15:01.080071 no blocking orders,empty
+12:15:03.833868 no blocking orders,empty
+12:15:05.146680 no blocking orders,empty
+12:15:06.682549 no blocking orders,empty
+12:15:10.843769 no blocking orders,empty
+12:15:11.844755 no blocking orders,empty
+12:15:12.848307 no blocking orders,empty
+12:15:15.850826 no blocking orders,empty
+12:15:16.621557 no blocking orders,empty
+12:15:19.354703 no blocking orders,empty
+12:15:22.452492 no blocking orders,empty
+12:15:37.378989 no blocking orders,empty
+12:15:39.149545 no blocking orders,empty
+12:15:49.145860 no blocking orders,empty
+12:15:51.648090 no blocking orders,empty
+12:15:55.734016 no blocking orders,empty
+12:16:01.411121 no blocking orders,empty
+12:16:04.916295 no blocking orders,empty
+12:16:14.179910 no blocking orders,empty
+12:16:14.929876 no blocking orders,empty
+12:16:16.431884 no blocking orders,empty
+12:16:17.432981 no blocking orders,empty
+12:16:23.691352 no blocking orders,empty
+12:16:40.074140 no blocking orders,empty
+12:16:44.580795 no blocking orders,empty
+12:16:48.985238 no blocking orders,empty
+12:16:53.079473 no blocking orders,empty
+12:17:11.821693 no blocking orders,empty
+12:17:22.367679 no blocking orders,empty
+12:17:31.033624 no blocking orders,empty
+12:17:36.603330 no blocking orders,empty
+12:17:39.543460 no blocking orders,empty
+12:17:57.362137 no blocking orders,empty
+12:18:04.659758 no blocking orders,empty
+12:18:08.142071 no blocking orders,empty
+12:18:09.629484 no blocking orders,empty
+12:18:13.468055 no blocking orders,empty
+12:18:14.183788 no blocking orders,empty
+12:18:16.888593 no blocking orders,empty
+12:18:17.640485 no blocking orders,empty
+12:18:27.151779 no blocking orders,empty
+12:18:36.712651 no blocking orders,empty
+12:18:45.425898 no blocking orders,empty
+12:18:53.199492 no blocking orders,empty
+12:18:56.223331 no blocking orders,empty
+12:19:01.949573 no blocking orders,empty
+12:19:07.832605 no blocking orders,empty
+12:19:14.601306 no blocking orders,empty
+12:19:21.851701 no blocking orders,empty
+12:19:27.709274 no blocking orders,empty
+12:19:49.623135 no blocking orders,empty
+12:19:50.306499 no blocking orders,empty
+12:19:55.158622 no blocking orders,empty
+12:19:55.812352 no blocking orders,empty
+12:19:59.817588 no blocking orders,empty
+12:20:06.076250 no blocking orders,empty
+12:20:07.339330 no blocking orders,empty
+12:20:08.327923 no blocking orders,empty
+12:20:14.337986 no blocking orders,empty
+12:20:15.087963 no blocking orders,empty
+12:20:16.589761 no blocking orders,empty
+12:20:17.841506 no blocking orders,empty
+12:20:20.094509 no blocking orders,empty
+12:20:24.132953 no blocking orders,empty
+12:20:24.854092 no blocking orders,empty
+12:20:27.606239 no blocking orders,empty
+12:20:28.606503 no blocking orders,empty
+12:20:30.859922 no blocking orders,empty
+12:20:34.681065 no blocking orders,empty
+12:20:36.218242 no blocking orders,empty
+12:20:42.464567 no blocking orders,empty
+12:20:47.132069 no blocking orders,empty
+12:20:51.140722 no blocking orders,empty
+12:20:53.216348 no blocking orders,empty
+12:20:58.147574 no blocking orders,empty
+12:20:58.897625 no blocking orders,empty
+12:21:00.149836 no blocking orders,empty
+12:21:03.904798 no blocking orders,empty
+12:21:06.158872 no blocking orders,empty
+12:21:10.164041 no blocking orders,empty
+12:21:10.937521 no blocking orders,empty
+12:21:13.922890 no blocking orders,empty
+12:21:14.788051 no blocking orders,empty
+12:21:15.642629 no blocking orders,empty
+12:21:22.048772 no blocking orders,empty
+12:21:37.659500 no blocking orders,empty
+12:21:39.825776 no blocking orders,empty
+12:21:48.106455 no blocking orders,empty
+12:21:50.359044 no blocking orders,empty
+12:21:59.853460 no blocking orders,empty
+12:22:03.875352 no blocking orders,empty
+12:22:11.230528 no blocking orders,empty
+12:22:19.952278 no blocking orders,empty
+12:22:34.900159 no blocking orders,empty
+12:22:35.651757 no blocking orders,empty
+12:22:40.906907 no blocking orders,empty
+12:22:49.920616 no blocking orders,empty
+12:22:54.258551 no blocking orders,empty
+12:23:05.691815 no blocking orders,empty
+12:23:08.287125 no blocking orders,empty
+12:23:18.731773 no blocking orders,empty
+12:23:21.804957 no blocking orders,empty
+12:23:22.464155 no blocking orders,empty
+12:23:25.286186 no blocking orders,empty
+12:23:37.062044 no blocking orders,empty
+12:23:41.573679 no blocking orders,empty
+12:23:47.247235 no blocking orders,empty
+12:23:50.251277 no blocking orders,empty
+12:23:51.754171 no blocking orders,empty
+12:23:53.756280 no blocking orders,empty
+12:23:58.940381 no blocking orders,empty
+12:24:10.762288 no blocking orders,empty
+12:24:13.518145 no blocking orders,empty
+12:24:17.162907 no blocking orders,empty
+12:24:23.921968 no blocking orders,empty
+12:24:34.920855 no blocking orders,empty
+12:24:35.589014 no blocking orders,empty
+12:24:40.450156 no blocking orders,empty
+12:24:45.237881 no blocking orders,empty
+12:25:00.477371 no blocking orders,empty
+12:25:15.574351 no blocking orders,empty
+12:25:18.250706 no blocking orders,empty
+12:25:24.009410 no blocking orders,empty
+12:25:25.611421 no blocking orders,empty
+12:25:30.267434 no blocking orders,empty
+12:25:31.018192 no blocking orders,empty
+12:25:33.272070 no blocking orders,empty
+12:25:34.023333 no blocking orders,empty
+12:25:36.362310 no blocking orders,empty
+12:25:37.081340 no blocking orders,empty
+12:25:38.615379 no blocking orders,empty
+12:25:50.084512 no blocking orders,empty
+*Periodic Run* 12-5 12:26:8.313 last live feed time: 12-5 12:25 been:0min p:242.51 cost:242.3 p/cost:1.001
+p:242.51 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.968
+12-5 12:26:8.314 242.51 2dP:3.0 1dP:4.0
+2d$:n:982 max:245.3 [12-4 10:42] min:242.4 [12-5 12:20] rng:1.2% 1Key:[12-3 9:30] last:[12-5 12:25]
+1d$:n:202 max:244.5 [12-5 8:30] min:242.4 [12-5 12:20] rng:0.8% 1Key:[12-5 8:26] last:[12-5 12:25]
+12:26:10.159721 no blocking orders,empty
+12:26:11.081532 no blocking orders,empty
+12:26:12.583835 no blocking orders,empty
+12:26:14.586392 no blocking orders,empty
+12:26:16.839671 no blocking orders,empty
+12:26:20.176217 no blocking orders,empty
+12:26:22.649466 no blocking orders,empty
+12:26:23.372092 no blocking orders,empty
+12:26:26.605045 no blocking orders,empty
+12:26:28.358006 no blocking orders,empty
+12:26:29.860513 no blocking orders,empty
+12:26:35.449578 no blocking orders,empty
+12:26:41.126580 no blocking orders,empty
+12:26:49.997063 no blocking orders,empty
+12:26:56.400144 no blocking orders,empty
+12:27:03.712960 no blocking orders,empty
+12:27:05.414962 no blocking orders,empty
+12:27:06.991910 no blocking orders,empty
+12:27:09.242345 no blocking orders,empty
+12:27:11.188138 no blocking orders,empty
+12:27:12.007650 no blocking orders,empty
+12:27:12.674276 no blocking orders,empty
+12:27:13.926099 no blocking orders,empty
+12:27:14.676785 no blocking orders,empty
+12:27:15.427302 no blocking orders,empty
+12:27:18.932506 no blocking orders,empty
+12:27:19.433774 no blocking orders,empty
+12:27:20.199794 no blocking orders,empty
+12:27:27.470454 no blocking orders,empty
+12:27:30.197283 no blocking orders,empty
+12:27:31.199116 no blocking orders,empty
+12:27:33.452526 no blocking orders,empty
+12:27:34.230162 no blocking orders,empty
+12:27:38.228134 no blocking orders,empty
+12:27:43.966034 no blocking orders,empty
+12:27:44.717456 no blocking orders,empty
+12:27:46.719834 no blocking orders,empty
+12:27:47.470970 no blocking orders,empty
+12:27:50.306787 no blocking orders,empty
+12:27:50.976105 no blocking orders,empty
+12:27:54.229938 no blocking orders,empty
+12:27:56.733376 no blocking orders,empty
+12:27:57.577539 no blocking orders,empty
+12:27:58.293766 no blocking orders,empty
+12:28:01.240639 no blocking orders,empty
+12:28:05.746837 no blocking orders,empty
+12:28:06.497662 no blocking orders,empty
+12:28:07.305328 no blocking orders,empty
+12:28:16.830191 no blocking orders,empty
+12:28:22.564470 no blocking orders,empty
+12:28:33.782051 no blocking orders,empty
+12:28:34.550837 no blocking orders,empty
+12:28:43.556828 no blocking orders,empty
+12:28:53.307969 no blocking orders,empty
+12:28:55.812281 no blocking orders,empty
+12:28:59.632933 no blocking orders,empty
+12:29:01.580637 no blocking orders,empty
+12:29:02.399280 no blocking orders,empty
+12:29:06.326390 no blocking orders,empty
+12:29:08.329199 no blocking orders,empty
+12:29:12.334090 no blocking orders,empty
+12:29:13.084919 no blocking orders,empty
+12:29:13.836343 no blocking orders,empty
+12:29:16.090246 no blocking orders,empty
+12:29:16.839855 no blocking orders,empty
+12:29:21.855335 no blocking orders,empty
+12:29:23.349428 no blocking orders,empty
+12:29:26.392184 no blocking orders,empty
+12:29:37.215390 no blocking orders,empty
+12:29:37.869570 no blocking orders,empty
+12:29:38.620261 no blocking orders,empty
+12:29:43.462316 no blocking orders,empty
+12:29:45.629802 no blocking orders,empty
+12:29:48.632772 no blocking orders,empty
+12:29:49.402172 no blocking orders,empty
+12:29:58.211160 no blocking orders,empty
+12:30:00.649012 no blocking orders,empty
+12:30:01.402058 no blocking orders,empty
+12:30:03.151666 no blocking orders,empty
+12:30:15.002947 no blocking orders,empty
+12:30:16.436429 no blocking orders,empty
+12:30:17.170240 no blocking orders,empty
+12:30:20.941719 no blocking orders,empty
+12:30:24.680806 no blocking orders,empty
+12:30:25.431387 no blocking orders,empty
+12:30:27.935416 no blocking orders,empty
+12:30:31.689388 no blocking orders,empty
+12:30:37.531995 no blocking orders,empty
+12:30:41.702917 no blocking orders,empty
+12:31:09.789408 no blocking orders,empty
+12:31:10.494578 no blocking orders,empty
+12:31:17.264422 no blocking orders,empty
+12:31:20.848653 no blocking orders,empty
+12:31:25.866957 no blocking orders,empty
+12:31:26.764569 no blocking orders,empty
+12:31:27.516270 no blocking orders,empty
+12:31:32.272273 no blocking orders,empty
+12:31:33.023252 no blocking orders,empty
+12:31:38.877751 no blocking orders,empty
+12:31:41.124418 no blocking orders,empty
+12:31:45.117906 no blocking orders,empty
+12:31:52.901271 no blocking orders,empty
+12:31:57.083370 no blocking orders,empty
+12:31:57.816796 no blocking orders,empty
+12:32:05.906186 no blocking orders,empty
+12:32:06.827779 no blocking orders,empty
+12:32:09.387716 no blocking orders,empty
+12:32:13.577736 no blocking orders,empty
+12:32:21.676302 no blocking orders,empty
+12:32:24.342387 no blocking orders,empty
+12:32:27.376625 no blocking orders,empty
+12:32:32.940899 no blocking orders,empty
+12:32:41.615115 no blocking orders,empty
+12:32:42.616624 no blocking orders,empty
+12:32:44.118858 no blocking orders,empty
+12:32:54.632401 no blocking orders,empty
+12:32:55.383288 no blocking orders,empty
+12:33:01.140317 no blocking orders,empty
+12:33:05.146426 no blocking orders,empty
+12:33:06.221660 no blocking orders,empty
+12:33:12.906550 no blocking orders,empty
+12:33:18.163491 no blocking orders,empty
+12:33:20.763207 no blocking orders,empty
+12:33:22.669778 no blocking orders,empty
+12:33:23.529427 no blocking orders,empty
+12:33:25.923411 no blocking orders,empty
+12:33:34.433063 no blocking orders,empty
+12:33:35.685734 no blocking orders,empty
+12:33:40.015512 no blocking orders,empty
+12:33:44.446193 no blocking orders,empty
+12:33:47.451380 no blocking orders,empty
+12:34:04.223734 no blocking orders,empty
+12:34:11.732711 no blocking orders,empty
+12:34:12.579736 no blocking orders,empty
+12:34:17.741192 no blocking orders,empty
+12:34:20.260775 no blocking orders,empty
+12:34:20.995229 no blocking orders,empty
+12:34:22.821558 no blocking orders,empty
+12:34:24.356159 no blocking orders,empty
+12:34:32.010243 no blocking orders,empty
+12:34:35.765304 no blocking orders,empty
+12:34:42.585055 no blocking orders,empty
+12:34:43.302028 no blocking orders,empty
+12:34:52.107290 no blocking orders,empty
+12:34:58.558726 no blocking orders,empty
+12:35:07.365537 no blocking orders,empty
+12:35:31.123287 no blocking orders,empty
+12:35:32.352042 no blocking orders,empty
+12:35:33.090609 no blocking orders,empty
+12:35:34.342421 no blocking orders,empty
+12:35:43.353228 no blocking orders,empty
+12:35:49.361581 no blocking orders,empty
+12:36:03.881485 no blocking orders,empty
+12:36:07.386676 no blocking orders,empty
+12:36:08.137508 no blocking orders,empty
+12:36:31.416974 no blocking orders,empty
+12:36:32.258982 no blocking orders,empty
+12:36:37.424920 no blocking orders,empty
+12:36:39.677803 no blocking orders,empty
+12:36:41.680778 no blocking orders,empty
+12:36:43.182116 no blocking orders,empty
+12:36:43.933089 no blocking orders,empty
+12:36:58.451813 no blocking orders,empty
+12:37:09.533307 no blocking orders,empty
+12:37:14.473918 no blocking orders,empty
+12:37:24.738579 no blocking orders,empty
+12:37:31.996678 no blocking orders,empty
+12:37:33.499237 no blocking orders,empty
+12:37:47.115906 no blocking orders,empty
+12:37:49.061331 no blocking orders,empty
+12:37:54.592268 no blocking orders,empty
+12:37:56.780285 no blocking orders,empty
+12:37:58.282473 no blocking orders,empty
+12:38:01.555170 no blocking orders,empty
+12:38:02.286885 no blocking orders,empty
+12:38:04.039630 no blocking orders,empty
+12:38:06.543423 no blocking orders,empty
+12:38:09.547068 no blocking orders,empty
+12:38:10.298295 no blocking orders,empty
+12:38:14.053027 no blocking orders,empty
+12:38:23.565976 no blocking orders,empty
+12:38:29.825081 no blocking orders,empty
+12:38:30.575797 no blocking orders,empty
+12:38:32.174204 no blocking orders,empty
+12:38:32.829211 no blocking orders,empty
+12:38:34.631025 no blocking orders,empty
+12:38:41.340529 no blocking orders,empty
+12:38:43.592622 no blocking orders,empty
+12:38:51.607582 no blocking orders,empty
+12:38:52.449080 no blocking orders,empty
+12:38:59.905655 no blocking orders,empty
+12:39:03.870081 no blocking orders,empty
+12:39:16.888862 no blocking orders,empty
+12:39:24.395190 no blocking orders,empty
+12:39:26.148052 no blocking orders,empty
+12:39:26.898785 no blocking orders,empty
+12:39:31.179373 no blocking orders,empty
+12:39:41.418437 no blocking orders,empty
+12:39:50.931646 no blocking orders,empty
+12:39:51.682111 no blocking orders,empty
+12:39:54.185423 no blocking orders,empty
+12:39:56.939948 no blocking orders,empty
+12:40:01.195343 no blocking orders,empty
+12:40:03.449647 no blocking orders,empty
+12:40:06.282599 no blocking orders,empty
+12:40:15.805916 no blocking orders,empty
+12:40:16.465936 no blocking orders,empty
+12:40:28.481099 no blocking orders,empty
+12:40:49.598925 no blocking orders,empty
+12:40:52.514024 no blocking orders,empty
+12:40:53.264254 no blocking orders,empty
+12:40:54.015894 no blocking orders,empty
+12:40:59.273284 no blocking orders,empty
+12:41:00.774256 no blocking orders,empty
+12:41:01.524963 no blocking orders,empty
+12:41:09.055932 no blocking orders,empty
+12:41:09.875570 no blocking orders,empty
+12:41:10.537147 no blocking orders,empty
+12:41:12.039142 no blocking orders,empty
+12:41:16.795831 no blocking orders,empty
+12:41:17.547080 no blocking orders,empty
+12:41:24.054487 no blocking orders,empty
+12:41:25.644969 no blocking orders,empty
+12:41:27.561596 no blocking orders,empty
+12:41:28.409886 no blocking orders,empty
+12:41:31.892429 no blocking orders,empty
+12:41:32.566337 no blocking orders,empty
+12:41:34.656922 no blocking orders,empty
+12:41:35.319593 no blocking orders,empty
+12:41:38.343732 no blocking orders,empty
+12:41:40.326265 no blocking orders,empty
+12:41:41.108473 no blocking orders,empty
+12:41:44.080390 no blocking orders,empty
+12:41:44.897852 no blocking orders,empty
+12:41:49.587957 no blocking orders,empty
+12:41:53.191924 no blocking orders,empty
+12:41:57.348031 no blocking orders,empty
+12:41:59.100911 no blocking orders,empty
+12:41:59.853967 no blocking orders,empty
+12:42:05.859824 no blocking orders,empty
+12:42:07.426423 no blocking orders,empty
+12:42:10.405624 no blocking orders,empty
+12:42:12.137223 no blocking orders,empty
+12:42:12.955599 no blocking orders,empty
+12:42:15.371747 no blocking orders,empty
+12:42:17.625736 no blocking orders,empty
+12:42:20.378900 no blocking orders,empty
+12:42:22.882478 no blocking orders,empty
+12:42:32.144493 no blocking orders,empty
+12:42:45.411682 no blocking orders,empty
+12:42:51.971438 no blocking orders,empty
+12:42:52.671367 no blocking orders,empty
+12:42:59.220418 no blocking orders,empty
+12:43:01.935761 no blocking orders,empty
+12:43:03.542811 no blocking orders,empty
+12:43:08.193624 no blocking orders,empty
+12:43:08.942591 no blocking orders,empty
+12:43:11.957427 no blocking orders,empty
+12:43:12.698227 no blocking orders,empty
+12:43:13.450045 no blocking orders,empty
+12:43:14.957504 no blocking orders,empty
+12:43:15.702300 no blocking orders,empty
+12:43:17.455482 no blocking orders,empty
+12:43:23.212818 no blocking orders,empty
+12:43:33.226359 no blocking orders,empty
+12:43:38.984418 no blocking orders,empty
+12:43:47.576864 no blocking orders,empty
+12:43:49.497772 no blocking orders,empty
+12:43:50.341596 no blocking orders,empty
+12:44:02.835147 no blocking orders,empty
+12:44:03.517109 no blocking orders,empty
+12:44:08.882736 no blocking orders,empty
+12:44:17.536380 no blocking orders,empty
+12:44:19.056346 no blocking orders,empty
+12:44:22.087734 no blocking orders,empty
+12:44:37.652705 no blocking orders,empty
+12:44:39.563630 no blocking orders,empty
+12:44:40.315102 no blocking orders,empty
+12:44:44.069517 no blocking orders,empty
+12:44:47.176146 no blocking orders,empty
+12:44:54.333423 no blocking orders,empty
+12:45:07.145508 no blocking orders,empty
+12:45:09.193505 no blocking orders,empty
+12:45:12.856212 no blocking orders,empty
+12:45:14.608232 no blocking orders,empty
+12:45:20.386131 no blocking orders,empty
+12:45:41.246723 no blocking orders,empty
+12:45:42.678864 no blocking orders,empty
+12:45:56.663419 no blocking orders,empty
+12:46:01.670431 no blocking orders,empty
+12:46:02.170783 no blocking orders,empty
+12:46:03.422875 no blocking orders,empty
+12:46:08.179665 no blocking orders,empty
+12:46:08.996161 no blocking orders,empty
+12:46:13.706925 no blocking orders,empty
+12:46:28.708086 no blocking orders,empty
+12:46:29.458321 no blocking orders,empty
+12:46:33.712885 no blocking orders,empty
+12:46:51.596556 no blocking orders,empty
+12:46:52.312759 no blocking orders,empty
+12:46:57.306822 no blocking orders,empty
+12:47:07.257755 no blocking orders,empty
+12:53:48.891758 no blocking orders,empty
+12:53:57.300730 no blocking orders,empty
+12:54:04.559884 no blocking orders,empty
+13:11:54.599795 no blocking orders,empty
+13:11:58.854171 no blocking orders,empty
+13:12:00.106682 no blocking orders,empty
+13:12:14.137523 no blocking orders,empty
+13:12:23.148283 no blocking orders,empty
+13:12:25.391569 no blocking orders,empty
+13:12:28.145287 no blocking orders,empty
+13:12:28.983810 no blocking orders,empty
+13:12:34.001142 no blocking orders,empty
+13:12:40.761359 no blocking orders,empty
+13:12:45.669370 no blocking orders,empty
+13:12:49.673863 no blocking orders,empty
+13:12:57.964388 no blocking orders,empty
+13:13:02.983272 no blocking orders,empty
+13:13:13.707069 no blocking orders,empty
+13:13:31.559088 no blocking orders,empty
+13:13:39.241384 no blocking orders,empty
+13:13:39.993385 no blocking orders,empty
+13:13:48.348712 no blocking orders,empty
+13:13:56.027024 no blocking orders,empty
+13:14:01.271134 no blocking orders,empty
+13:14:13.332888 no blocking orders,empty
+13:14:14.036947 no blocking orders,empty
+13:14:17.791916 no blocking orders,empty
+13:14:25.313901 no blocking orders,empty
+13:14:34.838251 no blocking orders,empty
+13:14:41.084387 no blocking orders,empty
+13:14:44.577402 no blocking orders,empty
+13:14:45.387054 no blocking orders,empty
+13:14:49.687950 no blocking orders,empty
+13:14:56.342770 no blocking orders,empty
+13:14:58.346355 no blocking orders,empty
+13:15:04.605002 no blocking orders,empty
+13:15:09.187959 no blocking orders,empty
+13:15:12.693012 no blocking orders,empty
+13:15:17.950180 no blocking orders,empty
+13:16:13.523020 no blocking orders,empty
+13:16:15.776626 no blocking orders,empty
+13:16:32.799889 no blocking orders,empty
+13:16:33.626380 no blocking orders,empty
+13:16:49.908524 no blocking orders,empty
+13:16:53.595458 no blocking orders,empty
+13:16:58.332987 no blocking orders,empty
+13:17:02.340927 no blocking orders,empty
+13:17:05.166768 no blocking orders,empty
+13:17:42.645294 no blocking orders,empty
+13:17:43.449537 no blocking orders,empty
+13:17:47.971420 no blocking orders,empty
+13:17:48.694870 no blocking orders,empty
+13:17:50.428975 no blocking orders,empty
+13:17:53.158988 no blocking orders,empty
+13:17:58.916661 no blocking orders,empty
+13:18:04.253745 no blocking orders,empty
+13:18:13.777594 no blocking orders,empty
+13:18:17.190822 no blocking orders,empty
+13:18:38.280074 no blocking orders,empty
+13:18:54.492277 no blocking orders,empty
+13:18:55.493322 no blocking orders,empty
+13:18:57.496205 no blocking orders,empty
+13:19:06.822232 no blocking orders,empty
+13:19:16.038825 no blocking orders,empty
+13:19:29.039189 no blocking orders,empty
+13:19:48.064995 no blocking orders,empty
+13:19:58.640270 no blocking orders,empty
+13:20:11.096361 no blocking orders,empty
+13:20:21.861175 no blocking orders,empty
+13:20:41.387509 no blocking orders,empty
+13:20:45.232653 no blocking orders,empty
+13:20:57.659080 no blocking orders,empty
+13:20:58.443448 no blocking orders,empty
+13:21:08.484612 no blocking orders,empty
+13:21:27.198942 no blocking orders,empty
+13:21:33.978504 no blocking orders,empty
+13:21:42.718489 no blocking orders,empty
+13:21:43.468724 no blocking orders,empty
+13:22:01.010613 no blocking orders,empty
+13:22:03.748549 no blocking orders,empty
+13:22:17.515685 no blocking orders,empty
+13:22:18.267117 no blocking orders,empty
+13:22:31.534458 no blocking orders,empty
+13:22:37.544012 no blocking orders,empty
+13:22:38.389064 no blocking orders,empty
+13:22:39.045235 no blocking orders,empty
+13:22:47.806746 no blocking orders,empty
+13:22:49.809673 no blocking orders,empty
+13:23:03.079415 no blocking orders,empty
+13:23:19.349883 no blocking orders,empty
+13:23:57.098550 no blocking orders,empty
+13:23:58.349851 no blocking orders,empty
+13:24:22.959096 no blocking orders,empty
+13:24:24.700182 no blocking orders,empty
+13:24:42.439924 no blocking orders,empty
+13:24:43.692893 no blocking orders,empty
+13:24:45.946720 no blocking orders,empty
+13:24:58.800322 no blocking orders,empty
+13:25:02.466364 no blocking orders,empty
+13:25:10.986941 no blocking orders,empty
+13:25:13.341600 no blocking orders,empty
+13:25:16.247412 no blocking orders,empty
+13:25:25.259293 no blocking orders,empty
+13:25:27.266180 no blocking orders,empty
+13:25:29.765033 no blocking orders,empty
+13:25:43.521537 no blocking orders,empty
+13:25:49.778903 no blocking orders,empty
+13:26:01.371996 no blocking orders,empty
+13:26:03.797742 no blocking orders,empty
+*Periodic Run* 12-5 13:26:7.606 last live feed time: 12-5 13:26 been:0min p:242.21 cost:242.3 p/cost:0.999
+p:242.21 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.969
+12-5 13:26:7.606 242.21 2dP:0.0 1dP:0.0
+2d$:n:1043 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-3 9:30] last:[12-5 13:26]
+1d$:n:263 max:244.5 [12-5 8:30] min:242.2 [12-5 12:43] rng:0.9% 1Key:[12-5 8:26] last:[12-5 13:26]
+13:26:08.850766 no blocking orders,empty
+13:26:13.811045 no blocking orders,empty
+13:26:19.904656 no blocking orders,empty
+13:26:21.337480 no blocking orders,empty
+13:26:31.681028 no blocking orders,empty
+13:26:38.951316 no blocking orders,empty
+13:26:52.613862 no blocking orders,empty
+13:27:03.128138 no blocking orders,empty
+13:27:08.955874 no blocking orders,empty
+13:27:09.637414 no blocking orders,empty
+13:27:12.391104 no blocking orders,empty
+13:27:36.501655 no blocking orders,empty
+13:27:38.425646 no blocking orders,empty
+13:27:41.429959 no blocking orders,empty
+13:27:43.774686 no blocking orders,empty
+13:27:46.236832 no blocking orders,empty
+13:27:47.938211 no blocking orders,empty
+13:27:52.477452 no blocking orders,empty
+13:27:53.296913 no blocking orders,empty
+13:27:53.949533 no blocking orders,empty
+13:27:57.450131 no blocking orders,empty
+13:27:58.212052 no blocking orders,empty
+13:27:59.031136 no blocking orders,empty
+13:27:59.748260 no blocking orders,empty
+13:28:02.002438 no blocking orders,empty
+13:28:06.715943 no blocking orders,empty
+13:28:08.215857 no blocking orders,empty
+13:28:09.066888 no blocking orders,empty
+13:28:24.736423 no blocking orders,empty
+13:28:25.553502 no blocking orders,empty
+13:28:32.246438 no blocking orders,empty
+13:28:40.094891 no blocking orders,empty
+13:28:41.324751 no blocking orders,empty
+13:28:42.552675 no blocking orders,empty
+13:28:48.082601 no blocking orders,empty
+13:28:54.526008 no blocking orders,empty
+13:28:56.529041 no blocking orders,empty
+13:29:03.647850 no blocking orders,empty
+13:29:04.290528 no blocking orders,empty
+13:29:09.547451 no blocking orders,empty
+13:29:12.801007 no blocking orders,empty
+13:29:21.563329 no blocking orders,empty
+13:29:25.317602 no blocking orders,empty
+13:29:28.826082 no blocking orders,empty
+13:29:36.935464 no blocking orders,empty
+13:29:38.336143 no blocking orders,empty
+13:29:39.838412 no blocking orders,empty
+13:29:48.200754 no blocking orders,empty
+13:29:57.862922 no blocking orders,empty
+13:29:58.613425 no blocking orders,empty
+13:30:01.117127 no blocking orders,empty
+13:30:01.869464 no blocking orders,empty
+13:30:10.379780 no blocking orders,empty
+13:30:13.636979 no blocking orders,empty
+13:30:30.156921 no blocking orders,empty
+13:30:32.159411 no blocking orders,empty
+13:30:35.196627 no blocking orders,empty
+13:30:47.679922 no blocking orders,empty
+13:30:56.693145 no blocking orders,empty
+13:30:57.520564 no blocking orders,empty
+13:30:58.694065 no blocking orders,empty
+13:31:02.026467 no blocking orders,empty
+13:31:07.957272 no blocking orders,empty
+13:31:14.716558 no blocking orders,empty
+13:31:41.349988 no blocking orders,empty
+13:31:45.257042 no blocking orders,empty
+13:31:59.026198 no blocking orders,empty
+13:32:07.360473 no blocking orders,empty
+13:32:10.124508 no blocking orders,empty
+13:32:15.546268 no blocking orders,empty
+13:32:21.553797 no blocking orders,empty
+13:32:52.110018 no blocking orders,empty
+13:33:03.109686 no blocking orders,empty
+*Periodic Run* 12-5 14:26:7.700 last live feed time: 12-5 14:25 been:0min p:242.68 cost:242.3 p/cost:1.001
+p:242.68 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.967
+12-5 14:26:7.701 242.68 2dP:16.0 1dP:21.0
+2d$:n:1102 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-3 9:30] last:[12-5 14:25]
+1d$:n:322 max:244.5 [12-5 8:30] min:242.2 [12-5 12:43] rng:1.0% 1Key:[12-5 8:26] last:[12-5 14:25]
+*Periodic Run* 12-5 15:26:7.794 last live feed time: 12-5 15:26 been:0min p:242.67 cost:242.3 p/cost:1.001
+p:242.67 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.967
+12-5 15:26:7.795 242.67 2dP:16.0 1dP:21.0
+2d$:n:1163 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-3 9:30] last:[12-5 15:26]
+1d$:n:383 max:244.5 [12-5 8:30] min:242.2 [12-5 12:43] rng:1.0% 1Key:[12-5 8:26] last:[12-5 15:26]
+*Periodic Run* 12-5 16:26:7.887 last live feed time: 12-5 16:25 been:0min p:242.87 cost:242.3 p/cost:1.002
+p:242.87 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.967
+12-5 16:26:7.887 242.87 2dP:22.0 1dP:30.0
+2d$:n:1204 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-3 9:30] last:[12-5 16:25]
+1d$:n:424 max:244.5 [12-5 8:30] min:242.2 [12-5 12:43] rng:1.0% 1Key:[12-5 8:26] last:[12-5 16:25]
+*Periodic Run* 12-5 17:26:10.186 last live feed time: 12-5 17:25 been:0min p:243.04 cost:242.3 p/cost:1.003
+p:243.04 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.966
+12-5 17:26:10.187 243.04 2dP:28.0 1dP:37.0
+2d$:n:1219 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-3 9:30] last:[12-5 17:25]
+1d$:n:439 max:244.5 [12-5 8:30] min:242.2 [12-5 12:43] rng:1.0% 1Key:[12-5 8:26] last:[12-5 17:25]
+*******************************************
+*STARTS* 12-6 8:47:14.289
+updating pos: GLD 12-6 8:47:16.476 pos:23 cost:242.34
+POS:23 COST:242.3 DELT:6k
+*Periodic Run* 12-6 8:47:34.443 last live feed time: 12-6 8:47 been:0min p:243.35 cost:242.3 p/cost:1.004
+p:243.35 rng:0.0% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.965
+12-6 8:47:34.444 243.35 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-6 8:47:57.897 rng:0.8% costTgt:0.98
+12-6 8:47:57.898 tgtMargin:1.01 tgtPrice:244.77
+ytdReturn:27.04%
+09:42:36.728695 no blocking orders,empty
+09:42:38.057786 no blocking orders,empty
+09:42:41.275640 no blocking orders,empty
+09:42:46.251981 no blocking orders,empty
+09:42:46.935716 no blocking orders,empty
+09:42:47.787129 no blocking orders,empty
+09:42:53.529115 no blocking orders,empty
+09:42:57.574771 no blocking orders,empty
+09:42:58.955155 no blocking orders,empty
+09:43:01.202732 no blocking orders,empty
+09:43:01.879041 no blocking orders,empty
+09:43:02.736998 no blocking orders,empty
+09:43:12.465176 no blocking orders,empty
+09:43:13.120038 no blocking orders,empty
+09:43:57.006250 no blocking orders,empty
+09:43:58.346188 no blocking orders,empty
+09:44:00.795521 no blocking orders,empty
+09:44:06.690152 no blocking orders,empty
+09:44:07.441094 no blocking orders,empty
+09:44:12.037953 no blocking orders,empty
+*Periodic Run* 12-6 9:47:35.776 last live feed time: 12-6 9:47 been:0min p:243.02 cost:242.3 p/cost:1.003
+p:243.02 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.966
+12-6 9:47:35.776 243.02 2dP:27.0 1dP:59.0
+2d$:n:833 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 9:47]
+1d$:n:53 max:243.5 [12-6 8:55] min:242.4 [12-6 9:12] rng:0.4% 1Key:[12-6 8:47] last:[12-6 9:47]
+*Periodic Run* 12-6 10:47:35.781 last live feed time: 12-6 10:47 been:0min p:243.21 cost:242.3 p/cost:1.004
+p:243.21 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.965
+12-6 10:47:35.784 243.21 2dP:33.0 1dP:62.0
+2d$:n:893 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 10:47]
+1d$:n:113 max:243.7 [12-6 10:12] min:242.4 [12-6 9:12] rng:0.5% 1Key:[12-6 8:47] last:[12-6 10:47]
+*Periodic Run* 12-6 11:47:35.877 last live feed time: 12-6 11:47 been:0min p:243.69 cost:242.3 p/cost:1.006
+p:243.69 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.963
+12-6 11:47:35.879 243.69 2dP:49.0 1dP:91.0
+2d$:n:953 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 11:47]
+1d$:n:173 max:243.8 [12-6 11:38] min:242.4 [12-6 9:12] rng:0.6% 1Key:[12-6 8:47] last:[12-6 11:47]
+*Periodic Run* 12-6 12:47:35.972 last live feed time: 12-6 12:47 been:0min p:243.25 cost:242.3 p/cost:1.004
+p:243.25 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.965
+12-6 12:47:35.973 243.25 2dP:35.0 1dP:60.0
+2d$:n:1013 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 12:47]
+1d$:n:233 max:243.8 [12-6 11:38] min:242.4 [12-6 9:12] rng:0.6% 1Key:[12-6 8:47] last:[12-6 12:47]
+*Periodic Run* 12-6 13:47:36.077 last live feed time: 12-6 13:47 been:0min p:243.37 cost:242.3 p/cost:1.004
+p:243.37 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.965
+12-6 13:47:36.078 243.37 2dP:39.0 1dP:68.0
+2d$:n:1073 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 13:47]
+1d$:n:293 max:243.8 [12-6 11:38] min:242.4 [12-6 9:12] rng:0.6% 1Key:[12-6 8:47] last:[12-6 13:47]
+*Periodic Run* 12-6 14:47:36.171 last live feed time: 12-6 14:47 been:0min p:243.14 cost:242.3 p/cost:1.003
+p:243.14 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.966
+12-6 14:47:36.173 243.14 2dP:31.0 1dP:52.0
+2d$:n:1132 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 14:47]
+1d$:n:352 max:243.8 [12-6 11:38] min:242.4 [12-6 9:12] rng:0.6% 1Key:[12-6 8:47] last:[12-6 14:47]
+*Periodic Run* 12-6 15:47:36.266 last live feed time: 12-6 15:47 been:0min p:243.19 cost:242.3 p/cost:1.004
+p:243.19 rng:0.8% pos:23 delt:6k cost:242.3 fullLot:82 refillP:234.78 costTgt:0.98 refillP/cost:0.969 refillP/px:0.965
+12-6 15:47:36.268 243.19 2dP:33.0 1dP:56.0
+2d$:n:1190 max:245.3 [12-4 10:42] min:242.2 [12-5 12:43] rng:1.3% 1Key:[12-4 9:30] last:[12-6 15:47]
+1d$:n:410 max:243.8 [12-6 11:38] min:242.4 [12-6 9:12] rng:0.6% 1Key:[12-6 8:47] last:[12-6 15:47]
+*******************************************
+*STARTS* 12-9 8:45:43.041
+updating pos: GLD 12-9 8:45:45.350 pos:23 cost:242.34
+POS:23 COST:242.3 DELT:6k
+*Periodic Run* 12-9 8:46:3.320 8:46:03 no live feed
+12-9 8:46:3.321 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-9 8:46:59.178 rng:0.8% costTgt:0.98
+12-9 8:46:59.186 tgtMargin:1.01 tgtPrice:244.77
+ytdReturn:27.09%
+******************CUT**************************
+CUT 12-9 9:30:00 1dP:100.0 2dp:100.0 px246.26 cost:242.34162175 px/Cost:1.0162 reqMargin:1.01 rng:0.0084
+0:241209003 GLD SELL 7 @246.75 9:30
+0: SELL GLD 12-9 9:30 CUTTER Created target margin:1.01 cost*target margin:244.77 askPx:246.26
+1:241209004 GLD SELL 7 @248.72 9:30
+1: SELL GLD 12-9 9:30 CUTTER Created target margin:1.01 cost*target margin:244.77 askPx:246.26
+2:241209005 GLD SELL 9 @251.19 9:30
+2: SELL GLD 12-9 9:30 CUTTER Created target margin:1.01 cost*target margin:244.77 askPx:246.26
+2D$:n:815 max:246.3 [12-9 9:28] min:242.2 [12-5 12:43] rng:1.7% 1Key:[12-5 9:30] last:[12-9 9:30]
+1D$:n:35 max:246.3 [12-9 9:28] min:245.9 [12-9 8:46] rng:0.2% 1Key:[12-9 8:46] last:[12-9 9:30]
+12-9 9:30:3.294 *openOrder* status:PreSubmitted 241209004 SELL 7@248.72
+12-9 9:30:3.295 *openOrder* all live orders [241209004 SELL 7@248.72]
+12-9 9:30:3.296 *OrderStatus*:PreSubmitted orderId:241209004 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+12-9 9:30:3.298 *openOrder* status:PreSubmitted 241209003 SELL 7@246.75
+12-9 9:30:3.298 *openOrder* all live orders [241209003 SELL 7@246.75, 241209004 SELL 7@248.72]
+12-9 9:30:3.300 *OrderStatus*:PreSubmitted orderId:241209003 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+12-9 9:30:3.314 *openOrder* status:Submitted 241209005 SELL 9@251.19
+12-9 9:30:3.315 *openOrder* all live orders [241209003 SELL 7@246.75, 241209004 SELL 7@248.72, 241209005 SELL 9@251.19]
+12-9 9:30:3.316 *OrderStatus*:Submitted orderId:241209005 filled:0 remaining:9 avgFillPx:0.0 lastFillPx:0.0
+12-9 9:30:5.160 *openOrder* status:Submitted 241209003 SELL 7@246.75
+12-9 9:30:5.163 *openOrder* all live orders [241209003 SELL 7@246.75, 241209004 SELL 7@248.72, 241209005 SELL 9@251.19]
+12-9 9:30:5.166 *OrderStatus*:Submitted orderId:241209003 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+12-9 9:30:5.167 *openOrder* status:Submitted 241209004 SELL 7@248.72
+12-9 9:30:5.168 *openOrder* all live orders [241209003 SELL 7@246.75, 241209004 SELL 7@248.72, 241209005 SELL 9@251.19]
+12-9 9:30:5.170 *OrderStatus*:Submitted orderId:241209004 filled:0 remaining:7 avgFillPx:0.0 lastFillPx:0.0
+updating pos: GLD 12-9 9:43:40.823 pos:16 cost:242.34
+12-9 9:43:40.825 *tradeReport* time: 2024-12-09T09:43:42 SLD execPx:246.75 shares:7 avgPx:246.75
+12-9 9:43:40.829 *openOrder* status:Filled 241209003 SELL 7@246.75
+12-9 9:43:40.830 *openOrder*:removing order.Status:Filled 241209003 SELL 7@246.75
+12-9 9:43:40.831 *openOrder*:after removal.OpenOrders: [241209004, 241209005]
+12-9 9:43:40.831 *openOrder* all live orders [241209004 SELL 7@248.72, 241209005 SELL 9@251.19]
+12-9 9:43:40.832 *OrderStatus*:Filled orderId:241209003 filled:7 remaining:0 avgFillPx:246.75 lastFillPx:246.75
+12-9 9:43:40.832 *openOrder* status:Filled 241209003 SELL 7@246.75
+12-9 9:43:40.833 *openOrder*:removing order.Status:Filled 241209003 SELL 7@246.75
+12-9 9:43:40.833 *openOrder*:after removal.OpenOrders: [241209004, 241209005]
+12-9 9:43:40.833 *openOrder* all live orders [241209004 SELL 7@248.72, 241209005 SELL 9@251.19]
+12-9 9:43:40.834 *OrderStatus*:Filled orderId:241209003 filled:7 remaining:0 avgFillPx:246.75 lastFillPx:246.75
+computed Pnl:30.468674749999987
+1.*commission report*:241209003 commission:0.39 realized pnl:30.47 computed Pnl:30.47
+2.*commission report* orderID:241209003 commission: 0.39 realized pnl: 30.47
+updating pos: GLD 12-9 9:43:40.837 pos:16 cost:242.34
+updating pos: GLD 12-9 9:43:40.837 pos:16 cost:242.34
+*Periodic Run* 12-9 9:46:3.206 last live feed time: 12-9 9:46 been:0min p:246.58 cost:242.3 p/cost:1.017
+p:246.58 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.955
+12-9 9:46:3.207 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 9:46:3.211 *chek openOrders*: [241209004, 241209005]
+12-9 9:46:3.211 246.58 2dP:98.0 1dP:87.0
+2d$:n:831 max:246.7 [12-9 9:43] min:242.2 [12-5 12:43] rng:1.9% 1Key:[12-5 9:30] last:[12-9 9:46]
+1d$:n:51 max:246.7 [12-9 9:43] min:245.9 [12-9 8:46] rng:0.3% 1Key:[12-9 8:46] last:[12-9 9:46]
+updating pos: GLD 12-9 9:47:47.891 pos:16 cost:242.34
+*Periodic Run* 12-9 10:46:3.269 last live feed time: 12-9 10:45 been:0min p:246.51 cost:242.3 p/cost:1.017
+p:246.51 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.956
+12-9 10:46:3.270 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 10:46:3.270 *chek openOrders*: [241209004, 241209005]
+12-9 10:46:3.271 246.51 2dP:89.0 1dP:55.0
+2d$:n:890 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 10:45]
+1d$:n:110 max:247.1 [12-9 10:16] min:245.9 [12-9 8:46] rng:0.5% 1Key:[12-9 8:46] last:[12-9 10:45]
+*Periodic Run* 12-9 11:46:3.333 last live feed time: 12-9 11:46 been:0min p:246.35 cost:242.3 p/cost:1.017
+p:246.35 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.956
+12-9 11:46:3.334 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 11:46:3.334 *chek openOrders*: [241209004, 241209005]
+12-9 11:46:3.334 246.35 2dP:86.0 1dP:41.0
+2d$:n:951 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 11:46]
+1d$:n:171 max:247.1 [12-9 10:16] min:245.9 [12-9 8:46] rng:0.5% 1Key:[12-9 8:46] last:[12-9 11:46]
+*Periodic Run* 12-9 12:46:3.400 last live feed time: 12-9 12:46 been:0min p:246.05 cost:242.3 p/cost:1.015
+p:246.05 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.957
+12-9 12:46:3.401 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 12:46:3.401 *chek openOrders*: [241209004, 241209005]
+12-9 12:46:3.401 246.05 2dP:79.0 1dP:16.0
+2d$:n:1011 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 12:46]
+1d$:n:231 max:247.1 [12-9 10:16] min:245.9 [12-9 8:46] rng:0.5% 1Key:[12-9 8:46] last:[12-9 12:46]
+*Periodic Run* 12-9 13:46:5.259 last live feed time: 12-9 13:46 been:0min p:245.91 cost:242.3 p/cost:1.015
+p:245.91 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.958
+12-9 13:46:5.261 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 13:46:5.262 *chek openOrders*: [241209004, 241209005]
+12-9 13:46:5.262 245.91 2dP:77.0 1dP:13.0
+2d$:n:1071 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 13:46]
+1d$:n:291 max:247.1 [12-9 10:16] min:245.7 [12-9 13:37] rng:0.5% 1Key:[12-9 8:46] last:[12-9 13:46]
+*Periodic Run* 12-9 14:46:5.371 last live feed time: 12-9 14:46 been:0min p:245.57 cost:242.3 p/cost:1.013
+p:245.57 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.959
+12-9 14:46:5.372 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 14:46:5.373 *chek openOrders*: [241209004, 241209005]
+12-9 14:46:5.373 245.57 2dP:70.0 1dP:1.0
+2d$:n:1131 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 14:46]
+1d$:n:351 max:247.1 [12-9 10:16] min:245.6 [12-9 14:25] rng:0.6% 1Key:[12-9 8:46] last:[12-9 14:46]
+*Periodic Run* 12-9 15:46:5.476 last live feed time: 12-9 15:46 been:0min p:245.37 cost:242.3 p/cost:1.012
+p:245.37 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.96
+12-9 15:46:5.478 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 15:46:5.479 *chek openOrders*: [241209004, 241209005]
+12-9 15:46:5.479 245.37 2dP:65.0 1dP:4.0
+2d$:n:1191 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 15:46]
+1d$:n:411 max:247.1 [12-9 10:16] min:245.3 [12-9 15:27] rng:0.7% 1Key:[12-9 8:46] last:[12-9 15:46]
+*Periodic Run* 12-9 16:46:5.581 last live feed time: 12-9 16:45 been:1min p:245.51 cost:242.3 p/cost:1.013
+p:245.51 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.96
+12-9 16:46:5.582 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 16:46:5.583 *chek openOrders*: [241209004, 241209005]
+12-9 16:46:5.583 245.51 2dP:68.0 1dP:12.0
+2d$:n:1222 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 16:45]
+1d$:n:442 max:247.1 [12-9 10:16] min:245.3 [12-9 15:27] rng:0.7% 1Key:[12-9 8:46] last:[12-9 16:45]
+*Periodic Run* 12-9 17:46:5.691 last live feed time: 12-9 17:42 been:3min p:245.7 cost:242.3 p/cost:1.014
+p:245.7 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.959
+12-9 17:46:5.692 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 17:46:5.693 *chek openOrders*: [241209004, 241209005]
+12-9 17:46:5.693 245.7 2dP:72.0 1dP:24.0
+2d$:n:1233 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 17:42]
+1d$:n:453 max:247.1 [12-9 10:16] min:245.3 [12-9 17:27] rng:0.7% 1Key:[12-9 8:46] last:[12-9 17:42]
+*Periodic Run* 12-9 18:46:5.802 last live feed time: 12-9 18:01 been:44min p:245.72 cost:242.3 p/cost:1.014
+p:245.72 rng:0.8% pos:16 delt:4k cost:242.3 fullLot:81 refillP:235.58 costTgt:0.98 refillP/cost:0.972 refillP/px:0.959
+12-9 18:46:5.803 *chek orderStatus [241209003=Filled, 241209004=Submitted, 241209005=Submitted]
+12-9 18:46:5.804 *chek openOrders*: [241209004, 241209005]
+12-9 18:46:5.804 245.72 2dP:73.0 1dP:25.0
+2d$:n:1235 max:247.1 [12-9 10:16] min:242.2 [12-5 12:43] rng:2.0% 1Key:[12-5 9:30] last:[12-9 18:01]
+1d$:n:455 max:247.1 [12-9 10:16] min:245.3 [12-9 17:27] rng:0.7% 1Key:[12-9 8:46] last:[12-9 18:01]
