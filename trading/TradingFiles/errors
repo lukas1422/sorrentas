@@ -17,3 +17,341 @@ commission report issue tradekey:0001051b.67583778.01 report:ID:0001051b.6758377
 *openOrder* Error 12-11 14:20:36.148 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 12-11 14:20:36.925 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 *openOrder* Error 12-11 18:00:1.014 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:14:49 EST: 12-12 8:14:49.187
+*openOrder* Error 12-12 8:15:3.813 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-12 8:17:13.836 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-12 8:17:13.861 orderId:60150 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.862 orderId:60185 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.863 orderId:60120 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.864 orderId:60190 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.864 orderId:60145 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.865 orderId:60180 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.866 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.867 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.868 orderId:60015 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.868 orderId:60125 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.869 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.870 orderId:60130 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.870 orderId:60170 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.871 orderId:60160 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.872 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.873 orderId:60200 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.873 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.874 orderId:60155 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.875 orderId:60135 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.877 orderId:60140 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.878 orderId:60165 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:13.878 orderId:60175 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:17:28.255 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-12 8:17:28.261 orderId:60150 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.273 orderId:60185 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.279 orderId:60120 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.287 orderId:60190 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.291 orderId:60145 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.298 orderId:60180 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.302 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.306 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.310 orderId:60015 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.316 orderId:60125 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.321 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.325 orderId:60130 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.332 orderId:60170 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.342 orderId:60160 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.343 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.349 orderId:60200 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.355 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.361 orderId:60155 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.366 orderId:60135 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.379 orderId:60140 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.384 orderId:60165 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:17:28.387 orderId:60175 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:18:42.028 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-12 8:18:42.030 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:18:42.031 orderId:60175 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 8:18:44.026 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-12 8:18:44.029 orderId:60175 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 8:20:10.929 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-12 8:25:44.087 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 12-12 9:30:0.753 orderId:241212004 errorCode:103 msg:Duplicate order id
+*****START***** HKT: 22:44:07 EST: 12-12 9:44:7.021
+*openOrder* Error 12-12 9:44:13.187 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-12 9:45:18.947 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-12 9:45:18.950 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 9:45:18.951 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 9:45:18.953 orderId:60130 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-12 9:45:22.988 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-12 9:45:22.989 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 9:45:22.997 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-12 9:52:23.094 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 12-12 14:17:38.722 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-12 14:17:39.896 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-12 14:32:10.698 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-12 14:32:12.050 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 21:46:55 EST: 12-13 8:46:55.135
+*openOrder* Error 12-13 8:47:5.084 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-13 8:47:9.787 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-13 8:47:9.789 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-13 8:47:11.868 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 12-13 8:47:12.370 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 12-13 8:47:13.456 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 12-13 8:47:15.074 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 12-13 8:47:15.078 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*****START***** HKT: 21:47:40 EST: 12-13 8:47:40.071
+*openOrder* Error 12-13 8:49:34.967 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-13 8:49:34.995 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-13 8:49:36.988 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-13 8:53:15.104 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-13 8:55:37.020 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-12-13T10:00:00.292 Adder: ytd < -10% cannot trade:-0.2384505021520804
+ADM 2024-12-13T10:00:03.798 Adder: ytd < -10% cannot trade:-0.2384505021520804
+ADM 2024-12-13T10:00:06.377 Adder: ytd < -10% cannot trade:-0.2384505021520804
+ADM 2024-12-13T10:00:08.806 Adder: ytd < -10% cannot trade:-0.2384505021520804
+ADM 2024-12-13T10:00:09.659 Adder: ytd < -10% cannot trade:-0.2384505021520804
+ADM 2024-12-13T10:01:00.848 Adder: ytd < -10% cannot trade:-0.2384505021520804
+ADM 2024-12-13T10:02:00.719 Adder: ytd < -10% cannot trade:-0.2384505021520804
+*openOrder* Error 12-13 15:09:6.646 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-13 15:09:8.621 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-13 15:09:39.716 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-13 15:09:40.348 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-13 15:16:51.756 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-13 15:16:52.399 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-13 15:23:22.221 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-13 15:23:24.306 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-13 18:00:1.121 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:14:46 EST: 12-16 8:14:46.940
+*openOrder* Error 12-16 8:14:54.134 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-16 8:14:54.136 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-16 8:20:17.575 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+GLD 2024-12-16T10:00:00.280 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:00.990 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:01.676 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:02.427 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:03.930 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:04.779 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:06.183 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:00:07.749 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:00.587 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:01.408 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:02.589 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:03.354 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:04.174 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:04.890 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:05.595 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:06.426 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:07.096 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:01:09.100 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:02:00.561 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:02:06.741 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:03:00.984 Adder: ytd < -10% cannot trade:-1.0
+SLV 2024-12-16T10:03:02.245 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:03:06.794 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:04:01.741 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:04:03.278 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:04:03.995 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:04:05.531 Adder: ytd < -10% cannot trade:-1.0
+GLD 2024-12-16T10:04:07.066 Adder: ytd < -10% cannot trade:-1.0
+SLV 2024-12-16T10:04:08.199 Adder: ytd < -10% cannot trade:-1.0
+SLV 2024-12-16T10:04:08.943 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:00:00.165 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:00:01.906 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:00:01.909 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:00:02.581 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:00:05.901 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:00:05.903 Adder: ytd < -10% cannot trade:-1.0
+IP 2024-12-16T12:00:06.583 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:00:06.585 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:00:07.439 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:00:07.585 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:00:09.086 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:01:01.407 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:01:05.412 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:01:06.216 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:01:06.664 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:01:06.914 Adder: ytd < -10% cannot trade:-1.0
+IP 2024-12-16T12:01:07.242 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:02:02.489 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:02:03.240 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:02:04.075 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:02:06.326 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:02:08.749 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:03:00.818 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:03:01.570 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:03:02.342 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:03:04.333 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:03:05.414 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:03:06.075 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:03:07.667 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:03:08.328 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T12:04:00.399 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:04:02.965 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:04:03.654 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:04:04.155 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:04:04.906 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T12:04:07.275 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T12:04:09.162 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:00:00.857 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:00:01.712 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:00:02.430 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:00:03.145 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:00:03.148 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:00:05.705 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:00:06.218 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:00:07.617 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:00:07.959 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:00:08.473 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:00:08.474 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:01:02.172 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:01:05.177 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:01:06.022 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:01:06.945 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:01:07.429 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:01:08.931 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:01:09.196 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:01:09.682 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:01:09.932 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:01:09.933 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:02:00.604 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:02:01.773 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:02:07.281 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:02:08.796 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:02:09.615 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:03:00.853 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:03:04.107 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:03:04.859 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:03:05.108 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:03:06.141 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:03:07.377 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:03:07.677 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:03:08.190 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:03:09.364 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:03:09.931 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:04:01.012 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:04:01.764 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:04:03.283 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:04:03.285 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:04:06.048 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:04:06.050 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:04:06.521 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:04:06.874 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T13:04:07.272 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T13:04:07.585 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T13:04:09.326 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:00:07.202 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:00:08.955 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:00:09.705 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:00:09.707 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:01:00.668 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:01:05.915 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:01:07.168 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:01:07.918 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:01:08.418 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:01:08.669 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:02:02.447 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:02:03.954 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:02:05.444 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:02:08.448 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:02:09.199 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:02:09.952 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:03:01.199 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:03:03.441 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:03:04.192 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T14:03:08.265 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T14:03:09.493 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:03:09.495 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T14:04:00.069 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:04:00.744 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:04:00.746 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T14:04:00.994 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:04:01.514 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:04:01.996 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:04:02.747 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:04:03.002 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:04:03.499 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:04:03.767 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T14:04:04.001 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:04:04.504 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T14:04:04.792 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T14:04:04.795 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T14:04:04.797 Adder: ytd < -10% cannot trade:-1.0
+BRK B 2024-12-16T14:04:05.757 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T14:04:07.005 Adder: ytd < -10% cannot trade:-1.0
+*openOrder* Error 12-16 14:24:4.609 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-16 14:24:5.833 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-16 14:32:8.351 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-16 14:32:9.031 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+MRK 2024-12-16T15:00:00.067 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:00.240 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:00:00.491 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:00:00.742 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:00:00.992 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:00:01.494 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:01.808 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:00:01.993 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:02.494 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:00:02.497 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:03.345 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:04.747 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:05.515 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:00:06.267 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:00:06.516 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:00:06.766 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:06.768 Adder: ytd < -10% cannot trade:-1.0
+ADM 2024-12-16T15:00:07.032 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:00:08.362 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:00:08.520 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:00:09.079 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:00:09.270 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:00:09.771 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:01:00.896 Adder: ytd < -10% cannot trade:-1.0
+ADM 2024-12-16T15:01:02.380 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:01:02.880 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:01:03.661 Adder: ytd < -10% cannot trade:-1.0
+ADM 2024-12-16T15:01:04.382 Adder: ytd < -10% cannot trade:-1.0
+AWK 2024-12-16T15:01:04.886 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:01:06.887 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:01:07.388 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:01:07.655 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:01:08.139 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:01:08.890 Adder: ytd < -10% cannot trade:-1.0
+ADM 2024-12-16T15:01:09.197 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:02:00.597 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:02:03.260 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:02:04.253 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:02:05.103 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:02:05.106 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:02:05.255 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:02:06.024 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:02:06.332 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:02:06.508 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:02:06.845 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:02:08.585 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:02:09.261 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:03:01.774 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:03:02.300 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:03:02.302 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:03:03.026 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:03:04.094 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:03:04.779 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:03:05.625 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:03:07.058 Adder: ytd < -10% cannot trade:-1.0
+AWK 2024-12-16T15:03:07.534 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:03:08.593 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:03:09.285 Adder: ytd < -10% cannot trade:-1.0
+CL 2024-12-16T15:03:09.617 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:01.333 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:02.150 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:04.556 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:04:05.308 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:05.311 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:04:05.632 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:06.058 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:06.810 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:04:07.060 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:04:07.811 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:04:08.061 Adder: ytd < -10% cannot trade:-1.0
+JNJ 2024-12-16T15:04:08.815 Adder: ytd < -10% cannot trade:-1.0
+KO 2024-12-16T15:04:08.817 Adder: ytd < -10% cannot trade:-1.0
+AWK 2024-12-16T15:04:09.063 Adder: ytd < -10% cannot trade:-1.0
+MRK 2024-12-16T15:04:09.312 Adder: ytd < -10% cannot trade:-1.0
+AWK 2024-12-16T15:04:09.814 Adder: ytd < -10% cannot trade:-1.0
+*openOrder* Error 12-16 18:00:1.206 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
