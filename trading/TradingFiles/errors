@@ -355,3 +355,144 @@ AWK 2024-12-16T15:04:09.063 Adder: ytd < -10% cannot trade:-1.0
 MRK 2024-12-16T15:04:09.312 Adder: ytd < -10% cannot trade:-1.0
 AWK 2024-12-16T15:04:09.814 Adder: ytd < -10% cannot trade:-1.0
 *openOrder* Error 12-16 18:00:1.206 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 22:32:29 EST: 12-17 9:32:29.125
+*openOrder* Error 12-17 9:32:40.393 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-17 9:33:46.146 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-17 9:33:46.164 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-17 9:33:46.165 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-17 9:33:46.166 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-17 9:33:53.445 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-17 9:33:53.449 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-17 9:33:53.464 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-17 9:33:53.472 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-17 9:34:22.975 orderId:241217045 errorCode:103 msg:Duplicate order id
+*openOrder* Error 12-17 9:40:53.434 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-12-17T11:00:03.091 Adder: ytd < -10% cannot trade:-0.257532281205165
+ADM 2024-12-17T11:01:07.681 Adder: ytd < -10% cannot trade:-0.257532281205165
+*openOrder* Error 12-17 14:16:26.336 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-17 14:16:28.447 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-17 14:24:14.030 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-17 14:24:15.151 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-17 14:30:24.585 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-17 14:30:25.412 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-17 14:30:57.651 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-17 14:30:58.485 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+ADM 2024-12-17T15:01:03.618 Adder: ytd < -10% cannot trade:-0.257532281205165
+ADM 2024-12-17T15:01:04.368 Adder: ytd < -10% cannot trade:-0.257532281205165
+ADM 2024-12-17T15:03:00.257 Adder: ytd < -10% cannot trade:-0.257532281205165
+ADM 2024-12-17T15:04:06.334 Adder: ytd < -10% cannot trade:-0.257532281205165
+*****START***** HKT: 4:26:13 EST: 12-17 15:26:13.867
+*openOrder* Error 12-17 15:26:18.548 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-17 15:33:18.577 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 12-17 18:00:0.420 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:48:33 EST: 12-18 8:48:33.687
+*openOrder* Error 12-18 8:48:43.673 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-18 8:50:45.025 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-18 8:50:45.046 orderId:60145 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.047 orderId:60165 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.048 orderId:60185 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.049 orderId:60150 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.049 orderId:60025 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.050 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.050 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.051 orderId:60020 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.051 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.052 orderId:60170 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.052 orderId:60175 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.053 orderId:60180 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.053 orderId:60155 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.054 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.055 orderId:60190 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.056 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:45.057 orderId:60200 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:50:48.577 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-18 8:50:48.579 orderId:60145 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.593 orderId:60165 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.599 orderId:60185 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.604 orderId:60150 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.610 orderId:60025 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.614 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.620 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.625 orderId:60020 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.630 orderId:60220 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.634 orderId:60170 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.638 orderId:60175 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.643 orderId:60180 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.648 orderId:60155 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.653 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.657 orderId:60190 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.663 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:50:48.669 orderId:60200 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:52:58.601 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-18 8:52:58.604 orderId:60185 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:52:58.605 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:52:58.606 orderId:60190 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:52:58.606 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:52:58.607 orderId:60200 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-18 8:53:0.743 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-18 8:53:0.745 orderId:60185 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:53:0.754 orderId:60195 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:53:0.762 orderId:60190 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:53:0.766 orderId:60205 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:53:0.774 orderId:60200 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-18 8:53:17.731 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-18 9:00:0.782 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-12-18T11:00:02.835 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:00:03.526 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:00:04.281 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:01:06.120 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:03:07.570 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:03:09.254 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:04:00.557 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T11:04:08.069 Adder: ytd < -10% cannot trade:-0.2612625538020086
+commission report issue tradekey:00012e17.6762bdf3.01 report:ID:00012e17.6762bdf3.01.01 commission:0.300753 curr:USD pnl:1.7976931348623157E308 yield:1.7976931348623157E308 yieldRedemption:0
+ADM 2024-12-18T14:00:01.461 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T14:00:01.978 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T14:00:04.905 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T14:01:05.163 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T14:02:04.287 Adder: ytd < -10% cannot trade:-0.2612625538020086
+*openOrder* Error 12-18 14:20:36.042 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-18 14:20:37.898 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-18 14:21:10.011 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-18 14:21:10.660 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+ADM 2024-12-18T15:00:00.775 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T15:02:02.305 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T15:03:02.823 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T15:04:00.013 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T15:04:00.765 Adder: ytd < -10% cannot trade:-0.2612625538020086
+ADM 2024-12-18T15:04:01.599 Adder: ytd < -10% cannot trade:-0.2612625538020086
+*openOrder* Error 12-18 18:00:1.023 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 21:24:34 EST: 12-19 8:24:34.545
+*openOrder* Error 12-19 8:24:43.427 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 12-19 8:24:43.440 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 12-19 8:24:43.451 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-19 8:24:43.452 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-19 8:24:45.159 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-19 8:30:42.215 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-19 8:32:45.205 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-12-19T13:01:01.937 Adder: ytd < -10% cannot trade:-0.2847919655667145
+ADM 2024-12-19T13:03:04.824 Adder: ytd < -10% cannot trade:-0.2847919655667145
+*openOrder* Error 12-19 14:32:4.997 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-19 14:32:6.975 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+ADM 2024-12-19T15:01:02.868 Adder: ytd < -10% cannot trade:-0.2847919655667145
+ADM 2024-12-19T15:03:02.525 Adder: ytd < -10% cannot trade:-0.2847919655667145
+ADM 2024-12-19T15:03:03.349 Adder: ytd < -10% cannot trade:-0.2847919655667145
+*****START***** HKT: 21:00:46 EST: 12-20 8:00:46.537
+*openOrder* Error 12-20 8:00:54.788 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-20 8:00:54.791 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-20 8:00:59.429 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-20 8:00:59.505 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:apachmds
+*openOrder* Error 12-20 8:00:59.509 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:apachmds
+*openOrder* Error 12-20 8:02:28.232 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*openOrder* Error 12-20 8:02:28.254 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-20 8:02:28.255 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server disconnect occurred.  Attempting reconnection...
+*openOrder* Error 12-20 8:02:31.237 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-20 8:02:31.239 orderId:60215 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-20 8:02:31.259 orderId:60210 errorCode:165 msg:Historical Market Data Service query message:HMDS server connection was successful.
+*openOrder* Error 12-20 8:06:59.533 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-20 8:09:31.286 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 12-20 14:18:1.292 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-20 14:18:5.638 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-20 14:25:49.526 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-20 14:25:50.159 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-20 18:00:0.261 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
