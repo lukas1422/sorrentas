@@ -537,3 +537,46 @@ commission report issue tradekey:00012e17.676d483d.01 report:ID:00012e17.676d483
 *openOrder* Error 12-26 14:29:39.501 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
 *openOrder* Error 12-26 14:29:42.940 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
 *openOrder* Error 12-26 18:00:0.608 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 20:03:11 EST: 12-27 7:03:11.008
+*openOrder* Error 12-27 7:03:16.430 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-27 7:03:16.434 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-27 7:03:18.043 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-27 7:09:12.567 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-27 7:10:18.285 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+commission report issue tradekey:0001051b.676ec8f0.01 report:ID:0001051b.676ec8f0.01.01 commission:0.228577 curr:USD pnl:1.7976931348623157E308 yield:1.7976931348623157E308 yieldRedemption:0
+*openOrder* Error 12-27 14:33:59.736 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-27 14:34:2.175 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*****START***** HKT: 22:18:49 EST: 12-30 9:18:49.779
+*openOrder* Error 12-30 9:18:54.956 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-30 9:24:5.706 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-30 9:26:55.004 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+ADM 2024-12-30T10:00:05.839 Adder: ytd < -10% cannot trade:-0.27431850789096135
+ADM 2024-12-30T11:01:03.274 Adder: ytd < -10% cannot trade:-0.27431850789096135
+ADM 2024-12-30T11:03:03.836 Adder: ytd < -10% cannot trade:-0.27431850789096135
+ADM 2024-12-30T11:03:05.337 Adder: ytd < -10% cannot trade:-0.27431850789096135
+*openOrder* Error 12-30 14:16:23.528 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-30 14:16:24.848 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm
+*openOrder* Error 12-30 18:00:0.380 orderId:-1 errorCode:502 msg:Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket Clients" is enabled and connection port is the same as "Socket Port" on the TWS "Edit->Global Configuration...->API->Settings" menu. Live Trading ports: TWS: 7496; IB Gateway: 4001. Simulated Trading ports for new installations of version 954.1 or newer: TWS: 7497; IB Gateway: 4002
+*****START***** HKT: 8:06:03 EST: 12-30 19:06:3.211
+MMM openorders does not contain order MMM 241230015 SELL 3@131.61
+MMM openorders does not contain order MMM 241230016 SELL 5@133.32
+MMM openorders does not contain order MMM 241230014 SELL 3@130.16
+*openOrder* Error 12-30 19:06:6.368 orderId:241230015 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 12-30 19:06:6.374 orderId:241230016 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 12-30 19:06:6.378 orderId:241230014 errorCode:202 msg:Order Canceled - reason:
+*openOrder* Error 12-30 19:06:10.021 orderId:-1 errorCode:2106 msg:HMDS data farm connection is OK:ushmds
+*openOrder* Error 12-30 19:06:15.967 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 12-30 19:06:16.563 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 12-30 19:06:17.064 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 12-30 19:06:17.566 orderId:-1 errorCode:2119 msg:Market data farm is connecting:usfarm
+*openOrder* Error 12-30 19:06:18.047 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:usfarm
+*openOrder* Error 12-30 19:07:18.102 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 12-30 19:07:50.653 orderId:-1 errorCode:1100 msg:Connectivity between IBKR and Trader Workstation has been lost.
+*openOrder* Error 12-30 19:07:51.162 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-30 19:07:51.187 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:usfarm
+*openOrder* Error 12-30 19:07:51.190 orderId:-1 errorCode:2105 msg:HMDS data farm connection is broken:ushmds
+*****START***** HKT: 21:54:24 EST: 12-31 8:54:24.985
+*openOrder* Error 12-31 9:00:24.109 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.apachmds
+*openOrder* Error 12-31 9:01:50.325 orderId:-1 errorCode:2107 msg:HMDS data farm connection is inactive but should be available upon demand.ushmds
+*openOrder* Error 12-31 14:23:0.930 orderId:-1 errorCode:2103 msg:Market data farm connection is broken:hfarm
+*openOrder* Error 12-31 14:23:2.974 orderId:-1 errorCode:2104 msg:Market data farm connection is OK:hfarm

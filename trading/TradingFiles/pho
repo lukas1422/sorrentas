@@ -6241,3 +6241,376 @@ p:66.99 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:298 refillP:68.97 costTgt:0.98
 12-26 18:38:10.252 66.99 2dP:99.0 1dP:98.0
 2d$:n:745 max:67.0 [12-26 15:47] min:65.9 [12-23 10:48] rng:1.7% 1Key:[12-23 9:30] last:[12-26 16:00]
 1d$:n:145 max:67.0 [12-26 15:47] min:66.4 [12-26 9:33] rng:0.9% 1Key:[12-26 9:30] last:[12-26 16:00]
+*******************************************
+*STARTS* 12-27 7:03:11.073
+updating pos: PHO 12-27 7:03:13.357 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+*Periodic Run* 12-27 7:03:31.381 7:03:31 no live feed
+12-27 7:03:31.382 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-27 7:03:54.361 rng:1.1% costTgt:0.98
+12-27 7:03:54.362 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:10.56%
+*Periodic Run* 12-27 8:03:31.485 8:03:31 no live feed
+12-27 8:03:31.486 0.0 2dP:90.0 1dP:100.0
+2d$:n:600 max:67.0 [12-26 15:47] min:66.2 [12-24 9:47] rng:1.2% 1Key:[12-24 9:30] last:[12-26 15:59]
+1d$:n<5
+*Periodic Run* 12-27 9:03:31.432 9:03:31 no live feed
+12-27 9:03:31.433 0.0 2dP:90.0 1dP:100.0
+2d$:n:600 max:67.0 [12-26 15:47] min:66.2 [12-24 9:47] rng:1.2% 1Key:[12-24 9:30] last:[12-26 15:59]
+1d$:n<5
+*Periodic Run* 12-27 10:03:31.575 last live feed time: 12-27 10:03 been:0min p:66.75 cost:70.7 p/cost:0.944
+p:66.75 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:299 refillP:68.97 costTgt:0.98 refillP/cost:0.975 refillP/px:1.033
+12-27 10:03:31.576 66.75 2dP:66.0 1dP:28.0
+2d$:n:611 max:67.0 [12-26 15:47] min:66.2 [12-24 9:47] rng:1.2% 1Key:[12-24 9:30] last:[12-27 10:03]
+1d$:n:11 max:66.9 [12-27 10:00] min:66.7 [12-27 9:34] rng:0.3% 1Key:[12-27 9:30] last:[12-27 10:03]
+*Periodic Run* 12-27 11:03:31.446 last live feed time: 12-27 11:01 been:1min p:66.52 cost:70.7 p/cost:0.941
+p:66.52 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:300 refillP:68.97 costTgt:0.98 refillP/cost:0.975 refillP/px:1.037
+12-27 11:03:31.447 66.52 2dP:36.0 1dP:1.0
+2d$:n:620 max:67.0 [12-26 15:47] min:66.2 [12-24 9:47] rng:1.2% 1Key:[12-24 9:30] last:[12-27 11:01]
+1d$:n:20 max:66.9 [12-27 10:00] min:66.5 [12-27 10:31] rng:0.6% 1Key:[12-27 9:30] last:[12-27 11:01]
+11:35:22.806283 no blocking orders,empty
+*REFILL*@66.43 12-27 11:35:22 delta:2k 1dp:0.0 2dp:17.0 cost:70.7 px/cost:0.9394 refillPx:68.97 avgRng:0.0111
+not enough cash to trade. BALANCE:8893.07 pending already:[241227003=0.0, 241227006=6655.77] delta trying to add:6631.0
+*Periodic Run* 12-27 12:03:31.429 last live feed time: 12-27 11:48 been:15min p:66.35 cost:70.7 p/cost:0.938
+p:66.35 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:301 refillP:68.97 costTgt:0.98 refillP/cost:0.975 refillP/px:1.04
+12-27 12:03:31.430 *chek orderStatus [241227010=Created]
+12-27 12:03:31.430 66.35 2dP:15.0 1dP:0.0
+2d$:n:626 max:67.0 [12-26 15:47] min:66.2 [12-24 9:47] rng:1.2% 1Key:[12-24 9:30] last:[12-27 11:48]
+1d$:n:26 max:66.9 [12-27 10:00] min:66.4 [12-27 11:48] rng:0.7% 1Key:[12-27 9:30] last:[12-27 11:48]
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:17:40.419 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:19:09.571 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:21:01.912 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:21:02.667 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:31:45.409 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:33:22.134 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:36:17.612 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:37:43.904 no blocking orders 
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T12:59:00.736 no blocking orders 
+*Periodic Run* 12-27 13:03:31.285 last live feed time: 12-27 13:00 been:2min p:66.13 cost:70.7 p/cost:0.935
+p:66.13 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:302 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.043
+12-27 13:03:31.286 *chek orderStatus [241227010=Created]
+12-27 13:03:31.287 66.13 2dP:10.0 1dP:12.0
+2d$:n:635 max:67.0 [12-26 15:47] min:66.0 [12-27 12:21] rng:1.5% 1Key:[12-24 9:30] last:[12-27 13:00]
+1d$:n:35 max:66.9 [12-27 10:00] min:66.0 [12-27 12:21] rng:1.3% 1Key:[12-27 9:30] last:[12-27 13:00]
+no blocking buy orders: All submitted orders {241227010=PHO 12-27 11:35 ADDER Created}
+no blocking buy orders: Active orders: [241227010=PHO 12-27 11:35 ADDER Created]
+active orders grouped by buysell: {BUY=[241227010]}
+2024-12-27T13:37:29.114 no blocking orders 
+*Periodic Run* 12-27 14:03:31.554 last live feed time: 12-27 14:03 been:0min p:66.29 cost:70.7 p/cost:0.937
+p:66.29 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:301 refillP:68.97 costTgt:0.98 refillP/cost:0.975 refillP/px:1.041
+12-27 14:03:31.555 *chek orderStatus [241227010=Created]
+12-27 14:03:31.556 66.29 2dP:26.0 1dP:30.0
+2d$:n:646 max:67.0 [12-26 15:47] min:66.0 [12-27 12:21] rng:1.5% 1Key:[12-24 9:30] last:[12-27 14:03]
+1d$:n:46 max:66.9 [12-27 10:00] min:66.0 [12-27 12:21] rng:1.3% 1Key:[12-27 9:30] last:[12-27 14:03]
+*Periodic Run* 12-27 15:03:31.419 last live feed time: 12-27 15:00 been:2min p:66.52 cost:70.7 p/cost:0.941
+p:66.52 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:300 refillP:68.97 costTgt:0.98 refillP/cost:0.975 refillP/px:1.037
+12-27 15:03:31.420 *chek orderStatus [241227010=Created]
+12-27 15:03:31.421 66.52 2dP:50.0 1dP:57.0
+2d$:n:649 max:67.0 [12-26 15:47] min:66.0 [12-27 12:21] rng:1.5% 1Key:[12-24 9:30] last:[12-27 15:00]
+1d$:n:49 max:66.9 [12-27 10:00] min:66.0 [12-27 12:21] rng:1.3% 1Key:[12-27 9:30] last:[12-27 15:00]
+*Periodic Run* 12-27 16:03:31.530 last live feed time: 12-27 16:00 been:3min p:66.28 cost:70.7 p/cost:0.937
+p:66.28 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:301 refillP:68.97 costTgt:0.98 refillP/cost:0.975 refillP/px:1.041
+12-27 16:03:31.531 *chek orderStatus [241227010=Created]
+12-27 16:03:31.532 66.28 2dP:25.0 1dP:29.0
+2d$:n:660 max:67.0 [12-26 15:47] min:66.0 [12-27 12:21] rng:1.5% 1Key:[12-24 9:30] last:[12-27 16:00]
+1d$:n:60 max:66.9 [12-27 10:00] min:66.0 [12-27 12:21] rng:1.3% 1Key:[12-27 9:30] last:[12-27 16:00]
+*******************************************
+*STARTS* 12-30 9:18:49.827
+updating pos: PHO 12-30 9:18:52.080 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+*Periodic Run* 12-30 9:19:10.139 9:19:10 no live feed
+12-30 9:19:10.141 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-30 9:19:48.065 rng:1.1% costTgt:0.98
+12-30 9:19:48.067 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:9.39%
+09:41:50.647669 no blocking orders,empty
+*REFILL*@65.37 12-30 9:41:50 delta:2k 1dp:0.0 2dp:0.0 cost:70.7 px/cost:0.9244 refillPx:68.98 avgRng:0.0111
+not enough cash to trade. BALANCE:2239.02 pending already:[] delta trying to add:6585.2
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:41:52.148 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:43:19.578 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:43:20.328 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:44:21.491 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:44:55.857 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:45:49.249 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:48:24.806 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:48:43.156 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:54:51.679 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T09:59:16.025 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:01:41.008 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:02:29.279 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:03:52.137 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:04:13.916 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:07:15.334 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:07:36.613 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:09:56.734 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:14:43.864 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:14:53.377 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:15:55.961 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:15:56.461 no blocking orders 
+*Periodic Run* 12-30 10:19:10.029 last live feed time: 12-30 10:18 been:0min p:65.34 cost:70.7 p/cost:0.924
+p:65.34 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:306 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.056
+12-30 10:19:10.030 *chek orderStatus [241230013=Created]
+12-30 10:19:10.030 65.34 2dP:1.0 1dP:4.0
+2d$:n:804 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 10:18]
+1d$:n:24 max:65.7 [12-30 9:30] min:65.3 [12-30 10:18] rng:0.6% 1Key:[12-30 9:30] last:[12-30 10:18]
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:27:24.095 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:28:12.893 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:48:52.319 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:49:30.114 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:50:27.690 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:50:28.189 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:50:59.230 no blocking orders 
+no blocking buy orders: All submitted orders {241230013=PHO 12-30 9:41 ADDER Created}
+no blocking buy orders: Active orders: [241230013=PHO 12-30 9:41 ADDER Created]
+active orders grouped by buysell: {BUY=[241230013]}
+2024-12-30T10:53:06.748 no blocking orders 
+*Periodic Run* 12-30 11:19:9.977 last live feed time: 12-30 11:19 been:0min p:65.62 cost:70.7 p/cost:0.928
+p:65.62 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:304 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.051
+12-30 11:19:9.978 *chek orderStatus [241230013=Created]
+12-30 11:19:9.978 65.62 2dP:19.0 1dP:70.0
+2d$:n:817 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 11:19]
+1d$:n:37 max:65.8 [12-30 9:30] min:65.3 [12-30 10:18] rng:0.7% 1Key:[12-30 9:30] last:[12-30 11:19]
+*Periodic Run* 12-30 12:19:10.066 last live feed time: 12-30 12:16 been:2min p:65.84 cost:70.7 p/cost:0.931
+p:65.84 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.048
+12-30 12:19:10.067 *chek orderStatus [241230013=Created]
+12-30 12:19:10.067 65.84 2dP:32.0 1dP:96.0
+2d$:n:837 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 12:16]
+1d$:n:57 max:65.9 [12-30 12:08] min:65.3 [12-30 10:18] rng:0.9% 1Key:[12-30 9:30] last:[12-30 12:16]
+*Periodic Run* 12-30 13:19:9.814 last live feed time: 12-30 13:12 been:6min p:65.99 cost:70.7 p/cost:0.933
+p:65.99 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.045
+12-30 13:19:9.814 *chek orderStatus [241230013=Created]
+12-30 13:19:9.814 65.99 2dP:40.0 1dP:100.0
+2d$:n:849 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 13:12]
+1d$:n:69 max:66.0 [12-30 13:12] min:65.3 [12-30 10:18] rng:1.0% 1Key:[12-30 9:30] last:[12-30 13:12]
+*Periodic Run* 12-30 14:19:9.928 last live feed time: 12-30 14:16 been:2min p:65.92 cost:70.7 p/cost:0.932
+p:65.92 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.046
+12-30 14:19:9.928 *chek orderStatus [241230013=Created]
+12-30 14:19:9.928 65.92 2dP:36.0 1dP:87.0
+2d$:n:870 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 14:16]
+1d$:n:90 max:66.0 [12-30 14:02] min:65.3 [12-30 10:18] rng:1.1% 1Key:[12-30 9:30] last:[12-30 14:16]
+*Periodic Run* 12-30 15:19:10.055 last live feed time: 12-30 15:18 been:0min p:66.01 cost:70.7 p/cost:0.933
+p:66.01 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:302 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.045
+12-30 15:19:10.055 *chek orderStatus [241230013=Created]
+12-30 15:19:10.055 66.01 2dP:42.0 1dP:98.0
+2d$:n:890 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 15:18]
+1d$:n:110 max:66.0 [12-30 14:02] min:65.3 [12-30 10:18] rng:1.1% 1Key:[12-30 9:30] last:[12-30 15:18]
+*Periodic Run* 12-30 16:19:10.055 last live feed time: 12-30 16:00 been:19min p:65.88 cost:70.7 p/cost:0.932
+p:65.88 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.047
+12-30 16:19:10.056 *chek orderStatus [241230013=Created]
+12-30 16:19:10.056 65.88 2dP:34.0 1dP:79.0
+2d$:n:911 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 16:00]
+1d$:n:131 max:66.0 [12-30 15:26] min:65.3 [12-30 10:18] rng:1.1% 1Key:[12-30 9:30] last:[12-30 16:00]
+*Periodic Run* 12-30 17:19:9.957 last live feed time: 12-30 16:00 been:79min p:65.88 cost:70.7 p/cost:0.932
+p:65.88 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.047
+12-30 17:19:9.958 *chek orderStatus [241230013=Created]
+12-30 17:19:9.958 65.88 2dP:34.0 1dP:79.0
+2d$:n:911 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 16:00]
+1d$:n:131 max:66.0 [12-30 15:26] min:65.3 [12-30 10:18] rng:1.1% 1Key:[12-30 9:30] last:[12-30 16:00]
+*Periodic Run* 12-30 18:19:10.057 last live feed time: 12-30 16:00 been:139min p:65.88 cost:70.7 p/cost:0.932
+p:65.88 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.047
+12-30 18:19:10.058 *chek orderStatus [241230013=Created]
+12-30 18:19:10.058 65.88 2dP:34.0 1dP:79.0
+2d$:n:911 max:67.0 [12-26 15:47] min:65.3 [12-30 10:18] rng:2.6% 1Key:[12-26 9:30] last:[12-30 16:00]
+1d$:n:131 max:66.0 [12-30 15:26] min:65.3 [12-30 10:18] rng:1.1% 1Key:[12-30 9:30] last:[12-30 16:00]
+*******************************************
+*STARTS* 12-30 19:06:3.254
+updating pos: PHO 12-30 19:06:5.634 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+12-30 19:06:14.868 rng:1.1% costTgt:0.98
+12-30 19:06:14.869 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:8.73%
+*Periodic Run* 12-30 19:06:23.695 last live feed time: 12-30 19:06 been:0min p:65.88 cost:70.7 p/cost:0.932
+p:65.88 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.047
+12-30 19:06:23.696 65.88 2dP:36.0 1dP:79.0
+2d$:n:781 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-30 19:06]
+1d$:n:391 max:66.0 [12-30 15:26] min:65.3 [12-30 10:18] rng:1.2% 1Key:[12-30 9:30] last:[12-30 19:06]
+*******************************************
+*STARTS* 12-31 8:54:25.080
+updating pos: PHO 12-31 8:54:27.382 pos:35 cost:70.72
+POS:35 COST:70.7 DELT:2k
+*Periodic Run* 12-31 8:54:45.446 8:54:45 no live feed
+12-31 8:54:45.447 0.0 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+12-31 8:55:12.219 rng:1.1% costTgt:0.98
+12-31 8:55:12.220 tgtMargin:1.01 tgtPrice:71.43
+ytdReturn:8.73%
+*Periodic Run* 12-31 9:54:45.277 last live feed time: 12-31 9:52 been:1min p:66.09 cost:70.7 p/cost:0.935
+p:66.09 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:302 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.044
+12-31 9:54:45.278 66.09 2dP:49.0 1dP:100.0
+2d$:n:786 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 9:52]
+1d$:n:6 max:66.1 [12-31 9:45] min:66.0 [12-31 9:43] rng:0.0% 1Key:[12-31 9:30] last:[12-31 9:52]
+*Periodic Run* 12-31 10:54:45.173 last live feed time: 12-31 10:51 been:2min p:66.12 cost:70.7 p/cost:0.935
+p:66.12 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:302 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.043
+12-31 10:54:45.175 66.12 2dP:51.0 1dP:57.0
+2d$:n:802 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 10:51]
+1d$:n:22 max:66.2 [12-31 10:01] min:66.0 [12-31 9:43] rng:0.3% 1Key:[12-31 9:30] last:[12-31 10:51]
+*Periodic Run* 12-31 11:54:45.226 last live feed time: 12-31 11:51 been:2min p:65.86 cost:70.7 p/cost:0.931
+p:65.86 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.047
+12-31 11:54:45.227 65.86 2dP:35.0 1dP:1.0
+2d$:n:822 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 11:51]
+1d$:n:42 max:66.2 [12-31 10:01] min:65.9 [12-31 11:33] rng:0.5% 1Key:[12-31 9:30] last:[12-31 11:51]
+12:34:12.587853 no blocking orders,empty
+*REFILL*@65.67 12-31 12:34:12 delta:2k 1dp:0.0 2dp:19.0 cost:70.7 px/cost:0.9286 refillPx:68.98 avgRng:0.0111
+not enough cash to trade. BALANCE:2239.02 pending already:[] delta trying to add:6617.52
+*Periodic Run* 12-31 12:54:45.299 last live feed time: 12-31 12:50 been:3min p:65.65 cost:70.7 p/cost:0.928
+p:65.65 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:304 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.051
+12-31 12:54:45.300 *chek orderStatus [241231015=Created]
+12-31 12:54:45.300 65.65 2dP:22.0 1dP:0.0
+2d$:n:836 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 12:50]
+1d$:n:56 max:66.2 [12-31 10:01] min:65.7 [12-31 12:33] rng:0.8% 1Key:[12-31 9:30] last:[12-31 12:50]
+no blocking buy orders: All submitted orders {241231015=PHO 12-31 12:34 ADDER Created}
+no blocking buy orders: Active orders: [241231015=PHO 12-31 12:34 ADDER Created]
+active orders grouped by buysell: {BUY=[241231015]}
+2024-12-31T13:38:43.231 no blocking orders 
+*Periodic Run* 12-31 13:54:45.297 last live feed time: 12-31 13:40 been:13min p:65.78 cost:70.7 p/cost:0.93
+p:65.78 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:304 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.049
+12-31 13:54:45.297 *chek orderStatus [241231015=Created]
+12-31 13:54:45.298 65.78 2dP:30.0 1dP:24.0
+2d$:n:846 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 13:40]
+1d$:n:66 max:66.2 [12-31 10:01] min:65.6 [12-31 12:33] rng:0.9% 1Key:[12-31 9:30] last:[12-31 13:40]
+*Periodic Run* 12-31 14:54:45.353 last live feed time: 12-31 14:43 been:11min p:65.66 cost:70.7 p/cost:0.928
+p:65.66 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:304 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.051
+12-31 14:54:45.354 *chek orderStatus [241231015=Created]
+12-31 14:54:45.355 65.66 2dP:23.0 1dP:4.0
+2d$:n:855 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 14:43]
+1d$:n:75 max:66.2 [12-31 10:01] min:65.6 [12-31 12:33] rng:0.9% 1Key:[12-31 9:30] last:[12-31 14:43]
+*Periodic Run* 12-31 15:54:45.241 last live feed time: 12-31 15:54 been:0min p:65.8 cost:70.7 p/cost:0.93
+p:65.8 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.048
+12-31 15:54:45.243 *chek orderStatus [241231015=Created]
+12-31 15:54:45.243 65.8 2dP:31.0 1dP:28.0
+2d$:n:869 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 15:54]
+1d$:n:89 max:66.2 [12-31 10:01] min:65.6 [12-31 12:33] rng:0.9% 1Key:[12-31 9:30] last:[12-31 15:54]
+*Periodic Run* 12-31 16:54:45.323 last live feed time: 12-31 16:00 been:54min p:65.79 cost:70.7 p/cost:0.93
+p:65.79 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.048
+12-31 16:54:45.324 *chek orderStatus [241231015=Created]
+12-31 16:54:45.325 65.79 2dP:31.0 1dP:26.0
+2d$:n:872 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 16:00]
+1d$:n:92 max:66.2 [12-31 10:01] min:65.6 [12-31 12:33] rng:0.9% 1Key:[12-31 9:30] last:[12-31 16:00]
+*Periodic Run* 12-31 17:54:45.388 last live feed time: 12-31 16:00 been:114min p:65.79 cost:70.7 p/cost:0.93
+p:65.79 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.048
+12-31 17:54:45.388 *chek orderStatus [241231015=Created]
+12-31 17:54:45.389 65.79 2dP:31.0 1dP:26.0
+2d$:n:872 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 16:00]
+1d$:n:92 max:66.2 [12-31 10:01] min:65.6 [12-31 12:33] rng:0.9% 1Key:[12-31 9:30] last:[12-31 16:00]
+*Periodic Run* 12-31 18:54:45.330 last live feed time: 12-31 16:00 been:174min p:65.79 cost:70.7 p/cost:0.93
+p:65.79 rng:1.1% pos:35 delt:2k cost:70.7 fullLot:303 refillP:68.98 costTgt:0.98 refillP/cost:0.975 refillP/px:1.048
+12-31 18:54:45.332 *chek orderStatus [241231015=Created]
+12-31 18:54:45.332 65.79 2dP:31.0 1dP:26.0
+2d$:n:872 max:66.9 [12-27 10:00] min:65.3 [12-30 10:18] rng:2.5% 1Key:[12-27 9:30] last:[12-31 16:00]
+1d$:n:92 max:66.2 [12-31 10:01] min:65.6 [12-31 12:33] rng:0.9% 1Key:[12-31 9:30] last:[12-31 16:00]
