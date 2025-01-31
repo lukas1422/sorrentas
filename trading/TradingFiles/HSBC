@@ -14011,3 +14011,105 @@ p:52.67 rng:1.0% pos:58 delt:3k cost:51.6 fullLot:379 refillP:50.27 costTgt:0.98
 1-30 18:30:58.177 52.67 2dP:70.0 1dP:38.0
 2d$:n:679 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-30 16:00]
 1d$:n:289 max:53.0 [1-30 14:42] min:52.5 [1-30 15:44] rng:0.9% 1Key:[1-30 9:30] last:[1-30 16:00]
+*******************************************
+*STARTS* 1-31 9:23:0.296
+updating pos: HSBC 1-31 9:23:2.597 pos:58 cost:51.62
+POS:58 COST:51.6 DELT:3k
+*Periodic Run* 1-31 9:23:20.573 last live feed time: 1-31 9:23 been:0min p:52.86 cost:51.6 p/cost:1.024
+p:52.86 rng:0.0% pos:58 delt:3k cost:51.6 fullLot:378 refillP:50.27 costTgt:0.98 refillP/cost:0.974 refillP/px:0.951
+1-31 9:23:20.575 52.86 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+1-31 9:23:28.072 rng:1.0% costTgt:0.98
+1-31 9:23:28.073 tgtMargin:1.01 tgtPrice:52.14
+ytdReturn:6.49%
+******************CUT**************************
+CUT 1-31 9:30:00 1dP:100.0 2dp:89.0 px52.86 cost:51.62253795 px/Cost:1.024 reqMargin:1.01 rng:0.0099
+0:250131009 HSBC SELL 19 @52.99 9:30
+0: SELL HSBC 1-31 9:30 CUTTER Created target margin:1.01 cost*target margin:52.14 askPx:52.88
+1:250131010 HSBC SELL 19 @53.41 9:30
+1: SELL HSBC 1-31 9:30 CUTTER Created target margin:1.01 cost*target margin:52.14 askPx:52.88
+2:250131011 HSBC SELL 20 @53.94 9:30
+2: SELL HSBC 1-31 9:30 CUTTER Created target margin:1.01 cost*target margin:52.14 askPx:52.88
+2D$:n:783 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 9:30]
+1D$:n<5
+1-31 9:30:4.081 *openOrder* status:PreSubmitted 250131010 SELL 19@53.41
+1-31 9:30:4.082 *openOrder* all live orders [250131010 SELL 19@53.41]
+1-31 9:30:4.083 *OrderStatus*:PreSubmitted orderId:250131010 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+1-31 9:30:4.083 *openOrder* status:PreSubmitted 250131011 SELL 20@53.94
+1-31 9:30:4.084 *openOrder* all live orders [250131010 SELL 19@53.41, 250131011 SELL 20@53.94]
+1-31 9:30:4.084 *OrderStatus*:PreSubmitted orderId:250131011 filled:0 remaining:20 avgFillPx:0.0 lastFillPx:0.0
+1-31 9:30:4.683 *openOrder* status:Submitted 250131009 SELL 19@52.99
+1-31 9:30:4.684 *openOrder* all live orders [250131009 SELL 19@52.99, 250131010 SELL 19@53.41, 250131011 SELL 20@53.94]
+1-31 9:30:4.685 *OrderStatus*:Submitted orderId:250131009 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+1-31 9:30:4.689 *openOrder* status:Submitted 250131010 SELL 19@53.41
+1-31 9:30:4.690 *openOrder* all live orders [250131009 SELL 19@52.99, 250131010 SELL 19@53.41, 250131011 SELL 20@53.94]
+1-31 9:30:4.691 *OrderStatus*:Submitted orderId:250131010 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+1-31 9:30:4.694 *openOrder* status:Submitted 250131011 SELL 20@53.94
+1-31 9:30:4.694 *openOrder* all live orders [250131009 SELL 19@52.99, 250131010 SELL 19@53.41, 250131011 SELL 20@53.94]
+1-31 9:30:4.695 *OrderStatus*:Submitted orderId:250131011 filled:0 remaining:20 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 1-31 10:23:20.601 last live feed time: 1-31 10:23 been:0min p:52.8 cost:51.6 p/cost:1.023
+p:52.8 rng:1.0% pos:58 delt:3k cost:51.6 fullLot:378 refillP:50.27 costTgt:0.98 refillP/cost:0.974 refillP/px:0.952
+1-31 10:23:20.602 *chek orderStatus [250131009=Submitted, 250131010=Submitted, 250131011=Submitted]
+1-31 10:23:20.603 *chek openOrders*: [250131009, 250131010, 250131011]
+1-31 10:23:20.603 52.8 2dP:83.0 1dP:55.0
+2d$:n:828 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 10:23]
+1d$:n:48 max:52.9 [1-31 9:31] min:52.7 [1-31 10:06] rng:0.3% 1Key:[1-31 9:23] last:[1-31 10:23]
+*Periodic Run* 1-31 11:23:20.431 last live feed time: 1-31 11:21 been:1min p:52.9 cost:51.6 p/cost:1.025
+p:52.9 rng:1.0% pos:58 delt:3k cost:51.6 fullLot:378 refillP:50.27 costTgt:0.98 refillP/cost:0.974 refillP/px:0.95
+1-31 11:23:20.432 *chek orderStatus [250131009=Submitted, 250131010=Submitted, 250131011=Submitted]
+1-31 11:23:20.432 *chek openOrders*: [250131009, 250131010, 250131011]
+1-31 11:23:20.432 52.9 2dP:92.0 1dP:100.0
+2d$:n:878 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 11:21]
+1d$:n:98 max:52.9 [1-31 11:21] min:52.7 [1-31 10:06] rng:0.3% 1Key:[1-31 9:23] last:[1-31 11:21]
+updating pos: HSBC 1-31 12:21:26.889 pos:39 cost:51.62
+1-31 12:21:26.905 *OrderStatus*:Filled orderId:250131009 filled:19 remaining:0 avgFillPx:52.99 lastFillPx:52.99
+1-31 12:21:26.906 *OrderStatus*:Filled deleting finished orders from openOrderMap {250131009=250131009 SELL 19@52.99, 250131010=250131010 SELL 19@53.41, 250131011=250131011 SELL 20@53.94}
+*OrderStatus* remaining openOrders: {250131010=250131010 SELL 19@53.41, 250131011=250131011 SELL 20@53.94}
+*OrderStatus* print ALL openOrders: {ABT={}, ADM={}, AWK={}, BRK B={}, CL={}, GLD={}, HON={}, HSBC={250131010=250131010 SELL 19@53.41, 250131011=250131011 SELL 20@53.94}, IP={250132750=250132750 SELL 51@58.74, 250132751=250132751 SELL 52@59.49}, IWM={250131006=250131006 SELL 6@231.18, 250131007=250131007 SELL 8@233.59}, JNJ={}, KMB={}, KO={}, MCD={}, MMM={}, MRK={}, PG={}, PHO={}, SLV={250131003=250131003 SELL 12@28.86, 250131004=250131004 SELL 24@29.09}, SPY={}, UL={}, UNP={}}
+1-31 12:21:26.909 *OrderStatus*:Filled orderId:250131009 filled:19 remaining:0 avgFillPx:52.99 lastFillPx:52.99
+updating pos: HSBC 1-31 12:21:26.911 pos:39 cost:51.62
+updating pos: HSBC 1-31 12:21:26.912 pos:39 cost:51.62
+1-31 12:21:27.240 *tradeReport* time: 2025-01-31T12:21:26 SLD execPx:52.99 shares:19 avgPx:52.99
+*Periodic Run* 1-31 12:23:20.498 last live feed time: 1-31 12:23 been:0min p:52.99 cost:51.6 p/cost:1.026
+p:52.99 rng:1.0% pos:39 delt:2k cost:51.6 fullLot:377 refillP:50.38 costTgt:0.98 refillP/cost:0.976 refillP/px:0.951
+1-31 12:23:20.499 *chek orderStatus [250131009=Filled, 250131010=Submitted, 250131011=Submitted]
+1-31 12:23:20.499 *chek openOrders*: [250131010, 250131011]
+1-31 12:23:20.500 52.99 2dP:100.0 1dP:100.0
+2d$:n:927 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 12:23]
+1d$:n:147 max:53.0 [1-31 12:21] min:52.7 [1-31 10:06] rng:0.5% 1Key:[1-31 9:23] last:[1-31 12:23]
+updating pos: HSBC 1-31 12:25:30.623 pos:39 cost:51.62
+*Periodic Run* 1-31 13:23:20.452 last live feed time: 1-31 13:23 been:0min p:52.74 cost:51.6 p/cost:1.022
+p:52.74 rng:1.0% pos:39 delt:2k cost:51.6 fullLot:379 refillP:50.38 costTgt:0.98 refillP/cost:0.976 refillP/px:0.955
+1-31 13:23:20.452 *chek orderStatus [250131009=Filled, 250131010=Submitted, 250131011=Submitted]
+1-31 13:23:20.453 *chek openOrders*: [250131010, 250131011]
+1-31 13:23:20.453 52.74 2dP:76.0 1dP:9.0
+2d$:n:965 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 13:23]
+1d$:n:185 max:53.0 [1-31 12:21] min:52.7 [1-31 10:06] rng:0.5% 1Key:[1-31 9:23] last:[1-31 13:23]
+*Periodic Run* 1-31 14:23:20.531 last live feed time: 1-31 14:22 been:0min p:52.53 cost:51.6 p/cost:1.018
+p:52.53 rng:1.0% pos:39 delt:2k cost:51.6 fullLot:380 refillP:50.38 costTgt:0.98 refillP/cost:0.976 refillP/px:0.959
+1-31 14:23:20.532 *chek orderStatus [250131009=Filled, 250131010=Submitted, 250131011=Submitted]
+1-31 14:23:20.533 *chek openOrders*: [250131010, 250131011]
+1-31 14:23:20.533 52.53 2dP:56.0 1dP:2.0
+2d$:n:1019 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 14:22]
+1d$:n:239 max:53.0 [1-31 12:21] min:52.5 [1-31 14:21] rng:0.9% 1Key:[1-31 9:23] last:[1-31 14:22]
+*Periodic Run* 1-31 15:23:20.601 last live feed time: 1-31 15:23 been:0min p:52.47 cost:51.6 p/cost:1.016
+p:52.47 rng:1.0% pos:39 delt:2k cost:51.6 fullLot:381 refillP:50.38 costTgt:0.98 refillP/cost:0.976 refillP/px:0.96
+1-31 15:23:20.602 *chek orderStatus [250131009=Filled, 250131010=Submitted, 250131011=Submitted]
+1-31 15:23:20.603 *chek openOrders*: [250131010, 250131011]
+1-31 15:23:20.603 52.47 2dP:50.0 1dP:2.0
+2d$:n:1068 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 15:23]
+1d$:n:288 max:53.0 [1-31 12:21] min:52.5 [1-31 15:12] rng:1.0% 1Key:[1-31 9:23] last:[1-31 15:23]
+1-31 16:00:4.799 *openOrder* status:Submitted 250131011 SELL 20@53.94
+1-31 16:00:4.802 *openOrder* all live orders [250131010 SELL 19@53.41, 250131011 SELL 20@53.94]
+1-31 16:00:4.803 *OrderStatus*:Submitted orderId:250131011 filled:0 remaining:20 avgFillPx:0.0 lastFillPx:0.0
+1-31 16:00:4.803 *openOrder* status:Submitted 250131010 SELL 19@53.41
+1-31 16:00:4.804 *openOrder* all live orders [250131010 SELL 19@53.41, 250131011 SELL 20@53.94]
+1-31 16:00:4.804 *OrderStatus*:Submitted orderId:250131010 filled:0 remaining:19 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 1-31 16:23:20.603 last live feed time: 1-31 16:00 been:23min p:52.43 cost:51.6 p/cost:1.016
+p:52.43 rng:1.0% pos:39 delt:2k cost:51.6 fullLot:381 refillP:50.38 costTgt:0.98 refillP/cost:0.976 refillP/px:0.961
+1-31 16:23:20.604 *chek orderStatus [250131009=Filled, 250131010=Submitted, 250131011=Submitted]
+1-31 16:23:20.604 *chek openOrders*: [250131010, 250131011]
+1-31 16:23:20.605 52.43 2dP:46.0 1dP:0.0
+2d$:n:1100 max:53.0 [1-30 14:42] min:52.0 [1-29 9:30] rng:2.0% 1Key:[1-29 9:30] last:[1-31 16:00]
+1d$:n:320 max:53.0 [1-31 12:21] min:52.4 [1-31 15:59] rng:1.0% 1Key:[1-31 9:23] last:[1-31 16:00]

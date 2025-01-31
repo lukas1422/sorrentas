@@ -23266,3 +23266,539 @@ p:51.67 rng:2.2% pos:18 delt:1k cost:50.1 fullLot:387 refillP:48.92 costTgt:0.97
 1-30 18:30:58.160 51.67 2dP:76.0 1dP:45.0
 2d$:n:733 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-30 16:00]
 1d$:n:343 max:52.0 [1-30 10:08] min:51.4 [1-30 15:44] rng:1.1% 1Key:[1-30 9:30] last:[1-30 16:00]
+*******************************************
+*STARTS* 1-31 9:23:0.341
+updating pos: ADM 1-31 9:23:2.579 pos:18 cost:50.13
+POS:18 COST:50.1 DELT:1k
+1-31 9:23:15.831 rng:2.2% costTgt:0.978
+1-31 9:23:15.832 tgtMargin:1.0178 tgtPrice:51.03
+ytdReturn:2.28%
+*Periodic Run* 1-31 9:23:20.543 last live feed time: 1-31 9:23 been:0min p:51.56 cost:50.1 p/cost:1.028
+p:51.56 rng:2.2% pos:18 delt:1k cost:50.1 fullLot:387 refillP:48.91 costTgt:0.978 refillP/cost:0.976 refillP/px:0.949
+1-31 9:23:20.555 51.56 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+******************CUT**************************
+CUT 1-31 9:30:01 1dP:100.0 2dp:68.0 px51.44 cost:50.1325389 px/Cost:1.0261 reqMargin:1.0178 rng:0.0223
+0:250131013 ADM SELL 18 @51.63 9:30
+0: SELL ADM 1-31 9:30 CUTTER Created target margin:1.01782 cost*target margin:51.03 askPx:51.53
+2025-01-31T09:30:01.330461 remaining position <= 0, break
+2D$:n:782 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 9:30]
+1D$:n<5
+1-31 9:30:4.692 *openOrder* status:Submitted 250131013 SELL 18@51.63
+1-31 9:30:4.692 *openOrder* all live orders [250131013 SELL 18@51.63]
+1-31 9:30:4.693 *OrderStatus*:Submitted orderId:250131013 filled:0 remaining:18 avgFillPx:0.0 lastFillPx:0.0
+updating pos: ADM 1-31 9:34:36.143 pos:0 cost:0.0
+1-31 9:34:36.167 *tradeReport* time: 2025-01-31T09:34:36 SLD execPx:51.63 shares:18 avgPx:51.63
+1-31 9:34:36.257 *openOrder* status:Filled 250131013 SELL 18@51.63
+1-31 9:34:36.258 *openOrder*:removing order.Status:Filled 250131013 SELL 18@51.63
+1-31 9:34:36.258 *openOrder*:after removal.OpenOrders: []
+1-31 9:34:36.259 *OrderStatus*:Filled orderId:250131013 filled:18 remaining:0 avgFillPx:51.63 lastFillPx:51.63
+1-31 9:34:36.260 *openOrder* status:Filled 250131013 SELL 18@51.63
+1-31 9:34:36.260 *openOrder*:removing order.Status:Filled 250131013 SELL 18@51.63
+1-31 9:34:36.260 *openOrder*:after removal.OpenOrders: []
+1-31 9:34:36.261 *OrderStatus*:Filled orderId:250131013 filled:18 remaining:0 avgFillPx:51.63 lastFillPx:51.63
+computed Pnl:26.592588800000044
+1.*commission report*:250131013 commission:0.36 realized pnl:26.59 computed Pnl:26.59
+2.*commission report* orderID:250131013 commission: 0.36 realized pnl: 26.59
+updating pos: ADM 1-31 9:34:36.264 pos:0 cost:0.0
+updating pos: ADM 1-31 9:34:36.264 pos:0 cost:0.0
+updating pos: ADM 1-31 9:40:2.112 pos:0 cost:0.0
+updating pos: ADM 1-31 9:40:2.115 pos:0 cost:0.0
+*Periodic Run* 1-31 10:23:20.567 last live feed time: 1-31 10:23 been:0min p:51.56 
+1-31 10:23:20.569 *chek orderStatus [250131013=Filled]
+1-31 10:23:20.573 51.56 2dP:68.0 1dP:77.0
+2d$:n:835 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 10:23]
+1d$:n:55 max:51.7 [1-31 9:34] min:51.3 [1-31 9:55] rng:0.8% 1Key:[1-31 9:23] last:[1-31 10:23]
+*Periodic Run* 1-31 11:23:20.411 last live feed time: 1-31 11:23 been:0min p:51.52 
+1-31 11:23:20.412 *chek orderStatus [250131013=Filled]
+1-31 11:23:20.413 51.52 2dP:65.0 1dP:59.0
+2d$:n:894 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 11:23]
+1d$:n:114 max:51.7 [1-31 11:02] min:51.3 [1-31 9:55] rng:0.9% 1Key:[1-31 9:23] last:[1-31 11:23]
+*Periodic Run* 1-31 12:23:20.476 last live feed time: 1-31 12:22 been:0min p:51.46 
+1-31 12:23:20.477 *chek orderStatus [250131013=Filled]
+1-31 12:23:20.478 51.46 2dP:61.0 1dP:46.0
+2d$:n:947 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 12:22]
+1d$:n:167 max:51.7 [1-31 11:02] min:51.3 [1-31 9:55] rng:0.9% 1Key:[1-31 9:23] last:[1-31 12:22]
+*Periodic Run* 1-31 13:23:20.435 last live feed time: 1-31 13:23 been:0min p:51.3 
+1-31 13:23:20.435 *chek orderStatus [250131013=Filled]
+1-31 13:23:20.436 51.3 2dP:49.0 1dP:11.0
+2d$:n:1002 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 13:23]
+1d$:n:222 max:51.7 [1-31 11:02] min:51.3 [1-31 9:55] rng:0.9% 1Key:[1-31 9:23] last:[1-31 13:23]
+all orders finished {250131013=ADM 1-31 9:30 CUTTER Filled}
+*1Buy*@50.91 1-31 14:14:11 1dp:0.0 2dp:19.0
+cash remaining: 11603.36
+0:250143596 ADM BUY 130 @50.85 14:14 bid is:50.9
+14:14 0: ADM orderID:250143596 tradeID:250143596 BUY 130 @50.85 factor:0.999 ADM 1-31 14:14 ADDER Created
+not enough cash to trade. BALANCE:11603.36 pending already:[250131005=0.0, 250131009=0.0, 250131013=0.0, 250132749=0.0, 250143596=6610.5] delta trying to add:6498.7
+1-31 14:14:12.039 *openOrder* status:Submitted 250143596 BUY 130@50.85
+1-31 14:14:12.040 *openOrder* all live orders [250143596 BUY 130@50.85]
+1-31 14:14:12.041 *OrderStatus*:Submitted orderId:250143596 filled:0 remaining:130 avgFillPx:0.0 lastFillPx:0.0
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:15:30.149 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:15:34.648 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:16:15.791 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:16:16.520 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:18:02.486 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:18:30.616 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:18:57.154 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:19:00.754 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:19:12.223 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:19:12.925 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:19:19.935 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:19:30.704 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:20:25.853 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:21:34.667 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:21:35.487 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:21:47.901 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:22:12.940 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:22:25.569 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143596=ADM 1-31 14:14 ADDER Submitted, 250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143596, 250143597]}
+2025-01-31T14:22:26.278 no blocking orders 
+updating pos: ADM 1-31 14:22:53.708 pos:130 cost:50.85
+1-31 14:22:53.710 *tradeReport* time: 2025-01-31T14:22:53 BOT execPx:50.85 shares:130 avgPx:50.85
+1-31 14:22:53.714 *openOrder* status:Filled 250143596 BUY 130@50.85
+1-31 14:22:53.715 *openOrder*:removing order.Status:Filled 250143596 BUY 130@50.85
+1-31 14:22:53.715 *openOrder*:after removal.OpenOrders: []
+1-31 14:22:53.716 *OrderStatus*:Filled orderId:250143596 filled:130 remaining:0 avgFillPx:50.85 lastFillPx:50.85
+1-31 14:22:53.716 *openOrder* status:Filled 250143596 BUY 130@50.85
+1-31 14:22:53.716 *openOrder*:removing order.Status:Filled 250143596 BUY 130@50.85
+1-31 14:22:53.717 *openOrder*:after removal.OpenOrders: []
+1-31 14:22:53.717 *OrderStatus*:Filled orderId:250143596 filled:130 remaining:0 avgFillPx:50.85 lastFillPx:50.85
+1.*commission report*:250143596 commission:0.33 
+2.*commission report* orderID:250143596 commission: 0.33 
+updating pos: ADM 1-31 14:22:53.719 pos:130 cost:50.85
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:22:53.749 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:22:54.500 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:22:56.078 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:13.528 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:14.279 no blocking orders 
+*Periodic Run* 1-31 14:23:20.511 last live feed time: 1-31 14:23 been:0min p:50.87 cost:50.9 p/cost:1.0
+p:50.87 rng:2.2% pos:130 delt:7k cost:50.9 fullLot:393 refillP:48.97 costTgt:0.978 refillP/cost:0.963 refillP/px:0.963
+1-31 14:23:20.512 *chek orderStatus [250131013=Filled, 250143596=Filled, 250143597=Created]
+1-31 14:23:20.512 50.87 2dP:17.0 1dP:0.0
+2d$:n:1060 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 14:23]
+1d$:n:280 max:51.7 [1-31 11:02] min:50.9 [1-31 14:22] rng:1.6% 1Key:[1-31 9:23] last:[1-31 14:23]
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:29.564 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:30.384 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:33.149 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:47.386 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:23:52.083 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:24:00.695 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:24:05.918 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:24:32.956 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:24:49.235 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:24:57.677 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:25:10.535 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:25:16.453 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:25:21.212 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:25:32.974 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:25:40.848 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:26:09.290 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:26:20.231 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:26:35.735 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:27:08.409 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:27:10.143 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:27:44.270 no blocking orders 
+updating pos: ADM 1-31 14:27:47.973 pos:130 cost:50.85
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:28:03.870 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:28:06.696 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:28:22.707 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:29:04.998 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:29:05.717 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:29:37.923 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:30:00.704 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:30:03.779 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:30:59.545 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:01.227 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:08.251 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:28.160 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:28.978 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:30.148 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:30.901 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T14:31:32.255 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:02:49.152 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:03:07.175 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:09:15.305 no blocking orders 
+*Periodic Run* 1-31 15:23:20.578 last live feed time: 1-31 15:23 been:0min p:51.16 cost:50.9 p/cost:1.006
+p:51.16 rng:2.2% pos:130 delt:7k cost:50.9 fullLot:390 refillP:48.97 costTgt:0.978 refillP/cost:0.963 refillP/px:0.957
+1-31 15:23:20.579 *chek orderStatus [250131013=Filled, 250143596=Filled, 250143597=Created]
+1-31 15:23:20.580 51.16 2dP:38.0 1dP:36.0
+2d$:n:1119 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 15:23]
+1d$:n:339 max:51.7 [1-31 11:02] min:50.9 [1-31 14:22] rng:1.7% 1Key:[1-31 9:23] last:[1-31 15:23]
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:40:36.651 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:40:39.992 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:43:22.890 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:43:27.396 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:43:28.147 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:44:04.054 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:44:04.805 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:30.911 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:34.079 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:35.821 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:38.562 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:52.080 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:52.921 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:53.582 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:54.333 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:52:58.089 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:08.594 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:18.097 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:18.932 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:23.950 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:31.222 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:31.939 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:35.215 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:39.722 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:42.633 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:43.385 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:45.455 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:53:57.654 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:54:46.086 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:54:48.474 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:54:49.253 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:54:50.278 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:54:51.980 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:54:55.985 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:01.494 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:03.078 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:05.001 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:05.844 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:08.607 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:09.324 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:10.006 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:10.759 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:12.761 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:19.272 no blocking orders 
+no blocking buy orders: All submitted orders {250131013=ADM 1-31 9:30 CUTTER Filled, 250143596=ADM 1-31 14:14 ADDER Filled, 250143597=ADM 1-31 14:14 ADDER Created}
+no blocking buy orders: Active orders: [250143597=ADM 1-31 14:14 ADDER Created]
+active orders grouped by buysell: {BUY=[250143597]}
+2025-01-31T15:55:20.022 no blocking orders 
+*Periodic Run* 1-31 16:23:20.581 last live feed time: 1-31 16:00 been:23min p:51.23 cost:50.9 p/cost:1.007
+p:51.23 rng:2.2% pos:130 delt:7k cost:50.9 fullLot:390 refillP:48.97 costTgt:0.978 refillP/cost:0.963 refillP/px:0.956
+1-31 16:23:20.582 *chek orderStatus [250131013=Filled, 250143596=Filled, 250143597=Created]
+1-31 16:23:20.583 51.23 2dP:44.0 1dP:44.0
+2d$:n:1156 max:52.0 [1-29 15:41] min:50.6 [1-29 9:30] rng:2.7% 1Key:[1-29 9:30] last:[1-31 16:00]
+1d$:n:376 max:51.7 [1-31 11:02] min:50.9 [1-31 14:22] rng:1.7% 1Key:[1-31 9:23] last:[1-31 16:00]

@@ -39420,3 +39420,1409 @@ p:56.99 rng:1.8% pos:154 delt:9k cost:57.0 fullLot:350 refillP:54.89 costTgt:0.9
 1-30 18:30:58.179 56.99 2dP:53.0 1dP:76.0
 2d$:n:783 max:58.9 [1-29 9:37] min:54.8 [1-30 9:33] rng:7.5% 1Key:[1-29 9:30] last:[1-30 16:17]
 1d$:n:393 max:57.7 [1-30 12:01] min:54.8 [1-30 9:33] rng:5.3% 1Key:[1-30 9:30] last:[1-30 16:17]
+*******************************************
+*STARTS* 1-31 9:23:0.363
+updating pos: IP 1-31 9:23:2.610 pos:154 cost:57.03
+POS:154 COST:57.0 DELT:9k
+*Periodic Run* 1-31 9:23:20.576 last live feed time: 1-31 9:23 been:0min p:56.29 cost:57.0 p/cost:0.987
+p:56.29 rng:0.0% pos:154 delt:9k cost:57.0 fullLot:355 refillP:54.9 costTgt:0.98 refillP/cost:0.963 refillP/px:0.975
+1-31 9:23:20.578 56.29 2dP:101.0 1dP:101.0
+2d$:n<5
+1d$:n<5
+1-31 9:23:28.795 rng:1.9% costTgt:0.98
+1-31 9:23:28.796 tgtMargin:1.0156 tgtPrice:57.92
+ytdReturn:6.0%
+******************CUT**************************
+CUT 1-31 10:02:12 1dP:100.0 2dp:72.0 px57.95 cost:57.0306409 px/Cost:1.0161 reqMargin:1.0156 rng:0.0195
+0:250132749 IP SELL 51 @58.11 10:02
+0: SELL IP 1-31 10:02 CUTTER Created target margin:1.01556 cost*target margin:57.92 askPx:57.99
+1:250132750 IP SELL 51 @58.74 10:02
+1: SELL IP 1-31 10:02 CUTTER Created target margin:1.01556 cost*target margin:57.92 askPx:57.99
+2:250132751 IP SELL 52 @59.49 10:02
+2: SELL IP 1-31 10:02 CUTTER Created target margin:1.01556 cost*target margin:57.92 askPx:57.99
+2D$:n:819 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 10:02]
+1D$:n:39 max:57.7 [1-31 10:02] min:56.3 [1-31 9:30] rng:2.5% 1Key:[1-31 9:23] last:[1-31 10:02]
+1-31 10:02:15.340 *openOrder* status:Submitted 250132749 SELL 51@58.11
+1-31 10:02:15.341 *openOrder* all live orders [250132749 SELL 51@58.11]
+1-31 10:02:15.341 *OrderStatus*:Submitted orderId:250132749 filled:0 remaining:51 avgFillPx:0.0 lastFillPx:0.0
+1-31 10:02:15.342 *openOrder* status:Submitted 250132750 SELL 51@58.74
+1-31 10:02:15.343 *openOrder* all live orders [250132749 SELL 51@58.11, 250132750 SELL 51@58.74]
+1-31 10:02:15.344 *OrderStatus*:Submitted orderId:250132750 filled:0 remaining:51 avgFillPx:0.0 lastFillPx:0.0
+1-31 10:02:15.345 *openOrder* status:Submitted 250132751 SELL 52@59.49
+1-31 10:02:15.346 *openOrder* all live orders [250132749 SELL 51@58.11, 250132750 SELL 51@58.74, 250132751 SELL 52@59.49]
+1-31 10:02:15.347 *OrderStatus*:Submitted orderId:250132751 filled:0 remaining:52 avgFillPx:0.0 lastFillPx:0.0
+updating pos: IP 1-31 10:02:24.191 pos:103 cost:57.03
+1-31 10:02:24.194 *tradeReport* time: 2025-01-31T10:02:24 SLD execPx:58.11 shares:51 avgPx:58.11
+1-31 10:02:24.199 *openOrder* status:Filled 250132749 SELL 51@58.11
+1-31 10:02:24.200 *openOrder*:removing order.Status:Filled 250132749 SELL 51@58.11
+1-31 10:02:24.201 *openOrder*:after removal.OpenOrders: [250132750, 250132751]
+1-31 10:02:24.201 *openOrder* all live orders [250132750 SELL 51@58.74, 250132751 SELL 52@59.49]
+1-31 10:02:24.202 *OrderStatus*:Filled orderId:250132749 filled:51 remaining:0 avgFillPx:58.11 lastFillPx:58.11
+1-31 10:02:24.204 *openOrder* status:Filled 250132749 SELL 51@58.11
+1-31 10:02:24.205 *openOrder*:removing order.Status:Filled 250132749 SELL 51@58.11
+1-31 10:02:24.205 *openOrder*:after removal.OpenOrders: [250132750, 250132751]
+1-31 10:02:24.206 *openOrder* all live orders [250132750 SELL 51@58.74, 250132751 SELL 52@59.49]
+1-31 10:02:24.206 *OrderStatus*:Filled orderId:250132749 filled:51 remaining:0 avgFillPx:58.11 lastFillPx:58.11
+computed Pnl:54.65541709999989
+1.*commission report*:250132749 commission:0.39 realized pnl:54.66 computed Pnl:54.66
+2.*commission report* orderID:250132749 commission: 0.39 realized pnl: 54.66
+updating pos: IP 1-31 10:02:24.209 pos:103 cost:57.03
+updating pos: IP 1-31 10:02:24.210 pos:103 cost:57.03
+updating pos: IP 1-31 10:06:25.304 pos:103 cost:57.03
+*Periodic Run* 1-31 10:23:20.605 last live feed time: 1-31 10:23 been:0min p:57.63 cost:57.0 p/cost:1.011
+p:57.63 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:347 refillP:55.21 costTgt:0.98 refillP/cost:0.968 refillP/px:0.958
+1-31 10:23:20.606 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 10:23:20.608 *chek openOrders*: [250132750, 250132751]
+1-31 10:23:20.608 57.63 2dP:70.0 1dP:77.0
+2d$:n:840 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 10:23]
+1d$:n:60 max:58.0 [1-31 10:02] min:56.3 [1-31 9:30] rng:3.1% 1Key:[1-31 9:23] last:[1-31 10:23]
+*Periodic Run* 1-31 11:23:20.434 last live feed time: 1-31 11:23 been:0min p:56.73 cost:57.0 p/cost:0.995
+p:56.73 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:352 refillP:55.22 costTgt:0.98 refillP/cost:0.968 refillP/px:0.973
+1-31 11:23:20.435 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 11:23:20.435 *chek openOrders*: [250132750, 250132751]
+1-31 11:23:20.436 56.73 2dP:48.0 1dP:25.0
+2d$:n:900 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 11:23]
+1d$:n:120 max:58.1 [1-31 10:02] min:56.3 [1-31 9:30] rng:3.1% 1Key:[1-31 9:23] last:[1-31 11:23]
+*Periodic Run* 1-31 12:23:20.501 last live feed time: 1-31 12:23 been:0min p:56.31 cost:57.0 p/cost:0.987
+p:56.31 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:355 refillP:55.23 costTgt:0.98 refillP/cost:0.968 refillP/px:0.981
+1-31 12:23:20.502 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 12:23:20.503 *chek openOrders*: [250132750, 250132751]
+1-31 12:23:20.503 56.31 2dP:38.0 1dP:4.0
+2d$:n:960 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 12:23]
+1d$:n:180 max:58.1 [1-31 10:02] min:56.2 [1-31 9:30] rng:3.2% 1Key:[1-31 9:23] last:[1-31 12:23]
+*Periodic Run* 1-31 13:23:20.455 last live feed time: 1-31 13:23 been:0min p:56.09 cost:57.0 p/cost:0.984
+p:56.09 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:356 refillP:55.23 costTgt:0.98 refillP/cost:0.968 refillP/px:0.985
+1-31 13:23:20.456 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 13:23:20.456 *chek openOrders*: [250132750, 250132751]
+1-31 13:23:20.456 56.09 2dP:33.0 1dP:3.0
+2d$:n:1020 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 13:23]
+1d$:n:240 max:58.1 [1-31 10:02] min:56.0 [1-31 13:21] rng:3.6% 1Key:[1-31 9:23] last:[1-31 13:23]
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+*Periodic Run* 1-31 14:23:20.534 last live feed time: 1-31 14:23 been:0min p:55.72 cost:57.0 p/cost:0.977
+p:55.72 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:358 refillP:55.23 costTgt:0.98 refillP/cost:0.968 refillP/px:0.991
+1-31 14:23:20.535 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 14:23:20.535 *chek openOrders*: [250132750, 250132751]
+1-31 14:23:20.536 55.72 2dP:24.0 1dP:9.0
+2d$:n:1080 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 14:23]
+1d$:n:300 max:58.1 [1-31 10:02] min:55.5 [1-31 13:40] rng:4.6% 1Key:[1-31 9:23] last:[1-31 14:23]
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+*Periodic Run* 1-31 15:23:20.606 last live feed time: 1-31 15:23 been:0min p:55.65 cost:57.0 p/cost:0.976
+p:55.65 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:359 refillP:55.24 costTgt:0.98 refillP/cost:0.969 refillP/px:0.993
+1-31 15:23:20.606 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 15:23:20.607 *chek openOrders*: [250132750, 250132751]
+1-31 15:23:20.607 55.65 2dP:22.0 1dP:10.0
+2d$:n:1140 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 15:23]
+1d$:n:360 max:58.1 [1-31 10:02] min:55.4 [1-31 15:10] rng:4.8% 1Key:[1-31 9:23] last:[1-31 15:23]
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+no blocking buy orders: All submitted orders {250132749=IP 1-31 10:02 CUTTER Filled, 250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted}
+no blocking buy orders: Active orders: [250132750=IP 1-31 10:02 CUTTER Submitted, 250132751=IP 1-31 10:02 CUTTER Submitted]
+active orders grouped by buysell: {SELL=[250132750, 250132751]}
+1-31 16:01:14.298 *openOrder* status:Submitted 250132750 SELL 51@58.74
+1-31 16:01:14.298 *openOrder* all live orders [250132750 SELL 51@58.74, 250132751 SELL 52@59.49]
+1-31 16:01:14.299 *OrderStatus*:Submitted orderId:250132750 filled:0 remaining:51 avgFillPx:0.0 lastFillPx:0.0
+1-31 16:01:14.300 *openOrder* status:Submitted 250132751 SELL 52@59.49
+1-31 16:01:14.301 *openOrder* all live orders [250132750 SELL 51@58.74, 250132751 SELL 52@59.49]
+1-31 16:01:14.301 *OrderStatus*:Submitted orderId:250132751 filled:0 remaining:52 avgFillPx:0.0 lastFillPx:0.0
+*Periodic Run* 1-31 16:23:20.607 last live feed time: 1-31 16:22 been:0min p:55.25 cost:57.0 p/cost:0.969
+p:55.25 rng:1.9% pos:103 delt:6k cost:57.0 fullLot:361 refillP:55.24 costTgt:0.98 refillP/cost:0.969 refillP/px:1.0
+1-31 16:23:20.608 *chek orderStatus [250132749=Filled, 250132750=Submitted, 250132751=Submitted]
+1-31 16:23:20.608 *chek openOrders*: [250132750, 250132751]
+1-31 16:23:20.608 55.25 2dP:13.0 1dP:0.0
+2d$:n:1182 max:58.9 [1-29 9:37] min:54.7 [1-30 9:32] rng:7.7% 1Key:[1-29 9:30] last:[1-31 16:22]
+1d$:n:402 max:58.1 [1-31 10:02] min:55.3 [1-31 16:03] rng:5.0% 1Key:[1-31 9:23] last:[1-31 16:22]
